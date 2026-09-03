@@ -134,13 +134,13 @@ async function main() {
       let opt = '';
       if (actionParam) {
         opt = actionParam.trim();
-        if (opt !== '2.1' && opt !== '2,1') {
-          actionParam = null; // Chỉ giữ actionParam liên tục nếu là chế độ 2.1
+        if (opt.toLowerCase() !== 'auto' && opt !== '1') {
+          actionParam = null; // Chỉ giữ actionParam liên tục nếu là chế độ auto/1
         }
       } else {
         UI.printMenu(client.playerData);
         try {
-          const choice = await io.ask('-> Nhập lựa chọn [0..10 | 2.1]: ');
+          const choice = await io.ask('-> Nhập lựa chọn [0..8 | auto]: ');
           opt = choice.trim();
         } catch (e) {
           console.log('\n[-] Luồng nhập liệu kết thúc.');
@@ -148,52 +148,39 @@ async function main() {
         }
       }
 
-      switch (opt) {
+      switch (opt.toLowerCase()) {
         case '1':
-          await client.welfare.autoClaimAll();
-          await client.mail.autoClaimAndClean();
-          await client.sevenGoalService.claimAllSevenGoals();
-          await client.achievementService.claimAllAchievements();
-          break;
-        case '2':
-          console.log('\n======================================================');
-          console.log('[SẮP XẾP NỘI VỤ & XỬ LÝ CUNG VỤ (100% LIVE SYNC)]');
-          console.log('======================================================');
-          await client.trade.autoHarvestAll(false);
-          await client.affair.autoHandleAffairs(false);
-          console.log('\nHoàn tất Nội Vụ & Cung Vụ!\n======================================================');
-          break;
+        case 'auto':
         case '3.1':
         case '3,1':
           await client.trade.autoDailyLoopContinuous();
           break;
-        case '3':
-          await client.bagService.useAllGrowthItems();
-          await client.helper.readAllHelperLetters();
-          await client.helper.autoUpgradeAptitudes();
-          await client.helper.autoPromoteHelpers();
-          await client.helper.autoLevelUpHelpers();
-          await client.academy.autoStudy();
-          break;
+        case '2':
         case '4':
           await client.stage.autoBattleContinuous();
           break;
+        case '3':
         case '5':
           await client.palace.autoPalaceHi();
           await client.rankService.worshipAllRanks();
           break;
+        case '4':
         case '6':
           await client.harem.autoHaremContinuous();
           break;
+        case '5':
         case '7':
           await client.garden.autoGardenAll();
           break;
+        case '6':
         case '8':
           await client.manor.autoFarm();
           break;
+        case '7':
         case '9':
           await client.quest.autoClaimAll(true);
           break;
+        case '8':
         case '10':
           UI.printPlayerInfo(client.playerData, client);
           break;
@@ -203,7 +190,7 @@ async function main() {
           io.close();
           process.exit(0);
         default:
-          console.log('[!] Lựa chọn không hợp lệ. Vui lòng chọn lại [0..10].');
+          console.log('[!] Lựa chọn không hợp lệ. Vui lòng chọn lại [0..8 | auto].');
           break;
       }
     }
