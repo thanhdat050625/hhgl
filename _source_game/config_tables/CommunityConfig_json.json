@@ -1,0 +1,121 @@
+{
+  "colMap": [
+    "type",
+    "name",
+    "title",
+    "text",
+    "url",
+    "isOpen",
+    "iconRes"
+  ],
+  "list": {
+    "20001": [
+      2,
+      "Facebook",
+      "关注Facebook",
+      "点击前往官方粉丝专页，并为主页点赞，达成目标可获全服奖励",
+      "https://www.facebook.com/yanxi2020",
+      1,
+      "us_f5_cn"
+    ],
+    "30001": [
+      3,
+      "Facebook",
+      "關注Facebook",
+      "點擊前往官方粉絲團，[追蹤]並[點讚]官方Facebook，達成目標可獲全服獎勵",
+      "https://facebook.com/dream.txwy.tw",
+      1,
+      "us_f5_cn"
+    ],
+    "40001": [
+      4,
+      "Facebook",
+      "關注Facebook",
+      "點擊前往官方粉絲團，[追蹤]並[點讚]官方Facebook，達成目標可獲全服獎勵",
+      "https://facebook.com/dream.txwy.tw",
+      1,
+      "us_f5_cn"
+    ],
+    "50001": [
+      5,
+      "Facebook",
+      "Like Facebook",
+      "Đến Fanpage, Nhấn like lập tức nhận quà",
+      "https://www.facebook.com/vnhoanghau",
+      1,
+      "us_f5_cn"
+    ],
+    "50002": [
+      5,
+      "Webpay",
+      "Nhấn đến [Webpay]",
+      "Nhấn đến [Webpay], Để nhận nhiều ưu đãi hơn",
+      "https://zhifu.muugame.com/login/index",
+      1,
+      "us_f6_cn"
+    ],
+    "60001": [
+      6,
+      "Facebook",
+      "Like&Follow FB",
+      "Like and follow our Facebook page. All players will get gifts when page hit certain LIKES.",
+      "https://www.facebook.com/Beauty-in-Royal-Harem-113815450269700",
+      1,
+      "us_f5_cn"
+    ],
+    "70001": [
+      7,
+      "Facebook",
+      "Like&Follow FB",
+      "Like and follow our Facebook page. All players will get gifts when page hit certain LIKES.",
+      "https://www.facebook.com/palacerule.en",
+      1,
+      "us_f5_cn"
+    ],
+    "80001": [
+      8,
+      "Facebook",
+      "ถูกใจและติดตาม",
+      "กดถูกใจและติดตามแฟนเพจเพื่อรับรางวัล",
+      "https://www.facebook.com/PalaceruleTH/",
+      1,
+      "us_f5_cn"
+    ],
+    "100001": [
+      10,
+      "Twitter",
+      "フォローボーナス",
+      "Twitterをフォローし、フォロー数に応じてゲーム内アイテムのシリアルコードを配布します。",
+      "https://twitter.com/Kyuutei_Harue",
+      1,
+      "us_f7_cn"
+    ],
+    "110001": [
+      11,
+      "Facebook",
+      "Official FB",
+      "Will turn to the Official Facebook website , you can send message through FB to our CS.",
+      "https://www.facebook.com/LoveStoryPalacegame/  ",
+      1,
+      "us_f5_cn"
+    ],
+    "120001": [
+      12,
+      "Facebook",
+      "Official FB",
+      "Akan dialihkan menuju laman Official Facebook kami, kamu bisa menghubungi pihak CS melalui pesan di laman Facebook kami",
+      "https://www.facebook.com/Satu-Cinta-106800211240038",
+      1,
+      "us_f5_cn"
+    ],
+    "130001": [
+      13,
+      "Facebook",
+      "Like&Follow FB",
+      "Like and follow our Facebook page. All players will get gifts when page hit certain LIKES.",
+      "https://www.facebook.com/palacerule.en",
+      1,
+      "us_f5_cn"
+    ]
+  }
+}

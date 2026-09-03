@@ -1,0 +1,39 @@
+{
+  "colMap": [
+    "name",
+    "icon",
+    "title"
+  ],
+  "list": {
+    "1": [
+      "Thịnh Thanh Hoa Phục",
+      "ts_k2_cn",
+      "ts_ns2"
+    ],
+    "2": [
+      "Tiền Triều Cổ Thường",
+      "ts_k3_cn",
+      "ts_ns4"
+    ],
+    "3": [
+      "Gấm Vóc Dị Vực",
+      "ts_k4_cn",
+      "ts_ns3"
+    ],
+    "4": [
+      "Đồ Tây Phục Cổ",
+      "ts_k5_cn",
+      "ts_ns1"
+    ],
+    "5": [
+      "Quần Áo Thời Trang",
+      "ts_k6_cn",
+      "ts_j12_cn"
+    ],
+    "6": [
+      "Tơ Lụa Mộng Ảo",
+      "ts_k7_cn",
+      "ts_j13_cn"
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "colMap": [
+    "icon",
+    "resourceData",
+    "frameResource",
+    "quality",
+    "time",
+    "name",
+    "description",
+    "unlockType",
+    "unlockData",
+    "getPath",
+    "onTime"
+  ],
+  "list": {
+    "10001": [
+      "pf_e1",
+      [
+        62,
+        62,
+        1,
+        1
+      ],
+      [
+        "pf_grn_a1"
+      ],
+      "3",
+      0,
+      "Tao Nhã Như Tranh",
+      "[Khung Ảnh Chụp Chung] Khung ảnh mộc mạc, thêm chút tao nhã cho tuổi xuân tươi đẹp.",
+      3,
+      0,
+      [
+        21000
+      ],
+      0
+    ],
+    "10002": [
+      "pf_e2",
+      [
+        640,
+        100,
+        0,
+        1
+      ],
+      [
+        "pf_grv_a2"
+      ],
+      "4",
+      0,
+      "Hành Trình Tuổi Trẻ",
+      "[Khung Ảnh Chụp Chung] Một trang nào đó của tập ảnh, đã lưu giữ lại sự ngây thơ của tuổi trẻ.",
+      3,
+      0,
+      [
+        18861
+      ],
+      0
+    ],
+    "10003": [
+      "pf_e3",
+      [
+        640,
+        289,
+        0,
+        1
+      ],
+      [
+        "pf_grv_a3"
+      ],
+      "4",
+      0,
+      "Tặng Người Xuân Sắc",
+      "[Khung Ảnh Chụp Chung] Mái ngói tường đổ, cửa sổ nhỏ hướng ra vườn, tặng người phong cảnh ngày xuân. ",
+      3,
+      0,
+      [
+        18861
+      ],
+      0
+    ],
+    "10004": [
+      "pf_e4",
+      [],
+      [
+        "pf_xq1a",
+        "pf_xq1b"
+      ],
+      "4",
+      0,
+      "Mùa Hoa Lại Đến",
+      "[Khung Ảnh Chụp Chung] Điểm xuyết thời khắc tuyệt vời của chúng ta, bằng những bông hoa tươi.",
+      3,
+      0,
+      [
+        18861
+      ],
+      0
+    ],
+    "10005": [
+      "pf_e5",
+      [],
+      [
+        "pf_xq2a",
+        "pf_xq2b"
+      ],
+      "5",
+      0,
+      "Tử Yên Hoa Lễ",
+      "[Khung Ảnh Chụp Chung] Muôn hồng nghìn tía cùng khoe sắc, lấy hoa làm quà.",
+      3,
+      0,
+      [
+        18861
+      ],
+      0
+    ],
+    "10006": [
+      "pf_e6",
+      [
+        190,
+        120,
+        1,
+        1
+      ],
+      [
+        "pf_grv_a4"
+      ],
+      "4",
+      0,
+      "Vân Nhị Uẩn Mai",
+      "[Khung Ảnh Chụp Chung] Mây trời làm nhụy, hồng mai ôm lấy tuyết.",
+      3,
+      0,
+      [
+        18861
+      ],
+      0
+    ],
+    "10007": [
+      "pf_e7",
+      [],
+      [
+        "pf_xq3a",
+        "pf_xq3b"
+      ],
+      "5",
+      604800,
+      "Hạc Múa Biển Sâu",
+      "[Khung Chụp Chung Hạn Giờ] Hạc múa trên biển sâu, tiếng hót lảnh lót, vang vọng cửu thiên",
+      3,
+      0,
+      [
+        14410
+      ],
+      0
+    ],
+    "10008": [
+      "pf_e8",
+      [],
+      [
+        "pf_xq4a",
+        "pf_xq4b"
+      ],
+      "5",
+      604800,
+      "Trọng Ba Kim Lân",
+      "[Khung Chụp Chung Hạn Giờ] Gió gọi sóng lớn, kim lân nhảy ra",
+      3,
+      0,
+      [
+        14410
+      ],
+      0
+    ],
+    "10009": [
+      "pf_e9",
+      [],
+      [
+        "pf_xq5a",
+        "pf_xq5b"
+      ],
+      "4",
+      604800,
+      "Sóng Hoa Trong Suốt",
+      "[Khung Chụp Chung Hạn Giờ] Nước sông trong veo, sóng hoa nhiều đóa",
+      3,
+      0,
+      [
+        14410
+      ],
+      0
+    ]
+  }
+}

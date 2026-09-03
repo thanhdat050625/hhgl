@@ -1,0 +1,787 @@
+{
+  "colMap": [
+    "sentence"
+  ],
+  "list": {
+    "11001": [
+      "Mùa xuân, "
+    ],
+    "11002": [
+      "Đầu xuân, "
+    ],
+    "11003": [
+      "Cảnh xuân tươi đẹp, "
+    ],
+    "11004": [
+      "Khi vạn vật sống lại, "
+    ],
+    "11005": [
+      "Xuân về với đất mẹ,"
+    ],
+    "11006": [
+      "Giữa xuân, "
+    ],
+    "11007": [
+      "Xuân tháng 3, "
+    ],
+    "11008": [
+      "Khi xuân về hoa nở, "
+    ],
+    "11009": [
+      "Bước vào cuối xuân, "
+    ],
+    "11010": [
+      "Mùa đông, "
+    ],
+    "11011": [
+      "Đêm gió tuyết, "
+    ],
+    "11012": [
+      "Mùa đông lạnh lẽo, "
+    ],
+    "11013": [
+      "Khi tuyết rơi đầy, "
+    ],
+    "11014": [
+      "Khi tuyết phủ đầy Thiên Sơn, "
+    ],
+    "11015": [
+      "Tháng Chạp giá rét, "
+    ],
+    "11016": [
+      "Khi vạn vật suy tàn, "
+    ],
+    "11017": [
+      "Băng tuyết mới tan, "
+    ],
+    "11018": [
+      "Khi gió lạnh rít gào, "
+    ],
+    "11019": [
+      "Cuối đông, "
+    ],
+    "11020": [
+      "Trời chưa sáng, "
+    ],
+    "11021": [
+      "Ánh ban mai, "
+    ],
+    "11022": [
+      "Hừng đông, "
+    ],
+    "11023": [
+      "Bình minh ló dạng, "
+    ],
+    "11024": [
+      "Khi ráng chiều rực rỡ, "
+    ],
+    "11025": [
+      "Vào sáng tinh mơ, "
+    ],
+    "12001": [
+      "Mùa hè, "
+    ],
+    "12002": [
+      "Đêm giữa hè, "
+    ],
+    "12003": [
+      "Ngày hè yên tĩnh, "
+    ],
+    "12004": [
+      "Ngày hè nóng bức, "
+    ],
+    "12005": [
+      "Khi ve kêu, "
+    ],
+    "12006": [
+      "Giữa hè, "
+    ],
+    "12007": [
+      "Mùa hè, "
+    ],
+    "12008": [
+      "Vào hè, "
+    ],
+    "12009": [
+      "Sắp vào giữa hè, "
+    ],
+    "12010": [
+      "Đã đến cuối hè, "
+    ],
+    "12011": [
+      "Trưa, "
+    ],
+    "12012": [
+      "Nửa đêm, "
+    ],
+    "12013": [
+      "Đêm tĩnh lặng, "
+    ],
+    "12014": [
+      "Buổi sáng ồn ã, "
+    ],
+    "12015": [
+      "Trăng lên giữa trời, "
+    ],
+    "12016": [
+      "Khi biển sao rực rỡ, "
+    ],
+    "12017": [
+      "Nửa đêm, "
+    ],
+    "12018": [
+      "Mùa nóng, "
+    ],
+    "12019": [
+      "Giờ tý,"
+    ],
+    "12020": [
+      "Giữa trưa, "
+    ],
+    "13001": [
+      "Mùa thu, "
+    ],
+    "13002": [
+      "Mùa thu hoạch, "
+    ],
+    "13003": [
+      "Mùa thu vàng, "
+    ],
+    "13004": [
+      "Mùa nổi gió, "
+    ],
+    "13005": [
+      "Cuối thu mát mẻ, "
+    ],
+    "13006": [
+      "Mùa thu xác xơ, "
+    ],
+    "13007": [
+      "Mùa thu tiêu điều, "
+    ],
+    "13008": [
+      "Khi gió thu vừa thổi, "
+    ],
+    "13009": [
+      "Vào vụ thu, "
+    ],
+    "13010": [
+      "Khi lá rơi, "
+    ],
+    "13011": [
+      "Hoàng hôn bảng lảng, "
+    ],
+    "13012": [
+      "Mùa mưa dầm, "
+    ],
+    "13013": [
+      "Chạng vạng, "
+    ],
+    "13014": [
+      "Lúc hoàng hôn, "
+    ],
+    "13015": [
+      "Hoàng hôn, "
+    ],
+    "21001": [
+      "Trên bờ ruộng, "
+    ],
+    "21002": [
+      "Trên đồng ruộng hy vọng, "
+    ],
+    "21003": [
+      "Ở vùng sông nước Giang Nam, "
+    ],
+    "21004": [
+      "Ở tái ngoại vắng vẻ, "
+    ],
+    "21005": [
+      "Ở ngoài Nhạn Môn Quan, "
+    ],
+    "21006": [
+      "Ở nơi cằn cỗi, "
+    ],
+    "21007": [
+      "Ở tiểu trấn, "
+    ],
+    "21008": [
+      "Ở ruộng lúa, "
+    ],
+    "21009": [
+      "Trên mặt hồ đóng băng, "
+    ],
+    "21010": [
+      "Bên hồ cá chép, "
+    ],
+    "21011": [
+      "Bên hồ, "
+    ],
+    "21012": [
+      "Dưới hành lang, "
+    ],
+    "21013": [
+      "Trên phố phường hiện đại, "
+    ],
+    "21014": [
+      "Trên bờ cát mềm, "
+    ],
+    "21015": [
+      "Trên bờ biển bao la, "
+    ],
+    "21016": [
+      "Dưới lâu đài cổ,"
+    ],
+    "21017": [
+      "Trên con đường nhỏ ở quê, "
+    ],
+    "21018": [
+      "Trên con phố vắng, "
+    ],
+    "21019": [
+      "Ở quảng trường bồ câu bay, "
+    ],
+    "21020": [
+      "Ở hoang mạc không người, "
+    ],
+    "21021": [
+      "Trong thôn xóm trống trải, "
+    ],
+    "21022": [
+      "Ở doanh trại ngoài trời, "
+    ],
+    "21023": [
+      "Ở ruộng lúa mì, "
+    ],
+    "21024": [
+      "Trong trấn nhỏ xa xôi, "
+    ],
+    "21025": [
+      "Trong giấc mộng, "
+    ],
+    "21026": [
+      "Khi được mùa, "
+    ],
+    "21027": [
+      "Bên dòng suối nhỏ, "
+    ],
+    "22001": [
+      "Trong thuyền tranh, "
+    ],
+    "22002": [
+      "Dưới cơn mưa phùn, "
+    ],
+    "22003": [
+      "Trên đỉnh Thái Sơn, "
+    ],
+    "22004": [
+      "Dưới Trường Thành, "
+    ],
+    "22005": [
+      "Ở sát đông hải, "
+    ],
+    "22006": [
+      "Trên lầu ca hát, "
+    ],
+    "22007": [
+      "Trên sườn núi hoa nở rộ, "
+    ],
+    "22008": [
+      "Trong rừng trúc um tùm, "
+    ],
+    "22009": [
+      "Trên lầu cao lộng lẫy, "
+    ],
+    "22010": [
+      "Bên vách núi, "
+    ],
+    "22011": [
+      "Trên võ đường, "
+    ],
+    "22012": [
+      "Dưới cây dã hương, "
+    ],
+    "22013": [
+      "Bên vườn hoa, "
+    ],
+    "22014": [
+      "Trong bụi hoa, "
+    ],
+    "22015": [
+      "Dưới pháo hoa rợp trời, "
+    ],
+    "22016": [
+      "Bên hồ sen, "
+    ],
+    "22017": [
+      "Trong hội chùa náo nhiệt, "
+    ],
+    "22018": [
+      "Trên mái hiên hoa vắng lặng, "
+    ],
+    "22019": [
+      "Bên cạnh cổng tròn, "
+    ],
+    "22020": [
+      "Trong gió, "
+    ],
+    "22021": [
+      "Dưới mái hiên, "
+    ],
+    "22022": [
+      "Dưới mái hiên trồng hoa, "
+    ],
+    "22023": [
+      "Bên ao hoa sen, "
+    ],
+    "22024": [
+      "Khi cực quang bao phủ, "
+    ],
+    "22025": [
+      "Trong hương thơm oải hương, "
+    ],
+    "22026": [
+      "Trong trang viên, "
+    ],
+    "22027": [
+      "Trên đường nhỏ bụi gai, "
+    ],
+    "22028": [
+      "Trong bụi hoa hồng, "
+    ],
+    "22029": [
+      "Trên phố đất khách, "
+    ],
+    "22030": [
+      "Trên sân, "
+    ],
+    "22031": [
+      "Trên con đường nhỏ yên ắng, "
+    ],
+    "22032": [
+      "Ở nơi ồn ào, "
+    ],
+    "22033": [
+      "Trên sân đấu, "
+    ],
+    "23001": [
+      "Dưới kệ hoa tử đằng, "
+    ],
+    "23002": [
+      "Trong tứ hợp viện, "
+    ],
+    "23003": [
+      "Trong sân, "
+    ],
+    "23004": [
+      "Trong phòng sách, "
+    ],
+    "23005": [
+      "Trong trường, "
+    ],
+    "23006": [
+      "Bên cạnh giếng nước, "
+    ],
+    "23007": [
+      "Bên dòng suối trong rừng,"
+    ],
+    "23008": [
+      "Trong hoàng cung rực rỡ, "
+    ],
+    "23009": [
+      "Trong thư phòng yên ắng, "
+    ],
+    "23010": [
+      "Trong khuê phòng, "
+    ],
+    "23011": [
+      "Trong sân, "
+    ],
+    "23012": [
+      "Trên tầng hai quán trà, "
+    ],
+    "23013": [
+      "Trong chòi nghỉ mát, "
+    ],
+    "23014": [
+      "Trong phường thêu, "
+    ],
+    "23015": [
+      "Trong sảnh, "
+    ],
+    "23016": [
+      "Trên du thuyền, "
+    ],
+    "23017": [
+      "Trên lầu các, "
+    ],
+    "23018": [
+      "Trong vườn hoa đẹp, "
+    ],
+    "23019": [
+      "Trên bậc thang xoắn ốc, "
+    ],
+    "23020": [
+      "Trong thần điện cổ xưa, "
+    ],
+    "23021": [
+      "Trong bóng đổ gác chuông, "
+    ],
+    "23022": [
+      "Dưới bầu trời, "
+    ],
+    "23023": [
+      "Trong trang viên đầy tường vi, "
+    ],
+    "23024": [
+      "Dưới tháp sắt, "
+    ],
+    "23025": [
+      "Trong trường, "
+    ],
+    "23026": [
+      "Trong rừng nhỏ, "
+    ],
+    "23027": [
+      "Trong vườn táo, "
+    ],
+    "23028": [
+      "Trong bụi oải hương, "
+    ],
+    "23029": [
+      "Trong lớp, "
+    ],
+    "23030": [
+      "Trong căn phòng thoải mái, "
+    ],
+    "23031": [
+      "Trong đống hoang tàn, "
+    ],
+    "23032": [
+      "Trên sân khấu, "
+    ],
+    "23033": [
+      "Trong buổi lễ, "
+    ],
+    "23034": [
+      "Trước bàn, "
+    ],
+    "23035": [
+      "Trong phòng ngủ, "
+    ],
+    "23036": [
+      "Sau phòng, "
+    ],
+    "23037": [
+      "Trong rừng phong, "
+    ],
+    "23038": [
+      "Trong lâu đài lãng mạn, "
+    ],
+    "23039": [
+      "Trong xưởng gốm sứ, "
+    ],
+    "23040": [
+      "Trong tòa cao ốc, "
+    ],
+    "31001": [
+      "chơi uống rượu."
+    ],
+    "31002": [
+      "thả diều. "
+    ],
+    "31003": [
+      "ném thẻ vào bình."
+    ],
+    "31004": [
+      "đá bóng."
+    ],
+    "31005": [
+      "cưỡi ngựa."
+    ],
+    "31006": [
+      "chơi mã cầu."
+    ],
+    "31007": [
+      "chơi xích đu."
+    ],
+    "31008": [
+      "chơi đấu dế."
+    ],
+    "31009": [
+      "ngắm hoa."
+    ],
+    "31010": [
+      "ngắm trăng."
+    ],
+    "31011": [
+      "ngắm ngân hà."
+    ],
+    "31012": [
+      "chờ người trở về."
+    ],
+    "31013": [
+      "nhảy múa uyển chuyển."
+    ],
+    "31014": [
+      "dạo bước chầm chậm."
+    ],
+    "31015": [
+      "mở tiệc mời bạn bè tụ tập vui vẻ."
+    ],
+    "31016": [
+      "luyện tập khúc nhạc."
+    ],
+    "31017": [
+      "nhìn người đến người đi."
+    ],
+    "31018": [
+      "nhặt hoa pha trà."
+    ],
+    "31019": [
+      "nghe côn trùng kêu."
+    ],
+    "31020": [
+      "nếm trái cây tự tay hái."
+    ],
+    "31021": [
+      "hóng gió dưới trăng."
+    ],
+    "31022": [
+      "giặt đồ."
+    ],
+    "31023": [
+      "mở câu lạc bộ thơ ca với bạn."
+    ],
+    "31024": [
+      "chạy thật nhanh."
+    ],
+    "31025": [
+      "Tản bộ."
+    ],
+    "31026": [
+      "hóng gió."
+    ],
+    "31027": [
+      "nghe dế hát."
+    ],
+    "31028": [
+      "xem đom đóm nhảy múa."
+    ],
+    "31029": [
+      "ngắm sao."
+    ],
+    "31030": [
+      "ngắm trăng."
+    ],
+    "31031": [
+      "nhìn áng mây từ xa trôi đến."
+    ],
+    "31032": [
+      "mở tiệc trà."
+    ],
+    "31033": [
+      "bắt bướm."
+    ],
+    "31034": [
+      "quan sát sâu bọ."
+    ],
+    "31035": [
+      "dùng cơm ngoài trời."
+    ],
+    "31036": [
+      "tham gia hôn lễ."
+    ],
+    "31037": [
+      "ngâm thơ."
+    ],
+    "32001": [
+      "đánh đàn."
+    ],
+    "32002": [
+      "thổi sáo."
+    ],
+    "32003": [
+      "đàn 1 khúc tỳ bà."
+    ],
+    "32004": [
+      "cầu phúc chân thành."
+    ],
+    "32005": [
+      "ăn kẹo hồ lô."
+    ],
+    "32006": [
+      "niệm kinh."
+    ],
+    "32007": [
+      "tĩnh tâm nếm trà."
+    ],
+    "32008": [
+      "đánh cờ."
+    ],
+    "32009": [
+      "uống rượu làm thơ."
+    ],
+    "32010": [
+      "múa bút vẽ tranh."
+    ],
+    "32011": [
+      "viết bảng chữ mẫu."
+    ],
+    "32012": [
+      "viết thơ."
+    ],
+    "32013": [
+      "tự mình làm son."
+    ],
+    "32014": [
+      "thêu bức tranh non nước xanh biếc."
+    ],
+    "32015": [
+      "chơi cờ."
+    ],
+    "32016": [
+      "ngủ một giấc dài."
+    ],
+    "32017": [
+      "ngủ say sưa."
+    ],
+    "32018": [
+      "chơi với mèo."
+    ],
+    "32019": [
+      "hái nho."
+    ],
+    "32020": [
+      "nấu thịt bò."
+    ],
+    "32021": [
+      "vẽ bức tranh sơn dầu."
+    ],
+    "32022": [
+      "nếm trà chiều."
+    ],
+    "32023": [
+      "nếm điểm tâm."
+    ],
+    "32024": [
+      "thưởng thức tranh."
+    ],
+    "32025": [
+      "ủ rượu nho."
+    ],
+    "32026": [
+      "học đàn."
+    ],
+    "32027": [
+      "tham gia thi múa ba lê."
+    ],
+    "32028": [
+      "liên hoa."
+    ],
+    "32029": [
+      "giúp đỡ mèo lang thang."
+    ],
+    "32030": [
+      "nhận nuôi cún lang thang."
+    ],
+    "32031": [
+      "trình diễn đàn violin."
+    ],
+    "32032": [
+      "điêu khắc tượng đá."
+    ],
+    "32033": [
+      "nếm món mới."
+    ],
+    "32034": [
+      "thử áo mới."
+    ],
+    "32035": [
+      "viết thư cho người mình thích."
+    ],
+    "32036": [
+      "nếm bánh kem."
+    ],
+    "32037": [
+      "ăn kem."
+    ],
+    "32038": [
+      "viết tiểu thuyết."
+    ],
+    "32039": [
+      "nghe kể chuyện thiếu nhi."
+    ],
+    "32040": [
+      "chìm trong mộng đẹp."
+    ],
+    "32041": [
+      "viết nhật ký."
+    ],
+    "32042": [
+      "làm sổ tay kỉ niệm cuộc sống."
+    ],
+    "32043": [
+      "làm đồ sứ."
+    ],
+    "32044": [
+      "học cắm hoa."
+    ],
+    "33001": [
+      "hát khẽ."
+    ],
+    "33002": [
+      "chờ hoa hải đường nở."
+    ],
+    "33003": [
+      "ngắm hoa trong vườn."
+    ],
+    "33004": [
+      "nhìn đèn đóm khắp thành."
+    ],
+    "33005": [
+      "chơi đối thơ với bạn bè."
+    ],
+    "33006": [
+      "dự tiệc."
+    ],
+    "33007": [
+      "xem múa rối bóng."
+    ],
+    "33008": [
+      "nghe kịch."
+    ],
+    "33009": [
+      "ăn bánh trôi thích nhất."
+    ],
+    "33010": [
+      "xem ảo thuật."
+    ],
+    "33011": [
+      "ước nguyện."
+    ],
+    "33012": [
+      "bịt mắt bắt dê."
+    ],
+    "33013": [
+      "vẽ tranh."
+    ],
+    "33014": [
+      "phơi nắng."
+    ],
+    "33015": [
+      "nhổ cỏ."
+    ],
+    "33016": [
+      "cắt tỉa hoa cỏ."
+    ],
+    "33017": [
+      "tham gia vũ hội."
+    ],
+    "33018": [
+      "dạo phố."
+    ],
+    "33019": [
+      "quay phim."
+    ]
+  }
+}

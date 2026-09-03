@@ -1,0 +1,1044 @@
+{
+  "colMap": [
+    "faceId",
+    "dialogue",
+    "voice1ID"
+  ],
+  "list": {
+    "10001": [
+      "Biểu cảm 1",
+      "Trong tay ngươi là gì vậy…Được, ta không nhìn trộm nữa, đợi ngươi chuẩn bị xong ta sẽ qua đó.",
+      ""
+    ],
+    "10002": [
+      "Biểu cảm 1",
+      "Ước nguyện…vậy hi vọng có thể mãi mãi bên cạnh người.",
+      ""
+    ],
+    "10003": [
+      "Biểu cảm 1",
+      "Trông ngươi bận bịu mấy ngày rồi, có chuyện gì cần ta giúp không?",
+      ""
+    ],
+    "10004": [
+      "Biểu cảm 2",
+      "Đây là sinh nhật đầu tiên có bạn bên cạnh, bởi vì có bạn, tất cả mới có ý nghĩa.",
+      "BALG0001"
+    ],
+    "10005": [
+      "Biểu cảm 2",
+      "Thứ yêu thích sao…thích cùng người trải qua giây phút này, thích sau này có người bầu bạn.",
+      "BALG0002"
+    ],
+    "10006": [
+      "Biểu cảm 2",
+      "Cuộc sống thay đổi, điều đáng tiếc là không thể trùng phùng với người sớm hơn, điều may mắn là ta có thể dùng cả đời này để bù đắp.",
+      "BALG0003"
+    ],
+    "10007": [
+      "Biểu cảm 3",
+      "Con đường sau này, nơi có người bên cạnh, chính là nơi quay về của ta.",
+      "BALG0004"
+    ],
+    "10008": [
+      "Biểu cảm 3",
+      "Ngươi luôn tạo ra những bất ngờ bất tận, ta nghĩ ta bắt đầu trở nên...tham lam hơn.",
+      "BALG0005"
+    ],
+    "10009": [
+      "Biểu cảm 3",
+      "Thời gian thấm thoát thoi đưa, phải sống sao cho thật ý nghĩa.",
+      "BALG0006"
+    ],
+    "10101": [
+      "Biểu cảm 1",
+      "Trẫm muốn xem thử, nàng rốt cuộc đã chuẩn bị bất ngờ gì.",
+      ""
+    ],
+    "10102": [
+      "Biểu cảm 1",
+      "Món quà này… Hơi kỳ lạ… Rốt cuộc nàng đã nghĩ gì trong đầu vậy?!",
+      ""
+    ],
+    "10103": [
+      "Biểu cảm 1",
+      "Nàng đó, thừa biết trẫm không nỡ phạt nàng.",
+      ""
+    ],
+    "10104": [
+      "Biểu cảm 2",
+      "Chú ý tay, buộc thắt lưng cho đàng hoàng, đừng nhân cơ hội lợi dụng.",
+      "BHL0001"
+    ],
+    "10105": [
+      "Biểu cảm 2",
+      "Vì nàng rất chân thành và thật lòng nên trẫm sẽ nhận những món quà độc lạ này.",
+      "BHL0002"
+    ],
+    "10106": [
+      "Biểu cảm 2",
+      "Mèo do nàng tặng, giờ trẫm trêu một chút nàng cũng ghen, đúng là hũ giấm mà.",
+      "BHL0003"
+    ],
+    "10107": [
+      "Biểu cảm 3",
+      "Hẹn trẫm ngắm trăng? Được, trẫm đồng ý, hôm nay trẫm là của nàng.",
+      "BHL0004"
+    ],
+    "10108": [
+      "Biểu cảm 3",
+      "Nàng nghịch như thế, lại thích gây chuyện, nếu không có trẫm thì phải làm sao.",
+      "BHL0005"
+    ],
+    "10109": [
+      "Biểu cảm 3",
+      "Mèo nhà tuy ngoan, nhưng trẫm thích mèo hoang nanh vuốt như nàng hơn.",
+      "BHL0006"
+    ],
+    "10201": [
+      "Biểu cảm 1",
+      "Tất cả bảo vật trên thế gian đều không sánh bằng có nàng bên cạnh",
+      "BQM0001"
+    ],
+    "10202": [
+      "Biểu cảm 1",
+      "Món quà này gọi là 'Trường tương y' sao… Ta rất thích cái tên này",
+      "BQM0002"
+    ],
+    "10203": [
+      "Biểu cảm 1",
+      "Cảm ơn… Thì ra cảm giác được người ta nhớ đến trong lòng là như vậy.",
+      "BQM0003"
+    ],
+    "10204": [
+      "Biểu cảm 2",
+      "Nàng hỏi ta tình yêu là gì? Ta… không biết, nhưng chỉ cần nhìn thấy nàng, ta mới yên tâm..",
+      "BQM0004"
+    ],
+    "10205": [
+      "Biểu cảm 2",
+      "Từ khi gặp nàng, ta mới biết tất cả câu chuyện đã bắt đầu…",
+      "BQM0005"
+    ],
+    "10206": [
+      "Biểu cảm 2",
+      "Những ngày trước đây đều nhàm chán, cho đến khi nàng xuất hiện, cuộc sống của ta bỗng bừng sáng",
+      "BQM0006"
+    ],
+    "10207": [
+      "Biểu cảm 3",
+      "Muốn ta ước nguyện? Vậy thì ta mong là… Năm tháng trôi qua, ta và nàng vẫn nắm tay nhau.",
+      "BQM0007"
+    ],
+    "10208": [
+      "Biểu cảm 3",
+      "Nửa chừng bỏ dở thì không được… Nàng phải… phải… luôn thích ta.",
+      "BQM0008"
+    ],
+    "10209": [
+      "Biểu cảm 3",
+      "Năm sau, chúng ta cùng đi Mạc Bắc ngắm tuyết nhé, có thể đường đi hơi buồn tẻ, nhưng ta sẽ kể chuyện nàng nghe…",
+      "BQM0009"
+    ],
+    "10301": [
+      "Biểu cảm 1",
+      "Ôm ấp trong lòng tình yêu nồng nàn, từng bước đến gần người.",
+      ""
+    ],
+    "10302": [
+      "Biểu cảm 1",
+      "Nàng là vị cứu tinh của ta, cho ta thấy ánh sáng cuộc đời.",
+      ""
+    ],
+    "10303": [
+      "Biểu cảm 1",
+      "Trước nay chưa ai biết con người thật sự của ta, chỉ khi ở trước mặt nàng, ta mới tháo chiếc nạ xuống.",
+      ""
+    ],
+    "10304": [
+      "Biểu cảm 2",
+      "Ta muốn nàng tự tay thắt cà vạt cho ta.",
+      "BALD0001"
+    ],
+    "10305": [
+      "Biểu cảm 2",
+      "Búp bê trên hộp nhạc này trông giống nàng lắm… Đẹp thật!",
+      "BALD0002"
+    ],
+    "10306": [
+      "Biểu cảm 2",
+      "Ta vẽ qua bao cảnh núi sông, nhưng nàng mới là tuyệt sắc thế gian.",
+      "BALD0003"
+    ],
+    "10307": [
+      "Biểu cảm 3",
+      "Quãng đời còn lại, muốn cùng nàng ngắm cảnh đẹp nhân thế, bên nhau đến khi đầu bạc.",
+      "BALD0004"
+    ],
+    "10308": [
+      "Biểu cảm 3",
+      "Muốn cùng nàng ước nguyện dưới pháo hoa, ôm nhau dưới sao trời, phong hoa tuyết nguyệt, dù ngày hay đêm.",
+      "BALD0005"
+    ],
+    "10309": [
+      "Biểu cảm 3",
+      "Bốn mùa trong đôi mắt nàng đẹp hơn mọi cảnh sắc trên đời.",
+      "BALD0006"
+    ],
+    "10401": [
+      "Biểu cảm 1",
+      "Điều duy nhất ta phải làm, là bảo vệ nàng.",
+      "BALG0007"
+    ],
+    "10402": [
+      "Biểu cảm 1",
+      "Nơi có nàng bên cạnh, đều là vườn đào.",
+      "BALG0008"
+    ],
+    "10403": [
+      "Biểu cảm 1",
+      "Lúc nhớ nàng, gió mát trăng thanh.",
+      "BALG0009"
+    ],
+    "10404": [
+      "Biểu cảm 2",
+      "Dù phía trước chông gai, ta chỉ muốn ở bên nàng.",
+      "BALG010"
+    ],
+    "10405": [
+      "Biểu cảm 2",
+      "Ta mong giúp nàng vô lo, bình an yên vui trọn đời.",
+      "BALG011"
+    ],
+    "10406": [
+      "Biểu cảm 2",
+      "Mong có ngày sớm tối bên nàng, đi qua giông bão…",
+      "BALG012"
+    ],
+    "10407": [
+      "Biểu cảm 3",
+      "Chè sen ngon quá… hay nàng thử chút đi?",
+      "BALG013"
+    ],
+    "10408": [
+      "Biểu cảm 3",
+      "Đời này chỉ động lòng với mình nàng.",
+      "BALG014"
+    ],
+    "10409": [
+      "Biểu cảm 3",
+      "Uyên ương suốt kiếp… nàng bằng lòng thực hiện cùng ta chứ?",
+      "BALG015"
+    ],
+    "10501": [
+      "Biểu cảm 1",
+      "Nàng có vẻ bí ẩn nhỉ, lại cho trẫm bất ngờ gì thế?",
+      "BHL0007"
+    ],
+    "10502": [
+      "Biểu cảm 1",
+      "Nàng cầm thứ gì đằng sau thế? Còn muốn giấu trẫm?",
+      "BHL0008"
+    ],
+    "10503": [
+      "Biểu cảm 1",
+      "Chuẩn bị quà sanh thần cho trẫm cũng được, nhưng đừng khiến mình mệt quá đấy.",
+      "BHL0009"
+    ],
+    "10504": [
+      "Biểu cảm 2",
+      "Nhìn trà có vẻ ngon, sao không pha cho trẫm ấm trà trước?",
+      "BHL0010"
+    ],
+    "10505": [
+      "Biểu cảm 2",
+      "Trên đó khắc… “Thọ sánh giang sơn”? Chỉ có nàng mới nghĩ ra được.",
+      "BHL0011"
+    ],
+    "10506": [
+      "Biểu cảm 2",
+      "Có nàng bên cạnh rồi, trẫm cần mấy thứ đó làm gì?",
+      "BHL0012"
+    ],
+    "10507": [
+      "Biểu cảm 3",
+      "Chung vui và cảm nhận cùng nàng, trẫm chưa bao giờ nói dối lòng mình.",
+      "BHL0013"
+    ],
+    "10508": [
+      "Biểu cảm 3",
+      "Kết thành phu thê, tình nồng không phai… nàng bằng lòng thực hiện cùng trẫm chứ?",
+      "BHL0014"
+    ],
+    "10509": [
+      "Biểu cảm 3",
+      "Món quà này trẫm thích. Nhưng trẫm vẫn còn muốn một món quà nữa...",
+      "BHL0015"
+    ],
+    "10601": [
+      "Biểu cảm 1",
+      "Khi ta mệt, trong lòng luôn có ước mơ dịu dàng, trong mơ có nàng, cũng chỉ nghĩ về nàng.",
+      "BQM0010"
+    ],
+    "10602": [
+      "Biểu cảm 1",
+      "Vì sao yên lòng? Khi có nàng bên cạnh chính là đáp án.",
+      "BQM0011"
+    ],
+    "10603": [
+      "Biểu cảm 1",
+      "Tuyết trắng và mai đỏ ánh vào nhau, nàng cười như thơ như họa, vì nụ cười này, ta đã chờ đợi rất lâu…",
+      "BQM0012"
+    ],
+    "10604": [
+      "Biểu cảm 2",
+      "Đối mặt với thế gian rối ren, ta càng mong được cùng nàng yên ổn bình thản, kiên trì bền lâu... ",
+      "BQM0013"
+    ],
+    "10605": [
+      "Biểu cảm 2",
+      "Ta vẽ từng nét tên nàng vào tương lai của ta…",
+      "BQM0014"
+    ],
+    "10606": [
+      "Biểu cảm 2",
+      "Chuyện gì cũng muốn nói với nàng, nhỏ như vạn vật thế gian, lớn là ta phải lòng nàng đã lâu.",
+      "BQM0015"
+    ],
+    "10607": [
+      "Biểu cảm 3",
+      "Sau này ta sẽ vẽ mày cho Uyển Quân, Uyển Quân chải tóc cho ta, có được không?",
+      "BQM0016"
+    ],
+    "10608": [
+      "Biểu cảm 3",
+      "Tay nghề Uyển Quân tiến bộ nhiều, món này ngon lắm, ta rất thích.",
+      "BQM0017"
+    ],
+    "10609": [
+      "Biểu cảm 3",
+      "Nhân buổi tối thú vị này, chi bằng thắp đuốc chơi đêm, ngắm sao và trăng?",
+      "BQM0018"
+    ],
+    "10701": [
+      "Biểu cảm 1",
+      "Điều ước của ta là… mỗi ngày tỉnh lại, lập tức có thể nhìn thấy nàng.",
+      "BALD0007"
+    ],
+    "10702": [
+      "Biểu cảm 1",
+      "Lòng bàn tay nàng, là nơi ta cảm nhận được hơi ấm của mặt trời.",
+      "BALD0008"
+    ],
+    "10703": [
+      "Biểu cảm 1",
+      "Đã trông thấy biển lớn, tiếp theo chúng ta cùng đi ngắm núi tuyết nhé?",
+      "BALD0009"
+    ],
+    "10704": [
+      "Biểu cảm 2",
+      "Mỗi khi nhớ đến nàng, ta luôn cảm thấy trong lòng như có ngàn bông hồng nở rộ.",
+      "BALD0010"
+    ],
+    "10705": [
+      "Biểu cảm 2",
+      "Đối với ta, món quà quý giá nhất, là nàng ở bên ta.",
+      "BALD0011"
+    ],
+    "10706": [
+      "Biểu cảm 2",
+      "Dáng vẻ khi nàng chơi đùa với mèo con, đáng yêu quá đi mất! Ta muốn vẽ lại nó.",
+      "BALD0012"
+    ],
+    "10707": [
+      "Biểu cảm 3",
+      "Khi nàng nhìn về phía ta, ta cảm thấy bản thân đã có cả thế giới.",
+      "BALD0013"
+    ],
+    "10708": [
+      "Biểu cảm 3",
+      "Muốn viết một bài thơ tặng nàng, nhưng lại không có từ ngữ nào miêu tả được vẻ đẹp của nàng.",
+      "BALD0014"
+    ],
+    "10709": [
+      "Biểu cảm 3",
+      "Trên đời có vô số những điều tốt đẹp, nhưng ta chỉ yêu mỗi nàng.",
+      "BALD0015"
+    ],
+    "10801": [
+      "Biểu cảm 1",
+      "Có thể gặp được nàng trong thời gian đẹp nhất, chính là hạnh phúc.",
+      "BALG00016"
+    ],
+    "10802": [
+      "Biểu cảm 1",
+      "Hương thơm tháng tư, làm là ý xuân chọc ghẹo lòng người.",
+      "BALG00017"
+    ],
+    "10803": [
+      "Biểu cảm 1",
+      "Thời gian thật thú vị, khiến nàng và ta, trở thành đôi ta.",
+      "BALG00018"
+    ],
+    "10804": [
+      "Biểu cảm 2",
+      "Ban đêm lạnh lẽo, lò sưởi nàng tặng khiến ta thấy ấm áp, như nụ cười của nàng.",
+      "BALG00019"
+    ],
+    "10805": [
+      "Biểu cảm 2",
+      "Món ăn chính tay nàng nấu là của ngon vật lạ, hương vị tuyệt vời.",
+      "BALG00020"
+    ],
+    "10806": [
+      "Biểu cảm 2",
+      "Ta rất thích túi hương nàng tặng, mỗi ngày đều đeo, ngày ngày nhớ nàng.",
+      "BALG00021"
+    ],
+    "10807": [
+      "Biểu cảm 3",
+      "Góc nghiêng của nàng, tên của nàng, tiếng cười của nàng… đều là bảo vật mà nàng tặng cho ta.",
+      "BALG00022"
+    ],
+    "10808": [
+      "Biểu cảm 3",
+      "Trong mắt ta, nàng đẹp như mùa xuân, tao nhã như thơ.",
+      "BALG00023"
+    ],
+    "10809": [
+      "Biểu cảm 3",
+      "Luôn muốn tặng tất cả những thứ tốt đẹp mà ta có cho nàng, bao gồm tấm lòng của ta.",
+      "BALG00024"
+    ],
+    "10901": [
+      "Biểu cảm 1",
+      "Gió thanh luôn bầu bạn trăng sáng, còn nàng luôn bầu bạn bên trẫm.",
+      "BHL0016"
+    ],
+    "10902": [
+      "Biểu cảm 1",
+      "Hoa này quả thật đang nở rộ, nhưng không xinh đẹp tuyệt trần bằng nàng.",
+      "BHL0017"
+    ],
+    "10903": [
+      "Biểu cảm 1",
+      "Mệt rồi à? Qua đây trẫm cõng nàng.",
+      "BHL0018"
+    ],
+    "10904": [
+      "Biểu cảm 2",
+      "Có nàng ở dây, quà gì trẫm cũng thích.",
+      "BHL0019"
+    ],
+    "10905": [
+      "Biểu cảm 2",
+      "Trẫm hứa với nàng, sau này sẽ không tách rời khỏi miếng ngọc bội này.",
+      "BHL0020"
+    ],
+    "10906": [
+      "Biểu cảm 2",
+      "Nàng đó, ỷ trẫm không nỡ xa nàng.",
+      "BHL0021"
+    ],
+    "10907": [
+      "Biểu cảm 3",
+      "Cùng nàng thả diều, rong chơi chân trời… Cặp đôi thần tiên cũng chỉ vậy thôi.",
+      "BHL0022"
+    ],
+    "10908": [
+      "Biểu cảm 3",
+      "Cuộc đời con người ngắn ngủi, mỗi một ngày được ở bên nàng đều khắc ghi trong lòng trẫm.",
+      "BHL0023"
+    ],
+    "10909": [
+      "Biểu cảm 3",
+      "Trên núi gió to, nếu nàng lạnh hãy sà vào lòng trẫm.",
+      "BHL0024"
+    ],
+    "11001": [
+      "Biểu cảm 1",
+      "Ngày này qua tháng nọ, chúng ta nắm tay nhau đi qua xuân hạ thu đông, gió sương mưa tuyết....",
+      "BQM0019"
+    ],
+    "11002": [
+      "Biểu cảm 1",
+      "Không cần nói thêm điều gì, chỉ cần 1 ánh mắt của nàng, ta liền ngầm hiểu trong lòng. ",
+      "BQM0020"
+    ],
+    "11003": [
+      "Biểu cảm 1",
+      "Nàng nhớ ta, ta  nhung nhớ nàng, tình cảm như thế này thật tốt.",
+      "BQM0021"
+    ],
+    "11004": [
+      "Biểu cảm 2",
+      "Bát súp bí đỏ sánh ngọt này, quả thật rất ngon, nàng có muốn nếm thử không?",
+      "BQM0022"
+    ],
+    "11005": [
+      "Biểu cảm 2",
+      "Quân tử như ngọc, trong sáng ôn nhu, hóa ra ta trong mắt nàng là như thế sao.....",
+      "BQM0023"
+    ],
+    "11006": [
+      "Biểu cảm 2",
+      "Món trang trí này đặt trong phòng trà đi, sau này chúng ta có thể cùng uống trà và chơi cùng nhau.",
+      "BQM0024"
+    ],
+    "11007": [
+      "Biểu cảm 3",
+      "Đạp tuyết hái mai cũng tốt, ngắm tuyết trong đình ấm cũng được, chỉ cần bên cạnh nàng, ta đều thích.",
+      "BQM0025"
+    ],
+    "11008": [
+      "Biểu cảm 3",
+      "Bầu trời tuyết luôn yên ắng, nhịp tim đập khi ôm nàng cũng trong trẻo lạ thường……",
+      "BQM0026"
+    ],
+    "11009": [
+      "Biểu cảm 3",
+      "Tình ý đối với nàng như rượu ngon ủ lâu ngày, theo thời gian trôi sẽ càng thêm nồng đậm……",
+      "BQM0027"
+    ],
+    "11101": [
+      "Biểu cảm 1",
+      "Hoa tươi, Ánh nắng, và nàng... đều là điều xinh đẹp nhất thế gian",
+      "BALD0016"
+    ],
+    "11102": [
+      "Biểu cảm 1",
+      " Một trái tim tiến gần đến một trái tim, một người ôm lấy một người khác, đây chính là chúng ta.",
+      "BALD0017"
+    ],
+    "11103": [
+      "Biểu cảm 1",
+      "Chi cần ở cạnh nàng, mỗi ngày của ta đều rất vui.",
+      "BALD0018"
+    ],
+    "11104": [
+      "Biểu cảm 2",
+      "Ta chế rượu, nàng pha trà, thời khắc êm đềm này, khiến lòng người muốn mãi dừng ở khoảnh khắc này.",
+      "BALD0019"
+    ],
+    "11105": [
+      "Biểu cảm 2",
+      "Phong cách bức tranh này thật đáng yêu, ta cũng muốn vẽ một Uyển Đậu tiểu thư dễ thương.",
+      "BALD0020"
+    ],
+    "11106": [
+      "Biểu cảm 2",
+      "Ta tuyên bố, chiếc mũ nàng tặng này, sau này sẽ mọc trên đầu ta luôn rồi!",
+      "BALD0021"
+    ],
+    "11107": [
+      "Biểu cảm 3",
+      "Thích nàng, thích nàng, thích nàng... Nói vạn lần cũng không chán.",
+      "BALD0022"
+    ],
+    "11108": [
+      "Biểu cảm 3",
+      "Đời này của ta, dù dài hay ngắn, chỉ có nàng bên cạnh, đều không uổng phí.",
+      "BALD0023"
+    ],
+    "11109": [
+      "Biểu cảm 3",
+      "rong thế giới của ta, nàng là sự tồn tại không thể thay thế.",
+      "BALD0024"
+    ],
+    "11201": [
+      "Biểu cảm 1",
+      "Bốn mùa ba bữa, chỉ cần cùng sẻ chia với nàng là đã đủ.",
+      "BALG0024"
+    ],
+    "11202": [
+      "Biểu cảm 1",
+      "Những thứ ta có thể cho nàng không nhiều, duy chỉ có toàn bộ tình yêu và sự dịu dàng của ta.",
+      "BALG0025"
+    ],
+    "11203": [
+      "Biểu cảm 1",
+      "Ngày xuân tươi đẹp, hoa xuân rạng rỡ, muốn nghe một khúc sáo ngày xuân chăng?",
+      "BALG0026"
+    ],
+    "11204": [
+      "Biểu cảm 2",
+      "Thanh đao này là nàng tặng ta, mà thanh đao là ta chỉ sinh ra vì nàng.",
+      "BALG0027"
+    ],
+    "11205": [
+      "Biểu cảm 2",
+      "Ngắm ngọn đèn đom đóm, nỗi nhớ dành cho nàng càng mạnh mẽ hơn, ta muốn gặp nàng ngay bây giờ.",
+      "BALG0028"
+    ],
+    "11206": [
+      "Biểu cảm 2",
+      "Mỗi món điểm tâm mà nàng làm đều vô cùng ngon, ta rất thích, cảm ơn nàng chiêu đãi.",
+      "BALG0029"
+    ],
+    "11207": [
+      "Biểu cảm 3",
+      "Mưa xuân lất phất, ngựa xe chậm rãi, thư ta gửi, nàng đã nhận được chưa?",
+      "BALG0030"
+    ],
+    "11208": [
+      "Biểu cảm 3",
+      "Chậm rãi là một từ đẹp đẽ, chậm rãi gặp nhau, chậm rãi trưởng thành, chậm rãi đi qua dòng chảy của thời gian.",
+      "BALG0031"
+    ],
+    "11209": [
+      "Biểu cảm 3",
+      "Ta muốn nàng biết rằng, nàng xứng đáng có được mọi sự tốt đẹp của thế giới này.",
+      "BALG0032"
+    ],
+    "11301": [
+      "Biểu cảm 1",
+      "Hoa rơi hữu ý, nước chảy cũng chưa chắc đã vô tình.",
+      "BHL0025"
+    ],
+    "11302": [
+      "Biểu cảm 1",
+      "Nàng như hoa dâm bụt nũng nịu trong ngày thu, nở rộ trong lòng trẫm.",
+      "BHL0026"
+    ],
+    "11303": [
+      "Biểu cảm 1",
+      "Ở bên cạnh nàng, mọi thứ đều trở nên thú vị.",
+      "BHL0027"
+    ],
+    "11304": [
+      "Biểu cảm 2",
+      " Cùng nàng dạo bước bên bờ hồ trong vắt, mười ngón đan nhau, hoa rơi trên vai...",
+      "BHL0028"
+    ],
+    "11305": [
+      "Biểu cảm 2",
+      " Cho dù có chuyện gì xảy ra, lòng trẫm đối với nàng, tuyệt đối không thay đổi.",
+      "BHL0029"
+    ],
+    "11306": [
+      "Biểu cảm 2",
+      "Tình ý theo từng đường kim nét chỉ trên bộ đồ ngủ, trẫm đều có thể cảm nhận được.",
+      "BHL0030"
+    ],
+    "11307": [
+      "Biểu cảm 3",
+      "Thế gian trăm vạn người, duy chỉ có nàng, được trẫm khắc ghi trong lòng.",
+      "BHL0031"
+    ],
+    "11308": [
+      "Biểu cảm 3",
+      "Chúng ta gặp gỡ và yêu thương nhau... đều là duyên trời định.",
+      "BHL0032"
+    ],
+    "11309": [
+      "Biểu cảm 3",
+      "Ước muốn không thay đổi của ta là được ở bên nàng, cho dù mỗi năm đều ước một lần, cũng không chán.",
+      "BHL0033"
+    ],
+    "11401": [
+      "Biểu cảm 1",
+      "Vì sao yên lòng? Khi có nàng bên cạnh chính là đáp án.",
+      "BQM0011"
+    ],
+    "11402": [
+      "Biểu cảm 1",
+      "Từ khi gặp nàng, ta mới biết tất cả câu chuyện đã bắt đầu…",
+      "BQM0005"
+    ],
+    "11403": [
+      "Biểu cảm 1",
+      "Nửa chừng bỏ dở thì không được… Nàng phải… phải… luôn thích ta.",
+      "BQM0008"
+    ],
+    "11404": [
+      "Biểu cảm 2",
+      "Muốn ta ước nguyện? Vậy thì ta mong là… Năm tháng trôi qua, ta và nàng vẫn nắm tay nhau.",
+      "BQM0007"
+    ],
+    "11405": [
+      "Biểu cảm 2",
+      "Ta vẽ từng nét tên nàng vào tương lai của ta…",
+      "BQM0014"
+    ],
+    "11406": [
+      "Biểu cảm 2",
+      "Tất cả bảo vật trên thế gian đều không sánh bằng có nàng bên cạnh",
+      "BQM0001"
+    ],
+    "11407": [
+      "Biểu cảm 3",
+      "Chuyện gì cũng muốn nói với nàng, nhỏ như vạn vật thế gian, lớn là ta phải lòng nàng đã lâu.",
+      "BQM0015"
+    ],
+    "11408": [
+      "Biểu cảm 3",
+      "Ngày này qua tháng nọ, chúng ta nắm tay nhau đi qua xuân hạ thu đông, gió sương mưa tuyết....",
+      "BQM0019"
+    ],
+    "11409": [
+      "Biểu cảm 3",
+      "Bầu trời tuyết luôn yên ắng, nhịp tim đập khi ôm nàng cũng trong trẻo lạ thường……",
+      "BQM0026"
+    ],
+    "11501": [
+      "Biểu cảm 1",
+      "Khi nàng nhìn về phía ta, ta cảm thấy bản thân đã có cả thế giới.",
+      "BALD0013"
+    ],
+    "11502": [
+      "Biểu cảm 1",
+      "Ta vẽ qua bao cảnh núi sông, nhưng nàng mới là tuyệt sắc thế gian.",
+      "BALD0003"
+    ],
+    "11503": [
+      "Biểu cảm 1",
+      "Hoa tươi, Ánh nắng, và nàng... đều là điều xinh đẹp nhất thế gian",
+      "BALD0016"
+    ],
+    "11504": [
+      "Biểu cảm 2",
+      "Muốn cùng nàng ước nguyện dưới pháo hoa, ôm nhau dưới sao trời, phong hoa tuyết nguyệt, dù ngày hay đêm.",
+      "BALD0005"
+    ],
+    "11505": [
+      "Biểu cảm 2",
+      "rong thế giới của ta, nàng là sự tồn tại không thể thay thế.",
+      "BALD0024"
+    ],
+    "11506": [
+      "Biểu cảm 2",
+      "Chi cần ở cạnh nàng, mỗi ngày của ta đều rất vui.",
+      "BALD0018"
+    ],
+    "11507": [
+      "Biểu cảm 3",
+      "Đối với ta, món quà quý giá nhất, là nàng ở bên ta.",
+      "BALD0011"
+    ],
+    "11508": [
+      "Biểu cảm 3",
+      "Trên đời có vô số những điều tốt đẹp, nhưng ta chỉ yêu mỗi nàng.",
+      "BALD0015"
+    ],
+    "11509": [
+      "Biểu cảm 3",
+      "Thích nàng, thích nàng, thích nàng... Nói vạn lần cũng không chán.",
+      "BALD0022"
+    ],
+    "11601": [
+      "Biểu cảm 1",
+      "Có thể gặp được nàng trong thời gian đẹp nhất, chính là hạnh phúc.",
+      "BALG00016"
+    ],
+    "11602": [
+      "Biểu cảm 1",
+      "Thời gian thật thú vị, khiến nàng và ta, trở thành đôi ta.",
+      "BALG00018"
+    ],
+    "11603": [
+      "Biểu cảm 1",
+      "Trong mắt ta, nàng đẹp như mùa xuân, tao nhã như thơ.",
+      "BALG00023"
+    ],
+    "11604": [
+      "Biểu cảm 2",
+      "Chậm rãi là một từ đẹp đẽ, chậm rãi gặp nhau, chậm rãi trưởng thành, chậm rãi đi qua dòng chảy của thời gian.",
+      "BALG0031"
+    ],
+    "11605": [
+      "Biểu cảm 2",
+      "Ngày xuân tươi đẹp, hoa xuân rạng rỡ, muốn nghe một khúc sáo ngày xuân chăng?",
+      "BALG0026"
+    ],
+    "11606": [
+      "Biểu cảm 2",
+      "Mưa xuân lất phất, ngựa xe chậm rãi, thư ta gửi, nàng đã nhận được chưa?",
+      "BALG0030"
+    ],
+    "11607": [
+      "Biểu cảm 3",
+      "Uyên ương suốt kiếp… nàng bằng lòng thực hiện cùng ta chứ?",
+      "BALG015"
+    ],
+    "11608": [
+      "Biểu cảm 3",
+      "Ta muốn nàng biết rằng, nàng xứng đáng có được mọi sự tốt đẹp của thế giới này.",
+      "BALG0032"
+    ],
+    "11609": [
+      "Biểu cảm 3",
+      "Luôn muốn tặng tất cả những thứ tốt đẹp mà ta có cho nàng, bao gồm tấm lòng của ta.",
+      "BALG00024"
+    ],
+    "11701": [
+      "Biểu cảm 1",
+      "Nàng có vẻ bí ẩn nhỉ, lại cho trẫm bất ngờ gì thế?",
+      "BHL0007"
+    ],
+    "11702": [
+      "Biểu cảm 1",
+      "Nàng cầm thứ gì đằng sau thế? Còn muốn giấu trẫm?",
+      "BHL0008"
+    ],
+    "11703": [
+      "Biểu cảm 1",
+      "Chuẩn bị quà sanh thần cho trẫm cũng được, nhưng đừng khiến mình mệt quá đấy.",
+      "BHL0009"
+    ],
+    "11704": [
+      "Biểu cảm 2",
+      "Nàng đó, ỷ trẫm không nỡ xa nàng.",
+      "BHL0021"
+    ],
+    "11705": [
+      "Biểu cảm 2",
+      "Có nàng ở dây, quà gì trẫm cũng thích.",
+      "BHL0019"
+    ],
+    "11706": [
+      "Biểu cảm 2",
+      "Món quà này trẫm thích. Nhưng trẫm vẫn còn muốn một món quà nữa...",
+      "BHL0015"
+    ],
+    "11707": [
+      "Biểu cảm 3",
+      "Có nàng bên cạnh rồi, trẫm cần mấy thứ đó làm gì?",
+      "BHL0012"
+    ],
+    "11708": [
+      "Biểu cảm 3",
+      "Ước muốn không thay đổi của ta là được ở bên nàng, cho dù mỗi năm đều ước một lần, cũng không chán.",
+      "BHL0033"
+    ],
+    "11709": [
+      "Biểu cảm 3",
+      "Cuộc đời con người ngắn ngủi, mỗi một ngày được ở bên nàng đều khắc ghi trong lòng trẫm.",
+      "BHL0023"
+    ],
+    "11801": [
+      "Biểu cảm 1",
+      "Vì sao yên lòng? Khi có nàng bên cạnh chính là đáp án.",
+      "BQM0011"
+    ],
+    "11802": [
+      "Biểu cảm 1",
+      "Từ khi gặp nàng, ta mới biết tất cả câu chuyện đã bắt đầu…",
+      "BQM0005"
+    ],
+    "11803": [
+      "Biểu cảm 1",
+      "Nửa chừng bỏ dở thì không được… Nàng phải… phải… luôn thích ta.",
+      "BQM0008"
+    ],
+    "11804": [
+      "Biểu cảm 2",
+      "Muốn ta ước nguyện? Vậy thì ta mong là… Năm tháng trôi qua, ta và nàng vẫn nắm tay nhau.",
+      "BQM0007"
+    ],
+    "11805": [
+      "Biểu cảm 2",
+      "Ta vẽ từng nét tên nàng vào tương lai của ta…",
+      "BQM0014"
+    ],
+    "11806": [
+      "Biểu cảm 2",
+      "Tất cả bảo vật trên thế gian đều không sánh bằng có nàng bên cạnh",
+      "BQM0001"
+    ],
+    "11807": [
+      "Biểu cảm 3",
+      "Chuyện gì cũng muốn nói với nàng, nhỏ như vạn vật thế gian, lớn là ta phải lòng nàng đã lâu.",
+      "BQM0015"
+    ],
+    "11808": [
+      "Biểu cảm 3",
+      "Ngày này qua tháng nọ, chúng ta nắm tay nhau đi qua xuân hạ thu đông, gió sương mưa tuyết....",
+      "BQM0019"
+    ],
+    "11809": [
+      "Biểu cảm 3",
+      "Bầu trời tuyết luôn yên ắng, nhịp tim đập khi ôm nàng cũng trong trẻo lạ thường……",
+      "BQM0026"
+    ],
+    "11901": [
+      "Biểu cảm 1",
+      "Khi nàng nhìn về phía ta, ta cảm thấy bản thân đã có cả thế giới.",
+      "BALD0013"
+    ],
+    "11902": [
+      "Biểu cảm 1",
+      "Ta vẽ qua bao cảnh núi sông, nhưng nàng mới là tuyệt sắc thế gian.",
+      "BALD0003"
+    ],
+    "11903": [
+      "Biểu cảm 1",
+      "Hoa tươi, Ánh nắng, và nàng... đều là điều xinh đẹp nhất thế gian",
+      "BALD0016"
+    ],
+    "11904": [
+      "Biểu cảm 2",
+      "Muốn cùng nàng ước nguyện dưới pháo hoa, ôm nhau dưới sao trời, phong hoa tuyết nguyệt, dù ngày hay đêm.",
+      "BALD0005"
+    ],
+    "11905": [
+      "Biểu cảm 2",
+      "rong thế giới của ta, nàng là sự tồn tại không thể thay thế.",
+      "BALD0024"
+    ],
+    "11906": [
+      "Biểu cảm 2",
+      "Chi cần ở cạnh nàng, mỗi ngày của ta đều rất vui.",
+      "BALD0018"
+    ],
+    "11907": [
+      "Biểu cảm 3",
+      "Đối với ta, món quà quý giá nhất, là nàng ở bên ta.",
+      "BALD0011"
+    ],
+    "11908": [
+      "Biểu cảm 3",
+      "Trên đời có vô số những điều tốt đẹp, nhưng ta chỉ yêu mỗi nàng.",
+      "BALD0015"
+    ],
+    "11909": [
+      "Biểu cảm 3",
+      "Thích nàng, thích nàng, thích nàng... Nói vạn lần cũng không chán.",
+      "BALD0022"
+    ],
+    "12001": [
+      "Biểu cảm 1",
+      "Điều duy nhất ta phải làm, là bảo vệ nàng.",
+      "BALG0007"
+    ],
+    "12002": [
+      "Biểu cảm 1",
+      "Nơi có nàng bên cạnh, đều là vườn đào.",
+      "BALG0008"
+    ],
+    "12003": [
+      "Biểu cảm 1",
+      "Lúc nhớ nàng, gió mát trăng thanh.",
+      "BALG0009"
+    ],
+    "12004": [
+      "Biểu cảm 2",
+      "Dù phía trước chông gai, ta chỉ muốn ở bên nàng.",
+      "BALG010"
+    ],
+    "12005": [
+      "Biểu cảm 2",
+      "Ta mong giúp nàng vô lo, bình an yên vui trọn đời.",
+      "BALG011"
+    ],
+    "12006": [
+      "Biểu cảm 2",
+      "Mong có ngày sớm tối bên nàng, đi qua giông bão…",
+      "BALG012"
+    ],
+    "12007": [
+      "Biểu cảm 3",
+      "Chè sen ngon quá… hay nàng thử chút đi?",
+      "BALG013"
+    ],
+    "12008": [
+      "Biểu cảm 3",
+      "Đời này chỉ động lòng với mình nàng.",
+      "BALG014"
+    ],
+    "12009": [
+      "Biểu cảm 3",
+      "Uyên ương suốt kiếp… nàng bằng lòng thực hiện cùng ta chứ?",
+      "BALG015"
+    ],
+    "12101": [
+      "Biểu cảm 1",
+      "Nàng có vẻ bí ẩn nhỉ, lại cho trẫm bất ngờ gì thế?",
+      "BHL0007"
+    ],
+    "12102": [
+      "Biểu cảm 1",
+      "Nàng cầm thứ gì đằng sau thế? Còn muốn giấu trẫm?",
+      "BHL0008"
+    ],
+    "12103": [
+      "Biểu cảm 1",
+      "Chuẩn bị quà sanh thần cho trẫm cũng được, nhưng đừng khiến mình mệt quá đấy.",
+      "BHL0009"
+    ],
+    "12104": [
+      "Biểu cảm 2",
+      "Nàng đó, ỷ trẫm không nỡ xa nàng.",
+      "BHL0021"
+    ],
+    "12105": [
+      "Biểu cảm 2",
+      "Có nàng ở dây, quà gì trẫm cũng thích.",
+      "BHL0019"
+    ],
+    "12106": [
+      "Biểu cảm 2",
+      "Món quà này trẫm thích. Nhưng trẫm vẫn còn muốn một món quà nữa...",
+      "BHL0015"
+    ],
+    "12107": [
+      "Biểu cảm 3",
+      "Có nàng bên cạnh rồi, trẫm cần mấy thứ đó làm gì?",
+      "BHL0012"
+    ],
+    "12108": [
+      "Biểu cảm 3",
+      "Ước muốn không thay đổi của ta là được ở bên nàng, cho dù mỗi năm đều ước một lần, cũng không chán.",
+      "BHL0033"
+    ],
+    "12109": [
+      "Biểu cảm 3",
+      "Cuộc đời con người ngắn ngủi, mỗi một ngày được ở bên nàng đều khắc ghi trong lòng trẫm.",
+      "BHL0023"
+    ],
+    "12201": [
+      "Biểu cảm 1",
+      "Vì sao yên lòng? Khi có nàng bên cạnh chính là đáp án.",
+      "BQM0011"
+    ],
+    "12202": [
+      "Biểu cảm 1",
+      "Từ khi gặp nàng, ta mới biết tất cả câu chuyện đã bắt đầu…",
+      "BQM0005"
+    ],
+    "12203": [
+      "Biểu cảm 1",
+      "Nửa chừng bỏ dở thì không được… Nàng phải… phải… luôn thích ta.",
+      "BQM0008"
+    ],
+    "12204": [
+      "Biểu cảm 2",
+      "Muốn ta ước nguyện? Vậy thì ta mong là… Năm tháng trôi qua, ta và nàng vẫn nắm tay nhau.",
+      "BQM0007"
+    ],
+    "12205": [
+      "Biểu cảm 2",
+      "Ta vẽ từng nét tên nàng vào tương lai của ta…",
+      "BQM0014"
+    ],
+    "12206": [
+      "Biểu cảm 2",
+      "Tất cả bảo vật trên thế gian đều không sánh bằng có nàng bên cạnh",
+      "BQM0001"
+    ],
+    "12207": [
+      "Biểu cảm 3",
+      "Chuyện gì cũng muốn nói với nàng, nhỏ như vạn vật thế gian, lớn là ta phải lòng nàng đã lâu.",
+      "BQM0015"
+    ],
+    "12208": [
+      "Biểu cảm 3",
+      "Ngày này qua tháng nọ, chúng ta nắm tay nhau đi qua xuân hạ thu đông, gió sương mưa tuyết....",
+      "BQM0019"
+    ],
+    "12209": [
+      "Biểu cảm 3",
+      "Bầu trời tuyết luôn yên ắng, nhịp tim đập khi ôm nàng cũng trong trẻo lạ thường……",
+      "BQM0026"
+    ]
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "colMap": [
+    "name",
+    "icon",
+    "fruitName",
+    "des",
+    "harvestReward",
+    "visitNum",
+    "visitReward",
+    "shareReward",
+    "rewardValue"
+  ],
+  "list": {
+    "101": [
+      "Tình Bạn-Cây Táo",
+      "ho_m1",
+      "Tình Bạn-Táo",
+      "Quả táo tượng trưng cho tình bạn, thu thập có thể dùng để hoàn thành NV Tình Bạn. [Hiệu lực trong ngày]",
+      2,
+      8,
+      1,
+      [
+        [
+          2,
+          86,
+          -1
+        ]
+      ],
+      [
+        500,
+        0.5,
+        1000,
+        1.095,
+        30
+      ]
+    ],
+    "102": [
+      "Tình Bạn-Cây Lê",
+      "ho_m2",
+      "Tình Bạn-Lê",
+      "Hương lê tượng trưng cho tình bạn, thu thập có thể dùng để hoàn thành NV Tình Bạn. [Hiệu lực trong ngày]",
+      2,
+      8,
+      1,
+      [
+        [
+          2,
+          86,
+          -1
+        ]
+      ],
+      [
+        500,
+        0.5,
+        1000,
+        1.095,
+        30
+      ]
+    ],
+    "103": [
+      "Tình Bạn-Cây Cam",
+      "ho_m3",
+      "Tình Bạn-Cam",
+      "Liễu Cam tượng trưng cho tình bạn, thu thập có thể dùng để hoàn thành NV Tình Bạn. [Hiệu lực trong ngày]",
+      2,
+      8,
+      1,
+      [
+        [
+          2,
+          86,
+          -1
+        ]
+      ],
+      [
+        500,
+        0.5,
+        1000,
+        1.095,
+        30
+      ]
+    ],
+    "104": [
+      "Tình Bạn-Cây Mận",
+      "ho_m4",
+      "Tình Bạn-Mận",
+      "Mận Giòn tượng trưng cho tình bạn, thu thập có thể dùng để hoàn thành NV Tình Bạn. [Hiệu lực trong ngày]",
+      2,
+      8,
+      1,
+      [
+        [
+          2,
+          86,
+          -1
+        ]
+      ],
+      [
+        500,
+        0.5,
+        1000,
+        1.095,
+        30
+      ]
+    ],
+    "105": [
+      "Tình Bạn-Cây Đào",
+      "ho_m5",
+      "Tình Bạn-Đào",
+      "Đào tượng trưng cho tình bạn, thu thập có thể dùng để hoàn thành NV Tình Bạn. [Hiệu lực trong ngày]",
+      2,
+      8,
+      1,
+      [
+        [
+          2,
+          86,
+          -1
+        ]
+      ],
+      [
+        500,
+        0.5,
+        1000,
+        1.095,
+        30
+      ]
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "colMap": [
+    "question",
+    "weight",
+    "cost",
+    "questionType",
+    "arg1",
+    "arg2",
+    "arg3"
+  ],
+  "list": {
+    "10001": [
+      "Bang chia rẽ trong TOP10?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      1,
+      "10",
+      "",
+      ""
+    ],
+    "10002": [
+      "Bang chia rẽ có thành viên trong TOP10 Trung Cung Luận Chiến?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      2,
+      "10",
+      "",
+      ""
+    ],
+    "10003": [
+      "Bang chia rẽ đã đủ thành viên?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      3,
+      "-1",
+      "",
+      ""
+    ],
+    "10004": [
+      "Bang chia rẽ có thành viên tước vị đạt Trác Tần trở xuống?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      4,
+      "6",
+      "",
+      ""
+    ],
+    "10005": [
+      "Bang chia rẽ có thành viên trong TOP30 Đua Thế Lực?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      5,
+      "30",
+      "",
+      ""
+    ],
+    "10006": [
+      "Bang chia rẽ Điểm Thế Lực vượt qua 1000000000?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      6,
+      "100000000",
+      "",
+      ""
+    ],
+    "10007": [
+      "Tên Bang chia rẽ từ 3 ký tự trở lên?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      7,
+      "3",
+      "",
+      ""
+    ],
+    "10008": [
+      "Cấp Bang chia rẽ từ Lv3 trở lên?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      8,
+      "3",
+      "",
+      ""
+    ],
+    "10009": [
+      "Bang chia rẽ có thành viên trong TOP30 Đua Tranh Phi?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      9,
+      "30",
+      "",
+      ""
+    ],
+    "10010": [
+      "Bang chia rẽ có thành viên VIP5 trở lên?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      10,
+      "5",
+      "",
+      ""
+    ],
+    "10011": [
+      "Bang chia rẽ trong TOP5 Sự kiện Quyền Quý Hoàng Thành?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      11,
+      "5",
+      "",
+      ""
+    ],
+    "10012": [
+      "Bang chia rẽ có thành viên đạt tước vị Thứ Phi trở lên?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      12,
+      "11",
+      "",
+      ""
+    ],
+    "10013": [
+      "Bang chia rẽ tối thiểu có 2 Phó Bang?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      13,
+      "2",
+      "",
+      ""
+    ],
+    "10014": [
+      "Bang chia rẽ có thành viên trong TOP20 Đua Cốt Truyện?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      14,
+      "20",
+      "",
+      ""
+    ]
+  }
+}

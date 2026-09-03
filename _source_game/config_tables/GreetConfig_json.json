@@ -1,0 +1,52 @@
+{
+  "colMap": [
+    "name",
+    "resource",
+    "fullResource",
+    "banner"
+  ],
+  "list": {
+    "1000": [
+      "Hoàng Hậu",
+      "rd_1",
+      "full50-0101",
+      "rd_e5_cn"
+    ],
+    "1001": [
+      "Tĩnh Quý Phi",
+      "rd_2",
+      "full50-0201",
+      "rd_e6_cn"
+    ],
+    "1002": [
+      "Tuệ Quý Phi",
+      "rd_3",
+      "full50-0201",
+      "rd_e7_cn"
+    ],
+    "1003": [
+      "Dung Quý Phi",
+      "rd_4",
+      "full50-0201",
+      "rd_e8_cn"
+    ],
+    "1004": [
+      "Hoa Quý Phi",
+      "rd_5",
+      "full50-0201",
+      "rd_e9_cn"
+    ],
+    "1005": [
+      "Trang Quý Phi",
+      "rd_6",
+      "full50-0201",
+      "rd_e10_cn"
+    ],
+    "1006": [
+      "Thần Quý Phi",
+      "rd_7",
+      "full50-0201",
+      "rd_e11_cn"
+    ]
+  }
+}

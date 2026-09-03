@@ -1,0 +1,2851 @@
+{
+  "colMap": [
+    "activityID",
+    "name",
+    "icon",
+    "nextID",
+    "locationID",
+    "itemID",
+    "description",
+    "needScore",
+    "typeIcon",
+    "popCoords"
+  ],
+  "list": {
+    "1010101": [
+      180101,
+      "Món Ngon",
+      "ms_c1,",
+      1010102,
+      1,
+      [
+        [
+          17,
+          100001,
+          1
+        ]
+      ],
+      "Lần đầu làm nem rán cho Hoàng Thượng, ngươi đốt luôn Ngự Thiện Phòng.",
+      0,
+      "ms_14_cn",
+      [
+        430,
+        450
+      ]
+    ],
+    "1010102": [
+      180101,
+      "Món Ngon",
+      "ms_c2,ms_c4",
+      1010103,
+      1,
+      [
+        [
+          17,
+          100001,
+          1
+        ]
+      ],
+      "Lần đầu làm nem rán cho Hoàng Thượng, ngươi đốt luôn Ngự Thiện Phòng.",
+      120,
+      "ms_14_cn",
+      [
+        430,
+        450
+      ]
+    ],
+    "1010103": [
+      180101,
+      "Món Ngon",
+      "ms_c3,ms_c5",
+      0,
+      1,
+      [
+        [
+          17,
+          100001,
+          1
+        ]
+      ],
+      "Lần đầu làm nem rán cho Hoàng Thượng, ngươi đốt luôn Ngự Thiện Phòng.",
+      200,
+      "ms_14_cn",
+      [
+        430,
+        450
+      ]
+    ],
+    "1010201": [
+      180101,
+      "Đèn Đứng",
+      "ms_b1,",
+      1010202,
+      2,
+      [
+        [
+          17,
+          100002,
+          1
+        ]
+      ],
+      "Hoàng Thượng nói ngươi phải cầm cung đăng mới tìm được nữ nhân, ngươi hỏi lý do, ngài ấy nói vì ngươi quá đen. ",
+      0,
+      "ms_10_cn",
+      [
+        170,
+        510
+      ]
+    ],
+    "1010202": [
+      180101,
+      "Đèn Đứng",
+      "ms_b2,ms_b4",
+      1010203,
+      2,
+      [
+        [
+          17,
+          100002,
+          1
+        ]
+      ],
+      "Hoàng Thượng nói ngươi phải cầm cung đăng mới tìm được nữ nhân, ngươi hỏi lý do, ngài ấy nói vì ngươi quá đen. ",
+      120,
+      "ms_10_cn",
+      [
+        170,
+        510
+      ]
+    ],
+    "1010203": [
+      180101,
+      "Đèn Đứng",
+      "ms_b3,ms_b5",
+      0,
+      2,
+      [
+        [
+          17,
+          100002,
+          1
+        ]
+      ],
+      "Hoàng Thượng nói ngươi phải cầm cung đăng mới tìm được nữ nhân, ngươi hỏi lý do, ngài ấy nói vì ngươi quá đen. ",
+      200,
+      "ms_10_cn",
+      [
+        170,
+        510
+      ]
+    ],
+    "1010301": [
+      180101,
+      "Bình rượu",
+      "ms_a1,",
+      1010302,
+      3,
+      [
+        [
+          17,
+          100003,
+          1
+        ]
+      ],
+      "Ngươi nói muốn ăn gà chiên và bia, nên Hoàng Thượng đã sai người chiên gà, rồi dùng da gà để làm 'bia'.",
+      0,
+      "ms_12_cn",
+      [
+        240,
+        320
+      ]
+    ],
+    "1010302": [
+      180101,
+      "Bình rượu",
+      "ms_a2,ms_a4",
+      1010303,
+      3,
+      [
+        [
+          17,
+          100003,
+          1
+        ]
+      ],
+      "Ngươi nói muốn ăn gà chiên và bia, nên Hoàng Thượng đã sai người chiên gà, rồi dùng da gà để làm 'bia'.",
+      120,
+      "ms_12_cn",
+      [
+        240,
+        320
+      ]
+    ],
+    "1010303": [
+      180101,
+      "Bình rượu",
+      "ms_a3,ms_a5",
+      0,
+      3,
+      [
+        [
+          17,
+          100003,
+          1
+        ]
+      ],
+      "Ngươi nói muốn ăn gà chiên và bia, nên Hoàng Thượng đã sai người chiên gà, rồi dùng da gà để làm 'bia'.",
+      200,
+      "ms_12_cn",
+      [
+        240,
+        320
+      ]
+    ],
+    "1010401": [
+      180101,
+      "Ghế",
+      "ms_d1,",
+      1010402,
+      4,
+      [
+        [
+          17,
+          100004,
+          1
+        ]
+      ],
+      "Trong Ngự Thư Phòng có chiếc ghế rất đẹp, ngươi rất thích, Hoàng Thượng biết liền hạ chỉ bảo ngươi mỗi quà qua đó xem...ghế. ",
+      0,
+      "ms_13_cn",
+      [
+        50,
+        250
+      ]
+    ],
+    "1010402": [
+      180101,
+      "Ghế",
+      "ms_d2,ms_d4",
+      1010403,
+      4,
+      [
+        [
+          17,
+          100004,
+          1
+        ]
+      ],
+      "Trong Ngự Thư Phòng có chiếc ghế rất đẹp, ngươi rất thích, Hoàng Thượng biết liền hạ chỉ bảo ngươi mỗi quà qua đó xem...ghế. ",
+      240,
+      "ms_13_cn",
+      [
+        50,
+        250
+      ]
+    ],
+    "1010403": [
+      180101,
+      "Ghế",
+      "ms_d3,ms_d5",
+      0,
+      4,
+      [
+        [
+          17,
+          100004,
+          1
+        ]
+      ],
+      "Trong Ngự Thư Phòng có chiếc ghế rất đẹp, ngươi rất thích, Hoàng Thượng biết liền hạ chỉ bảo ngươi mỗi quà qua đó xem...ghế. ",
+      400,
+      "ms_13_cn",
+      [
+        50,
+        250
+      ]
+    ],
+    "1010501": [
+      180101,
+      "Bình Phong",
+      "ms_f1,",
+      1010502,
+      5,
+      [
+        [
+          17,
+          100005,
+          1
+        ]
+      ],
+      "Lần đầu nhìn thấy bình phong nghe nói là Hoàng Thượng thích nhất, ngươi đột nhiên hiểu cái gọi là 'thẩm mỹ nông gia lạc'",
+      0,
+      "ms_11_cn",
+      [
+        316,
+        697
+      ]
+    ],
+    "1010502": [
+      180101,
+      "Bình Phong",
+      "ms_f2,ms_f4",
+      1010503,
+      5,
+      [
+        [
+          17,
+          100005,
+          1
+        ]
+      ],
+      "Lần đầu nhìn thấy bình phong nghe nói là Hoàng Thượng thích nhất, ngươi đột nhiên hiểu cái gọi là 'thẩm mỹ nông gia lạc'",
+      300,
+      "ms_11_cn",
+      [
+        316,
+        697
+      ]
+    ],
+    "1010503": [
+      180101,
+      "Bình Phong",
+      "ms_f3,ms_f5",
+      0,
+      5,
+      [
+        [
+          17,
+          100005,
+          1
+        ]
+      ],
+      "Lần đầu nhìn thấy bình phong nghe nói là Hoàng Thượng thích nhất, ngươi đột nhiên hiểu cái gọi là 'thẩm mỹ nông gia lạc'",
+      500,
+      "ms_11_cn",
+      [
+        316,
+        697
+      ]
+    ],
+    "1020101": [
+      180102,
+      "Cung Nỏ",
+      "ms_j1,",
+      1020102,
+      1,
+      [
+        [
+          17,
+          100006,
+          1
+        ]
+      ],
+      "A Lý Cổn tinh thông kỳ xạ, bách phát bách trúng",
+      0,
+      "ms_g2_cn",
+      [
+        290,
+        748
+      ]
+    ],
+    "1020102": [
+      180102,
+      "Cung Nỏ",
+      "ms_j2,ms_j4",
+      1020103,
+      1,
+      [
+        [
+          17,
+          100006,
+          1
+        ]
+      ],
+      "A Lý Cổn tinh thông kỳ xạ, bách phát bách trúng",
+      120,
+      "ms_g2_cn",
+      [
+        290,
+        748
+      ]
+    ],
+    "1020103": [
+      180102,
+      "Cung Nỏ",
+      "ms_j3,ms_j5",
+      0,
+      1,
+      [
+        [
+          17,
+          100006,
+          1
+        ]
+      ],
+      "A Lý Cổn tinh thông kỳ xạ, bách phát bách trúng",
+      200,
+      "ms_g2_cn",
+      [
+        290,
+        748
+      ]
+    ],
+    "1020201": [
+      180102,
+      "Tiễn Vũ",
+      "ms_l1,",
+      1020202,
+      2,
+      [
+        [
+          17,
+          100007,
+          1
+        ]
+      ],
+      "A Lý Cổn thay ngươi chặn mũi tên, vừa chặn là chính xác!",
+      0,
+      "ms_g3_cn",
+      [
+        327,
+        630
+      ]
+    ],
+    "1020202": [
+      180102,
+      "Tiễn Vũ",
+      "ms_l2,ms_l4",
+      1020203,
+      2,
+      [
+        [
+          17,
+          100007,
+          1
+        ]
+      ],
+      "A Lý Cổn thay ngươi chặn mũi tên, vừa chặn là chính xác!",
+      120,
+      "ms_g3_cn",
+      [
+        327,
+        630
+      ]
+    ],
+    "1020203": [
+      180102,
+      "Tiễn Vũ",
+      "ms_l3,ms_l5",
+      0,
+      2,
+      [
+        [
+          17,
+          100007,
+          1
+        ]
+      ],
+      "A Lý Cổn thay ngươi chặn mũi tên, vừa chặn là chính xác!",
+      200,
+      "ms_g3_cn",
+      [
+        327,
+        630
+      ]
+    ],
+    "1020301": [
+      180102,
+      "Bệ Than",
+      "ms_i1,",
+      1020302,
+      3,
+      [
+        [
+          17,
+          100008,
+          1
+        ]
+      ],
+      "A Lý Cổn đứng bên cạnh giá lửa than trực ban, mặt sắp thành màu nâu rồi...",
+      0,
+      "ms_g5_cn",
+      [
+        245,
+        281
+      ]
+    ],
+    "1020302": [
+      180102,
+      "Bệ Than",
+      "ms_i2,ms_i4",
+      1020303,
+      3,
+      [
+        [
+          17,
+          100008,
+          1
+        ]
+      ],
+      "A Lý Cổn đứng bên cạnh giá lửa than trực ban, mặt sắp thành màu nâu rồi...",
+      120,
+      "ms_g5_cn",
+      [
+        245,
+        281
+      ]
+    ],
+    "1020303": [
+      180102,
+      "Bệ Than",
+      "ms_i3,ms_i5",
+      0,
+      3,
+      [
+        [
+          17,
+          100008,
+          1
+        ]
+      ],
+      "A Lý Cổn đứng bên cạnh giá lửa than trực ban, mặt sắp thành màu nâu rồi...",
+      200,
+      "ms_g5_cn",
+      [
+        245,
+        281
+      ]
+    ],
+    "1020401": [
+      180102,
+      "Sùng dài ",
+      "ms_h1,",
+      1020402,
+      4,
+      [
+        [
+          17,
+          100009,
+          1
+        ]
+      ],
+      "A Lý Cổn múa thương rất lợi hại, nhưng chỉ chịu múa cho mình ngươi xem. ",
+      0,
+      "ms_g4_cn",
+      [
+        12,
+        215
+      ]
+    ],
+    "1020402": [
+      180102,
+      "Sùng dài ",
+      "ms_h2,ms_h4",
+      1020403,
+      4,
+      [
+        [
+          17,
+          100009,
+          1
+        ]
+      ],
+      "A Lý Cổn múa thương rất lợi hại, nhưng chỉ chịu múa cho mình ngươi xem. ",
+      240,
+      "ms_g4_cn",
+      [
+        12,
+        215
+      ]
+    ],
+    "1020403": [
+      180102,
+      "Sùng dài ",
+      "ms_h3,ms_h5",
+      0,
+      4,
+      [
+        [
+          17,
+          100009,
+          1
+        ]
+      ],
+      "A Lý Cổn múa thương rất lợi hại, nhưng chỉ chịu múa cho mình ngươi xem. ",
+      400,
+      "ms_g4_cn",
+      [
+        12,
+        215
+      ]
+    ],
+    "1020501": [
+      180102,
+      "Trống Tròn",
+      "ms_k1,",
+      1020502,
+      5,
+      [
+        [
+          17,
+          100010,
+          1
+        ]
+      ],
+      "A Lý Cổn nói đồng ý là trống của ngươi, tức giận có thể đánh hắn trút giận, ngươi hỏi trai thẳng này có phải đã coi ngươi thành chày không. ",
+      0,
+      "ms_g1_cn",
+      [
+        434,
+        240
+      ]
+    ],
+    "1020502": [
+      180102,
+      "Trống Tròn",
+      "ms_k2,ms_k4",
+      1020503,
+      5,
+      [
+        [
+          17,
+          100010,
+          1
+        ]
+      ],
+      "A Lý Cổn nói đồng ý là trống của ngươi, tức giận có thể đánh hắn trút giận, ngươi hỏi trai thẳng này có phải đã coi ngươi thành chày không. ",
+      300,
+      "ms_g1_cn",
+      [
+        434,
+        240
+      ]
+    ],
+    "1020503": [
+      180102,
+      "Trống Tròn",
+      "ms_k3,ms_k5",
+      0,
+      5,
+      [
+        [
+          17,
+          100010,
+          1
+        ]
+      ],
+      "A Lý Cổn nói đồng ý là trống của ngươi, tức giận có thể đánh hắn trút giận, ngươi hỏi trai thẳng này có phải đã coi ngươi thành chày không. ",
+      500,
+      "ms_g1_cn",
+      [
+        434,
+        240
+      ]
+    ],
+    "1030101": [
+      180103,
+      "Hoa Sen",
+      "ms_o1",
+      1030102,
+      1,
+      [
+        [
+          17,
+          100011,
+          1
+        ]
+      ],
+      "Mỗi ngày ngươi cùng Alendi vẽ hoa sen thật là chán, liền kể cho ngài ấy nghe câu chuyện giữa Dung Ma Ma và Hạ Vũ Hà suốt mấy giờ liền.",
+      0,
+      "ms_t6_cn",
+      [
+        375,
+        245
+      ]
+    ],
+    "1030102": [
+      180103,
+      "Hoa Sen",
+      "ms_o2,ms_o4",
+      1030103,
+      1,
+      [
+        [
+          17,
+          100011,
+          1
+        ]
+      ],
+      "Mỗi ngày ngươi cùng Alendi vẽ hoa sen thật là chán, liền kể cho ngài ấy nghe câu chuyện giữa Dung Ma Ma và Hạ Vũ Hà suốt mấy giờ liền.",
+      120,
+      "ms_t6_cn",
+      [
+        375,
+        245
+      ]
+    ],
+    "1030103": [
+      180103,
+      "Hoa Sen",
+      "ms_o3,ms_o5",
+      0,
+      1,
+      [
+        [
+          17,
+          100011,
+          1
+        ]
+      ],
+      "Mỗi ngày ngươi cùng Alendi vẽ hoa sen thật là chán, liền kể cho ngài ấy nghe câu chuyện giữa Dung Ma Ma và Hạ Vũ Hà suốt mấy giờ liền.",
+      200,
+      "ms_t6_cn",
+      [
+        375,
+        245
+      ]
+    ],
+    "1030201": [
+      180103,
+      "Tay vịn",
+      "ms_n1",
+      1030202,
+      2,
+      [
+        [
+          17,
+          100012,
+          1
+        ]
+      ],
+      "Alendi ngồi ở lan can giơ đôi tay làm mũng với ngươi, ngươi phát hiện bản thân tràn lan tình thương của mẹ~",
+      0,
+      "ms_t3_cn",
+      [
+        235,
+        355
+      ]
+    ],
+    "1030202": [
+      180103,
+      "Tay vịn",
+      "ms_n2,ms_n4",
+      1030203,
+      2,
+      [
+        [
+          17,
+          100012,
+          1
+        ]
+      ],
+      "Alendi ngồi ở lan can giơ đôi tay làm mũng với ngươi, ngươi phát hiện bản thân tràn lan tình thương của mẹ~",
+      120,
+      "ms_t3_cn",
+      [
+        235,
+        355
+      ]
+    ],
+    "1030203": [
+      180103,
+      "Tay vịn",
+      "ms_n3,ms_n5",
+      0,
+      2,
+      [
+        [
+          17,
+          100012,
+          1
+        ]
+      ],
+      "Alendi ngồi ở lan can giơ đôi tay làm mũng với ngươi, ngươi phát hiện bản thân tràn lan tình thương của mẹ~",
+      200,
+      "ms_t3_cn",
+      [
+        235,
+        355
+      ]
+    ],
+    "1030301": [
+      180103,
+      "Ghế đẩu",
+      "ms_r1",
+      1030302,
+      3,
+      [
+        [
+          17,
+          100013,
+          1
+        ]
+      ],
+      "Ngươi vẽ bầu rượu trên ghế ngồi của Alendi, huynh cười với ngươi nói: “Cảm ơn muội vẽ một con ngỗng trắng tặng ta.”",
+      0,
+      "ms_t4_cn",
+      [
+        145,
+        475
+      ]
+    ],
+    "1030302": [
+      180103,
+      "Ghế đẩu",
+      "ms_r2,ms_r4",
+      1030303,
+      3,
+      [
+        [
+          17,
+          100013,
+          1
+        ]
+      ],
+      "Ngươi vẽ bầu rượu trên ghế ngồi của Alendi, huynh cười với ngươi nói: “Cảm ơn muội vẽ một con ngỗng trắng tặng ta.”",
+      120,
+      "ms_t4_cn",
+      [
+        145,
+        475
+      ]
+    ],
+    "1030303": [
+      180103,
+      "Ghế đẩu",
+      "ms_r3,ms_r5",
+      0,
+      3,
+      [
+        [
+          17,
+          100013,
+          1
+        ]
+      ],
+      "Ngươi vẽ bầu rượu trên ghế ngồi của Alendi, huynh cười với ngươi nói: “Cảm ơn muội vẽ một con ngỗng trắng tặng ta.”",
+      200,
+      "ms_t4_cn",
+      [
+        145,
+        475
+      ]
+    ],
+    "1030401": [
+      180103,
+      "Thức ăn",
+      "ms_q1",
+      1030402,
+      4,
+      [
+        [
+          17,
+          100014,
+          1
+        ]
+      ],
+      "Ăn xong mì cá ngươi làm, Alendi đã uống hết một xô nước.",
+      0,
+      "ms_t2_cn",
+      [
+        345,
+        525
+      ]
+    ],
+    "1030402": [
+      180103,
+      "Thức ăn",
+      "ms_q2,ms_q4",
+      1030403,
+      4,
+      [
+        [
+          17,
+          100014,
+          1
+        ]
+      ],
+      "Ăn xong mì cá ngươi làm, Alendi đã uống hết một xô nước.",
+      240,
+      "ms_t2_cn",
+      [
+        345,
+        525
+      ]
+    ],
+    "1030403": [
+      180103,
+      "Thức ăn",
+      "ms_q3,ms_q5",
+      0,
+      4,
+      [
+        [
+          17,
+          100014,
+          1
+        ]
+      ],
+      "Ăn xong mì cá ngươi làm, Alendi đã uống hết một xô nước.",
+      400,
+      "ms_t2_cn",
+      [
+        345,
+        525
+      ]
+    ],
+    "1030501": [
+      180103,
+      "Bàn đá",
+      "ms_p1",
+      1030502,
+      5,
+      [
+        [
+          17,
+          100015,
+          1
+        ]
+      ],
+      "Alendi luôn nói muốn vẽ 1 bức tranh bạn ngủ gục trên bàn, bạn lại chưa từng đồng ý, vì ngủ gục dễ chảy nước bọt...",
+      0,
+      "ms_t5_cn",
+      [
+        280,
+        635
+      ]
+    ],
+    "1030502": [
+      180103,
+      "Bàn đá",
+      "ms_p2,ms_p4",
+      1030503,
+      5,
+      [
+        [
+          17,
+          100015,
+          1
+        ]
+      ],
+      "Alendi luôn nói muốn vẽ 1 bức tranh bạn ngủ gục trên bàn, bạn lại chưa từng đồng ý, vì ngủ gục dễ chảy nước bọt...",
+      300,
+      "ms_t5_cn",
+      [
+        280,
+        635
+      ]
+    ],
+    "1030503": [
+      180103,
+      "Bàn đá",
+      "ms_p3,ms_p5",
+      0,
+      5,
+      [
+        [
+          17,
+          100015,
+          1
+        ]
+      ],
+      "Alendi luôn nói muốn vẽ 1 bức tranh bạn ngủ gục trên bàn, bạn lại chưa từng đồng ý, vì ngủ gục dễ chảy nước bọt...",
+      500,
+      "ms_t5_cn",
+      [
+        280,
+        635
+      ]
+    ],
+    "1040101": [
+      180104,
+      "Đồng Hồ Cát",
+      "1010101",
+      1010102,
+      1,
+      [
+        [
+          17,
+          100016,
+          1
+        ]
+      ],
+      "Món quà sinh nhật đầu tiên ngươi tặng Tề Mặc là chiếc đồng hồ cát, y để nó trên đầu giường, đều ngắm nhìn nó trước khi đi ngủ.",
+      0,
+      "",
+      []
+    ],
+    "1040102": [
+      180104,
+      "Đồng Hồ Cát",
+      "1010102",
+      1010103,
+      1,
+      [
+        [
+          17,
+          100016,
+          1
+        ]
+      ],
+      "Món quà sinh nhật đầu tiên ngươi tặng Tề Mặc là chiếc đồng hồ cát, y để nó trên đầu giường, đều ngắm nhìn nó trước khi đi ngủ.",
+      60,
+      "",
+      []
+    ],
+    "1040103": [
+      180104,
+      "Đồng Hồ Cát",
+      "1010103",
+      0,
+      1,
+      [
+        [
+          17,
+          100016,
+          1
+        ]
+      ],
+      "Món quà sinh nhật đầu tiên ngươi tặng Tề Mặc là chiếc đồng hồ cát, y để nó trên đầu giường, đều ngắm nhìn nó trước khi đi ngủ.",
+      150,
+      "",
+      []
+    ],
+    "1040201": [
+      180104,
+      "Lễ Động Đất",
+      "1010201",
+      1010202,
+      2,
+      [
+        [
+          17,
+          100017,
+          1
+        ]
+      ],
+      "Mỗi khi Tề Mặc vì bách tính cải tiện Máy Địa Chấn, ngươi đều cảm thấy chàng đẹp trai.",
+      0,
+      "",
+      []
+    ],
+    "1040202": [
+      180104,
+      "Lễ Động Đất",
+      "1010202",
+      1010203,
+      2,
+      [
+        [
+          17,
+          100017,
+          1
+        ]
+      ],
+      "Mỗi khi Tề Mặc vì bách tính cải tiện Máy Địa Chấn, ngươi đều cảm thấy chàng đẹp trai.",
+      60,
+      "",
+      []
+    ],
+    "1040203": [
+      180104,
+      "Lễ Động Đất",
+      "1010203",
+      0,
+      2,
+      [
+        [
+          17,
+          100017,
+          1
+        ]
+      ],
+      "Mỗi khi Tề Mặc vì bách tính cải tiện Máy Địa Chấn, ngươi đều cảm thấy chàng đẹp trai.",
+      150,
+      "",
+      []
+    ],
+    "1040301": [
+      180104,
+      "Hình thiết kế",
+      "1010301",
+      1010302,
+      3,
+      [
+        [
+          17,
+          100018,
+          1
+        ]
+      ],
+      "Ngươi hỏi Tề Mặc nếu bản thiết kế và ngươi cùng rớt xuống nước sẽ cứu ai trước, hắn sẽ thành thực trả lời rằng hắn không có khả năng.",
+      0,
+      "",
+      []
+    ],
+    "1040302": [
+      180104,
+      "Hình thiết kế",
+      "1010302",
+      1010303,
+      3,
+      [
+        [
+          17,
+          100018,
+          1
+        ]
+      ],
+      "Ngươi hỏi Tề Mặc nếu bản thiết kế và ngươi cùng rớt xuống nước sẽ cứu ai trước, hắn sẽ thành thực trả lời rằng hắn không có khả năng.",
+      60,
+      "",
+      []
+    ],
+    "1040303": [
+      180104,
+      "Hình thiết kế",
+      "1010303",
+      0,
+      3,
+      [
+        [
+          17,
+          100018,
+          1
+        ]
+      ],
+      "Ngươi hỏi Tề Mặc nếu bản thiết kế và ngươi cùng rớt xuống nước sẽ cứu ai trước, hắn sẽ thành thực trả lời rằng hắn không có khả năng.",
+      150,
+      "",
+      []
+    ],
+    "1040401": [
+      180104,
+      "Đồng Hồ Máy",
+      "1010401",
+      1010402,
+      4,
+      [
+        [
+          17,
+          100019,
+          1
+        ]
+      ],
+      "Sau khi khiến ngươi tức giận, Tề Mặc không giỏi ăn nói đã làm một đồng hồ treo có 'chú chim xin lỗi' để tặng cho ngươi.",
+      0,
+      "",
+      []
+    ],
+    "1040402": [
+      180104,
+      "Đồng Hồ Máy",
+      "1010402",
+      1010403,
+      4,
+      [
+        [
+          17,
+          100019,
+          1
+        ]
+      ],
+      "Sau khi khiến ngươi tức giận, Tề Mặc không giỏi ăn nói đã làm một đồng hồ treo có 'chú chim xin lỗi' để tặng cho ngươi.",
+      200,
+      "",
+      []
+    ],
+    "1040403": [
+      180104,
+      "Đồng Hồ Máy",
+      "1010403",
+      0,
+      4,
+      [
+        [
+          17,
+          100019,
+          1
+        ]
+      ],
+      "Sau khi khiến ngươi tức giận, Tề Mặc không giỏi ăn nói đã làm một đồng hồ treo có 'chú chim xin lỗi' để tặng cho ngươi.",
+      500,
+      "",
+      []
+    ],
+    "1040501": [
+      180104,
+      "Xỉ Luân",
+      "1010501",
+      1010502,
+      5,
+      [
+        [
+          17,
+          100020,
+          1
+        ]
+      ],
+      "Ngươi vô tình làm hư bánh răng của Tề Mặc, mặt hắn tối sầm như 'Bao Công'",
+      0,
+      "",
+      []
+    ],
+    "1040502": [
+      180104,
+      "Xỉ Luân",
+      "1010502",
+      1010503,
+      5,
+      [
+        [
+          17,
+          100020,
+          1
+        ]
+      ],
+      "Ngươi vô tình làm hư bánh răng của Tề Mặc, mặt hắn tối sầm như 'Bao Công'",
+      400,
+      "",
+      []
+    ],
+    "1040503": [
+      180104,
+      "Xỉ Luân",
+      "1010503",
+      0,
+      5,
+      [
+        [
+          17,
+          100020,
+          1
+        ]
+      ],
+      "Ngươi vô tình làm hư bánh răng của Tề Mặc, mặt hắn tối sầm như 'Bao Công'",
+      1000,
+      "",
+      []
+    ],
+    "1050101": [
+      180105,
+      "Bánh Đậu Xanh",
+      "1010101",
+      1010102,
+      1,
+      [
+        [
+          17,
+          100021,
+          1
+        ]
+      ],
+      "Lần thứ 2 làm bánh đậu xanh cho Hoàng Thượng, ngươi đốt luôn cả Ngự Thiện Phòng.",
+      0,
+      "",
+      []
+    ],
+    "1050102": [
+      180105,
+      "Bánh Đậu Xanh",
+      "1010102",
+      1010103,
+      1,
+      [
+        [
+          17,
+          100021,
+          1
+        ]
+      ],
+      "Lần thứ 2 làm bánh đậu xanh cho Hoàng Thượng, ngươi đốt luôn cả Ngự Thiện Phòng.",
+      60,
+      "",
+      []
+    ],
+    "1050103": [
+      180105,
+      "Bánh Đậu Xanh",
+      "1010103",
+      0,
+      1,
+      [
+        [
+          17,
+          100021,
+          1
+        ]
+      ],
+      "Lần thứ 2 làm bánh đậu xanh cho Hoàng Thượng, ngươi đốt luôn cả Ngự Thiện Phòng.",
+      150,
+      "",
+      []
+    ],
+    "1050201": [
+      180105,
+      "Bàn",
+      "1010201",
+      1010202,
+      2,
+      [
+        [
+          17,
+          100022,
+          1
+        ]
+      ],
+      "Sau khi Hoàng Thượng hạ chỉ ngươi đến Ngự Thư Phòng xem bàn, rất nhiều phi tử học đòi, cái bàn đó bỗng nhiên được yêu thích.",
+      0,
+      "",
+      []
+    ],
+    "1050202": [
+      180105,
+      "Bàn",
+      "1010202",
+      1010203,
+      2,
+      [
+        [
+          17,
+          100022,
+          1
+        ]
+      ],
+      "Sau khi Hoàng Thượng hạ chỉ ngươi đến Ngự Thư Phòng xem bàn, rất nhiều phi tử học đòi, cái bàn đó bỗng nhiên được yêu thích.",
+      60,
+      "",
+      []
+    ],
+    "1050203": [
+      180105,
+      "Bàn",
+      "1010203",
+      0,
+      2,
+      [
+        [
+          17,
+          100022,
+          1
+        ]
+      ],
+      "Sau khi Hoàng Thượng hạ chỉ ngươi đến Ngự Thư Phòng xem bàn, rất nhiều phi tử học đòi, cái bàn đó bỗng nhiên được yêu thích.",
+      150,
+      "",
+      []
+    ],
+    "1050301": [
+      180105,
+      "Ghế đẩu",
+      "1010301",
+      1010302,
+      3,
+      [
+        [
+          17,
+          100023,
+          1
+        ]
+      ],
+      "Ngươi hỏi Hoàng Thượng có lo lắng ngươi luôn bị oán hận mà nghĩ đến chuyện tự tử không, Hoàng Thượng trả lời, nếu ngươi chán sống thì chắc chắn sẽ giúp một tay.",
+      0,
+      "",
+      []
+    ],
+    "1050302": [
+      180105,
+      "Ghế đẩu",
+      "1010302",
+      1010303,
+      3,
+      [
+        [
+          17,
+          100023,
+          1
+        ]
+      ],
+      "Ngươi hỏi Hoàng Thượng có lo lắng ngươi luôn bị oán hận mà nghĩ đến chuyện tự tử không, Hoàng Thượng trả lời, nếu ngươi chán sống thì chắc chắn sẽ giúp một tay.",
+      60,
+      "",
+      []
+    ],
+    "1050303": [
+      180105,
+      "Ghế đẩu",
+      "1010303",
+      0,
+      3,
+      [
+        [
+          17,
+          100023,
+          1
+        ]
+      ],
+      "Ngươi hỏi Hoàng Thượng có lo lắng ngươi luôn bị oán hận mà nghĩ đến chuyện tự tử không, Hoàng Thượng trả lời, nếu ngươi chán sống thì chắc chắn sẽ giúp một tay.",
+      150,
+      "",
+      []
+    ],
+    "1050401": [
+      180105,
+      "Bình rượu",
+      "1010401",
+      1010402,
+      4,
+      [
+        [
+          17,
+          100024,
+          1
+        ]
+      ],
+      "Ngươi hỏi Hoàng Thượng thích uống rượu gì, người bảo rượu Khánh Công.",
+      0,
+      "",
+      []
+    ],
+    "1050402": [
+      180105,
+      "Bình rượu",
+      "1010402",
+      1010403,
+      4,
+      [
+        [
+          17,
+          100024,
+          1
+        ]
+      ],
+      "Ngươi hỏi Hoàng Thượng thích uống rượu gì, người bảo rượu Khánh Công.",
+      200,
+      "",
+      []
+    ],
+    "1050403": [
+      180105,
+      "Bình rượu",
+      "1010403",
+      0,
+      4,
+      [
+        [
+          17,
+          100024,
+          1
+        ]
+      ],
+      "Ngươi hỏi Hoàng Thượng thích uống rượu gì, người bảo rượu Khánh Công.",
+      500,
+      "",
+      []
+    ],
+    "1050501": [
+      180105,
+      "Cây mẫu đơn",
+      "1010501",
+      1010502,
+      5,
+      [
+        [
+          17,
+          100025,
+          1
+        ]
+      ],
+      "Hoàng Thượng tặng ngươi 1 chậu hoa mẫu đơn, lại nhăn mày nói, vẫn là cảm thấy hoa bìm bìm thích hợp ngươi hơn. ",
+      0,
+      "",
+      []
+    ],
+    "1050502": [
+      180105,
+      "Cây mẫu đơn",
+      "1010502",
+      1010503,
+      5,
+      [
+        [
+          17,
+          100025,
+          1
+        ]
+      ],
+      "Hoàng Thượng tặng ngươi 1 chậu hoa mẫu đơn, lại nhăn mày nói, vẫn là cảm thấy hoa bìm bìm thích hợp ngươi hơn. ",
+      400,
+      "",
+      []
+    ],
+    "1050503": [
+      180105,
+      "Cây mẫu đơn",
+      "1010503",
+      0,
+      5,
+      [
+        [
+          17,
+          100025,
+          1
+        ]
+      ],
+      "Hoàng Thượng tặng ngươi 1 chậu hoa mẫu đơn, lại nhăn mày nói, vẫn là cảm thấy hoa bìm bìm thích hợp ngươi hơn. ",
+      1000,
+      "",
+      []
+    ],
+    "1060101": [
+      180106,
+      "Món Hoa hồng",
+      "1010101",
+      1010102,
+      1,
+      [
+        [
+          17,
+          100026,
+          1
+        ]
+      ],
+      "Ngươi lén lút cho A Lý Cổn một miếng bánh xốp Hoa Hồng, đến khi miếng bánh bị mốc hắn vẫn chưa ăn. ",
+      0,
+      "",
+      []
+    ],
+    "1060102": [
+      180106,
+      "Món Hoa hồng",
+      "1010102",
+      1010103,
+      1,
+      [
+        [
+          17,
+          100026,
+          1
+        ]
+      ],
+      "Ngươi lén lút cho A Lý Cổn một miếng bánh xốp Hoa Hồng, đến khi miếng bánh bị mốc hắn vẫn chưa ăn. ",
+      60,
+      "",
+      []
+    ],
+    "1060103": [
+      180106,
+      "Món Hoa hồng",
+      "1010103",
+      0,
+      1,
+      [
+        [
+          17,
+          100026,
+          1
+        ]
+      ],
+      "Ngươi lén lút cho A Lý Cổn một miếng bánh xốp Hoa Hồng, đến khi miếng bánh bị mốc hắn vẫn chưa ăn. ",
+      150,
+      "",
+      []
+    ],
+    "1060201": [
+      180106,
+      "Đũa",
+      "1010201",
+      1010202,
+      2,
+      [
+        [
+          17,
+          100027,
+          1
+        ]
+      ],
+      "Nữ giả nam trang bị đứt trâm ngọc, A Lý Cổn dùng đũa búi tóc ngươi lên.",
+      0,
+      "",
+      []
+    ],
+    "1060202": [
+      180106,
+      "Đũa",
+      "1010202",
+      1010203,
+      2,
+      [
+        [
+          17,
+          100027,
+          1
+        ]
+      ],
+      "Nữ giả nam trang bị đứt trâm ngọc, A Lý Cổn dùng đũa búi tóc ngươi lên.",
+      60,
+      "",
+      []
+    ],
+    "1060203": [
+      180106,
+      "Đũa",
+      "1010203",
+      0,
+      2,
+      [
+        [
+          17,
+          100027,
+          1
+        ]
+      ],
+      "Nữ giả nam trang bị đứt trâm ngọc, A Lý Cổn dùng đũa búi tóc ngươi lên.",
+      150,
+      "",
+      []
+    ],
+    "1060301": [
+      180106,
+      "Ghế đẩu",
+      "1010301",
+      1010302,
+      3,
+      [
+        [
+          17,
+          100028,
+          1
+        ]
+      ],
+      "Ngươi dẫm lên bức họa thêu, A Lý Cổn thấy vậy hét lớn, đừng mở ra! Dọa ngươi ngã xuống...",
+      0,
+      "",
+      []
+    ],
+    "1060302": [
+      180106,
+      "Ghế đẩu",
+      "1010302",
+      1010303,
+      3,
+      [
+        [
+          17,
+          100028,
+          1
+        ]
+      ],
+      "Ngươi dẫm lên bức họa thêu, A Lý Cổn thấy vậy hét lớn, đừng mở ra! Dọa ngươi ngã xuống...",
+      60,
+      "",
+      []
+    ],
+    "1060303": [
+      180106,
+      "Ghế đẩu",
+      "1010303",
+      0,
+      3,
+      [
+        [
+          17,
+          100028,
+          1
+        ]
+      ],
+      "Ngươi dẫm lên bức họa thêu, A Lý Cổn thấy vậy hét lớn, đừng mở ra! Dọa ngươi ngã xuống...",
+      150,
+      "",
+      []
+    ],
+    "1060401": [
+      180106,
+      "Ly rượu",
+      "1010401",
+      1010402,
+      4,
+      [
+        [
+          17,
+          100029,
+          1
+        ]
+      ],
+      "Ngươi cười A Lý Cổn không biết uống rượu, hắn phản bác rất nhiệt tình nhưng nửa chén hắn đã ngã.",
+      0,
+      "",
+      []
+    ],
+    "1060402": [
+      180106,
+      "Ly rượu",
+      "1010402",
+      1010403,
+      4,
+      [
+        [
+          17,
+          100029,
+          1
+        ]
+      ],
+      "Ngươi cười A Lý Cổn không biết uống rượu, hắn phản bác rất nhiệt tình nhưng nửa chén hắn đã ngã.",
+      200,
+      "",
+      []
+    ],
+    "1060403": [
+      180106,
+      "Ly rượu",
+      "1010403",
+      0,
+      4,
+      [
+        [
+          17,
+          100029,
+          1
+        ]
+      ],
+      "Ngươi cười A Lý Cổn không biết uống rượu, hắn phản bác rất nhiệt tình nhưng nửa chén hắn đã ngã.",
+      500,
+      "",
+      []
+    ],
+    "1060501": [
+      180106,
+      "Lồng Đèn",
+      "1010501",
+      1010502,
+      5,
+      [
+        [
+          17,
+          100030,
+          1
+        ]
+      ],
+      "A Lý Cổn tặng ngươi 1 cái đèn lồng, nói nhìn thấy nó sẽ nhớ tới ngươi, ngươi xem con heo 'gương mặt tươi cười' được vẽ trên đó đi.",
+      0,
+      "",
+      []
+    ],
+    "1060502": [
+      180106,
+      "Lồng Đèn",
+      "1010502",
+      1010503,
+      5,
+      [
+        [
+          17,
+          100030,
+          1
+        ]
+      ],
+      "A Lý Cổn tặng ngươi 1 cái đèn lồng, nói nhìn thấy nó sẽ nhớ tới ngươi, ngươi xem con heo 'gương mặt tươi cười' được vẽ trên đó đi.",
+      400,
+      "",
+      []
+    ],
+    "1060503": [
+      180106,
+      "Lồng Đèn",
+      "1010503",
+      0,
+      5,
+      [
+        [
+          17,
+          100030,
+          1
+        ]
+      ],
+      "A Lý Cổn tặng ngươi 1 cái đèn lồng, nói nhìn thấy nó sẽ nhớ tới ngươi, ngươi xem con heo 'gương mặt tươi cười' được vẽ trên đó đi.",
+      1000,
+      "",
+      []
+    ],
+    "1070101": [
+      180107,
+      "Bánh Ngọt",
+      "1010101",
+      1010102,
+      1,
+      [
+        [
+          17,
+          100031,
+          1
+        ]
+      ],
+      "Mất ăn mất ngủ vì thọ lễ của Hoàng Hậu, Tề Mặc liền giả vờ mượn lý do sửa máy móc, mỗi ngày mang đến gói bánh ngọt ngoài cung. ",
+      0,
+      "",
+      []
+    ],
+    "1070102": [
+      180107,
+      "Bánh Ngọt",
+      "1010102",
+      1010103,
+      1,
+      [
+        [
+          17,
+          100031,
+          1
+        ]
+      ],
+      "Mất ăn mất ngủ vì thọ lễ của Hoàng Hậu, Tề Mặc liền giả vờ mượn lý do sửa máy móc, mỗi ngày mang đến gói bánh ngọt ngoài cung. ",
+      60,
+      "",
+      []
+    ],
+    "1070103": [
+      180107,
+      "Bánh Ngọt",
+      "1010103",
+      0,
+      1,
+      [
+        [
+          17,
+          100031,
+          1
+        ]
+      ],
+      "Mất ăn mất ngủ vì thọ lễ của Hoàng Hậu, Tề Mặc liền giả vờ mượn lý do sửa máy móc, mỗi ngày mang đến gói bánh ngọt ngoài cung. ",
+      150,
+      "",
+      []
+    ],
+    "1070201": [
+      180107,
+      "Đèn Đứng",
+      "1010201",
+      1010202,
+      2,
+      [
+        [
+          17,
+          100032,
+          1
+        ]
+      ],
+      "Do không đủ ánh sáng nên ngươi bị kim đâm vào tay, Tề Mặc vì người chế ra một cái đèn lồng có thể điều chỉnh độ sáng. ",
+      0,
+      "",
+      []
+    ],
+    "1070202": [
+      180107,
+      "Đèn Đứng",
+      "1010202",
+      1010203,
+      2,
+      [
+        [
+          17,
+          100032,
+          1
+        ]
+      ],
+      "Do không đủ ánh sáng nên ngươi bị kim đâm vào tay, Tề Mặc vì người chế ra một cái đèn lồng có thể điều chỉnh độ sáng. ",
+      60,
+      "",
+      []
+    ],
+    "1070203": [
+      180107,
+      "Đèn Đứng",
+      "1010203",
+      0,
+      2,
+      [
+        [
+          17,
+          100032,
+          1
+        ]
+      ],
+      "Do không đủ ánh sáng nên ngươi bị kim đâm vào tay, Tề Mặc vì người chế ra một cái đèn lồng có thể điều chỉnh độ sáng. ",
+      150,
+      "",
+      []
+    ],
+    "1070301": [
+      180107,
+      "Máy may",
+      "1010301",
+      1010302,
+      3,
+      [
+        [
+          17,
+          100033,
+          1
+        ]
+      ],
+      "Hỏi Tề Mặc có tin trong tương lai sẽ có hàng hàng máy dệt không, Tề Mặc nói sẽ cố gắng chế tạo và sẽ đặt theo tên ngươi",
+      0,
+      "",
+      []
+    ],
+    "1070302": [
+      180107,
+      "Máy may",
+      "1010302",
+      1010303,
+      3,
+      [
+        [
+          17,
+          100033,
+          1
+        ]
+      ],
+      "Hỏi Tề Mặc có tin trong tương lai sẽ có hàng hàng máy dệt không, Tề Mặc nói sẽ cố gắng chế tạo và sẽ đặt theo tên ngươi",
+      60,
+      "",
+      []
+    ],
+    "1070303": [
+      180107,
+      "Máy may",
+      "1010303",
+      0,
+      3,
+      [
+        [
+          17,
+          100033,
+          1
+        ]
+      ],
+      "Hỏi Tề Mặc có tin trong tương lai sẽ có hàng hàng máy dệt không, Tề Mặc nói sẽ cố gắng chế tạo và sẽ đặt theo tên ngươi",
+      150,
+      "",
+      []
+    ],
+    "1070401": [
+      180107,
+      "Vải vóc",
+      "1010401",
+      1010402,
+      4,
+      [
+        [
+          17,
+          100034,
+          1
+        ]
+      ],
+      "Sau khi cải tiến máy may thành công, ngươi hỏi Tề Mặc muốn đền đáp cái gì, hắn nói chỉ muốn ngươi dùng cuộn vải đầu tiên mà máy dệt thành",
+      0,
+      "",
+      []
+    ],
+    "1070402": [
+      180107,
+      "Vải vóc",
+      "1010402",
+      1010403,
+      4,
+      [
+        [
+          17,
+          100034,
+          1
+        ]
+      ],
+      "Sau khi cải tiến máy may thành công, ngươi hỏi Tề Mặc muốn đền đáp cái gì, hắn nói chỉ muốn ngươi dùng cuộn vải đầu tiên mà máy dệt thành",
+      200,
+      "",
+      []
+    ],
+    "1070403": [
+      180107,
+      "Vải vóc",
+      "1010403",
+      0,
+      4,
+      [
+        [
+          17,
+          100034,
+          1
+        ]
+      ],
+      "Sau khi cải tiến máy may thành công, ngươi hỏi Tề Mặc muốn đền đáp cái gì, hắn nói chỉ muốn ngươi dùng cuộn vải đầu tiên mà máy dệt thành",
+      500,
+      "",
+      []
+    ],
+    "1070501": [
+      180107,
+      "Cuộn dây",
+      "1010501",
+      1010502,
+      5,
+      [
+        [
+          17,
+          100035,
+          1
+        ]
+      ],
+      "Nói Tề Mặc đưa cuộn dây màu hồng đào, mắt giật cả nửa ngày, cũng không nhận ra cái nào là màu hồng đào.",
+      0,
+      "",
+      []
+    ],
+    "1070502": [
+      180107,
+      "Cuộn dây",
+      "1010502",
+      1010503,
+      5,
+      [
+        [
+          17,
+          100035,
+          1
+        ]
+      ],
+      "Nói Tề Mặc đưa cuộn dây màu hồng đào, mắt giật cả nửa ngày, cũng không nhận ra cái nào là màu hồng đào.",
+      400,
+      "",
+      []
+    ],
+    "1070503": [
+      180107,
+      "Cuộn dây",
+      "1010503",
+      0,
+      5,
+      [
+        [
+          17,
+          100035,
+          1
+        ]
+      ],
+      "Nói Tề Mặc đưa cuộn dây màu hồng đào, mắt giật cả nửa ngày, cũng không nhận ra cái nào là màu hồng đào.",
+      1000,
+      "",
+      []
+    ],
+    "1080101": [
+      180108,
+      "Bảng pha màu",
+      "1010101",
+      1010102,
+      1,
+      [
+        [
+          17,
+          100036,
+          1
+        ]
+      ],
+      "Ngươi không cẩn thận làm đổ bản pha màu của Alendi rồi, hắn cười nói ngươi giống con mèo con đáng yêu.",
+      0,
+      "",
+      []
+    ],
+    "1080102": [
+      180108,
+      "Bảng pha màu",
+      "1010102",
+      1010103,
+      1,
+      [
+        [
+          17,
+          100036,
+          1
+        ]
+      ],
+      "Ngươi không cẩn thận làm đổ bản pha màu của Alendi rồi, hắn cười nói ngươi giống con mèo con đáng yêu.",
+      60,
+      "",
+      []
+    ],
+    "1080103": [
+      180108,
+      "Bảng pha màu",
+      "1010103",
+      0,
+      1,
+      [
+        [
+          17,
+          100036,
+          1
+        ]
+      ],
+      "Ngươi không cẩn thận làm đổ bản pha màu của Alendi rồi, hắn cười nói ngươi giống con mèo con đáng yêu.",
+      150,
+      "",
+      []
+    ],
+    "1080201": [
+      180108,
+      "Ghế",
+      "1010201",
+      1010202,
+      2,
+      [
+        [
+          17,
+          100037,
+          1
+        ]
+      ],
+      "Alendi cố ý đưa ghế hỏng cho ngươi ngồi, sau đó ôm lấy ngươi khi ngươi suýt chút ngã ngửa. ",
+      0,
+      "",
+      []
+    ],
+    "1080202": [
+      180108,
+      "Ghế",
+      "1010202",
+      1010203,
+      2,
+      [
+        [
+          17,
+          100037,
+          1
+        ]
+      ],
+      "Alendi cố ý đưa ghế hỏng cho ngươi ngồi, sau đó ôm lấy ngươi khi ngươi suýt chút ngã ngửa. ",
+      60,
+      "",
+      []
+    ],
+    "1080203": [
+      180108,
+      "Ghế",
+      "1010203",
+      0,
+      2,
+      [
+        [
+          17,
+          100037,
+          1
+        ]
+      ],
+      "Alendi cố ý đưa ghế hỏng cho ngươi ngồi, sau đó ôm lấy ngươi khi ngươi suýt chút ngã ngửa. ",
+      150,
+      "",
+      []
+    ],
+    "1080301": [
+      180108,
+      "Bút vẽ",
+      "1010301",
+      1010302,
+      3,
+      [
+        [
+          17,
+          100038,
+          1
+        ]
+      ],
+      "Alendi từng nắm tay ngươi, dùng chiếc bút vẽ này dạy ngươi vẽ mèo. ",
+      0,
+      "",
+      []
+    ],
+    "1080302": [
+      180108,
+      "Bút vẽ",
+      "1010302",
+      1010303,
+      3,
+      [
+        [
+          17,
+          100038,
+          1
+        ]
+      ],
+      "Alendi từng nắm tay ngươi, dùng chiếc bút vẽ này dạy ngươi vẽ mèo. ",
+      60,
+      "",
+      []
+    ],
+    "1080303": [
+      180108,
+      "Bút vẽ",
+      "1010303",
+      0,
+      3,
+      [
+        [
+          17,
+          100038,
+          1
+        ]
+      ],
+      "Alendi từng nắm tay ngươi, dùng chiếc bút vẽ này dạy ngươi vẽ mèo. ",
+      150,
+      "",
+      []
+    ],
+    "1080401": [
+      180108,
+      "Bản Vẽ",
+      "1010401",
+      1010402,
+      4,
+      [
+        [
+          17,
+          100039,
+          1
+        ]
+      ],
+      "Alendi nói, bản lẽ là hắn dốc sức vẽ, ngươi là chỗ dựa tinh thần của hắn ",
+      0,
+      "",
+      []
+    ],
+    "1080402": [
+      180108,
+      "Bản Vẽ",
+      "1010402",
+      1010403,
+      4,
+      [
+        [
+          17,
+          100039,
+          1
+        ]
+      ],
+      "Alendi nói, bản lẽ là hắn dốc sức vẽ, ngươi là chỗ dựa tinh thần của hắn ",
+      200,
+      "",
+      []
+    ],
+    "1080403": [
+      180108,
+      "Bản Vẽ",
+      "1010403",
+      0,
+      4,
+      [
+        [
+          17,
+          100039,
+          1
+        ]
+      ],
+      "Alendi nói, bản lẽ là hắn dốc sức vẽ, ngươi là chỗ dựa tinh thần của hắn ",
+      500,
+      "",
+      []
+    ],
+    "1080501": [
+      180108,
+      "Gương",
+      "1010501",
+      1010502,
+      5,
+      [
+        [
+          17,
+          100040,
+          1
+        ]
+      ],
+      "Alendi ghét soi gương, nhưng thích vẽ chân mày cho ngươi.",
+      0,
+      "",
+      []
+    ],
+    "1080502": [
+      180108,
+      "Gương",
+      "1010502",
+      1010503,
+      5,
+      [
+        [
+          17,
+          100040,
+          1
+        ]
+      ],
+      "Alendi ghét soi gương, nhưng thích vẽ chân mày cho ngươi.",
+      400,
+      "",
+      []
+    ],
+    "1080503": [
+      180108,
+      "Gương",
+      "1010503",
+      0,
+      5,
+      [
+        [
+          17,
+          100040,
+          1
+        ]
+      ],
+      "Alendi ghét soi gương, nhưng thích vẽ chân mày cho ngươi.",
+      1000,
+      "",
+      []
+    ],
+    "1090101": [
+      180109,
+      "Hủ Kim Chi",
+      "1010101",
+      1010102,
+      1,
+      [
+        [
+          17,
+          100041,
+          1
+        ]
+      ],
+      "Than thở muốn được ăn bắp cải, A Lý Cổn ngạc nhiên hỏi lẽ nào ngoài ngâm cà rốt ra họ còn thứ khác để ăn sao?",
+      0,
+      "",
+      []
+    ],
+    "1090102": [
+      180109,
+      "Hủ Kim Chi",
+      "1010102",
+      1010103,
+      1,
+      [
+        [
+          17,
+          100041,
+          1
+        ]
+      ],
+      "Than thở muốn được ăn bắp cải, A Lý Cổn ngạc nhiên hỏi lẽ nào ngoài ngâm cà rốt ra họ còn thứ khác để ăn sao?",
+      60,
+      "",
+      []
+    ],
+    "1090103": [
+      180109,
+      "Hủ Kim Chi",
+      "1010103",
+      0,
+      1,
+      [
+        [
+          17,
+          100041,
+          1
+        ]
+      ],
+      "Than thở muốn được ăn bắp cải, A Lý Cổn ngạc nhiên hỏi lẽ nào ngoài ngâm cà rốt ra họ còn thứ khác để ăn sao?",
+      150,
+      "",
+      []
+    ],
+    "1090201": [
+      180109,
+      "Lồng Đèn",
+      "1010201",
+      1010202,
+      2,
+      [
+        [
+          17,
+          100042,
+          1
+        ]
+      ],
+      "Đem đèn lồng mà A Lý Cổn tặng treo trong phòng, mỗi ngày vừa mở mắt đã nhìn thấy thứ mà chỉ có thể khiến anh ấy nhớ đến 'lợn' của ngươi.",
+      0,
+      "",
+      []
+    ],
+    "1090202": [
+      180109,
+      "Lồng Đèn",
+      "1010202",
+      1010203,
+      2,
+      [
+        [
+          17,
+          100042,
+          1
+        ]
+      ],
+      "Đem đèn lồng mà A Lý Cổn tặng treo trong phòng, mỗi ngày vừa mở mắt đã nhìn thấy thứ mà chỉ có thể khiến anh ấy nhớ đến 'lợn' của ngươi.",
+      60,
+      "",
+      []
+    ],
+    "1090203": [
+      180109,
+      "Lồng Đèn",
+      "1010203",
+      0,
+      2,
+      [
+        [
+          17,
+          100042,
+          1
+        ]
+      ],
+      "Đem đèn lồng mà A Lý Cổn tặng treo trong phòng, mỗi ngày vừa mở mắt đã nhìn thấy thứ mà chỉ có thể khiến anh ấy nhớ đến 'lợn' của ngươi.",
+      150,
+      "",
+      []
+    ],
+    "1090301": [
+      180109,
+      "Xửng hấp",
+      "1010301",
+      1010302,
+      3,
+      [
+        [
+          17,
+          100043,
+          1
+        ]
+      ],
+      "A Lý Cổn hỏi, vì sao lồng hấp đều hình tròn? Ngươi đáp: Bởi vì…",
+      0,
+      "",
+      []
+    ],
+    "1090302": [
+      180109,
+      "Xửng hấp",
+      "1010302",
+      1010303,
+      3,
+      [
+        [
+          17,
+          100043,
+          1
+        ]
+      ],
+      "A Lý Cổn hỏi, vì sao lồng hấp đều hình tròn? Ngươi đáp: Bởi vì…",
+      60,
+      "",
+      []
+    ],
+    "1090303": [
+      180109,
+      "Xửng hấp",
+      "1010303",
+      0,
+      3,
+      [
+        [
+          17,
+          100043,
+          1
+        ]
+      ],
+      "A Lý Cổn hỏi, vì sao lồng hấp đều hình tròn? Ngươi đáp: Bởi vì…",
+      150,
+      "",
+      []
+    ],
+    "1090401": [
+      180109,
+      "Hũ Rượu",
+      "1010401",
+      1010402,
+      4,
+      [
+        [
+          17,
+          100044,
+          1
+        ]
+      ],
+      "A Lý Cổn đã hơi say nhưng vẫn giấu 1 vò rượu do ngươi đích thân ủ.",
+      0,
+      "",
+      []
+    ],
+    "1090402": [
+      180109,
+      "Hũ Rượu",
+      "1010402",
+      1010403,
+      4,
+      [
+        [
+          17,
+          100044,
+          1
+        ]
+      ],
+      "A Lý Cổn đã hơi say nhưng vẫn giấu 1 vò rượu do ngươi đích thân ủ.",
+      200,
+      "",
+      []
+    ],
+    "1090403": [
+      180109,
+      "Hũ Rượu",
+      "1010403",
+      0,
+      4,
+      [
+        [
+          17,
+          100044,
+          1
+        ]
+      ],
+      "A Lý Cổn đã hơi say nhưng vẫn giấu 1 vò rượu do ngươi đích thân ủ.",
+      500,
+      "",
+      []
+    ],
+    "1090501": [
+      180109,
+      "Dao",
+      "1010501",
+      1010502,
+      5,
+      [
+        [
+          17,
+          100045,
+          1
+        ]
+      ],
+      "Tàn nhẫn quá, tôi không nghĩ Văn Án lại có người bạn có ý tưởng hay, hoan nghênh nhắn tin tại 'Thế Giới'",
+      0,
+      "",
+      []
+    ],
+    "1090502": [
+      180109,
+      "Dao",
+      "1010502",
+      1010503,
+      5,
+      [
+        [
+          17,
+          100045,
+          1
+        ]
+      ],
+      "Tàn nhẫn quá, tôi không nghĩ Văn Án lại có người bạn có ý tưởng hay, hoan nghênh nhắn tin tại 'Thế Giới'",
+      400,
+      "",
+      []
+    ],
+    "1090503": [
+      180109,
+      "Dao",
+      "1010503",
+      0,
+      5,
+      [
+        [
+          17,
+          100045,
+          1
+        ]
+      ],
+      "Tàn nhẫn quá, tôi không nghĩ Văn Án lại có người bạn có ý tưởng hay, hoan nghênh nhắn tin tại 'Thế Giới'",
+      1000,
+      "",
+      []
+    ],
+    "1100101": [
+      180110,
+      "Bình rượu",
+      "1010101",
+      1010102,
+      1,
+      [
+        [
+          17,
+          100046,
+          1
+        ]
+      ],
+      "Từ sau khi ngươi vẽ bình rượu thành 1 con ngỗng trước mặt Alendi, mỗi khi hắn cần vẽ bình rượu, trong ngực liền sẽ xuất hiện 1 con ngỗng. ",
+      0,
+      "",
+      []
+    ],
+    "1100102": [
+      180110,
+      "Bình rượu",
+      "1010102",
+      1010103,
+      1,
+      [
+        [
+          17,
+          100046,
+          1
+        ]
+      ],
+      "Từ sau khi ngươi vẽ bình rượu thành 1 con ngỗng trước mặt Alendi, mỗi khi hắn cần vẽ bình rượu, trong ngực liền sẽ xuất hiện 1 con ngỗng. ",
+      60,
+      "",
+      []
+    ],
+    "1100103": [
+      180110,
+      "Bình rượu",
+      "1010103",
+      0,
+      1,
+      [
+        [
+          17,
+          100046,
+          1
+        ]
+      ],
+      "Từ sau khi ngươi vẽ bình rượu thành 1 con ngỗng trước mặt Alendi, mỗi khi hắn cần vẽ bình rượu, trong ngực liền sẽ xuất hiện 1 con ngỗng. ",
+      150,
+      "",
+      []
+    ],
+    "1100201": [
+      180110,
+      "Đèn Đứng",
+      "1010201",
+      1010202,
+      2,
+      [
+        [
+          17,
+          100047,
+          1
+        ]
+      ],
+      "Alendi nhìn lồng đèn “con lợn” của bạn xong, cũng vẽ lên trên cung đăng của bạn con “lợn”. ",
+      0,
+      "",
+      []
+    ],
+    "1100202": [
+      180110,
+      "Đèn Đứng",
+      "1010202",
+      1010203,
+      2,
+      [
+        [
+          17,
+          100047,
+          1
+        ]
+      ],
+      "Alendi nhìn lồng đèn “con lợn” của bạn xong, cũng vẽ lên trên cung đăng của bạn con “lợn”. ",
+      60,
+      "",
+      []
+    ],
+    "1100203": [
+      180110,
+      "Đèn Đứng",
+      "1010203",
+      0,
+      2,
+      [
+        [
+          17,
+          100047,
+          1
+        ]
+      ],
+      "Alendi nhìn lồng đèn “con lợn” của bạn xong, cũng vẽ lên trên cung đăng của bạn con “lợn”. ",
+      150,
+      "",
+      []
+    ],
+    "1100301": [
+      180110,
+      "Châu cây",
+      "1010301",
+      1010302,
+      3,
+      [
+        [
+          17,
+          100048,
+          1
+        ]
+      ],
+      "Ngươi hỏi Alendi mình giống cây bìm bìm hay hoa hồng, Alendi nói hoa không đẹp bằng ngươi.",
+      0,
+      "",
+      []
+    ],
+    "1100302": [
+      180110,
+      "Châu cây",
+      "1010302",
+      1010303,
+      3,
+      [
+        [
+          17,
+          100048,
+          1
+        ]
+      ],
+      "Ngươi hỏi Alendi mình giống cây bìm bìm hay hoa hồng, Alendi nói hoa không đẹp bằng ngươi.",
+      60,
+      "",
+      []
+    ],
+    "1100303": [
+      180110,
+      "Châu cây",
+      "1010303",
+      0,
+      3,
+      [
+        [
+          17,
+          100048,
+          1
+        ]
+      ],
+      "Ngươi hỏi Alendi mình giống cây bìm bìm hay hoa hồng, Alendi nói hoa không đẹp bằng ngươi.",
+      150,
+      "",
+      []
+    ],
+    "1100401": [
+      180110,
+      "Tách trà ",
+      "1010401",
+      1010402,
+      4,
+      [
+        [
+          17,
+          100049,
+          1
+        ]
+      ],
+      "Alendi luôn nói trên người ngươi có mùi trà xanh, ngươi trước giờ không hiểu ý hắn là gì. ",
+      0,
+      "",
+      []
+    ],
+    "1100402": [
+      180110,
+      "Tách trà ",
+      "1010402",
+      1010403,
+      4,
+      [
+        [
+          17,
+          100049,
+          1
+        ]
+      ],
+      "Alendi luôn nói trên người ngươi có mùi trà xanh, ngươi trước giờ không hiểu ý hắn là gì. ",
+      200,
+      "",
+      []
+    ],
+    "1100403": [
+      180110,
+      "Tách trà ",
+      "1010403",
+      0,
+      4,
+      [
+        [
+          17,
+          100049,
+          1
+        ]
+      ],
+      "Alendi luôn nói trên người ngươi có mùi trà xanh, ngươi trước giờ không hiểu ý hắn là gì. ",
+      500,
+      "",
+      []
+    ],
+    "1100501": [
+      180110,
+      "Điểm tâm",
+      "1010501",
+      1010502,
+      5,
+      [
+        [
+          17,
+          100050,
+          1
+        ]
+      ],
+      "Mỗi lần Alendi ăn bánh của ngươi, đều sẽ tự giác chuẩn bị một thùng nước uống lớn.",
+      0,
+      "",
+      []
+    ],
+    "1100502": [
+      180110,
+      "Điểm tâm",
+      "1010502",
+      1010503,
+      5,
+      [
+        [
+          17,
+          100050,
+          1
+        ]
+      ],
+      "Mỗi lần Alendi ăn bánh của ngươi, đều sẽ tự giác chuẩn bị một thùng nước uống lớn.",
+      400,
+      "",
+      []
+    ],
+    "1100503": [
+      180110,
+      "Điểm tâm",
+      "1010503",
+      0,
+      5,
+      [
+        [
+          17,
+          100050,
+          1
+        ]
+      ],
+      "Mỗi lần Alendi ăn bánh của ngươi, đều sẽ tự giác chuẩn bị một thùng nước uống lớn.",
+      1000,
+      "",
+      []
+    ]
+  }
+}

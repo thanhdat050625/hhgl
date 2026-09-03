@@ -1,0 +1,143 @@
+{
+  "colMap": [
+    "question",
+    "weight",
+    "cost",
+    "questionType",
+    "arg1",
+    "arg2",
+    "arg3"
+  ],
+  "list": {
+    "10001": [
+      "Bang trong Top 10 BXH Chung Kết có từng ly gián Bang bạn hay không?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      1,
+      "10",
+      "",
+      ""
+    ],
+    "10002": [
+      "Bang chia rẽ đã đủ thành viên?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      2,
+      "-1",
+      "",
+      ""
+    ],
+    "10003": [
+      "Thế lực của Bang ly gián Bang bạn vượt qua 3 ức hay không?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      3,
+      "300000000",
+      "",
+      ""
+    ],
+    "10004": [
+      "Tên Bang chia rẽ từ 3 ký tự trở lên?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      4,
+      "3",
+      "",
+      ""
+    ],
+    "10005": [
+      "Bang ly gián Bang bạn có phải trên Lv5 hay không?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      5,
+      "5",
+      "",
+      ""
+    ],
+    "10006": [
+      "Bang chia rẽ tối thiểu có 2 Phó Bang?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      6,
+      "2",
+      "",
+      ""
+    ],
+    "10007": [
+      "Cấp của Bang ly gián Bang bạn có cao hơn cấp của Bang bạn hay không?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      7,
+      "-1",
+      "",
+      ""
+    ],
+    "10008": [
+      "Bang ly gián Bang bạn có phải đến từ server này hay không?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      8,
+      "-1",
+      "",
+      ""
+    ],
+    "10009": [
+      "Tên Minh Chủ của Bang ly gián Bang bạn có phải có trên 3 chữ hay không?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      9,
+      "3",
+      "",
+      ""
+    ],
+    "10010": [
+      "Bang ly gián Bang bạn có phải là Bang có trên 25 người?",
+      1000,
+      [
+        2,
+        8,
+        50
+      ],
+      10,
+      "25",
+      "",
+      ""
+    ]
+  }
+}

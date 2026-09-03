@@ -1,0 +1,200 @@
+{
+  "colMap": [
+    "name",
+    "description",
+    "buffType",
+    "buffEffect",
+    "lastTime"
+  ],
+  "list": {
+    "10011": [
+      "BUFF Xử Lý Nội Vụ",
+      "Mỗi lần xử lý Nội Vụ, <font size=22px color=0x5dc286>lợi ích+20%</font>",
+      1,
+      [
+        2000
+      ],
+      604800
+    ],
+    "10012": [
+      "BUFF Xử Lý Nội Vụ",
+      "Mỗi lần xử lý Nội Vụ, <font size=22px color=0x5dc286>lợi ích+10%</font>",
+      1,
+      [
+        1000
+      ],
+      604800
+    ],
+    "10013": [
+      "BUFF Xử Lý Nội Vụ",
+      "Mỗi lần xử lý Nội Vụ, <font size=22px color=0x5dc286>lợi ích+5%</font>",
+      1,
+      [
+        500
+      ],
+      604800
+    ],
+    "10201": [
+      "BUFF Xử Lý Cung Vụ",
+      "BUFF xử lý cung vụ, <font size=22px color=0x5dc286>lợi ích+20%</font>",
+      2,
+      [
+        2000
+      ],
+      604800
+    ],
+    "10202": [
+      "BUFF Xử Lý Cung Vụ",
+      "BUFF xử lý cung vụ, <font size=22px color=0x5dc286>lợi ích+10%</font>",
+      2,
+      [
+        1000
+      ],
+      604800
+    ],
+    "10203": [
+      "BUFF Xử Lý Cung Vụ",
+      "BUFF xử lý cung vụ, <font size=22px color=0x5dc286>lợi ích+5%</font>",
+      2,
+      [
+        500
+      ],
+      604800
+    ],
+    "10301": [
+      "BUFF Bán từ thiện trân phẩm",
+      "Mỗi lần bán từ thiện, <font size=22px color=0x5dc286>lợi ích+40%</font>",
+      3,
+      [
+        4000
+      ],
+      604800
+    ],
+    "10302": [
+      "BUFF Bán từ thiện trân phẩm",
+      "Mỗi lần bán từ thiện, <font size=22px color=0x5dc286>lợi ích+20%</font>",
+      3,
+      [
+        2000
+      ],
+      604800
+    ],
+    "10303": [
+      "BUFF Bán từ thiện trân phẩm",
+      "Mỗi lần bán từ thiện, <font size=22px color=0x5dc286>lợi ích+10%</font>",
+      3,
+      [
+        1000
+      ],
+      604800
+    ],
+    "10401": [
+      "BUFF Chăm sóc Vườn Thuốc",
+      "Mỗi lần chăm sóc vườn thuốc, <font size=22px color=0x5dc286>lợi ích+40%</font>",
+      4,
+      [
+        4000
+      ],
+      604800
+    ],
+    "10402": [
+      "BUFF Chăm sóc Vườn Thuốc",
+      "Mỗi lần chăm sóc vườn thuốc, <font size=22px color=0x5dc286>lợi ích+20%</font>",
+      4,
+      [
+        2000
+      ],
+      604800
+    ],
+    "10403": [
+      "BUFF Chăm sóc Vườn Thuốc",
+      "Mỗi lần chăm sóc vườn thuốc, <font size=22px color=0x5dc286>lợi ích+10%</font>",
+      4,
+      [
+        1000
+      ],
+      604800
+    ],
+    "10501": [
+      "BUFF Huyết Yến Bổ Khí",
+      "Mỗi lần huyết yến bổ khí, <font size=22px color=0x5dc286>lợi ích+40%</font>",
+      5,
+      [
+        4000
+      ],
+      604800
+    ],
+    "10502": [
+      "BUFF Huyết Yến Bổ Khí",
+      "Mỗi lần huyết yến bổ khí, <font size=22px color=0x5dc286>lợi ích+20%</font>",
+      5,
+      [
+        2000
+      ],
+      604800
+    ],
+    "10503": [
+      "BUFF Huyết Yến Bổ Khí",
+      "Mỗi lần huyết yến bổ khí, <font size=22px color=0x5dc286>lợi ích+10%</font>",
+      5,
+      [
+        1000
+      ],
+      604800
+    ],
+    "10601": [
+      "BUFF Giảm Thời Gian Ủy Phái (Cố định)",
+      "Mỗi lần phái Tùy Tùng, <font size=22px color=0x5dc286>thời gian ủy phái giảm 30 phút</font>",
+      6,
+      [
+        -1800
+      ],
+      604800
+    ],
+    "10602": [
+      "BUFF Giảm Thời Gian Ủy Phái (Cố định)",
+      "Mỗi lần phái Tùy Tùng, <font size=22px color=0x5dc286>thời gian ủy phái giảm 20 phút</font>",
+      6,
+      [
+        -1200
+      ],
+      604800
+    ],
+    "10603": [
+      "BUFF Giảm Thời Gian Ủy Phái (Cố định)",
+      "Mỗi lần phái Tùy Tùng, <font size=22px color=0x5dc286>thời gian ủy phái giảm 10 phút</font>",
+      6,
+      [
+        -600
+      ],
+      604800
+    ],
+    "10701": [
+      "BUFF Giảm Thời Gian Ủy Phái (Tỷ lệ)",
+      "Mỗi lần phái Tùy Tùng, <font size=22px color=0x5dc286>thời gian ủy phái giảm 20%</font>",
+      7,
+      [
+        -2000
+      ],
+      604800
+    ],
+    "10702": [
+      "BUFF Giảm Thời Gian Ủy Phái (Tỷ lệ)",
+      "Mỗi lần phái Tùy Tùng, <font size=22px color=0x5dc286>thời gian ủy phái giảm 10%</font>",
+      7,
+      [
+        -1000
+      ],
+      604800
+    ],
+    "10703": [
+      "BUFF Giảm Thời Gian Ủy Phái (Tỷ lệ)",
+      "Mỗi lần phái Tùy Tùng, <font size=22px color=0x5dc286>thời gian ủy phái giảm 5%</font>",
+      7,
+      [
+        -500
+      ],
+      604800
+    ]
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "colMap": [
+    "name",
+    "tips",
+    "notice",
+    "description",
+    "picture",
+    "data1",
+    "data2"
+  ],
+  "list": {
+    "10001": [
+      "Lợi ích x10",
+      62801,
+      "Nhận Bạc x10",
+      "Sắp Xếp Nội Vụ-Bán từ thiện x10 thu nhập mỗi ngày có 15% cơ hội xảy ra, tối đa $[0] lần",
+      [
+        "am_panel3",
+        "cm_shenji_4"
+      ],
+      10,
+      0
+    ],
+    "10002": [
+      "Học không mệt mỏi",
+      62802,
+      "Nhận được EXP X3",
+      "Khi học ở thư viện có 15% xác suất kích hoạt x3 thu ích",
+      [
+        "am_panel3",
+        "cm_shenji_4"
+      ],
+      3,
+      0
+    ],
+    "10003": [
+      "Liên tục tăng 3 cấp",
+      62803,
+      "Tùy tùng liên tiếp tăng 3 cấp",
+      "Tùy tùng nội trong cấp 160 có 15% tỷ lệ tăng liên tiếp 3 cấp, giới hạn $[0] lần",
+      [
+        "am_panel3",
+        "cm_shenji_1"
+      ],
+      160,
+      3
+    ],
+    "10004": [
+      "Tư chất thông minh",
+      62804,
+      "Nhận được EXP Sủng X2",
+      "Bồi dưỡng Sủng mỗi ngày có 15% tỷ lệ kích hoạt EXP X2, giới hạn $[0] lần",
+      [
+        "am_panel3",
+        "cm_shenji_3"
+      ],
+      2,
+      0
+    ],
+    "10005": [
+      "Vàng Trời Ban",
+      62805,
+      "Nhận thêm 100 Vàng",
+      "Nhấn thích bảng hằng ngày có 15% xác suất nhận thêm 100 Vàng, tối đa $[0] lần",
+      [
+        "am_panel3",
+        "am_panel4"
+      ],
+      100,
+      9
+    ],
+    "10006": [
+      "Lam Nhan chúc phúc",
+      62806,
+      "Nhận EXP Lam Nhan X7",
+      "Có 15% xác suất kích hoạt gấp 7 lần EXP Lam Nhan mỗi ngày trong Việc Vui Nhàn Nhã, giới hạn $[0] lần",
+      [
+        "am_panel3",
+        "cm_shenji_2"
+      ],
+      7,
+      0
+    ],
+    "10007": [
+      "Thu Hoạch Bất Ngờ",
+      62807,
+      "Nhận thêm 20 Kim Chỉ",
+      "Khi lấy Kim Chỉ trong Tú Viên có 15% tỷ lệ nhận thêm 20 Kim Chỉ, giới hạn $[0] lần",
+      [
+        "am_panel3",
+        "cm_shenji_5"
+      ],
+      20,
+      0
+    ]
+  }
+}

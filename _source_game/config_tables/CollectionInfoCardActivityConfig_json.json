@@ -1,0 +1,14 @@
+{
+  "colMap": [
+    "activityId",
+    "planId",
+    "infoCard"
+  ],
+  "list": {
+    "101": [
+      1200101,
+      1,
+      10005
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "colMap": [
+    "content"
+  ],
+  "list": {
+    "1": [
+      "Bán Từ Thiện $[0] lần"
+    ],
+    "2": [
+      "Chăm Sóc Vườn Thuốc $[0] lần"
+    ],
+    "3": [
+      "Huyết Yến Bổ Khí $[0] lần"
+    ],
+    "4": [
+      "Xử Lý Cung Vụ $[0] lần"
+    ],
+    "7": [
+      "Đại Lý Tự Giáo Huấn Kẻ Thù $[0] lần"
+    ],
+    "11": [
+      "Trong cung thỉnh an $[0] lần"
+    ],
+    "14": [
+      "Việc Vui Nhàn Nhã $[0] lần"
+    ],
+    "16": [
+      "Trung Cung Luận Chiến $[0] lần"
+    ],
+    "17": [
+      "Tu sửa bang $[0] lần"
+    ],
+    "22": [
+      "Tích lũy đăng nhập $[0] ngày"
+    ],
+    "34": [
+      "Gặp Gỡ $[0] lần"
+    ],
+    "38": [
+      "Thế Lực tăng đến $[0]"
+    ],
+    "41": [
+      "Thân Mật Lam Nhan tăng $[0]"
+    ],
+    "55": [
+      "Tiêu hao $[0] Quyển Cường Hóa"
+    ],
+    "60": [
+      "Tốn $[0] Vàng"
+    ],
+    "71": [
+      "Tiêu hao $[0] Lá Bạc"
+    ],
+    "74": [
+      "Phái Tùy Tùng $[0] lần"
+    ],
+    "80": [
+      "Ước nguyện tại Cây Ước Nguyện $[0] lần"
+    ],
+    "97": [
+      "Tham gia Du Ngoạn $[0] lần"
+    ],
+    "98": [
+      "Bồi dưỡng Tùy Tùng $[0] lần"
+    ],
+    "99": [
+      "Trồng cây Gia Viên $[0] lần"
+    ],
+    "100": [
+      "Nấu nướng $[0] lần"
+    ],
+    "101": [
+      "Cho Sủng ăn $[0] lần"
+    ],
+    "102": [
+      "Nhận $[0] thú cưng"
+    ],
+    "104": [
+      "Nạp $[0] EXP VIP mỗi ngày"
+    ],
+    "110": [
+      "Lúc tổng kết, tại BXH bất kỳ của Bảng Khuynh Thành đạt Top $[0]"
+    ],
+    "111": [
+      "Tích lũy Cống hiến cá nhân trong Bang đạt $[0]"
+    ],
+    "113": [
+      "Độ No Sủng tăng $[0]"
+    ],
+    "114": [
+      "Tiêu hao $[0] Điểm Yêu Thích để tăng kỹ năng lam nhan"
+    ],
+    "115": [
+      "Tặng hoa nhận $[0] Hảo Cảm"
+    ],
+    "128": [
+      "Du Ngoạn nhận $[0] lần thưởng"
+    ],
+    "132": [
+      "Ước Nguyện-Vàng $[0] lần"
+    ],
+    "134": [
+      "Mỗi ngày đạt $[0] Sôi Nổi"
+    ],
+    "139": [
+      "Mỗi ngày online $[0]ph"
+    ],
+    "149": [
+      "Bảo Vật Hoàng Thất tốn Đèn Dầu $[0] lần"
+    ],
+    "150": [
+      "Tiêu hao $[0] Tinh Lực"
+    ],
+    "153": [
+      "Trong thời gian SK tích nạp $[0] EXP VIP"
+    ],
+    "154": [
+      "Lưu Quang Điện so tài $[0] lần"
+    ],
+    "156": [
+      "Nhận được $[0] Táo"
+    ],
+    "157": [
+      "Nhận được $[0] Lê"
+    ],
+    "158": [
+      "Nhận được $[0] Cam"
+    ],
+    "159": [
+      "Nhận được $[0] Mận"
+    ],
+    "160": [
+      "Nhận được $[0] Đào"
+    ],
+    "161": [
+      "Thăm hảo hữu $[0] lần"
+    ],
+    "162": [
+      "Dùng $[0] Vỏ Sò"
+    ],
+    "169": [
+      "Hoàn thành tương tác tình bạn $[0] lần"
+    ],
+    "171": [
+      "Thu thập tất cả các món của bộ $[0]"
+    ],
+    "172": [
+      "Thu thập bộ $[0]"
+    ],
+    "174": [
+      "Tiêu $[0] Vàng mua"
+    ],
+    "175": [
+      "Tiêu $[0] mua"
+    ],
+    "179": [
+      "Dạo chơi Phường Lụa $[0] lần"
+    ],
+    "184": [
+      "Có đủ $[0] ảnh hoàn chỉnh"
+    ],
+    "185": [
+      "Có đủ $[0] Tùy Tùng"
+    ],
+    "186": [
+      "Có đủ $[0] bọ Nền"
+    ],
+    "187": [
+      "Thưởng Tiến Độ Tạo Lại Quà Riêng Quay Lại-Cung Nghênh Hồi Cung"
+    ],
+    "188": [
+      "Thưởng Tiến Độ Tạo Lại Quà Riêng Quay Lại-Điểm Nhiệm Vụ"
+    ],
+    "189": [
+      "Thưởng Tiến Độ Tạo Lại Quà Riêng Quay Lại-Gói Siêu Hời"
+    ],
+    "190": [
+      "Mua Vàng"
+    ],
+    "191": [
+      "Nhận Danh Hiệu $[0] lần"
+    ]
+  }
+}

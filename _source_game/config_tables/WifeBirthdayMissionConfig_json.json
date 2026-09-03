@@ -1,0 +1,284 @@
+{
+  "colMap": [
+    "targetTitle",
+    "icon"
+  ],
+  "list": {
+    "10001": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "10002": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "10003": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "10101": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "10102": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "10103": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "10201": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "10202": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "10203": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "10301": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "10302": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "10303": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "10401": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "10402": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "10403": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "10501": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "10502": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "10503": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "10601": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "10602": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "10603": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "10701": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "10702": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "10703": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "10801": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "10802": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "10803": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "10901": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "10902": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "10903": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "11001": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "11002": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "11003": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "11101": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "11102": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "11103": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "11201": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "11202": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "11203": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "11301": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "11302": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "11303": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "11401": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "11402": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "11403": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "11501": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "11502": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "11503": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "11601": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "11602": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "11603": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "11701": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "11702": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "11703": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "11801": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "11802": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "11803": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "11901": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "11902": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "11903": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "12001": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "12002": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "12003": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "12101": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "12102": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "12103": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ],
+    "12201": [
+      "Du Ngoạn",
+      "bd_a14_cn_png"
+    ],
+    "12202": [
+      "N.Vụ Ngày",
+      "bd_a20_cn_png"
+    ],
+    "12203": [
+      "Thời gian online",
+      "bd_a21_cn_png"
+    ]
+  }
+}

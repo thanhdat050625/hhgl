@@ -1,0 +1,354 @@
+{
+  "colMap": [
+    "lastLv",
+    "nextLv",
+    "skillID",
+    "name",
+    "skillLv",
+    "icon",
+    "needItem",
+    "describe"
+  ],
+  "list": {
+    "10101": [
+      0,
+      10102,
+      101,
+      "Bày Mưu Lập Kế",
+      0,
+      "bb_a9",
+      [
+        [
+          2,
+          82,
+          2
+        ]
+      ],
+      ""
+    ],
+    "10102": [
+      10101,
+      10103,
+      101,
+      "Bày Mưu Lập Kế",
+      1,
+      "bb_a9",
+      [
+        [
+          2,
+          82,
+          3
+        ]
+      ],
+      "Mỗi lượt có 20% tỷ lệ phát động, ở lượt này Tiềm Lực +20%. Khi so tài 100% phát động ở bất kỳ lượt nào."
+    ],
+    "10103": [
+      10102,
+      10104,
+      101,
+      "Bày Mưu Lập Kế",
+      2,
+      "bb_a9",
+      [
+        [
+          2,
+          82,
+          4
+        ]
+      ],
+      "Mỗi lượt có 20% tỷ lệ phát động, ở lượt này Tiềm Lực +40%. Khi so tài 100% phát động ở bất kỳ lượt nào."
+    ],
+    "10104": [
+      10103,
+      10105,
+      101,
+      "Bày Mưu Lập Kế",
+      3,
+      "bb_a9",
+      [
+        [
+          2,
+          82,
+          5
+        ]
+      ],
+      "Mỗi lượt có 20% tỷ lệ phát động, ở lượt này Tiềm Lực +60%. Khi so tài 100% phát động ở bất kỳ lượt nào."
+    ],
+    "10105": [
+      10104,
+      10106,
+      101,
+      "Bày Mưu Lập Kế",
+      4,
+      "bb_a9",
+      [
+        [
+          2,
+          82,
+          8
+        ]
+      ],
+      "Mỗi lượt có 20% tỷ lệ phát động, ở lượt này Tiềm Lực +80%. Khi so tài 100% phát động ở bất kỳ lượt nào."
+    ],
+    "10106": [
+      10105,
+      10107,
+      101,
+      "Bày Mưu Lập Kế",
+      5,
+      "bb_a9",
+      [
+        [
+          2,
+          82,
+          15
+        ]
+      ],
+      "Mỗi lượt có 20% tỷ lệ phát động, ở lượt này Tiềm Lực +100%. Khi so tài 100% phát động ở bất kỳ lượt nào."
+    ],
+    "10107": [
+      10106,
+      10108,
+      101,
+      "Bày Mưu Lập Kế",
+      6,
+      "bb_a9",
+      [
+        [
+          2,
+          82,
+          18
+        ]
+      ],
+      "Mỗi lượt có 22% tỷ lệ phát động, ở lượt này Tiềm Lực +120%. Khi so tài 100% phát động ở bất kỳ lượt nào."
+    ],
+    "10108": [
+      10107,
+      10109,
+      101,
+      "Bày Mưu Lập Kế",
+      7,
+      "bb_a9",
+      [
+        [
+          2,
+          82,
+          21
+        ]
+      ],
+      "Mỗi lượt có 24% tỷ lệ phát động, ở lượt này Tiềm Lực +140%. Khi so tài 100% phát động ở bất kỳ lượt nào."
+    ],
+    "10109": [
+      10108,
+      10110,
+      101,
+      "Bày Mưu Lập Kế",
+      8,
+      "bb_a9",
+      [
+        [
+          2,
+          82,
+          25
+        ]
+      ],
+      "Mỗi lượt có 26% tỷ lệ phát động, ở lượt này Tiềm Lực +160%. Khi so tài 100% phát động ở bất kỳ lượt nào."
+    ],
+    "10110": [
+      10109,
+      10111,
+      101,
+      "Bày Mưu Lập Kế",
+      9,
+      "bb_a9",
+      [
+        [
+          2,
+          82,
+          30
+        ]
+      ],
+      "Mỗi lượt có 28% tỷ lệ phát động, ở lượt này Tiềm Lực +180%. Khi so tài 100% phát động ở bất kỳ lượt nào."
+    ],
+    "10111": [
+      10110,
+      0,
+      101,
+      "Bày Mưu Lập Kế",
+      10,
+      "bb_a9",
+      [],
+      "Mỗi lượt có 30% tỷ lệ phát động, ở lượt này Tiềm Lực +200%. Khi so tài 100% phát động ở bất kỳ lượt nào."
+    ],
+    "10201": [
+      0,
+      10202,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      0,
+      "bb_a10",
+      [
+        [
+          2,
+          82,
+          2
+        ]
+      ],
+      ""
+    ],
+    "10202": [
+      10201,
+      10203,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      1,
+      "bb_a10",
+      [
+        [
+          2,
+          82,
+          3
+        ]
+      ],
+      "Tổng kết so tài, 100% tỷ lệ nhận thêm 2% điểm Tài Nghệ hiện tại"
+    ],
+    "10203": [
+      10202,
+      10204,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      2,
+      "bb_a10",
+      [
+        [
+          2,
+          82,
+          4
+        ]
+      ],
+      "Tổng kết so tài, 100% tỷ lệ nhận thêm 4% điểm Tài Nghệ hiện tại"
+    ],
+    "10204": [
+      10203,
+      10205,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      3,
+      "bb_a10",
+      [
+        [
+          2,
+          82,
+          5
+        ]
+      ],
+      "Tổng kết so tài, 100% tỷ lệ nhận thêm 6% điểm Tài Nghệ hiện tại"
+    ],
+    "10205": [
+      10204,
+      10206,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      4,
+      "bb_a10",
+      [
+        [
+          2,
+          82,
+          8
+        ]
+      ],
+      "Tổng kết so tài, 100% tỷ lệ nhận thêm 8% điểm Tài Nghệ hiện tại"
+    ],
+    "10206": [
+      10205,
+      10207,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      5,
+      "bb_a10",
+      [
+        [
+          2,
+          82,
+          9
+        ]
+      ],
+      "Tổng kết so tài, 100% tỷ lệ nhận thêm 10% điểm Tài Nghệ hiện tại"
+    ],
+    "10207": [
+      10206,
+      10208,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      6,
+      "bb_a10",
+      [
+        [
+          2,
+          82,
+          10
+        ]
+      ],
+      "Tổng kết so tài, 100% tỷ lệ nhận thêm 12% điểm Tài Nghệ hiện tại"
+    ],
+    "10208": [
+      10207,
+      10209,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      7,
+      "bb_a10",
+      [
+        [
+          2,
+          82,
+          11
+        ]
+      ],
+      "Tổng kết so tài, 100% tỷ lệ nhận thêm 14% điểm Tài Nghệ hiện tại"
+    ],
+    "10209": [
+      10208,
+      10210,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      8,
+      "bb_a10",
+      [
+        [
+          2,
+          82,
+          12
+        ]
+      ],
+      "Tổng kết so tài, 100% tỷ lệ nhận thêm 16% điểm Tài Nghệ hiện tại"
+    ],
+    "10210": [
+      10209,
+      10211,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      9,
+      "bb_a10",
+      [
+        [
+          2,
+          82,
+          15
+        ]
+      ],
+      "Tổng kết so tài, 100% tỷ lệ nhận thêm 18% điểm Tài Nghệ hiện tại"
+    ],
+    "10211": [
+      10210,
+      0,
+      102,
+      "Kỹ Nghệ Siêu Quần",
+      10,
+      "bb_a10",
+      [],
+      "Tổng kết so tài, 100% tỷ lệ nhận thêm 20% điểm Tài Nghệ hiện tại"
+    ]
+  }
+}

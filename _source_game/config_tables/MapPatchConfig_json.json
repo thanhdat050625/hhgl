@@ -1,0 +1,641 @@
+{
+  "colMap": [
+    "name",
+    "type",
+    "icon",
+    "description",
+    "position"
+  ],
+  "list": {
+    "101": [
+      "Mảnh Hoa Lâm 1",
+      1,
+      "le_i1_2",
+      "Đã đánh bại Nạp Tháp Thanh Liên, kiểm tra một góc hẻm bất thường, được Mảnh Tú Quyển. ",
+      [
+        0,
+        0
+      ]
+    ],
+    "102": [
+      "Mảnh Hoa Lâm 2",
+      1,
+      "le_i1_3",
+      "Đã đánh bại Đại Cung Nữ Vân Hương, phát hiện gạch sân nhà lỏng ra, sau khi chuyển nhận được Mảnh Tú Quyển.",
+      [
+        188.8,
+        0
+      ]
+    ],
+    "103": [
+      "Mảnh Hoa Lâm 3",
+      1,
+      "le_i1_4",
+      "Đánh bại Thụy Quý Nhân, phát hiện trong Trường Xuân Cung có bình hoa mới lạ, sau khi tìm kiếm nhận được Mảnh Tú Quyển. ",
+      [
+        82.6,
+        53
+      ]
+    ],
+    "201": [
+      "Mảnh Hàn Cốc 1",
+      1,
+      "le_i2_2",
+      "Ngươi đánh bại Viên Tổng Viên, phát hiện bàn đá trong sân bị lệch, di chuyển nhận được Mảnh Tú Quyển. ",
+      [
+        90,
+        0
+      ]
+    ],
+    "202": [
+      "Mảnh Hàn Cốc 2",
+      1,
+      "le_i2_3",
+      "Đã đánh bại Gia Tần, phát hiện trên giá sách của Dưỡng Tâm Điện có 1 ô kín, mở ra nhận được Mảnh Tú Quyển. ",
+      [
+        0,
+        120
+      ]
+    ],
+    "203": [
+      "Mảnh Hàn Cốc 3",
+      1,
+      "le_i2_4",
+      "Đã đánh bại Gia Tần, phát hiện mặt trái bàn sách ở Dưỡng Tâm Điện có bất thường, xem xong nhận Mảnh Tú Quyển.",
+      [
+        66,
+        226
+      ]
+    ],
+    "301": [
+      "Mảnh Vân Phong 1",
+      1,
+      "le_i3_2",
+      "Đánh bại Tuệ Quý Phi, phát hiện phía sau Sư Tử ở cổng thành khe đá, nhìn kỹ hơn nhận được Mảnh Tú Quyển. ",
+      [
+        0,
+        0
+      ]
+    ],
+    "302": [
+      "Mảnh Vân Phong 2",
+      1,
+      "le_i3_3",
+      "Đã đánh bại Hòa Thân Vương, phát hiện bên dưới nền của Thường Xuân Viên có dị vật, dọn dẹp xong nhận Chỉ Vụn",
+      [
+        180.8,
+        48.5
+      ]
+    ],
+    "303": [
+      "Mảnh Vân Phong 3",
+      1,
+      "le_i3_4",
+      "Đánh bại Thư Phi, phát hiện phía sau bảng hiệu Khởi Xuân Viện có tổ chim, dọn dẹp xong nhận được Mảnh Tú Quyển. ",
+      [
+        71,
+        19
+      ]
+    ],
+    "401": [
+      "Mảnh Băng Hà 1",
+      1,
+      "le_i4_2",
+      "Đánh bại Tuệ Quý Phi, phát hiện thảm dưới đất Dưỡng Tâm Điện có dị vật, lật ra nhận Mảnh Tú Quyển",
+      [
+        0,
+        0
+      ]
+    ],
+    "402": [
+      "Mảnh Băng Hà 2",
+      1,
+      "le_i4_3",
+      "Đánh bại Dược Thương, phái hiện Mảnh Tú Quyển sau ngói hậu viện.",
+      [
+        1.3,
+        123.9
+      ]
+    ],
+    "403": [
+      "Mảnh Băng Hà 3",
+      1,
+      "le_i4_4",
+      "Đánh bại Elaine, phát hiện cuộn tranh trong Trường Xuân Cung có gì đó không ổn, mở nhận Mảnh Tú Quyển.",
+      [
+        19.3,
+        121
+      ]
+    ],
+    "501": [
+      "Mảnh Thiên Trì 1",
+      1,
+      "le_i5_2",
+      "Đánh bại Thư Phi, phát hiện trên bàn tang lễ có điều bất thường, kiểm tra thì nhận được Tú Quyển. ",
+      [
+        0,
+        0
+      ]
+    ],
+    "502": [
+      "Mảnh Thiên Trì-2",
+      1,
+      "le_i5_3",
+      "Đã đánh bại Nghi Tần, phát hiện đất của các chậu cây đều rất tơi xốp, sau khi đào nhận được  Tú Quyển.",
+      [
+        54.7,
+        124
+      ]
+    ],
+    "503": [
+      "Mảnh Thiên Trì-3",
+      1,
+      "le_i5_4",
+      "Ngươi đánh bại Tấn Phi, phát hiện chỗ núi giả ở hậu viện rất kỳ lạ, sau khi nhấc ra nhận được Tú Quyển Tàn Quyển.",
+      [
+        202.9,
+        25.2
+      ]
+    ],
+    "601": [
+      "Mảnh Thánh Miếu-1",
+      1,
+      "le_i6_2",
+      "Đánh bại Thư Phi, phát hiện trong bức họa có dị vật, mở ra nhận được Tú Quyển. ",
+      [
+        89,
+        0
+      ]
+    ],
+    "602": [
+      "Mảnh Thánh Miếu 2",
+      1,
+      "le_i6_3",
+      "Đã đánh bại Hòa Thân Vương, phát hiện căn nhà nhỏ trong rừng có hộp báu vật, sau khi mở ra nhận được Tú Quyển,",
+      [
+        0,
+        116.7
+      ]
+    ],
+    "603": [
+      "Maảnh Thánh Miếu 3",
+      1,
+      "le_i6_4",
+      "Ngươi đánh bại Thuần phi, phát hiện điển tịch của Tàng Thư Các rất nhẹ, mở ra được Mảnh Tú Quyển.",
+      [
+        0,
+        47.9
+      ]
+    ],
+    "701": [
+      "Mảnh Cố Đô-I",
+      1,
+      "le_i7_2",
+      "Ngươi đánh bại Thuần Phi, kiểm tra nhận được Mảnh Tú Quyển.",
+      [
+        65.3,
+        0
+      ]
+    ],
+    "702": [
+      "Mảnh Cựu Quốc 2",
+      1,
+      "le_i7_3",
+      "Đã đánh bại Nhàn Hoàng Hậu, phát hiện Mảnh Tú Quyển sau đèn trong cung.",
+      [
+        0,
+        45
+      ]
+    ],
+    "703": [
+      " Mảnh Cố Đô 3",
+      1,
+      "le_i7_4",
+      "Ngươi đánh bại Thư Phi, phát hiện Mảnh Tú Quyển trong Vĩnh Thọ Cung.",
+      [
+        62.5,
+        124.5
+      ]
+    ],
+    "1101": [
+      "Mảnh 1",
+      2,
+      "le_i_a1",
+      "Ai cũng nói giang nam tốt, du nhân chỉ hợp giang nam già. ",
+      [
+        0,
+        0
+      ]
+    ],
+    "1102": [
+      "Mảnh 2",
+      2,
+      "le_i_a2",
+      "Nham hác thanh huy xử xử hàm, hồi khê khúc kính nhạ nhân đam.",
+      [
+        0,
+        118
+      ]
+    ],
+    "1103": [
+      "Mảnh 3",
+      2,
+      "le_i_a3",
+      "Vô tình tối thị đài thành liễu, y cựu yên lung thập lý đê. ",
+      [
+        0,
+        153
+      ]
+    ],
+    "1201": [
+      "Mảnh 1",
+      2,
+      "le_i_b1",
+      "Tiểu Kiều mang dáng vẻ Cổ Thành",
+      [
+        0,
+        0
+      ]
+    ],
+    "1202": [
+      "Mảnh 2",
+      2,
+      "le_i_b2",
+      "Thuyền nương họa phảng xướng bình đạn, nhất khúc hương khê đãng thúy lan. ",
+      [
+        29,
+        58
+      ]
+    ],
+    "1203": [
+      "Mảnh 3",
+      2,
+      "le_i_b3",
+      "Dòng suối ngàn dặm nhìn thấy chân trời, trăm hoa khoe sắc đón mưa xuân.",
+      [
+        154,
+        0
+      ]
+    ],
+    "1301": [
+      "Mảnh 1",
+      2,
+      "le_i_c1",
+      "Bạch tường hôi ngõa vũ như yên, cổ ý thạch kiều nguyệt bán loan.",
+      [
+        105,
+        0
+      ]
+    ],
+    "1302": [
+      "Mảnh 2",
+      2,
+      "le_i_c2",
+      "Đăng ảnh thuyền ca đa y nỉ, vãn phong phù túy hạ mê lâ. ",
+      [
+        0,
+        112
+      ]
+    ],
+    "1303": [
+      "Mảnh 3",
+      2,
+      "le_i_c3",
+      "Tháp kình đăng ảnh minh vân hạo, thuyền tải chung thanh xuất lãng đôi.",
+      [
+        120,
+        119
+      ]
+    ],
+    "1401": [
+      "Mảnh 1",
+      2,
+      "le_i_d1",
+      "Cô bồ vô biên nước mệnh mông, hoa sen đêm nở gió tỏa hương.",
+      [
+        51,
+        0
+      ]
+    ],
+    "1402": [
+      "Mảnh 2",
+      2,
+      "le_i_d2",
+      "Trường Châu liễu xanh trải dài, Tề Vân Lâu rượu xuân đầy.",
+      [
+        0,
+        108
+      ]
+    ],
+    "1403": [
+      "Mảnh 3",
+      2,
+      "le_i_d3",
+      "Quy lai cân lực do cường kiện, dã kịch đăng lâm mạc yếm gian. ",
+      [
+        132,
+        125
+      ]
+    ],
+    "1501": [
+      "Mảnh 1",
+      2,
+      "le_i_e1",
+      "Tuyệt liên nhân cảnh vô xa mã, tín hữu sơn lâm tại thị thành. ",
+      [
+        0,
+        0
+      ]
+    ],
+    "1502": [
+      "Mảnh 2",
+      2,
+      "le_i_e2",
+      "Tình xuyên lịch lịch hán dương thụ, phương thảo thê thê anh vũ châu. ",
+      [
+        57,
+        0
+      ]
+    ],
+    "1503": [
+      "Mảnh 3",
+      2,
+      "le_i_e3",
+      "Bình giang ba noãn uyên ương ngữ, lưỡng lưỡng điếu thuyền quy cực phổ. ",
+      [
+        0,
+        92
+      ]
+    ],
+    "1601": [
+      "Mảnh 1",
+      2,
+      "le_i_f1",
+      "mai hoa viên ngoại tiếp đào hoa, thập lý hương trần mạn tử hà. ",
+      [
+        0,
+        32
+      ]
+    ],
+    "1602": [
+      "Mảnh 2",
+      2,
+      "le_i_f2",
+      "Chợ đêm với hàng ngàn ánh đèn nối đuôi nhau, lầu cao áo đỏ gió phất phơ.",
+      [
+        71,
+        87
+      ]
+    ],
+    "1603": [
+      "Mảnh 3",
+      2,
+      "le_i_f3",
+      "Lan đầu nham huyệt tiên đô thúy, thạch thượng hiên doanh phật thổ hương. ",
+      [
+        140,
+        0
+      ]
+    ],
+    "1701": [
+      "Mảnh 1",
+      2,
+      "le_i_g1",
+      "Vạn cổ vân phong ngũ đỉnh tự, thiên châu tùng nạp tứ thời phong.",
+      [
+        0,
+        75
+      ]
+    ],
+    "1702": [
+      "Mảnh 2",
+      2,
+      "le_i_g2",
+      "Tự cách số phong ưu vị đáo, thiền đăng khởi điểm thuý vi minh. ",
+      [
+        70,
+        175
+      ]
+    ],
+    "1703": [
+      "Mảnh 3",
+      2,
+      "le_i_g3",
+      "Trống vang đêm thôn Giang, Trì Quán thu thâm lão kỳ hà.",
+      [
+        90,
+        0
+      ]
+    ],
+    "2101": [
+      "Mảnh 1",
+      3,
+      "le_k_a1",
+      "Lục lãng đông tây nam bắc thủy, hồng lan tam bách cửu thập kiều.",
+      [
+        0,
+        0
+      ]
+    ],
+    "2102": [
+      "Mảnh 2",
+      3,
+      "le_k_a2",
+      "Hậu quán nhân hi dạ tự trường, cô tô đài viễn thụ thương thương.",
+      [
+        0,
+        68
+      ]
+    ],
+    "2103": [
+      "Mảnh 3",
+      3,
+      "le_k_a3",
+      "Dạ ám quy vân nhiễu đà nha, giang hàm tinh ảnh lộ miên sa.",
+      [
+        22,
+        87
+      ]
+    ],
+    "2201": [
+      "Mảnh 1",
+      3,
+      "le_k_b1",
+      "Thụ ảnh hoành tà nghi bút giá, thái vân lung xứ tiện sinh yên.",
+      [
+        0,
+        0
+      ]
+    ],
+    "2202": [
+      "Mảnh 2",
+      3,
+      "le_k_b2",
+      "Đan ba lục thụ cẩm tú cốc, thanh ba bạch thạch pha li giang.",
+      [
+        98,
+        14
+      ]
+    ],
+    "2203": [
+      "Mảnh 3",
+      3,
+      "le_k_b3",
+      "Mai hoa ngũ canh thanh dạ mộng, chu dịch nhất quyển tiền thân thư.",
+      [
+        226,
+        4
+      ]
+    ],
+    "2301": [
+      "Mảnh 1",
+      3,
+      "le_k_c1",
+      "Tình giang diễm diễm hàm thiển sa, cao đê nhiễu quách trệ thu hoa.",
+      [
+        0,
+        0
+      ]
+    ],
+    "2302": [
+      "Mảnh 2",
+      3,
+      "le_k_c2",
+      "Thiên diệp liên hoa cựu hữu hương, bán sơn kim sát chiếu phương đường.",
+      [
+        57,
+        139
+      ]
+    ],
+    "2303": [
+      "Mảnh 3",
+      3,
+      "le_k_c3",
+      "Độc huề thiên thượng tiểu đoàn nguyệt, lai thí nhân gian đệ nhị tuyền.",
+      [
+        7,
+        228
+      ]
+    ],
+    "2401": [
+      "Mảnh 1",
+      3,
+      "le_k_d1",
+      "Nhuyễn hồng trần lí tiểu bồng lai, họa các văn sơ đối ngạn khai.",
+      [
+        5,
+        0
+      ]
+    ],
+    "2402": [
+      "Mảnh 2",
+      3,
+      "le_k_d2",
+      "Xung hàn nhất khả hạ cầm xuyên, tiểu lãm y y thị liễu biên.",
+      [
+        0,
+        48
+      ]
+    ],
+    "2403": [
+      "Mảnh 3",
+      3,
+      "le_k_d3",
+      "Hạnh hoa vi vũ phiêu li tịch, dương liễu đông phong phất điếu ki.",
+      [
+        0,
+        186
+      ]
+    ],
+    "2501": [
+      "Mảnh 1",
+      3,
+      "le_k_e1",
+      "Bất tri hà hạn nhân gian mộng, tịnh xúc trầm tư đáo tửu biên.",
+      [
+        90,
+        0
+      ]
+    ],
+    "2502": [
+      "Mảnh 2",
+      3,
+      "le_k_e2",
+      "Canh đãi tây hồ xuân lãng khoát, tôn lôi tái thính trạc anh ca.",
+      [
+        0,
+        108
+      ]
+    ],
+    "2503": [
+      "Mảnh 3",
+      3,
+      "le_k_e3",
+      "Thập lí tùng sam thanh tuyệt xứ, bất tri hiểu tuyết tại tây sơn.",
+      [
+        23,
+        142
+      ]
+    ],
+    "2601": [
+      "Mảnh 1",
+      3,
+      "le_k_f1",
+      "Mai hoa lạc xứ nghi tàn tuyết, liễu diệp khai thời nhậm hảo phong.",
+      [
+        0,
+        0
+      ]
+    ],
+    "2602": [
+      "Mảnh 2",
+      3,
+      "le_k_f2",
+      "Phiên lệnh trạch tiền hoa vị thịnh, duyên lăng mộ thượng thảo tiên thanh.",
+      [
+        0,
+        159
+      ]
+    ],
+    "2603": [
+      "Mảnh 3",
+      3,
+      "le_k_f3",
+      "Lưỡng niên nhất kiếm vi thùy lưu, cổ ấp trọng lai tứ thập thu.",
+      [
+        118,
+        116
+      ]
+    ],
+    "2701": [
+      "Mảnh 1",
+      3,
+      "le_k_g1",
+      "Tam sơn bán lạc thanh thiên ngoại, nhị thủy trung phân bạch lộ châu.",
+      [
+        99,
+        0
+      ]
+    ],
+    "2702": [
+      "Mảnh 2",
+      3,
+      "le_k_g2",
+      "Phụng hoàng đài thượng mộ vân già, mai hoa kinh tác hoàng hôn tuyết.",
+      [
+        0,
+        122
+      ]
+    ],
+    "2703": [
+      "Mảnh 3",
+      3,
+      "le_k_g3",
+      "Phương thảo châu tiền nhàn túc lộ, ô y hạng khẩu ngữ lưu oanh.",
+      [
+        2,
+        234
+      ]
+    ]
+  }
+}

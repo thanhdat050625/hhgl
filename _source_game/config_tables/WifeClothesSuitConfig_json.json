@@ -1,0 +1,942 @@
+{
+  "colMap": [
+    "name",
+    "manId",
+    "description",
+    "icon",
+    "starts",
+    "getPath",
+    "whichBranch",
+    "onTime"
+  ],
+  "list": {
+    "5001": [
+      "Ngự Tiền Thị Vệ",
+      10001,
+      "Thống nhất trang phục của Ngự Tiền Thị Vệ, hoa văn trang phục của Thị Vệ Trưởng và Thị Vệ Thường khác nhau, tôn lên Doãn An càng trẻ trung.",
+      5001,
+      3,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5002": [
+      "Quan phục triều thần",
+      10001,
+      "Triều phục đại thần triều đình mang lên triều, bố tử trên triều phục là của một vị nương nương trong cung tự tay may.",
+      5002,
+      4,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5003": [
+      "Vũ Trang Tướng Quân",
+      10001,
+      "Cải tiến vũ trang tướng quân, sang trọng hơn.",
+      5003,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5004": [
+      "Nữ Cung Tiễn Thủ",
+      10001,
+      "Trang phục cung tiễn thủ bộ lạc cổ Nữ Chân mang, kết hợp cung dài và giáp da, để lộ vòm ngực rắn chắc. ",
+      5004,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5005": [
+      "Ly Thù.Qua",
+      10001,
+      "Trên núi cao có kiếm khách, cả đời hành hiệp trượng nghĩa. ",
+      5005,
+      5,
+      [
+        12818
+      ],
+      [],
+      0
+    ],
+    "5006": [
+      "Kiếm Hàn Tinh Đấu",
+      10001,
+      "Dựa vào võ nghệ cao cường, cùng  đi theo chủ nhân chinh chiến Bắc Nam. Nếu như có một ngày được phong tước vị, nguyện ở lại vùng núi này như người xưa.",
+      5006,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5007": [
+      "Thiếu Tá Lục Quân",
+      10001,
+      "Vẻ ngoài đẹp trai, cổ tay cứng rắn, là thiếu tá trẻ nhất. Trong những năm tháng phong ba luôn dũng cảm tiến về phía trước.",
+      5007,
+      5,
+      [
+        12858
+      ],
+      [],
+      0
+    ],
+    "5008": [
+      "Thủ hộ của thị vệ",
+      10001,
+      "Thủ hộ mạnh mẻ của mỗi thủ vệ",
+      5008,
+      3,
+      [
+        11197
+      ],
+      [
+        4
+      ],
+      0
+    ],
+    "5009": [
+      "Trung Thành Hộ Vệ",
+      10001,
+      "Trang sức của thủ vệ hoàng thất, Tập hợp  truyền thông và hiện đại , Thể hiện khí độ bất phàm",
+      5009,
+      4,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5010": [
+      "Liêm Thương Võ Sĩ",
+      10001,
+      "Võ sĩ với kiếm thuật bất phàm. Mang trang phục với hoa văn đậm khí chất anh hùng.",
+      5010,
+      3,
+      [
+        11197
+      ],
+      [
+        10
+      ],
+      0
+    ],
+    "5011": [
+      "Công Tử Tao Nhã",
+      10001,
+      "Phù hợp để đi dạo vào ngày đẹp trời, nhẹ nhàng thoải mái phù hợp cho người hoạt bát, nhanh nhẹn.",
+      5011,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5012": [
+      "Tật Dạ Phủ Tông",
+      10001,
+      "Trong đêm sương mù, hành động chớp nhoáng… Đôi mắt nhanh nhẹn ẩn dưới chiếc mặt nạ hồ ly.",
+      5012,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5013": [
+      "Không Sợ Truy Kích",
+      10001,
+      "Sau khi tiếng súng vang lên, bầu trời hửng sáng, không sợ nguy hiểm, tìm kiếm chân tướng của vụ việc. ",
+      5013,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5014": [
+      "Cẩm Tú Truyền Tình",
+      10001,
+      "Lụa đỏ như ánh hoàng hôn, tú cầu truyền tình, ngày cưới đúng dịp trời xuân ấm áp, hỉ ủng hoa đường khánh ngọc lang.",
+      5014,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5015": [
+      "Hiệp Khách Tiêu Dật",
+      10001,
+      "Ngọn gió thổi qua như làn nước lạnh, tay cầm kiếm, độc hành trong giang hồ.",
+      5015,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5016": [
+      "Pháp Sư Vinh Quang",
+      10001,
+      "Bảo vệ vĩnh hằng, nắm tay bước trên con đường chông gai, cùng tạo nên vinh quang.",
+      5016,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5017": [
+      "Thiên Thanh Vân Thường",
+      10001,
+      "Sắc trời trong xanh, ta đợi nàng ở nơi yên vân sâu thẳm, nặn một đôi người sứ nhỏ.",
+      5017,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5018": [
+      "Ánh Tiêu Dạ Tụng",
+      10001,
+      "Thơ gửi tình, trăng sáng trong, cảnh này khó quên.",
+      5018,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5019": [
+      "Trúc Gió Tiêu Điều",
+      10001,
+      "Bám chặt núi xanh, rễ đâm qua đá, mặc kệ gió bốn phương thổi tới.",
+      5019,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5101": [
+      "Long Bào Đế Vương",
+      10003,
+      "Mặc khi triều sớm, tiếp kiến ngoại thần, các đại điện trọng đại, long bào riêng của Hoàng Thượng",
+      5101,
+      4,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5102": [
+      "Thường phục Hoàng Đế",
+      10003,
+      "Áo gấm vàng thêu mây rồng biểu thị cát tường, lúc Hoàng Thượng tuần tra hậu cung và dự tiệc mang trường bào",
+      5102,
+      3,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5103": [
+      "Quan Chỉ Huy Tây Dương",
+      10003,
+      "Quân phục của Quan Chỉ Huy Tây Dương, nghe đồn là vị nương nương nào đó mua từ tay thần bí thương nhân, rất được Hoàng Thượng yêu thích.",
+      5103,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5104": [
+      "Đế Vương Đời Hán",
+      10003,
+      "Hoàng Thượng nhất thời hưng phấn, đã mặc hoàng bào hán phục tham gia buổi hí khúc trong cung, nghe nói là do một vị nương nương làm.",
+      5104,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5105": [
+      "Ly Thù.Tuân",
+      10003,
+      "Anh hùng trừ Bá vương, thoáng chốc thành kim cổ",
+      5105,
+      5,
+      [
+        12818
+      ],
+      [],
+      0
+    ],
+    "5106": [
+      "Hiệp Cốt Thư Sinh",
+      10003,
+      "Năm xưa đi xem Lư Sơn Phong. Núi xa như Du Long, một nửa trên bầu trời",
+      5106,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5107": [
+      "Nhà Từ Thiện",
+      10003,
+      "Giàu có bậc nhất, vô tư cống hiến, chia sẻ mọi của cải với những người có nhu cầu trong xã hội.",
+      5107,
+      5,
+      [
+        12858
+      ],
+      [],
+      0
+    ],
+    "5108": [
+      "Vương giả mị lực ",
+      10003,
+      "Sở hữu quyền lực tối cao Không thể xem thường",
+      5108,
+      3,
+      [
+        11197
+      ],
+      [
+        4
+      ],
+      0
+    ],
+    "5109": [
+      "Hoàng Tử Thái Quốc",
+      10003,
+      "Xích kim chi sắc, Thể hiện bá khí của Cửu Ngũ Chí Tốn, Trang sức của các hoàng thất trong các buổi lễ",
+      5109,
+      4,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5110": [
+      "Thế Gia Quý Trụ",
+      10003,
+      "Mang trong mình huyết thống cao quý. Mặc một bộ trang phục làm bằng vật liệu hiếm có và hoa văn tỉ mỉ. Giá trị liên thành.",
+      5110,
+      3,
+      [
+        11197
+      ],
+      [
+        10
+      ],
+      0
+    ],
+    "5111": [
+      "Quý Tộc Ung Dung",
+      10003,
+      "Quý tộc luôn chú trọng ăn mặc tinh tế, ngay cả lúc nghiên cứu các cuộn sách cổ.",
+      5111,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5112": [
+      "Minh Chủ Thiên Hạ",
+      10003,
+      "Thiên hạ vô song, hiệu lệnh quần hùng… Thiên hạ rộng lớn duy ngã độc tôn.",
+      5112,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5113": [
+      "Cầm Quyền Tối Cao",
+      10003,
+      "Xoáy nước màu vàng, quyền lực dụ hoặc, nắm giữ sức mạnh cân bằng, giữ gìn thiện ác của thế gian.",
+      5113,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5114": [
+      "Đế Kết Như Ý",
+      10003,
+      "Long phượng trình tường, như ý đế duyên, thề non hẹn biển đều là lưu luyến, hồng trang là lời chúc dài lâu.",
+      5114,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5115": [
+      "Võ Lâm Chí Tôn",
+      10003,
+      "Tung hoành giang hồ, bất khả chiến bại, xưng là võ lâm chí tôn.",
+      5115,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5116": [
+      "Tư Tế Sao Trời",
+      10003,
+      "Thước trắc tinh xem mệnh, đuổi theo sự thật phá vỡ ảo ảnh, đêm đêm không dứt.",
+      5116,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5117": [
+      "Cẩm Y Lưu Huỳnh",
+      10003,
+      "Đom đóm bay lượn sáng như những vì sao, chim sẻ chao nghiêng thành đôi, cùng nàng ngắm núi non hùng vĩ.",
+      5117,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5118": [
+      "Lang Ngọc Hoài Cẩn",
+      10003,
+      "Kỳ phùng địch thủ, tri âm gặp gỡ, không bao giờ hối hận.",
+      5118,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5119": [
+      "Cúc Sương Kiêu Sa",
+      10003,
+      "Hương thơm ngập trời, hoa vàng khắp phố, khi loài này nở, trăm hoa đều lụi tàn.",
+      5119,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5201": [
+      "Quần Jean Tây",
+      10002,
+      "Nghe nói y phục được các lữ khách phương tây mặc có thiết kế vượt thời đại...",
+      5201,
+      4,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5202": [
+      "Âu phục nam",
+      10002,
+      "Thường phục kiểu nam thường thấy ở phương tây, chỉ là so với những trang phục bình thường thì bộ của Alendi lại rất sặc sỡ.",
+      5202,
+      3,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5203": [
+      "Dạ Hành Khinh Giáp",
+      10002,
+      " Alendi thích trốn ra ngoài cung thường xuyên nên có rất nhiều loại trang phục cải trang, nhưng bộ giáp và vũ khí trong tủ áo có vẻ đang che giấu điều gì đó.",
+      5203,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5204": [
+      "Du Khách Ngoại Tộc",
+      10002,
+      "Một bộ y phục mà Alendi rất thích mặc khi cải trang trà trộn vào dân gian, màu sắc tươi sáng càng hợp với tính cách hắn. ",
+      5204,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5205": [
+      "Ly Thù.Dật",
+      10002,
+      "Người lãng mạn thật sự sẽ mang theo khí chất thân sĩ mà nho nhã. ",
+      5205,
+      5,
+      [
+        12818
+      ],
+      [],
+      0
+    ],
+    "5206": [
+      "Tầm Hồ Ẩn Giả",
+      10002,
+      "Qua sông lại qua sông, xem hoa vẫn xem hoa. Đi trên sông mùa xuân, bất giác đến Quân Gia. ",
+      5206,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5207": [
+      "Ký Giả Chiến Địa",
+      10002,
+      "Nếu không thể ngăn cản chiến tranh thì hãy cho thế giới biết sự thật. Dùng máy ảnh ghi lại chiến trường, dùng ngòi bút phơi bày sự thật.",
+      5207,
+      5,
+      [
+        12858
+      ],
+      [],
+      0
+    ],
+    "5208": [
+      "Sứ thần thần bí",
+      10002,
+      "Dị quốc thiếu niên , Sở hữu thân thủ phi phàm",
+      5208,
+      3,
+      [
+        11197
+      ],
+      [
+        4
+      ],
+      0
+    ],
+    "5209": [
+      "Dị Vực Sứ Giả",
+      10002,
+      "Trang phục sứ giả thể hiện phong tình của dị vực, Có gắn vàng trên áo cực sang trọng",
+      5209,
+      4,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5210": [
+      "Dị Quốc Hoàng Tử",
+      10002,
+      "Hoàng Tử đến từ vương quốc xa xôi. Mang trên mình bộ trang phục kỳ lạ khiến mọi người chú ý.",
+      5210,
+      3,
+      [
+        11197
+      ],
+      [
+        10
+      ],
+      0
+    ],
+    "5211": [
+      "Mùi Hương Lịch Lãm",
+      10002,
+      "Quý ông ăn mặc lịch lãm khi tham gia vũ hội, xịt nước hoa là bước cuối cùng không thể thiếu.",
+      5211,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5212": [
+      "Mộng Đồ Tửu Hiệp",
+      10002,
+      "Mộng mị hết mê rồi tỉnh, đường dài vô tận… Người bất phàm quy ẩn rừng trúc.",
+      5212,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5213": [
+      "Loạn Đao Cực Nhanh",
+      10002,
+      "Lốp xe tóe lửa, loạn đao nguy hiểm, phá vỡ xiềng xích của vận mệnh, phá vỡ giới hạn tốc độ.",
+      5213,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5214": [
+      "Giấc Mộng Trẻ Thơ",
+      10002,
+      "Hoa hồng nở rộ, chú gấu ngây thơ, giấc mộng dịu dàng của hai ta, viết nên câu chuyện tuyệt vời.",
+      5214,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5215": [
+      "Đao Khách Xích Diễm",
+      10002,
+      "Thiếu niên trọng nghĩa hiệp, đao đỏ như lửa, ai có chuyện bất bình?",
+      5215,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5216": [
+      "Thiên Sư Vấn Tình",
+      10002,
+      "Gõ hỏi cửa lòng, hỏi đời nhân duyên đến với nhau, chỉ quay đầu đã nặng tình.",
+      5216,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5217": [
+      "Cổ Phục Thanh Nhã",
+      10002,
+      "Cổ điển và sang trọng đan xen, ăn mặc tinh tế, muốn cùng nàng đóng băng những kí ức ngọt ngào.",
+      5217,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5218": [
+      "Đan Thanh Bất Du",
+      10002,
+      "Bút mực đan thanh, dù sắc đã tàn, tình vẫn không đổi.",
+      5218,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5219": [
+      "Lan Thơm Người Xưa",
+      10002,
+      "Hoa lan nơi thung lũng, tỏa hương giữa non vắng, phong cách thanh cao vượt khỏi trần gian.",
+      5219,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5301": [
+      "Áo Bào Cổ Điển",
+      10004,
+      "Trường bảo dài vừa không biết cải biên từ trang phục thời nào, phù hợp với trang phục nhà Thanh. ",
+      5301,
+      3,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5302": [
+      "Vụ Lâm Ẩn Sĩ",
+      10004,
+      "Nghe đồn trong rừng sâu núi cao có vị ẩn sĩ, tựa như thần tiên.",
+      5302,
+      4,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5303": [
+      "Thư sinh Tuyết Quốc ",
+      10004,
+      "Từng là tác giả nổi tiếng của những quyển sách kỳ quái, chuyên tâm sáng tác để tránh tai họa.",
+      5303,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5304": [
+      "Di Tộc Tiên Khách",
+      10004,
+      "Nghe nói có một lữ đội thần bí, có thể là di tộc của Cổ Mặc Gia. Kẻ cầm đầu tiêu sái tuấn tú, nhưng lại ẩn dật khác đời.",
+      5304,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5305": [
+      "Ly Thù.Đình",
+      10004,
+      "Bồng Lai tây sơn có tiên nhân tên Vân Ẩn Nhã Quân.",
+      5305,
+      5,
+      [
+        12818
+      ],
+      [],
+      0
+    ],
+    "5306": [
+      "Sơ ảnh tiêu trúc",
+      10004,
+      "Đêm qua gió lạnh với trăng thanh. Sáng nay liễu rủ thu đến rồi.",
+      5306,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5307": [
+      "Bác Sĩ Tận Tâm",
+      10004,
+      "Du học trở về, hành y cứu người, đưa người bệnh trở về từ cõi chết, thiên sứ bảo hộ sinh mệnh.",
+      5307,
+      5,
+      [
+        12858
+      ],
+      [],
+      0
+    ],
+    "5308": [
+      "Vô Song Học Giả",
+      10004,
+      "Học thức vô song thiên hạ , không ai sánh được",
+      5308,
+      3,
+      [
+        11197
+      ],
+      [
+        4
+      ],
+      0
+    ],
+    "5309": [
+      "Quý Khách Cung Đình",
+      10004,
+      "Y bào có màu tím nhạt, Thể hiện sự thanh lạnh và trái tim của thợ rèn đối với cơ khí",
+      5309,
+      4,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5310": [
+      "Âm Dương Xu Cơ",
+      10004,
+      "Âm Dương Sư thành thạo các loại chiêm tinh. Tiên hạc hoạ trên y phục thể hiện phẩm chất cao khiết.",
+      5310,
+      3,
+      [
+        11197
+      ],
+      [
+        10
+      ],
+      0
+    ],
+    "5311": [
+      "Thuật Sư Biên Cảnh",
+      10004,
+      "Cơ quan thuật sư ở biên cảnh thường khoác áo lông giữ ấm, tay cầm la bàn thời gian quý giá.",
+      5311,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5312": [
+      "Sương Khiết Tôn Sư",
+      10004,
+      "Trong trắng không tì vết... Vẻ đẹp ngọc ngà không hằn dấu thời gian, mong cầu không phải quyền thế mà là vĩnh hằng.",
+      5312,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5313": [
+      "Trận Đấu Tao Nhã",
+      10004,
+      "Tao nhã ung dung, nắm chặt dây cương, vó ngựa vang lên, phẩm chất đáng quý.",
+      5313,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5314": [
+      "Ca Tụng Lãng Mạn",
+      10004,
+      "Khoác lên người sắc trắng thuần khiết, tay cầm bó hoa, viết nên khúc ca tình yêu rung động, ngợi ca lãng mạn đôi ta mãi không đổi thay.",
+      5314,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5315": [
+      "Cốc Chủ Ẩn Thế",
+      10004,
+      "Bóng anh hùng cô độc trên sông lạnh, chàng giấu kiếm trong góc thung lũng Đào Nguyên.",
+      5315,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5316": [
+      "Tư Thiên Nghịch Mệnh",
+      10004,
+      "Phá vỡ thiên cơ, xin dùng thân này sửa vận mệnh, chết trăm lần không hối hận.",
+      5316,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5317": [
+      "Lễ Phục Hoàng Hôn",
+      10004,
+      "Khi mặt trời lặn nhuộm đỏ những bông hoa, nụ hôn nhẹ đánh thức công chúa say ngủ, cùng nàng khiêu vũ.",
+      5317,
+      5,
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "5318": [
+      "Cầm Tâm Phú Nguyệt",
+      10004,
+      "Đây đàn vang vọng, một khúc nhạc vui, uyển chuyển vào mộng.",
+      5318,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ],
+    "5319": [
+      "Mai Giữa Băng Tuyết",
+      10004,
+      "Một mình nở trong lạnh giá, hương thoảng nhẹ nhàng, giữa rừng tuyết trắng, một nhánh mai đơn độc.",
+      5319,
+      5,
+      [
+        11197
+      ],
+      [],
+      0
+    ]
+  }
+}

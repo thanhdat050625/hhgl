@@ -1,0 +1,7391 @@
+{
+  "colMap": [
+    "icon",
+    "bgIcon",
+    "awardListIcon",
+    "name",
+    "description",
+    "manId",
+    "defaultBg",
+    "unlockType",
+    "unlockNumber",
+    "price",
+    "item",
+    "getPath",
+    "whichBranch",
+    "onTime"
+  ],
+  "list": {
+    "10001": [
+      "ts_f1",
+      "bg_30009",
+      270001,
+      "Phấn trang",
+      "[Bối cảnh thay đồ] Bàn trang điểm sạch sẽ, gương sáng bóng phản chiếu lớp trang điểm kỹ càng, có một phòng thay đồ là ước mơ của mỗi thiếu nữ.",
+      0,
+      2,
+      0,
+      "0",
+      [],
+      [],
+      [
+        21000
+      ],
+      [],
+      0
+    ],
+    "10002": [
+      "ts_f4",
+      "bg_30019",
+      270002,
+      "Ánh Trăng",
+      "[Bối cảnh đổi thời trang] Ánh sáng mặt hồ dập dềnh, mây bay lướt qua trăng gió nhẹ thổi cánh hoa sen, pháo hoa rực rỡ khiến bầu trời đêm trong ngày lễ thêm phần náo nhiệt. ",
+      0,
+      0,
+      2,
+      " Đổi ở Lưu Ly Phường nhận được ",
+      [],
+      [],
+      [
+        12814
+      ],
+      [],
+      0
+    ],
+    "10003": [
+      "ts_f2",
+      "bg_30024",
+      270003,
+      "Không Trung",
+      "[Bối cảnh thay đồ] Quạt không vung nhưng gió từ nâng, lá trúc theo gió rơi các đài. Hình bóng núi xa, sau cơn mưa tươi mát, càng tăng thêm vẻ đẹp và cảm giác yên tĩnh. ",
+      0,
+      0,
+      2,
+      " Đổi ở Lưu Ly Phường nhận được ",
+      [],
+      [],
+      [
+        12814
+      ],
+      [],
+      0
+    ],
+    "10004": [
+      "ts_g7",
+      "bg_30044",
+      275002,
+      "Mịch Ảnh",
+      "[Bối cảnh Thay Đồ] Ca hát nhảy múa, như hồ điệp tư do.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10005": [
+      "ts_g6",
+      "bg_30045",
+      275001,
+      "Ngọ Dạ Tự Mạc",
+      "[Bối cảnh Thay Đồ] Vũ đài lấp lánh, chờ giây phút cuồng nhiệt",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10006": [
+      "ts_g9",
+      "bg_30048",
+      270006,
+      "Hỉ Sự",
+      "[Bối cảnh thay đồ] Nến đỏ chúc mừng, tân nhân cùng bái thiên địa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10007": [
+      "ts_g8",
+      "bg_30049",
+      270005,
+      " Lãng Mạn",
+      "[Bối cảnh thay đồ] Ôm chặt người yêu, cùng ngắm bãi biển lãng mạn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10008": [
+      "ts_g10",
+      "bg_30050",
+      270008,
+      "Xuân Đến",
+      "[Bối cảnh thay đồ] Thu đến xuân đi, ai thương hoa sen trong vườn. Cảnh xuân bạc đầu, chỉ còn kiếp phù du.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10009": [
+      "ts_g12",
+      "bg_30052",
+      270009,
+      "Lưu Niên Tương Vọng",
+      "[Bối cảnh] Quay đầu nhìn nhau, bỉ ngạn rực đỏ bờ Vong Xuyên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10010": [
+      "ts_g13",
+      "bg_30053",
+      270010,
+      "Tinh Hà Thần Quang",
+      "[Bối cảnh] Khinh mi vẫn tinh hà, lưỡng dực phất thần quang, sao trời lấp lánh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10011": [
+      "ts_g11",
+      "bg_30051",
+      270007,
+      "Xuân Sắc Túy Nhân",
+      "[Bối cảnh] Đơn côi hoa đào rơi, đêm tĩnh núi xuân không.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10012": [
+      "ts_g14",
+      "bg_30054",
+      270011,
+      "Hạ Ngữ",
+      "[Bối cảnh] Hạ thủy quân sơn thanh, ngữ đáo cánh vị miên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10013": [
+      "ts_g15",
+      "bg_30055",
+      270012,
+      "Khu Rừng Vắng Lặng",
+      "[Bối cảnh thay đồ] Khu rừng yên tĩnh, vùng núi hẻo lánh. Núi không thấy bóng người, nhưng nghe tiếng người xa xăm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10014": [
+      "ts_g16",
+      "bg_30056",
+      270013,
+      "An Ninh",
+      "[Bối cảnh thay đồ] Bình yên tu đạo, tự do tự tại.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10015": [
+      "ts_g17",
+      "bg_30057",
+      270014,
+      "Cửu Thiên Cung Khuyết",
+      "[Bối cảnh thay đồ] Cung điện cửu thiên, long trọng quý phái",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10016": [
+      "ts_g18",
+      "bg_30058",
+      270015,
+      "Tứ Hải Thông U",
+      "[Bối cảnh thay đồ] Nước lặng mây trời, lộ ra long cung.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10017": [
+      "ts_g19",
+      "bg_30059",
+      270016,
+      "Hạ Sơn Như Bích",
+      "[Bối cảnh thay đổi trang phục] Gió thổi mát lạnh lung lay tấm rèm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10018": [
+      "ts_g20",
+      "bg_30060",
+      270017,
+      "Mặt Trời Xuống Núi",
+      "[Bối cảnh thay đổi trang phục] Nơi nào gió đông thổi nắng chiều, nhẹ nhàng say đắm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10019": [
+      "ts_g21",
+      "bg_30061",
+      270018,
+      "Sơn Minh Trúc Ẩn",
+      "[Bối cảnh thay đổi trang phục] Khói bay lên trên núi, hoàng hôn khuất sau rặng tre.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10020": [
+      "ts_g24",
+      "bg_30064",
+      270021,
+      "Người trong tranh Dao Sơn",
+      "[Bối cảnh thay đồ] Nghìn năm chờ người quay lại cười, chỉ trách tiên cô họa trong tranh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10021": [
+      "ts_g25",
+      "bg_30065",
+      270022,
+      "Tranh Tiên Tường Hồng",
+      "[Bối cảnh thay đồ] Thần tiên ẩn hiện trên biển, phiêu linh bức họa nhân gian.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10022": [
+      "ts_g26",
+      "bg_30066",
+      270023,
+      "Ánh Trăng Sao",
+      "[Bối cảnh thay y phục] Hẹn gặp trong đêm trăng sao lấp lánh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10023": [
+      "ts_g27",
+      "bg_30067",
+      270024,
+      "Mây Khói",
+      "[Bối cảnh thay y phục] Người trong mây khói, núi ngang trời xanh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10024": [
+      "ts_g28",
+      "bg_30068",
+      270025,
+      "Lời Hoa Cỏ",
+      "[Bối cảnh thay y phục] Bảo vệ nhau, nhớ nhung và yêu thương nhau.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10025": [
+      "ts_g29",
+      "bg_30069",
+      270026,
+      "Trăng Gió",
+      "[Bối cảnh thay y phục] Mây xanh trăng gió. Nhân thị nhân phi, rồi sẽ thế nào.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10026": [
+      "ts_g30",
+      "bg_30070",
+      270027,
+      "Viễn Sơn Tụ",
+      "[Bối cảnh thay y phục] Viễn Sơn mày dài thanh tú, bài ca tinh xảo theo làn mây.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10028": [
+      "ts_g32",
+      "bg_30072",
+      270029,
+      "Ý Thu Đượm Tình",
+      "[Bối cảnh thay y phục] Sau cơn mưa núi vắng, tiết trời thu đêm, trắng sáng chiếu hàng thông.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10029": [
+      "ts_g31",
+      "bg_30071",
+      270028,
+      "Sánh Cùng Trăng Sao",
+      "[Bối cảnh thay đồ] Ánh sáng vì sao lấp lánh, ta nguyện làm khách cung trăng, để được ở cùng các vì sao của nàng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10031": [
+      "ts_g33",
+      "bg_30073",
+      270030,
+      "Gối Đông",
+      "[Bối cảnh thay đồ] Tuyết mênh mông, rừng trang nghiêm, tựa như bức tranh cũ tĩnh lặng, hoa tuyết bay bay, đánh thức quang ảnh trong mơ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10034": [
+      "ts_g36",
+      "bg_30076",
+      270033,
+      "Đêm Chưa Tàn",
+      "[Bối cảnh thay đồ] Đêm nay đèn lồng lung linh, tiếng hát thánh thót, điệu múa nhẹ nhàng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10035": [
+      "ts_g37",
+      "bg_30077",
+      270034,
+      "Thiên Trì Tuyết Lan",
+      "[Bối cảnh thay đồ] Thiên Sơn tuyết phủ thoát tục, nghìn đỉnh núi chìm trong lạnh giá.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10036": [
+      "ts_g38",
+      "bg_30078",
+      270035,
+      "Chúc Noãn Hương Khuê",
+      "[Bối cảnh thay đồ] Hương thơm dưới mái đình hoa, ngọn nến sưởi ấm xua tan giấc mộng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10037": [
+      "ts_g39",
+      "bg_30079",
+      270036,
+      "Tuyết Mạn",
+      "[Khung Cảnh] Tuyết rơi lấp lánh trong màn đêm, hoàng hôn tràn ngập ánh sáng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10038": [
+      "ts_g40",
+      "bg_30080",
+      270037,
+      "Kính Hà Đại Sương",
+      "[Khung Cảnh] Nước trong gương trong như ngọc, làm say đắm lòng người.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10039": [
+      "ts_g41",
+      "bg_30081",
+      270038,
+      "Ngữ Quyến",
+      "[Khung Cảnh] Nước mắt hoa mẫu đơn, vẻ đẹp tựa phù du.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10040": [
+      "ts_g42",
+      "bg_30082",
+      270039,
+      "Vân Giang Nguyệt Tư",
+      "[Khung Cảnh] Bóng trăng xuyên qua đám mây, nhắc lại bản nhạc xưa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10041": [
+      "ts_g43",
+      "bg_30083",
+      270040,
+      "Trâu Vàng Tài Lộc",
+      "[Bối cảnh thay đồ] Hỉ thước ngậm cành xuân, trâu vàng ban tài lộc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10042": [
+      "ts_g44",
+      "bg_30084",
+      270041,
+      "Tuyết Tình",
+      "[Khung Cảnh] Sông núi mây xa, Tuyết rơi như mộng. Nhẹ nhàng Tết sang.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10043": [
+      "ts_g45",
+      "bg_30085",
+      270042,
+      "Huyễn Sắc Chi Mộng",
+      "[Khung Cảnh] Là một thế giới nhỏ mà cô gái nào cũng ao ước.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10044": [
+      "ts_g46",
+      "bg_30086",
+      270043,
+      "Thần Điện Ánh Sáng",
+      "[Bối cảnh thay đồ] Lơ lửng trên mây, ánh sáng rực rỡ thần tiên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10045": [
+      "ts_g47",
+      "bg_30087",
+      270044,
+      "Thần Điện Bóng Tối",
+      "[Bối cảnh thay đồ] Ẩn trong thế giới bí mật, huyền bí và mơ mộng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10046": [
+      "ts_g48",
+      "bg_30088",
+      270045,
+      "Vấn Hà",
+      "[Bối cảnh thay đồ] Cơn mưa qua núi xa mờ, tầng mây mềm rũ như lụa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10047": [
+      "ts_g49",
+      "bg_30089",
+      270046,
+      "Oanh Ngữ Họa Xuân",
+      "[Cảnh đổi trang phục] Làn nước đẹp bao quanh đình, chim oanh hót báo mùa xuân đến. ",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10048": [
+      "ts_g50",
+      "bg_30090",
+      270047,
+      "Linh Hoa Quỳnh Anh",
+      "[Cảnh đổi trang phục] An định vũ trụ, hổ thần bảo vệ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10050": [
+      "ts_g52",
+      "bg_30092",
+      270049,
+      "Lạc Thủy Vi Mang",
+      "[Cảnh đổi trang phục] Trên núi xa, khói nước mờ mịt.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10051": [
+      "ts_g53",
+      "bg_30093",
+      270050,
+      "Tình Duyên Miếu Cổ",
+      "[Cảnh đổi trang phục] Cây xanh rợp miếu cổ, đỏ thắm tình ý, cầu nguyện nhân duyên dẫn lối.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10052": [
+      "ts_g54",
+      "bg_30094",
+      270051,
+      "Mê Tiên Dẫn",
+      "[Cảnh đổi trang phục] Mây chiều bay, núi xanh trì, tiên khí say lòng người.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10053": [
+      "ts_g55",
+      "bg_30095",
+      270052,
+      "Mạn Tiên Động Thiên",
+      "[Bối Cảnh Thay Đồ] Thừa giáng tiên, thiên lục ly. Ngọc loan ẩn, vân vụ trì.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10054": [
+      "ts_g56",
+      "bg_30096",
+      270053,
+      "Lời Nói Lãng Mạn",
+      "[Bối Cảnh Thay Đồ] Màu sắc bị nhòe đi, bóng bay đầy ước mơ điểm xuyết cho bữa tiệc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10055": [
+      "ts_g57",
+      "bg_30097",
+      270054,
+      "Lời Nói Ngọt Ngào",
+      "[Bối Cảnh Thay Đồ] Giấc mộng màu hồng, Thỏ Xinh đuổi theo thiếu nữ dự bữa tiệc tưởng tượng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10056": [
+      "ts_g58",
+      "bg_30098",
+      270055,
+      "Thịnh Thế Tam Cung",
+      "[Bối Cảnh Thay Đồ] Lưng châu tham sai thùy ngọc quyết, phong liêm thư quyển ánh lan cung.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10057": [
+      "ts_g59",
+      "bg_30099",
+      270056,
+      "Thương Khung Vân Cảnh",
+      "[Bối Cảnh Thay Đồ] Ngọc lâu quỳnh các hiệu vân cảnh, quang huy như bộc hiển minh hoàng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10058": [
+      "ts_g60",
+      "bg_30100",
+      270057,
+      "Việt Tam Đồ",
+      "[Bối Cảnh Thay Đồ] Hoa nở bên bờ, say mộng khói sóng. Ngọn đèn ngàn năm, duyên sinh duyên khởi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10059": [
+      "ts_g61",
+      "bg_30105",
+      270058,
+      "Thanh Đằng Linh Cảnh",
+      "[Bối Cảnh Thay Đồ] Dây leo xanh, đánh thức hồn thiên nhiên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10060": [
+      "ts_g35",
+      "bg_30075",
+      270032,
+      "Mị Đằng Điệp Cảnh",
+      "[Bối Cảnh Thay Đồ] Bướm bay chập chờn, nhớ về giấc mộng kiếp trước.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10061": [
+      "ts_g64",
+      "bg_30108",
+      270061,
+      "Nam Phổ Thanh Khê",
+      "[Bối cảnh thay đồ]suối Nam Phổ len qua dãy núi quyện tầng mây",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10062": [
+      "ts_g22",
+      "bg_30062",
+      270019,
+      "Thanh Sơn Như Đại",
+      "[Bối cảnh thay đồ] Núi xanh giữa mây trời, mộng mơ nhẹ nhàng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10063": [
+      "ts_g51",
+      "bg_30091",
+      270048,
+      "Phù Ẩn Trạch Thế",
+      "[Bối cảnh thay đồ] Ẩn hiện Phục Lương, Huyền Vũ muôn đời.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10064": [
+      "ts_g65",
+      "bg_30109",
+      270062,
+      "Ái Mộ Quang Hi",
+      "[Bối cảnh thay đồ] Say trong ánh sáng tình yêu, chúc phúc cùng tình nhân.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10065": [
+      "ts_g69",
+      "bg_30113",
+      270066,
+      "Tình Qua Ngàn Dặm",
+      "[Bối cảnh thay đồ] Tình yêu ngàn dặm, hỉ kết lương duyên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10066": [
+      "ts_g66",
+      "bg_30110",
+      270063,
+      "Đường Về Vong Xuyên",
+      "[Bối cảnh thay đồ] Muôn nghìn ngọn đèn che chở linh hồn, phù du vong xuyên, quy về luân hồi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10067": [
+      "ts_g67",
+      "bg_30111",
+      270064,
+      "Gửi Trăng",
+      "[Bối cảnh thay đồ] Trăng lên cao, trong hoàng cung mộng mơ, tiếng đàn gợi chuyện xưa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10068": [
+      "ts_g71",
+      "bg_30115",
+      270068,
+      "Nguyệt Kiều U Giản",
+      "[Bối cảnh thay đồ] Thủy vụ u giản tỏa lang kiều, lưu vân nguyệt hạ tư du du.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10069": [
+      "ts_g70",
+      "bg_30114",
+      270067,
+      "Nguyệt Cung Vân Quế",
+      "[Bối cảnh thay đồ] Hương quế bay xa, ánh trăng chiếu xuống cung điện, đám mây điểm xuyết cho bầu trời.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10070": [
+      "ts_g72",
+      "bg_30116",
+      270069,
+      "Minh Đình Bích Phồn",
+      "[Bối cảnh thay đồ] Đình lang bích đình minh quang xán, việt điểu nhàn du thảo mộc phồn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10071": [
+      "ts_g73",
+      "bg_30117",
+      270070,
+      "Loan Nghi Trú Viên",
+      "[Bối cảnh thay đồ] Hà trì liên thiên bích không thủy, sơn quyên ánh nhật trú diệu viên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10072": [
+      "ts_g74",
+      "bg_30118",
+      270071,
+      "Đi Vào Giấc Mơ",
+      "[Bối cảnh thay đồ] Đàn hương u mộng hốt chuyển tỉnh, tiểu hiên song ngoại huyễn cảnh thâm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10073": [
+      "ts_g23",
+      "bg_30063",
+      270020,
+      "Biển Sao Màu Đỏ",
+      "[Bối cảnh thay đồ] Biển sao màu đỏ, mộng cảnh tràn ngập ánh sáng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10074": [
+      "ts_g75",
+      "bg_30119",
+      270072,
+      "Chu Viên Chước Thiên",
+      "[Bối cảnh thay đồ] Trừng viêm nhập chu viên, diễm vũ liên chước thiên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10075": [
+      "ts_g78",
+      "bg_30122",
+      270075,
+      "Tà Ba Yên Kiều",
+      "[Nền Thay Đồ ] Cầu xích khói nhẹ, nước chảy nghiêng, nguy lâu ẩn hiện trong mây.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10076": [
+      "ts_g76",
+      "bg_30120",
+      270073,
+      "Hạc Phiến Sinh Hoa",
+      "[Bối cảnh thay đồ] Hạc phiến khinh triển, mẫu đan trán kim hoa, chiếu vân khai vụ tán.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10077": [
+      "ts_g77",
+      "bg_30121",
+      270074,
+      "Huyền Vi Lang Các",
+      "[Bối cảnh thay đồ] Ngân hà mênh mông, yểu ái thượng huyền vi, lưu ly oanh lang các. ",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10078": [
+      "ts_g81",
+      "bg_30125",
+      270078,
+      "Tâm Tùy Tinh Động",
+      "[Nền Thay Đồ] Sự rung động đến muộn, chuyển động theo vì sao không ngơi nghỉ.",
+      0,
+      0,
+      2,
+      "Xung Quanh Nhà",
+      [],
+      [],
+      [
+        12600
+      ],
+      [
+        1
+      ],
+      0
+    ],
+    "10079": [
+      "ts_g82",
+      "bg_30126",
+      270079,
+      "Yên Dao Tàn Chiếu",
+      "[Nền Thay Đồ] Tham soa thúy ảnh hồng hà, dao lạc yên hồ tàn chiếu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10080": [
+      "ts_g68",
+      "bg_30112",
+      270065,
+      "Thác Nước Núi Sâu",
+      "[Nền Thay Đồ] Bồng sơn thâm cốc giấu thác lớn, vạn thủy đổ xuống tựa ngâm lôi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10081": [
+      "ts_g86",
+      "bg_30130",
+      270083,
+      "Trời Đêm Lãng Mạn",
+      "[Nền Thay Đồ] Giống như bong bóng chạm vào là vỡ, đêm party Champagne dừng giữa bầu trời",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10082": [
+      "ts_g87",
+      "bg_30131",
+      270084,
+      "Đêm Tối Mê Hoặc",
+      "[Nền Thay Đồ] Mê ảo xa không thể thấy, đêm party Rum vĩnh viễn không dừng lại.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10083": [
+      "ts_g83",
+      "bg_30127",
+      270080,
+      "Xán Hải Tâm",
+      "[Nền Thay Đồ] Lắng nghe sự rực rỡ, thâm thúy của biển, và tiếng hát của trái tim vĩnh hằng bất biến.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10084": [
+      "ts_g84",
+      "bg_30128",
+      270081,
+      "Ánh Sáng Ánh Hà",
+      "[Bối cảnh thay đồ]Phi trú sạ tập thiên môn ngọc, sánh sáng sơ sinh lưỡng ngạn bạch.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10085": [
+      "ts_g85",
+      "bg_30129",
+      270082,
+      "Cực Dạ Tinh Hà",
+      "[Bối cảnh thay đồ]Đêm như sương rơi khắp núi, ánh trăng sao soi sáng trần gian.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10086": [
+      "ts_g91",
+      "bg_30135",
+      270088,
+      "Kình Ca Tâm Hải",
+      "[Bối Cảnh Thay Đồ] Du ngoạn đáy biển, kình ca dịu dàng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10087": [
+      "ts_g92",
+      "bg_30136",
+      270089,
+      "Quyến Mộng Ảo Hải",
+      "[Bối Cảnh Thay Đồ] Quân mộng thuỳ quyến, ảo thuỷ nhược hải.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10088": [
+      "ts_g93",
+      "bg_30137",
+      270090,
+      "Huỳnh Đăng Lục Dã",
+      "[Bối Cảnh Thay Đồ] Lục dã mạn mạn, huỳnh quang điểm điểm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10089": [
+      "ts_g94",
+      "bg_30138",
+      270091,
+      "Cổ Sắt Cầm Dã",
+      "[Bối Cảnh Thay Đồ] Minh dã chi cầm, cổ sắt cổ cầm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10090": [
+      "ts_g96",
+      "bg_30140",
+      270093,
+      "Kim Hổ Hạ Niên",
+      "[Bối Cảnh Thay Đồ] Hổ vàng gửi lời chúc cát tường.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10091": [
+      "ts_g89",
+      "bg_30133",
+      270086,
+      "Linh Tuyết",
+      "[Nền Thay Đồ] Bông tuyết thấm vào trong lòng, hai chân mày nhíu chặt. Mặc cho lá đỏ rơi xuống, tay áo vô tình gọi xuân đến,",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10092": [
+      "ts_g95",
+      "bg_30139",
+      270092,
+      "Nghe Vui Mừng",
+      "[Nền Thay Đồ] Chuyện vui sắp đến, phúc khí ở khắp nơi. Tiếng pháo rền vang, lắng nghe chuyện vui.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10093": [
+      "ts_g88",
+      "bg_30132",
+      270085,
+      "Thanh Kính Bích Tùng",
+      "[Nền Thay Đồ] Bích tùng ánh tinh tuyền, chiếu thanh minh kính thai.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10094": [
+      "ts_g79",
+      "bg_30123",
+      270076,
+      "Lời Thề Của Hoa",
+      "[Nền Thay Đồ] Hương hoa ngập lối, bước từng bước về phía hạnh phúc",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10095": [
+      "ts_g80",
+      "bg_30124",
+      270077,
+      "Hoa Chúc Hợp Cẩn",
+      "[Nền Thay Đồ] Nến hoa lập lòe, người có tình cùng uống rượu hợp cẩn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10096": [
+      "ts_g97",
+      "bg_30141",
+      270094,
+      "Hoa Hồng Hoàng Hôn",
+      "[Nền thay đồ] Tặng nàng hoàng hôn mênh mông, đóa hồng nở rộ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10097": [
+      "ts_g98",
+      "bg_30142",
+      270095,
+      "Vinh Quang Lộng Lẫy",
+      "[Nền thay đồ] Tặng nàng vinh quang vô tận, chói lóa và lộng lẫy.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10098": [
+      "ts_g99",
+      "bg_30143",
+      270096,
+      "Mây Trời Vạn Dặm",
+      "[Nền thay đồ] Ánh nắng chiếu qua mây trời, tiếng nhạc vang lên vạn dặm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10099": [
+      "ts_g100",
+      "bg_30144",
+      270097,
+      "Dao Cung Thiên Tái",
+      "[Nền thay đồ] Dao Cung thắp sáng đèn, ngũ âm thiên tái ca tụng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10100": [
+      "ts_g101",
+      "bg_30145",
+      270098,
+      "Mật Quang",
+      "[Nền thay đồ] Ánh trăng làm ngọn đèn, chiếu lên những cánh bướm dập dờn, rực rỡ lấp lánh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10101": [
+      "ts_g102",
+      "bg_30146",
+      270099,
+      "Ma Thuật Huyền Bí",
+      "[Nền thay đồ] Bí mật của pháp sư, giấu trong sự rực rỡ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10102": [
+      "ts_g103",
+      "bg_30147",
+      270100,
+      "Hoa Liêm Kính Hồ",
+      "[Nền thay đồ] Mành hoa lặng lẽ, Kính Hồ gợn sóng dập dờn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10103": [
+      "ts_g104",
+      "bg_30148",
+      270101,
+      "Sơn Hi Lam Ảnh",
+      "[Nền thay đồ] Một tia bình minh, sương mù giăng kín đỉnh núi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10104": [
+      "ts_g106",
+      "bg_30150",
+      270103,
+      "Nước Xanh Vườn Xuân",
+      "[Bối cảnh thay đồ] Nước xanh vườn xuân vừa tan đi cái lạnh đầu tiên, cây cầu uốn chín khúc nằm trên mặt nước.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10105": [
+      "ts_g105",
+      "bg_30149",
+      270102,
+      "Tử Đằng Vườn Xuân",
+      "[Bối cảnh thay đồ] Tử Đằng rũ xuống, rực rỡ trong ánh nắng trong veo.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10106": [
+      "ts_g107",
+      "bg_30151",
+      270104,
+      "Ngọn Gió Dạo Chơi",
+      "[Bối cảnh thay đồ] Ngọn gió thanh thản tự do, lướt qua chân trời mênh mông.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10108": [
+      "ts_g109",
+      "bg_30153",
+      270106,
+      "Huyền Cảnh Thương Lan",
+      "[Bối cảnh thay đồ] Vào Thương Lan, hoa cẩm tú cầu trắng như ngọc đang tái sinh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10109": [
+      "ts_g110",
+      "bg_30154",
+      270107,
+      "Huyền Cảnh Bích Hư",
+      "[Bối cảnh thay đồ] Đến Bích Hư, cây cối sum sê xanh mướt, tiếng chim hót vui tai.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10110": [
+      "ts_g111",
+      "bg_30155",
+      270108,
+      "Cửa Vào Giả Tưởng",
+      "[Bối cảnh thay đồ] Trong cánh cửa 'Giả Tưởng' lộ ra muôn vàn sự đẹp đẽ, khiến người ta muốn vào.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10111": [
+      "ts_g112",
+      "bg_30156",
+      270109,
+      "Không Gian Quyển Mộng",
+      "[Bối cảnh thay đồ] Thời không 'Quyển Mộng' thỉnh thoảng vang lên giọng nói khiến người ta say đắm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10112": [
+      "ts_g113",
+      "bg_30157",
+      270110,
+      "Hồi tưởng",
+      "[Bối cảnh thay đồ] Nằm mơ ở trong căn phòng vàng, hồ nước xanh biếc, hàng ngàn sợi dây đỏ trên không trung.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10113": [
+      "ts_g114",
+      "bg_30158",
+      270111,
+      "Tư Đằng Linh Hiện",
+      "[Bối cảnh thay đồ] Rừng rậm mênh mông, linh khí tuôn ra như suối.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10114": [
+      "ts_g115",
+      "bg_30159",
+      270112,
+      "Trầm Tư Đêm Trăng",
+      "[Bối cảnh thay đồ] Đêm trăng tròn, những suy nghĩ bay lên trong sự tĩnh mịch.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10115": [
+      "ts_g117",
+      "bg_30161",
+      270114,
+      "Nơi Hóa Lân",
+      "[Nền Thay Đồ] Lửa cháy ngút trời, điềm lành giáng trần.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10116": [
+      "ts_g90",
+      "bg_30134",
+      270087,
+      "Thần Điện Thiên Cơ",
+      "[Nền Thay Đồ] Đốm lửa thắp sáng nơi thần điện, vận mệnh mười phương trong thiên cơ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10117": [
+      "ts_g116",
+      "bg_30160",
+      270113,
+      "Thiên Cung Vận Mệnh",
+      "[Nền Thay Đồ] Dựng thiên cung phía trên tầng trời, nhìn vận mệnh nhấp nhô lên xuống.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10118": [
+      "ts_g121",
+      "bg_30165",
+      270118,
+      "Rừng Đêm Nấm Ảo",
+      "[Nền Thay Đồ] Đêm trong rừng nấm ảo, dẫn tinh linh trở về.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10119": [
+      "ts_g118",
+      "bg_30162",
+      270115,
+      "Quyến Thức",
+      "[Nền Thay Đồ] Tấm da dê cổ xưa viết đầy điều bí ẩn, thấp giọng ngâm nga ở khắp nơi trong thư viện sách phép thuật.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10120": [
+      "ts_g122",
+      "bg_30166",
+      270119,
+      "Hồi Tưởng Lăng Miếu",
+      "[Nền Thay Đồ] Cỏ dại thơ cổ chứa chuyện xưa, trăng sáng trên cao hóa oán hờn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10121": [
+      "ts_g123",
+      "bg_30167",
+      270120,
+      "Cẩm Thất Tàng Kiều",
+      "[Nền Thay Đồ] Màn che tím bạc giấu mỹ nhân, bóng dáng tươi đẹp ẩn trong phòng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10122": [
+      "ts_g119",
+      "bg_30163",
+      270116,
+      "Ngân Hà Rạng Rỡ",
+      "[Nền Thay Đồ] Trời cao tách đôi bờ, nhân gian ngắm rãnh ngọc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10123": [
+      "ts_g120",
+      "bg_30164",
+      270117,
+      "Chốn Vui Dạ Huyền",
+      "[Nền Thay Đồ] Ánh sao lấp lánh, nốt nhạc nhảy múa, ra sân long trọng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10124": [
+      "ts_g124",
+      "bg_30168",
+      270121,
+      "Ao Sen Lất Phất",
+      "[Nền Thay Đồ] Khói nhẹ trên nước, mưa lất phất rơi, ao sen thơ mộng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10125": [
+      "ts_g108",
+      "bg_30152",
+      270105,
+      "Đình Nhã La",
+      "[Nền thay đồ] Khoảnh sân sáng trang nhã, nhớ về bài thơ cùng ngâm tuyệt vời của Nhã La.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10126": [
+      "ts_g125",
+      "bg_30169",
+      270122,
+      "Hương Thu Điện Quế",
+      "[Nền thay đồ] Điện quế thiên cung ngát hương thu, ngàn mây dày đặc che trăng bạc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10127": [
+      "ts_g126",
+      "bg_30170",
+      270123,
+      "Ánh Sáng Trên Phố",
+      "[Nền thay đồ] Đèn hoa sáng soi gương mặt ngài, ngàn chén lấp lánh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10128": [
+      "ts_g127",
+      "bg_30171",
+      270124,
+      "Đồng Hoang Bụi Sao",
+      "[Nền thay đồ] Trăng trời ngược bóng, soi tỏ đồng hoang được bụi sao che phủ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10129": [
+      "ts_g128",
+      "bg_30172",
+      270125,
+      "Đạp Tinh",
+      "[Nền thay đồ] Ánh sao tỏa sáng khắp trời, gối lên ngân hà chìm vào mộng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10130": [
+      "ts_g129",
+      "bg_30173",
+      270126,
+      "Vườn Tiên Bàn Đào",
+      "[Bối cảnh] Trời xanh khói mịt mù, bàn đào chín mộng, hoa rơi lả tả.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10131": [
+      "ts_g130",
+      "bg_30174",
+      270127,
+      "Phong Lâm Sương Tẫn",
+      "[Bối cảnh] Lá phong gió sương lưu mờ, chiều tàn khói thu người chưa về.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10132": [
+      "ts_g135",
+      "bg_30179",
+      270132,
+      "Bướm Lượn Tình Duyên",
+      "[Bối cảnh] Tình sâu duyên đến, bướm ảo liêu xiêu, mất dấu trong đêm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10133": [
+      "ts_g136",
+      "bg_30180",
+      270133,
+      "Gương Trời Mê Mộng",
+      "[Bối cảnh] Trong cơn mê mông, trời trong phản chiếu như gương, bầu trời và mặt nước cùng một màu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10134": [
+      "ts_g134",
+      "bg_30178",
+      270131,
+      "Tranh Hạ",
+      "[Bối cảnh] Nắng trời đổ xuống, chim trắng và phồn hoa trong tranh, hạ chí chưa tới.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10135": [
+      "ts_g131",
+      "bg_30175",
+      270128,
+      "Sấm Rền Ô Khuyết",
+      "[Bối cảnh] Đài Ô Khuyết mờ mờ ảo ảo, chợt nghe thấy tiếng sấm rền vang. ",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10136": [
+      "ts_g132",
+      "bg_30176",
+      270129,
+      "Điện Bình Minh",
+      "[Bối cảnh] Ánh bình minh rọi vào cung điện, bài Thánh Ca lảnh lót bay cao trên mái vòm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10137": [
+      "ts_g133",
+      "bg_30177",
+      270130,
+      "Cổ Đài Hoàng Hôn",
+      "[Bối cảnh] Hoàng hôn nặng trĩu che phủ pháo đài, lời bí mật từ vực sâu len lỏi vào góc tối tăm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10138": [
+      "ts_g137",
+      "bg_30181",
+      270134,
+      "Thánh Tích Sóng Trong",
+      "[Bối cảnh] Bờ kia thời gian, dấu vết Thánh hiện thế.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10139": [
+      "ts_g138",
+      "bg_30182",
+      270135,
+      "Thần Di Soi Sáng",
+      "[Bối cảnh] Tháng năm rực rỡ, Đấng Thánh chiếu thế.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10140": [
+      "ts_g139",
+      "bg_30183",
+      270136,
+      "Đào Viên",
+      "[Bối cảnh] Lạc vào tranh đào nguyên, nghe tiếng suối róc rách, mày ngọc triền miên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10141": [
+      "ts_g140",
+      "bg_30184",
+      270137,
+      "Đêm Hẹn Hò",
+      "[Bối cảnh] Đêm trăng ánh sao biến ảo, trong đình tình nhân hẹn hò.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10142": [
+      "ts_g148",
+      "bg_30192",
+      270145,
+      "Gương Xa Hoa",
+      "[Bối cảnh] Khi màn đêm buông xuống, yến hội bắt đầu, trăng sao quấn quýt điện hoa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10143": [
+      "ts_g149",
+      "bg_30193",
+      270146,
+      "Chuông Đêm",
+      "[Bối cảnh] Sắc chiều gần tận, ánh đèn sáng rỡ, tiếng chuông đêm vang khắp phố dài.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10144": [
+      "ts_g143",
+      "bg_30187",
+      270140,
+      "Mai Đình Tố Trang",
+      "[Nền Thay Đồ] Sân lạnh phủ mai tuyết, dáng ai nhạt thướt tha.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10145": [
+      "ts_g142",
+      "bg_30186",
+      270139,
+      "Hoa Uyển Ngân Trang",
+      "[Nền Thay Đồ] Châu ngọc nơi vườn hoa, ngân trang tuyết đầy hiên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10146": [
+      "ts_g144",
+      "bg_30188",
+      270141,
+      "Đêm Rực Rỡ",
+      "[Bối cảnh] Đêm đô thị mờ ảo xinh đẹp, gặp gỡ sự rực rỡ và phồn hoa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10147": [
+      "ts_g141",
+      "bg_30185",
+      270138,
+      "Mong Về",
+      "[Bối cảnh] Đèn hoa sáng rỡ như ban ngày.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10148": [
+      "ts_g145",
+      "bg_30189",
+      270142,
+      "Thỏ May Mắn",
+      "[Bối cảnh thay đồ] Năm mới may mắn vui tươi, linh vật mang điềm lành đón năm mới",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10149": [
+      "ts_g150",
+      "bg_30194",
+      270147,
+      "Băng Thiên Tuyết Cảnh",
+      "[Bối cảnh] Gió lạnh thổi qua, tuyết rơi phơ phất, thế giới đóng băng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10150": [
+      "ts_g151",
+      "bg_30195",
+      270148,
+      "Thủy Phủ Hải Uyên",
+      "[Bối cảnh thay đồ] Biển cả mênh mông, non xanh nước biếc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10151": [
+      "ts_g152",
+      "bg_30196",
+      270149,
+      "Vạn Vật Sinh Sôi",
+      "[Bối cảnh thay đồ] Vạn vật phồn binh, sinh sôi nảy nở.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10152": [
+      "ts_g153",
+      "bg_30197",
+      270150,
+      "Thiên Tinh Cung Phường",
+      "[Bối cảnh thay đồ] Hồ sao thiên cung, dệt nên mây màu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10153": [
+      "ts_g154",
+      "bg_30198",
+      270151,
+      "Hương Lúa Ngàn Dặm",
+      "[Bối cảnh thay đồ] Đồng cỏ ngàn dặm, hương lúa thơm ngát.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10155": [
+      "ts_g156",
+      "bg_30200",
+      270153,
+      "Bậc Thềm Tìm Mai",
+      "[Bối cảnh] Tuyết lạnh hơi tan, hương mận lành lạnh, một mình bước lên thềm tìm hương.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10156": [
+      "ts_g146",
+      "bg_30190",
+      270143,
+      "Đêm Giao Thừa",
+      "[Bối cảnh] Đêm giao thừa, ánh đèn như ban ngày, thành phố nhộn nhịp.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10157": [
+      "ts_g147",
+      "bg_30191",
+      270144,
+      "Ngày Vui Thịnh Cảnh",
+      "[Bối cảnh] Trăm hoa đua nở, cùng thưởng thức thịnh cảnh, ngày lành tháng tốt.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10158": [
+      "ts_g157",
+      "bg_30201",
+      270154,
+      "Cá Chép Dạ Quang",
+      "[Bối cảnh] Mặt nước lấp lánh, màn đêm yên tĩnh, cá chép sóng lăn tăn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10159": [
+      "ts_g158",
+      "bg_30202",
+      270155,
+      "Say Men Rượu",
+      "[Bối cảnh] Say trong men rượu, đối ẩm cùng trăng, ngàn năm không ưu sầu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10160": [
+      "ts_g159",
+      "bg_30203",
+      270156,
+      "Sân Khấu Rực Lửa",
+      "[Bối cảnh] Đứng dưới ánh đèn, nàng nhảy múa đầy mê hoặc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10161": [
+      "ts_g160",
+      "bg_30204",
+      270157,
+      "Hồ Thiên Nga",
+      "[Bối cảnh] Bức màn được vén lên, câu chuyện Hồ Thiên Nga lặng lẽ bắt đầu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10162": [
+      "ts_g161",
+      "bg_30205",
+      270158,
+      "Như Ban Ngày",
+      "[Bối cảnh] Rừng sâu im lặng, ánh sáng rạng ngời, như ngày vĩnh cửu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10163": [
+      "ts_g162",
+      "bg_30206",
+      270159,
+      "Tiệm Thuốc Tiên Dược",
+      "[Bối cảnh thay đồ] Thược dược tiên nhập thế, thuốc tốt đầy tiệm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10164": [
+      "ts_g163",
+      "bg_30207",
+      270160,
+      "Mây Núi Hài Hòa",
+      "[Bối cảnh thay đồ] Ngắm nhìn sông núi mù sương, mây núi đẹp như tranh, cưỡi gió mà đi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10165": [
+      "ts_g164",
+      "bg_30208",
+      270161,
+      "Ngọc Lan U Cốc",
+      "[Bối cảnh thay đồ] Cánh sen chồng mây, ngọc trong trẻo, cảnh xuân u cốc sâu lắng,",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10166": [
+      "ts_g165",
+      "bg_30209",
+      270162,
+      "Trời Hoàng Hôn",
+      "[Bối cảnh thay đồ] Trời hoàng hôn, bóng trăng mờ ảo, núi cao sông dài quyến rũ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10167": [
+      "ts_g166",
+      "bg_30210",
+      270163,
+      "Vân Chiêu",
+      "[Bối cảnh thay đồ] Mây bay đỉnh trời, nắng chiếu chói chang, bước lên đồi cao mênh mông.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10168": [
+      "ts_g167",
+      "bg_30211",
+      270164,
+      "Kính Dẫn",
+      "[Bối cảnh thay đồ] Trong gương lầu các đầy mây, ánh mặt trời chói chang rạng rỡ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10169": [
+      "ts_g168",
+      "bg_30212",
+      270165,
+      "Di Hồng Tích Thúy",
+      "[Bối cảnh thay đồ] Hoa liễu xum xuê, hành lang ngân vang, dịu dàng ôn hòa",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10170": [
+      "ts_g169",
+      "bg_30213",
+      270166,
+      "Gò Hương Lạc Anh",
+      "[Bối cảnh thay đồ] Gió thổi đầy trời hoa bay, từng lớp gấm rơi xuống.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10171": [
+      "ts_g170",
+      "bg_30214",
+      270167,
+      "Biển Sóng Dâng Cao",
+      "[Bối cảnh thay đồ] Biển mênh mông phía Đông, Tinh Vệ đón sóng không hề sợ hãi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10172": [
+      "ts_g171",
+      "bg_30215",
+      270168,
+      "Rừng Xanh Vắng Vẻ",
+      "[Bối cảnh] Sắc xanh vắng vẻ, gió vi vu thổi, tiếng xào xạc trong trẻo.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10173": [
+      "ts_g172",
+      "bg_30216",
+      270169,
+      "Tiệc Vui Đình Hoa",
+      "[Bối cảnh] Cánh bướm nhảy nhót giữa vườn hoa, tiệc vui trong nắng đẹp, nắm bắt thời gian vừa lúc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10174": [
+      "ts_g173",
+      "bg_30217",
+      270170,
+      "Điện Hoa Thịnh Yến",
+      "[Bối cảnh] Yến tiệc linh đình, bàn đầy món ngon, ăn mừng thiên hạ hưng thịnh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10175": [
+      "ts_g174",
+      "bg_30218",
+      270171,
+      "Rừng Hồn Nhiên",
+      "[Bối cảnh] Rừng sâu vang lên tiếng thì thầm, tiếp tục câu chuyện cổ tích tốt đẹp.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10176": [
+      "ts_g175",
+      "bg_30219",
+      270172,
+      "Lâu Đài Ảo Ảnh",
+      "[Bối cảnh] Hiện thực được hé lộ trong gương, lựa chọn thiện hay ác tùy trái tim mỗi người.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10177": [
+      "ts_g176",
+      "bg_30220",
+      270173,
+      "Bách Vị Lâu",
+      "[Bối cảnh] Yến tiệc đầy món ngon, đèn sáng hương ấm nóng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10178": [
+      "ts_g177",
+      "bg_30221",
+      270174,
+      "Trân Tu Các",
+      "[Bối cảnh] Thành phố giăng đầy thổ cẩm và đào trường thọ, thời tiết trong xanh gió trong lành.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10179": [
+      "ts_g178",
+      "bg_30222",
+      270175,
+      "Bụi Sao Vô Tận",
+      "[Bối cảnh] Trăng trên biển, mây trên trời, tản mát bụi sao vô tận.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10180": [
+      "ts_g179",
+      "bg_30223",
+      270176,
+      "Sóng Âm Trên Biển",
+      "[Bối cảnh] Tiếng đàn hòa vào biển, diễn tấu trên mặt nước đến quên mình.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10181": [
+      "ts_g180",
+      "bg_30224",
+      270177,
+      "Âm Thanh Bờ Biển",
+      "[Bối cảnh] Tiếng hát rực cháy,nở rộ trên biển.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10182": [
+      "ts_g181",
+      "bg_30225",
+      270178,
+      "Người Lập Trình",
+      "[Bối cảnh] Đằng sau cánh cửa mang tên Người Lập Trình là quá khứ, hiện tại và tương lai",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10183": [
+      "ts_g182",
+      "bg_30226",
+      270179,
+      "Thanh Khâu Mờ Mịt",
+      "[Bối cảnh] Mây khói mênh mông, cây cổ hồ dao động, có đất nước Thanh Khâu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10184": [
+      "ts_g183",
+      "bg_30227",
+      270180,
+      "Dược Lô Long Quỳ",
+      "[Bối cảnh] Dược lô long quỳ, hương thơm trăm loại thuộc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10185": [
+      "ts_g184",
+      "bg_30228",
+      270181,
+      "Vườn Hồng Thơm Ngát",
+      "[Bối cảnh] Ngâm ca trong sương mù, vườn hồng nở rộ, phồn hoa như hôm qua.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10186": [
+      "ts_g185",
+      "bg_30229",
+      270182,
+      "Nhiên Mặc",
+      "[Bối cảnh] Những nét vẽ dày mỏng giao hòa, tỏa ra mùi mực đậm đà nhẹ nhàng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10187": [
+      "ts_g186",
+      "bg_30230",
+      270183,
+      "Lãng Mạn Khắp Phố",
+      "[Bối cảnh] Xe ô tô chở cô dâu, lan tỏa tình yêu và sự lãng mạn khắp chốn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10188": [
+      "ts_g187",
+      "bg_30231",
+      270184,
+      "Hỉ Đường",
+      "[Bối cảnh] Lụa đỏ dắt tay cô dâu, chúc cho tình yêu bền chặt.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10189": [
+      "ts_g188",
+      "bg_30232",
+      270185,
+      "Minh Hà Luân Hồi",
+      "[Bối cảnh] Trên sông Vong Xuyên bị lãng quên, không có thuyền đi qua, luân hồi chuyển thế.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10190": [
+      "ts_g189",
+      "bg_30233",
+      270186,
+      "Nại Hà Quên Tình",
+      "[Bối cảnh] Than thở trên cầu Nại Hà, trước đình Mạnh Bà, tình cảm xưa đều quên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10191": [
+      "ts_g190",
+      "bg_30234",
+      270187,
+      "Nhã Cúc Hiên",
+      "[Nền thay đồ] Hoa cúc nở rộ, gió đưa hương thu, ung dung nhàn hạ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10192": [
+      "ts_g191",
+      "bg_30235",
+      270188,
+      "Tòa Nhà Màn Đêm",
+      "[Nền thay đồ] Màn đêm buông xuống, bao phủ thành phố ồn ào.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10193": [
+      "ts_g192",
+      "bg_30236",
+      270189,
+      "Trời Trong Biển Xanh",
+      "[Nền thay đồ] Bầu trời trong xanh, Hải Côn nô đùa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10194": [
+      "ts_g193",
+      "bg_30237",
+      270190,
+      "Trăng Sáng Đài Ngọc",
+      "[Nền thay đồ] Tiên cảnh đài ngọc, ánh trăng chiếu vạn dặm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10195": [
+      "ts_g194",
+      "bg_30238",
+      270191,
+      "Ngọc Khuyết Kim Quế",
+      "[Nền thay đồ] Thiên thượng cung khuyết, điện tiền thập quế hoa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10196": [
+      "ts_g195",
+      "bg_30239",
+      270192,
+      "Minh Đường Phượng Tê",
+      "[Nền thay đồ] Phượng tê minh đường ngự thiên hạ, thịnh thế vĩnh xương đế nghiệp chương.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10197": [
+      "ts_g196",
+      "bg_30240",
+      270193,
+      "Hương Điện Phượng Phiên",
+      "[Nền thay đồ] Phượng phiên hương điện xán vân tiêu, hỏa thụ ngân hoa lạn mạn thiên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10198": [
+      "ts_g197",
+      "bg_30241",
+      270194,
+      "Mưa Tạnh",
+      "[Nền thay đồ] Sau cơn mưa, cầu vòng nhuộm cả bầu trời xanh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10199": [
+      "ts_g198",
+      "bg_30242",
+      270195,
+      "Hoàng Hôn Chung Sơn",
+      "[Nền thay đồ] Phía bắc có Chung Sơn, là nơi Chúc Long ở.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10200": [
+      "ts_g199",
+      "bg_30243",
+      270196,
+      "Trăng Tối Phố Mờ",
+      "[Nền thay đồ] Dưới sánh trăng mờ, tiếng cười của Ma Nữ vang vọng khu phố.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10201": [
+      "ts_g200",
+      "bg_30244",
+      270197,
+      "Thánh Đình Rực Rỡ",
+      "[Nền thay đồ] Ánh mắt lấp lánh, lời cầu nguyện của Thánh Nữ vang vọng Thánh Đình.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10202": [
+      "ts_g201",
+      "bg_30245",
+      270198,
+      "Thái Nhạc Nhã Phương",
+      "[Nền thay đồ] Diễn tấu điệu tao nhã, uyển chuyển nhảy múa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10203": [
+      "ts_g202",
+      "bg_30246",
+      270199,
+      "Hoa Đình Đèn Ngọc",
+      "[Nền thay đồ] Ánh đèn chiếu rọi cung ngọc, xoay tròn theo điệu múa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10204": [
+      "ts_g203",
+      "bg_30247",
+      270200,
+      "Cung Vi Chiêu Dương",
+      "[Nền thay đồ] Hoa nở rộ trước Điện Chiêu Dương, đợi cánh yến quay lại.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10205": [
+      "ts_g204",
+      "bg_30248",
+      270201,
+      "Tình Tự Dị Vực",
+      "[Bối cảnh thay đồ] Hoa văn xinh đẹp, thể hiện tình tự dị vực.",
+      0,
+      0,
+      2,
+      "Nhận được khi đổi Bách Hiểu Tư",
+      [],
+      [],
+      [
+        18210
+      ],
+      [],
+      0
+    ],
+    "10206": [
+      "ts_g205",
+      "bg_30249",
+      270202,
+      "Mưa Bụi Xa Xăm",
+      "[Bối cảnh thay đồ] Mộng Trạch được dệt nên từ mây và sương mù, mây khói xa xa, Cô Hồng bay.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10207": [
+      "ts_g206",
+      "bg_30250",
+      270203,
+      "Ánh Nắng Biển Sâu",
+      "[Bối cảnh thay đồ] Ánh mặt trời chiếu sáng biển sâu, đàn cá bơi theo dòng ánh sáng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10208": [
+      "ts_g207",
+      "bg_30251",
+      270204,
+      "Ánh Trăng Biển Sâu",
+      "[Bối cảnh thay đồ] Ánh trăng rơi xuống biển sâu, đàn cá bơi theo dòng ánh sáng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10209": [
+      "ts_g208",
+      "bg_30252",
+      270205,
+      "Đình Đông Tuyết Thông",
+      "[Bối cảnh] Ánh sáng trời đông, thông phủ tuyết, xây nên đình viện tuyết thông.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10210": [
+      "ts_g209",
+      "bg_30253",
+      270206,
+      "Lâu Đài Băng Tuyết",
+      "[Bối cảnh] Băng tinh khiết, tuyết trắng tinh, xây nên lâu đài băng tuyết.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10211": [
+      "ts_g210",
+      "bg_30254",
+      270207,
+      "Lâu Đài Bụi Gai",
+      "[Bối cảnh thay đồ] Hoa hồng gai, lâu đài Ỷ Mộng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10212": [
+      "ts_g211",
+      "bg_30255",
+      270208,
+      "Cổ Lâu Hoa Hồng",
+      "[Bối cảnh thay đồ] Hoàng hôn chiều tà, đài cổ nguy nga.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10213": [
+      "ts_g212",
+      "bg_30256",
+      270209,
+      "Nùng Hoa Đào Lâm",
+      "[Bối cảnh đổi đồ] Muôn hoa lộng lẫy, tiên cảnh rừng đào.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10214": [
+      "ts_g213",
+      "bg_30257",
+      270210,
+      "Thương Y Bách Xuyên",
+      "[Bối cảnh đổi đồ] Gợn sóng xanh biếc, nước sông chảy xiết.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10215": [
+      "ts_g214",
+      "bg_30258",
+      270211,
+      "Côi Hà Hãn Mạc",
+      "[Bối cảnh đổi đồ] Ràng chiều rực rỡ, sa mạc mênh mông.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10216": [
+      "ts_g215",
+      "bg_30259",
+      270212,
+      "Sương Thiên Băng Vực",
+      "[Bối cảnh đổi đồ] Sương mù tuyết bay, cảnh đẹp băng vực.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10217": [
+      "ts_g216",
+      "bg_30260",
+      270213,
+      "Rồng Lành Đón Xuân",
+      "[Bối cảnh đổi đồ] Rồng lành gửi may mắn, rồng bay đón xuân về.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10218": [
+      "ts_g217",
+      "bg_30261",
+      270214,
+      "Đông Vọng U Sơn",
+      "[Bối cảnh thay đồ] Núi Đông Vọng yên tĩnh, được làn nước trắng xóa bao quanh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10219": [
+      "ts_g218",
+      "bg_30262",
+      270215,
+      "Tinh Hán Lan Đình",
+      "[Bối cảnh thay đồ] Biển sao phản chiếu, sóng đình như mộng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10220": [
+      "ts_g219",
+      "bg_30263",
+      270216,
+      "Lâu Đài Xuân Ấm",
+      "[Nền Thay Đồ] Sáng ngời ấm áp, đong đầy ý xuân.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10221": [
+      "ts_g220",
+      "bg_30264",
+      270217,
+      "Hoa Hạ Xa Xỉ",
+      "[Nền Thay Đồ] Mộng đêm xa xỉ, chúng sao lấp lánh trong tiệc hào môn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10222": [
+      "ts_g221",
+      "bg_30265",
+      270218,
+      "Kim Lệ Xa Lâu",
+      "[Bối cảnh đổi đồ] Dưới ánh đèn vàng, dường như thời gian đang dừng lại.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10223": [
+      "ts_g222",
+      "bg_30266",
+      270219,
+      "Hồ Bướm Đêm",
+      "[Bối cảnh thay đồ] Bướm vờn nhẹ đêm trăng, hồ đêm gợn sóng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10224": [
+      "ts_g223",
+      "bg_30267",
+      270220,
+      "Cây Xanh Ngát Hương",
+      "[Bối cảnh thay đồ] Gió buổi sớm lay động bóng hoa, cây xanh đầy duyên dáng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10225": [
+      "ts_g224",
+      "bg_30268",
+      270221,
+      "Phồn Cảnh Nguyên Tiêu",
+      "[Bối cảnh thay đồ] Ngày hội Nguyên Tiêu, bữa tiệc với ánh nến và cảnh phồn vinh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10226": [
+      "ts_g225",
+      "bg_30269",
+      270222,
+      "Bữa Tiệc Rực Rỡ",
+      "[Bối cảnh thay đồ] Gia tộc trăm năm, mừng đoàn viên trong ánh đèn rực rỡ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10227": [
+      "ts_g226",
+      "bg_30270",
+      270223,
+      "Cầu Vồng May Mắn",
+      "[Bối cảnh thay đồ] Phong yên cuồn cuộn, cầu vồng may mắn, ráng chiều khắp chốn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10228": [
+      "ts_g227",
+      "bg_30271",
+      270224,
+      "Thảm Đỏ Bắt Mắt",
+      "[Bối cảnh thay đồ] Con đường đến với ước mơ, đi đến tương lai huy hoàng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10229": [
+      "ts_g228",
+      "bg_30272",
+      270225,
+      "Tiên Lộ Bích Nguyên",
+      "[Bối cảnh thay đồ] Tiên lộ rũ xuống, đứng trên dòng nước.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10230": [
+      "ts_g229",
+      "bg_30273",
+      270226,
+      "Nhốt Mộng",
+      "[Bối cảnh thay đồ] Đàn hạc lặng lẽ, giam mộng hoa hồng, ảo tưởng đầy màu sắc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10231": [
+      "ts_g230",
+      "bg_30274",
+      270227,
+      "Thâm Sơn Mịch Chi",
+      "[Nền Thay Đồ] Trời sáng sau mưa, có thể tìm linh chi đỏ hoang dại.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10232": [
+      "ts_g231",
+      "bg_30275",
+      270228,
+      "Thung Lũng Đón Nắng",
+      "[Nền Thay Đồ] Bước ra từ thung lũng, băng qua bầu trời, chờ đợi ngày đến.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10233": [
+      "ts_g232",
+      "bg_30276",
+      270229,
+      "Túy Nghê Thường",
+      "[Bối cảnh thay đồ] Trang phục lộng lẫy theo tháng năm, lúc rảnh rỗi thường tiếc nuối, túy mộng khó tìm.",
+      0,
+      0,
+      2,
+      "Xung Quanh Nhà",
+      [],
+      [],
+      [
+        12600
+      ],
+      [
+        1
+      ],
+      0
+    ],
+    "10234": [
+      "ts_g233",
+      "bg_30277",
+      270230,
+      "Lâm Lang Cư",
+      "[Bối cảnh thay đồ] Biến mây vàng thành mực, ánh trăng sáng ngời.",
+      0,
+      0,
+      2,
+      "Xung Quanh Nhà",
+      [],
+      [],
+      [
+        12600
+      ],
+      [
+        1
+      ],
+      0
+    ],
+    "10235": [
+      "ts_g234",
+      "bg_30278",
+      270231,
+      "Cung Điện Thời Gian",
+      "[Nền Thay Đồ] Bí cảnh thời gian, bánh răng mãi chuyển động.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10236": [
+      "ts_g235",
+      "bg_30279",
+      270232,
+      "Đêm Về Lầu Các",
+      "[Nền Thay Đồ] Màn che phất nhẹ, trăng chiếu lầu các.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10237": [
+      "ts_g236",
+      "bg_30280",
+      270233,
+      "Chiếu Tình",
+      "[Nền Thay Đồ] Mặt nước chiếu ảnh bướm vờn hoa, tình ý của phong luyến sắc thu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10238": [
+      "ts_g237",
+      "bg_30281",
+      270234,
+      "Thôn Tinh",
+      "[Nền Thay Đồ] Ánh sao đắm dưới biển sâu, đáy biển ẩn chứa bầu trời.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10239": [
+      "ts_g238",
+      "bg_30282",
+      270235,
+      "Thâm Hải Dao Ca",
+      "[Nền Thay Đồ] Dao múa nơi biển sâu, âm vận ngân nga.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10240": [
+      "ts_g239",
+      "bg_30283",
+      270236,
+      "Lang Âm Thủy Tạ",
+      "[Nền Thay Đồ] Nghe nước chảy róc rách, nghe tiếng nhạc du dương.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10241": [
+      "ts_g240",
+      "bg_30284",
+      270237,
+      "Đêm Đẹp Rừng Sâu",
+      "[Nền Thay Đồ] Rừng quỷ vực không có ban ngày, giăng đầy liên la địa võng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10242": [
+      "ts_g241",
+      "bg_30285",
+      270238,
+      "Sảnh Vàng",
+      "[Nền Thay Đồ] Bước trên sảnh vàng, cất lên âm thanh trời ban.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10243": [
+      "ts_g242",
+      "bg_30286",
+      270239,
+      "Sóng To Gió Lớn",
+      "[Nền Thay Đồ] Nước mênh mông, sóng to gió lớn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10244": [
+      "ts_g243",
+      "bg_30287",
+      270240,
+      "Dung Nham Núi Lửa",
+      "[Nền Thay Đồ] Lửa nổ tung, dung nham khắp núi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10245": [
+      "ts_g244",
+      "bg_30288",
+      270241,
+      "Nhã-Vượt Tây Châu",
+      "[Nền Thay Đồ] Tây Châu sắc xuân đong đầy, dáng sen trên nước, sắc liễu như sương.",
+      0,
+      0,
+      2,
+      "Xung Quanh Nhà",
+      [],
+      [],
+      [
+        12600
+      ],
+      [
+        1
+      ],
+      0
+    ],
+    "10246": [
+      "ts_g245",
+      "bg_30289",
+      270242,
+      "Dạo Bước Rừng Hoang",
+      "[Nền Thay Đồ] Mỗi đóa hoa đều như đang kể về câu chuyện tốt đẹp của tình yêu và mong chờ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10247": [
+      "ts_g246",
+      "bg_30290",
+      270243,
+      "Mộng Ngọt Trong Mây",
+      "[Nền Thay Đồ] Mỗi một viên kẹo đều chứa sự ngọt ngào mộng ảo, dung hòa vào áng mây mềm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10248": [
+      "ts_g247",
+      "bg_30291",
+      270244,
+      "Ao Sen Mùa Hè",
+      "[Nền Thay Đồ] Hương sen đong đầy, nước biếc róc rách, hưởng thụ mùa hè râm mát.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10249": [
+      "ts_g248",
+      "bg_30292",
+      270245,
+      "Nắng Chiều Bao Phủ",
+      "[Nền Thay Đồ] Ánh nắng chiều tà, vảy vàng sông tây, ánh nước trải dài.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10250": [
+      "ts_g249",
+      "bg_30293",
+      270246,
+      "Chơi Cờ Dưới Cây",
+      "[Nền Thay Đồ] Dưới táng cây mát, lá rơi vô thanh, ván cờ kéo dài.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10251": [
+      "ts_g250",
+      "bg_30294",
+      270247,
+      "Rạp Hát Hoa Mỹ",
+      "[Nền Thay Đồ] Đi vào rạp hát hoa mỹ, biểu diễn hình ảnh kinh điển.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10252": [
+      "ts_g251",
+      "bg_30295",
+      270248,
+      "Sân Khấu Ngọc Bích",
+      "[Nền Thay Đồ] Khí lành lượn lờ, dựng trên biển mây.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10253": [
+      "ts_g252",
+      "bg_30296",
+      270249,
+      "Bay Lượn Trên Mây",
+      "[Nền Thay Đồ] Bay lượn trên mây, nhìn trời cao, ngắm trọn đất trời bao la.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10254": [
+      "ts_g253",
+      "bg_30297",
+      270250,
+      "Mộng Đến Tây Châu",
+      "[Nền Thay Đồ] Gió nam thổi về tim, ngắt liễu than tiếng dài, mộng đến Tây Châu.",
+      0,
+      0,
+      2,
+      "Xung Quanh Nhà",
+      [],
+      [],
+      [
+        12600
+      ],
+      [
+        1
+      ],
+      0
+    ],
+    "10255": [
+      "ts_g254",
+      "bg_30298",
+      270251,
+      "Cung Điện Vận Mệnh",
+      "[Nền Thay Đồ] Phản chiếu vận mệnh, cung điện đêm dài.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10256": [
+      "ts_g255",
+      "bg_30299",
+      270252,
+      "Biển Sao Tiên Đoán",
+      "[Nền Thay Đồ] Lời tiên đoán nhẹ nhàng, chảy vào biển sao.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10257": [
+      "ts_g256",
+      "bg_30300",
+      270253,
+      "Khu Rừng Hoang Huyết",
+      "[Nền] Nam Vực Yêu Cảnh, khu rừng hoang huyết.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10258": [
+      "ts_g257",
+      "bg_30301",
+      270254,
+      "Tháp Trói Tà",
+      "[Nền Thay Đồ] Yêu cảnh bắc vực, tháp Trói Tà.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10259": [
+      "ts_g258",
+      "bg_30302",
+      270255,
+      "Hoa Viên Ái Thần",
+      "[Nền Thay Đồ] Tình yêu ngập tràn, thốt nên lời thề vĩnh hằng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10260": [
+      "ts_g259",
+      "bg_30303",
+      270256,
+      "Cầu Đèn Đêm Trăng",
+      "[Nền Thay Đồ] Ngọn đèn dầu chập chờn, đèn trời vừa dâng, quẩn quanh ngân hà.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10261": [
+      "ts_g260",
+      "bg_30304",
+      270257,
+      "Diệu Trận Cốc Thánh",
+      "[Nền Thay Đồ] Cốc Thánh rơi riêng trên cát vàng, phép thuật thoáng hiện.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10262": [
+      "ts_g261",
+      "bg_30305",
+      270258,
+      "Duyệt Thần",
+      "[Nền Thay Đồ] Ánh nắng rơi xuống như lời của thần, sen vàng chiếu bầu trời chói chang.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10263": [
+      "ts_g262",
+      "bg_30306",
+      270259,
+      "Đêm Nghe Gió",
+      "[Nền Thay Đồ] Đắm mình dưới ánh sáng, nghe tiếng gió.",
+      0,
+      0,
+      2,
+      "Xung Quanh Nhà",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1
+      ],
+      0
+    ],
+    "10264": [
+      "ts_g263",
+      "bg_30307",
+      270260,
+      "Biển Cả Mênh Mông",
+      "[Nền] Thần Côn lặn sâu trong biển cả, sóng cuộn nghìn tầng gió mây.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10265": [
+      "ts_g264",
+      "bg_30308",
+      270261,
+      "Dấu Cát Hoàng hôn",
+      "[Nền] Hoàng hôn đổ vàng, chân trời dần nhuộm, để lại ánh sáng nhạt.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10266": [
+      "ts_g265",
+      "bg_30309",
+      270262,
+      "Dấu Cát Ban Mai",
+      "[Nền] Ánh sáng bình minh xuất hiện, chân trời dần xanh, chào đón ngày mới bắt đầu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10267": [
+      "ts_g266",
+      "bg_30310",
+      270263,
+      "Thư Phòng Giản Dị",
+      "[Nền] Thư phòng yên tĩnh, đơn giản thanh lịch, hương sách lan tỏa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10268": [
+      "ts_g267",
+      "bg_30311",
+      270264,
+      "Đình Hoa Bái Nguyệt",
+      "[Nền] Ánh trăng sáng rực chiếu rọi hoa viên, ánh sáng trong trẻo tràn ngập sân.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10269": [
+      "ts_g268",
+      "bg_30312",
+      270265,
+      "Lên Cao Ngắm Trăng",
+      "[Nền] Mặt trăng treo trên đỉnh trời, muốn ôm lấy dải ngân hà vào lòng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10270": [
+      "ts_g269",
+      "bg_30313",
+      270266,
+      "Cõi Sao Rơi",
+      "[Nền] Nhìn về phía các vì sao, tarot nhẹ nhàng xoay chuyển, tương lai dần sáng tỏ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10271": [
+      "ts_g270",
+      "bg_30314",
+      270267,
+      "Ngọc Tắm Tĩnh Cư",
+      "[Nền] Cư trú yên tĩnh, ngọc tắm hương thơm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10272": [
+      "ts_g271",
+      "bg_30315",
+      270268,
+      "Lễ Trao Giải",
+      "[Nền] Bước lên bục vinh quang, tạo ra vô số khả năng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10273": [
+      "ts_g272",
+      "bg_30316",
+      270269,
+      "Nhà Gỗ Trong Rừng",
+      "[Nền] Sâu trong rừng, ẩn núp một ngôi nhà gỗ ấm cúng đáng yêu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10274": [
+      "ts_g273",
+      "bg_30317",
+      270270,
+      "Tiên Cư Trong Mây",
+      "[Nền] Xây dựng trên không, sóng mây cuộn trào, tiên cư ẩn hiện giữa chốn ấy.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10275": [
+      "ts_g274",
+      "bg_30318",
+      270271,
+      "Tiên Cảnh Xanh Biếc",
+      "[Nền] Biển xanh trong vắt, chim bay lượn trong tiên cảnh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10276": [
+      "ts_g275",
+      "bg_30319",
+      270272,
+      "Cung Điện Khèn Đỏ",
+      "[Nền] Cung điện khèn đỏ, phượng hót, sáo ngân.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10277": [
+      "ts_g276",
+      "bg_30320",
+      270273,
+      "Vĩnh Thọ Khang Ninh",
+      "[Nền Thay Đồ] Vĩnh thọ khang ninh ý, trường nhạc vị ương thì.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        5
+      ],
+      0
+    ],
+    "10278": [
+      "ts_g277",
+      "bg_30321",
+      270274,
+      "Đêm Tuyết Ỷ Mai",
+      "[Nền Thay Đồ] Tuyến rơi Ỷ Mai Viên, hương mai hòa ánh trăng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        5
+      ],
+      0
+    ],
+    "10279": [
+      "ts_g278",
+      "bg_30322",
+      270275,
+      "Thu Diệp Cung Đình",
+      "[Nền Thay Đồ] Phía sau tường đỏ ngói vàng, thâm cung đằng đẵng mấy thu qua.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        5
+      ],
+      0
+    ],
+    "10280": [
+      "ts_g279",
+      "bg_30323",
+      270276,
+      "Cỏ Xanh Dệt Tơ",
+      "[Nền] Cỏ xanh như dệt, bóng ngọc lượn lờ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10281": [
+      "ts_g280",
+      "bg_30324",
+      270277,
+      "Mây Khói Nước Non",
+      "[Nền] Khói mây cuốn quanh, núi lặng nước sâu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10282": [
+      "ts_g281",
+      "bg_30325",
+      270278,
+      "Biển Mộng Ảo",
+      "[Nền] Rơi vào sâu thẳm xanh biếc, lắng nghe âm thanh biển mộng ảo,",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10283": [
+      "ts_g282",
+      "bg_30326",
+      270279,
+      "Bỉ Ngạn Linh Điệp",
+      "[Nền] U minh lơ lửng, lửa soi đường về xa xôi.",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10284": [
+      "ts_g283",
+      "bg_30327",
+      270280,
+      "Gặp Sao Tarot",
+      "[Nền] Tarot như sao chỉ lối, gặp gỡ vận mệnh chưa biết.",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10285": [
+      "ts_g284",
+      "bg_30328",
+      270281,
+      "Đêm Thanh Khâu",
+      "[Nền] Sương mỏng bao quanh Thanh Khâu, rừng mai hiện ra giữa đồng cỏ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10286": [
+      "ts_g285",
+      "bg_30329",
+      270282,
+      "Phong Vân Ẩn Cốc",
+      "[Nền] Núi sâu thung lũng tĩnh lặng, sương mù quấn quanh đỉnh núi, thông xanh nổi bật.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10287": [
+      "ts_g286",
+      "bg_30330",
+      270283,
+      "Con Đường Cung Cấm",
+      "[Nền Thay Đồ] Cung cấm sâu hun hút, ánh nắng chiếu ngói vàng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        5
+      ],
+      0
+    ],
+    "10288": [
+      "ts_g287",
+      "bg_30331",
+      270284,
+      "Bữa Tiệc Hoa Lệ",
+      "[Nền Thay Đồ] Trong buổi tiệc hoa lệ, một khúc Kinh Hồng Vũ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        5
+      ],
+      0
+    ],
+    "10289": [
+      "ts_g288",
+      "bg_30332",
+      270285,
+      "Đỉnh Mây Sao",
+      "[Nền] Sông sao trải dài, thần tích trên mây.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10290": [
+      "ts_g289",
+      "bg_30333",
+      270286,
+      "Thành Cổ Ngân Hàn",
+      "[Nền] Núi xanh sâu thẳm, lầu hoa tre bay.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10291": [
+      "ts_g290",
+      "bg_30334",
+      270287,
+      "Vạn Vật Sinh",
+      "[Nền] Thế gian mờ ảo, vạn vật lấp lánh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10292": [
+      "ts_g291",
+      "bg_30335",
+      270288,
+      "Tuyết Đọng Khắp Vườn",
+      "[Nền thay đồ] Tuyết đọng khắp vườn, lóng lánh băng sương.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10293": [
+      "ts_g292",
+      "bg_30336",
+      270289,
+      "Sông Băng Đêm Tuyết",
+      "[Nền thay đồ] Sông băng lấp lánh, đêm tuyết mộng ảo.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10294": [
+      "ts_g293",
+      "bg_30337",
+      270290,
+      "Nước Biếc Thanh Uyên",
+      "[Nền] Uyên trong nước biếc, hươu chạy cá nhảy.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10295": [
+      "ts_g294",
+      "bg_30338",
+      270291,
+      "Biển Mộng Sao",
+      "[Nền] Bầu trời mênh mông, sông Ngân đổ xuống, biển sao vô biên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10296": [
+      "ts_g295",
+      "bg_30339",
+      270292,
+      "Vực Thẳm Hoang Sơ",
+      "[Nền] Thời hoang sơ, núi lở đất nứt, trận pháp không lối thoát.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10297": [
+      "ts_g296",
+      "bg_30340",
+      270293,
+      "Gác Vẽ Sóng Trong",
+      "[Nền] Gác vẽ ánh tà, sóng trong mênh mông.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10298": [
+      "ts_g297",
+      "bg_30341",
+      270294,
+      "Vườn Hoa Mộng Ảo",
+      "[Nền] Mỗi cánh hoa thơm đều thì thầm bí mật dịu dàng, nhẹ nhàng vấn vương trong lòng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10299": [
+      "ts_g298",
+      "bg_30342",
+      270295,
+      "Vườn Hoa Ánh Sáng",
+      "[Nền] Ánh hoàng hôn nhẹ rơi, thời gian trở nên mềm mại và quyến luyến...",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10300": [
+      "ts_g299",
+      "bg_30343",
+      270296,
+      "Thành Phố Không Ngủ",
+      "[Nền] Cổ kim giao hòa, thành phố không ngủ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10301": [
+      "ts_g300",
+      "bg_30344",
+      270297,
+      "Non Sông An Bình",
+      "[Nền thay đồ] Vạn dặm càn khôn, non sông an bình.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10302": [
+      "ts_g301",
+      "bg_30345",
+      270298,
+      "Khói Sóng Ngày Nắng",
+      "[Nền thay đồ] Mưa phùn ngày nắng, mênh mông vạn dặm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10303": [
+      "ts_g302",
+      "bg_30346",
+      270299,
+      "Mẫu Đơn Cẩm Tú",
+      "[Nền thay đồ] Mẫu đơn nở khắp thành, cẩm tú lộng lẫy.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10304": [
+      "ts_g303",
+      "bg_30347",
+      270300,
+      "Hào Hoa Vạn Tượng",
+      "[Nền thay đồ] Trâu ngọc hào hoa, vạn tượng hoa lệ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10305": [
+      "ts_g304",
+      "bg_30348",
+      270301,
+      "Ánh Đèn Trên Phố",
+      "[Nền thay đồ] Ánh đèn ấm áp, chiếu rọi cả con phố dài.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10306": [
+      "ts_g305",
+      "bg_30349",
+      270302,
+      "Cỏ Lá Xanh Tươi",
+      "[Nền] Cây hoa sum suê, trăm loài cỏ ẩn chứa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10307": [
+      "ts_g306",
+      "bg_30350",
+      270303,
+      "Pháo Hoa Rực Lửa",
+      "[Nền] Hội hoa đăng thượng nguyên, pháo hoa rực lửa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10308": [
+      "ts_g307",
+      "bg_30351",
+      270304,
+      "Bữa Tiệc Thú Cưng",
+      "[Nền] Yến tiệc trong biệt thự, thú cưng cùng vui.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10309": [
+      "ts_g308",
+      "bg_30352",
+      270305,
+      "Khoảnh Khắc Ngọt Ngào",
+      "[Nền] Hoa thơm đầy lối, tay trong tay khoảnh khắc ngọt ngào.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10310": [
+      "ts_g309",
+      "bg_30353",
+      270306,
+      "Sân Lan Ánh Nắng",
+      "[Nền] Ánh nắng ấm lan tỏa, tình yêu quyến luyến bên suối.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10311": [
+      "ts_g310",
+      "bg_30354",
+      270307,
+      "Linh Xà Chúc Tết",
+      "[Nền thay đồ] Linh Xà chúc tết, năm mới niềm vui mới.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10312": [
+      "ts_g311",
+      "bg_30355",
+      270308,
+      "Rồng Ngưng Băng Giá",
+      "[Nền] Rồng gầm sóng lớn, bão tố đóng băng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10313": [
+      "ts_g312",
+      "bg_30356",
+      270309,
+      "Rồng Lửa Thiêu Đốt",
+      "[Nền] Hơi thở rồng lửa, thiêu đốt đại địa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10314": [
+      "ts_g313",
+      "bg_30357",
+      270310,
+      "Bức Họa Ma Mị",
+      "[Nền] Đêm tĩnh lặng u tịch, bức tranh ma quái ẩn giấu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10315": [
+      "ts_g314",
+      "bg_30358",
+      270311,
+      "Rạng Đông Mây Trôi",
+      "[Nền] Rạng đông nhuộm trời, mây trôi cuộn sóng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10316": [
+      "ts_g315",
+      "bg_30359",
+      270312,
+      "Hồ Nước Ấm Áp",
+      "[Nền] Ao đông các uyển chuyển, hương thơm ấm áp rèm the.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10317": [
+      "ts_g316",
+      "bg_30360",
+      270313,
+      "Lâu Đài Bí Ẩn",
+      "[Nền] Lâu đài u tịch, gương soi phản chiếu ánh sáng huyền bí.",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10318": [
+      "ts_g317",
+      "bg_30361",
+      270314,
+      "Hồ Sen Thủy Tạ",
+      "[Nền] Thủy tạ bên hồ, chuồn chuồn đậu trên sen mùa hạ.",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10319": [
+      "ts_g318",
+      "bg_30362",
+      270315,
+      "Kỷ Nguyên Hoang Tàn",
+      "[Nền] Cơn mưa kỷ nguyên hoang tàn rơi trên đống đổ nát, vũng nước đọng in bóng phồn hoa xưa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10320": [
+      "ts_g319",
+      "bg_30363",
+      270316,
+      "Cửa Hàng Cổ Kính",
+      "[Nền] Thành nhỏ dưới chân Thiên Sơn, ẩn giấu một cửa hàng nhạc cụ xưa cũ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10321": [
+      "ts_g320",
+      "bg_30364",
+      270317,
+      "Hồ Núi Tuyết",
+      "[Nền] Hồ nước trên núi tuyết, trong vắt như viên ngọc lam.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10322": [
+      "ts_g321",
+      "bg_30365",
+      270318,
+      "Khúc Mộng Mị",
+      "[Nền] Con rối lặng lẽ múa trên bàn cờ u ám, khúc nhạc quái dị lan ra, nuốt chửng những linh hồn chưa ngủ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10323": [
+      "ts_g322",
+      "bg_30366",
+      270319,
+      "Khói Bạc Hồ Biếc",
+      "[Nền] Ánh bạc lấp lánh trong hồ, gió mát vuốt ve làn nước biếc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10324": [
+      "ts_g323",
+      "bg_30367",
+      270320,
+      "Con Đường U Linh",
+      "[Nền] Hoàng tuyền gột rửa hận thù, hồn linh trở về U Minh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10325": [
+      "ts_g324",
+      "bg_30368",
+      270321,
+      "Vườn Hoang Tịch Mịch",
+      "[Nền] Khu vườn hoang vu tịch mịch, hoa cỏ dường như cũng úa tàn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10326": [
+      "ts_g325",
+      "bg_30369",
+      270322,
+      "Sân Khấu Ánh Sáng",
+      "[Nền] Ánh sáng lấp lánh tràn ngập sân khấu, rực rỡ chói lòa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10327": [
+      "ts_g326",
+      "bg_30370",
+      270323,
+      "Phố Dài Ngày Nắng",
+      "[Nền] Ánh nắng vàng rải nhẹ trên phố dài, bóng ngô đồng in xuống thưa thớt.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10328": [
+      "ts_g327",
+      "bg_30371",
+      270324,
+      "Hang Ẩn Bàn Tơ",
+      "[Nền] Mạng nhện giăng mắc kín đáo, hang động bí ẩn ánh sáng mờ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10329": [
+      "ts_g328",
+      "bg_30372",
+      270325,
+      "Thiên Môn Vân Tiêu",
+      "[Nền] Mây vàng vắt ngang trời, cổng thiên đình sừng sững uy nghi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10330": [
+      "ts_g329",
+      "bg_30373",
+      270326,
+      "Thánh Đình Ác Ma",
+      "[Nền] Bầu trời đỏ như máu bao trùm, lặng nghe khúc thì thầm của dục vọng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10331": [
+      "ts_g330",
+      "bg_30374",
+      270327,
+      "Kinh Hoa Yên Vân",
+      "[Nền] Cảnh sắc cố đô lộng lẫy, vẻ đẹp cổ kính khói sương.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10332": [
+      "ts_g331",
+      "bg_30375",
+      270328,
+      "Trăng Sóng",
+      "[Nền] Ánh trăng sóng vỡ vụn rơi rớt, vạn ngàn cánh cửa chồng chất xoay vần, in bóng hình thế giới khác.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10333": [
+      "ts_g332",
+      "bg_30376",
+      270329,
+      "Vân Trình Thủy Liêm",
+      "[Nền] Mây trôi rèm nước, nơi dòng nước trong veo ánh lên sắc hoa hồng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10334": [
+      "ts_g333",
+      "bg_30377",
+      270330,
+      "Vượt Sóng Biển Khơi",
+      "[Nền] Cõi trần mênh mông, bước chân lướt trên sóng nước.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10335": [
+      "ts_g334",
+      "bg_30378",
+      270331,
+      "Mộng Ngọt Trên Mây",
+      "[Nền] Trên tầng mây cao, muôn ngàn sao rải lấp lánh, ôm ấp một giấc mộng nhẹ nhàng mơ hồ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10336": [
+      "ts_g335",
+      "bg_30379",
+      270332,
+      "Mộng Đẹp Trên Mây",
+      "[Nền] Trên chốn mây trời, ánh chiều tà rải rắc, ôm ấp giấc mơ ngọt ngào ấm áp.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10337": [
+      "ts_g336",
+      "bg_30380",
+      270333,
+      "Bóng Cung Hương Thẳm",
+      "[Nền] Bóng kiến trúc đung đưa, hương thơm và rèm cửa rủ xuống, những cánh hoa rơi lặng lẽ khi giấc mơ vừa trở về.",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10338": [
+      "ts_g337",
+      "bg_30381",
+      270334,
+      "Nhặt Nắng Đồng Xanh",
+      "[Nền] Đồng xanh giữa trưa nắng, cỏ biếc và cành cây mềm mại thì thầm trong gió.",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10339": [
+      "ts_g338",
+      "bg_30382",
+      270335,
+      "Túy Ảnh",
+      "[Nền] Cầu cong như cầu vồng ôm trăng, hoa đăng lập lòe giữa mưa hoa hạnh, bóng thuyềnlàm vỡ dòng sông sao.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10340": [
+      "ts_g339",
+      "bg_30383",
+      270336,
+      "Tro Tàn Núi Cháy",
+      "[Nền] Khoảnh khắc sấm sét giáng xuống, toàn bộ khu rừng bị ngọn lửa dữ thiêu rụi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10341": [
+      "ts_g340",
+      "bg_30384",
+      270337,
+      "Ánh Sáng Rừng Xanh",
+      "[Nền] Mưa xuân thành suối thấm vào lòng đất, ánh nắng chiếu rọi giữa tán rừng xanh tươi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10342": [
+      "ts_g341",
+      "bg_30385",
+      270338,
+      "Thiên Lộc Giáng Trần",
+      "[Nền] Thiên Lộc giáng thế, ánh hào quang vàng rực chiếu trước cửa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10343": [
+      "ts_g342",
+      "bg_30386",
+      270339,
+      "Lâu Đài Lấp Lánh",
+      "[Nền] Ánh đèn từ cung điện ngọc hòa vào màn đêm, bóng cây xanh in trên hồ nước lung linh gợn sóng vàng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10344": [
+      "ts_g343",
+      "bg_30387",
+      270340,
+      "Kiếp Lửa Ma Tà",
+      "[Nền] Cung điện tiên tan vỡ, tai ương ma quỷ thiêu rụi bầu trời.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10345": [
+      "ts_g344",
+      "bg_30388",
+      270341,
+      "Vực Sâu Tịch Mịch",
+      "[Nền] Theo sự dẫn dắt của trái tim, rơi vào vực thẳm tối tăm và tĩnh lặng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10346": [
+      "ts_g345",
+      "bg_30389",
+      270342,
+      "Thánh Đường Thiên Quốc",
+      "[Nền] Nghe theo tiếng gọi con tim, bay lên thiên quốc trên mây.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10347": [
+      "ts_g346",
+      "bg_30390",
+      270343,
+      "Vân Loan Sơn Quán",
+      "[Nền] Non cao giữa mây, đạo quán thanh tịnh trong núi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10348": [
+      "ts_g347",
+      "bg_30391",
+      270344,
+      "Đêm Hè Ngự Uyển",
+      "[Nền] Đêm hè trong ngự uyển, lối trúc dẫn vào nơi tĩnh lặng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10349": [
+      "ts_g348",
+      "bg_30392",
+      270345,
+      "Bãi Cát Mùa Hè",
+      "[Nền] Bãi biển mùa hè, mát lành đuổi theo nhịp sóng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10350": [
+      "ts_g349",
+      "bg_30393",
+      270346,
+      "Đền Thần Nile",
+      "[Nền] Trong ngôi đền bên bờ sông Nile, tượng Anubis lặng lẽ dõi theo người bước vào.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10351": [
+      "ts_g350",
+      "bg_30394",
+      270347,
+      "Phi Thuyền Vũ Trụ",
+      "[Nền] Ở lõi phi thuyền, những dòng dữ liệu khổng lồ luôn chuyển động sôi nổi.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10352": [
+      "ts_g351",
+      "bg_30395",
+      270348,
+      "Sóng Thành Bích Hải",
+      "[Nền] Biển xanh sóng đổ, tòa thành san hô.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3
+      ],
+      0
+    ],
+    "10353": [
+      "ts_g352",
+      "bg_30396",
+      270349,
+      "Mai Anh Lạc Tuyết",
+      "[Nền] Tuyết rơi tích tấc, rừng hoa mai thơm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3
+      ],
+      0
+    ],
+    "10354": [
+      "ts_g353",
+      "bg_30397",
+      270350,
+      "Tẩm Cung Hạo Linh",
+      "[Nền] Màn gấm mây tươi, tẩm cung Hạo Linh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3
+      ],
+      0
+    ],
+    "10355": [
+      "ts_g354",
+      "bg_30398",
+      270351,
+      "Mây Sớm Năm Xưa",
+      "[Nền] Cây hoa mây sớm, bóng vui năm xưa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3
+      ],
+      0
+    ],
+    "10356": [
+      "ts_g355",
+      "bg_30399",
+      270352,
+      "Phượng Hót Ánh Hồng",
+      "[Nền] Vương Cơ trở về, phượng hót thiên hạ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3
+      ],
+      0
+    ],
+    "10357": [
+      "ts_g356",
+      "bg_30400",
+      270353,
+      "Động Thiên Thu Họa",
+      "[Nền] Cổng trăng khóa nửa sân thu, nắng vàng chiếu xiên đầy thềm mềm mại.",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10358": [
+      "ts_g357",
+      "bg_30401",
+      270354,
+      "Chuyến Đi Mùa Hè",
+      "[Nền] Con thuyền lướt giữa làn sóng biếc, gió biển khe khẽ hát, thời gian như dừng lại nơi đây.",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10359": [
+      "ts_g358",
+      "bg_30402",
+      270355,
+      "Hỷ Sự Trong Viện",
+      "[Nền] Tại đại viện, mọi người chúc mừng hỷ sự được trời ban.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10360": [
+      "ts_g359",
+      "bg_30403",
+      270356,
+      "Lễ Cưới Lãng Mạn",
+      "[Nền] Ở nơi tổ chức lễ cưới, mọi người cùng chứng kiến khoảnh khắc lãng mạn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10361": [
+      "ts_g360",
+      "bg_30404",
+      270357,
+      "Gió Đêm Lầu Thêu",
+      "[Nền] Chiều buông trên mái cong, lầu thêu khẽ lay rèm gió.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10362": [
+      "ts_g361",
+      "bg_30405",
+      270358,
+      "Ánh Mai Lầu Thêu",
+      "[Nền] Bình minh bên mái cong, lầu thêu sáng bừng ánh sớm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10363": [
+      "ts_g362",
+      "bg_30406",
+      270359,
+      "Luân Hồi U Minh",
+      "[Nền] Ngoài điện luân hồi, màn sương lam u tối phủ lối hồn trở về.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10364": [
+      "ts_g363",
+      "bg_30407",
+      270360,
+      "Kiếp Hỏa Vong Xuyên",
+      "[Nền] Sông Vong Xuyên sôi sục, lửa nghiệp đỏ như sao rơi xuống nước đen.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10365": [
+      "ts_g364",
+      "bg_30408",
+      270361,
+      "Thiên Ngoại Trùng Vân",
+      "[Nền] Trên trời xa, mây dày chất tầng, chín tầng trời trùng điệp.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10366": [
+      "ts_g365",
+      "bg_30409",
+      270362,
+      "Động Phủ Ba Tiêu",
+      "[Nền] Động phủ Ba Tiêu, mây biếc và khói hồng quấn quanh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10367": [
+      "ts_g366",
+      "bg_30410",
+      270363,
+      "Bồng Lai Dưới Trăng",
+      "[Nền] Mây khói mênh mông, Bồng Lai dưới ánh trăng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10368": [
+      "ts_g367",
+      "bg_30411",
+      270364,
+      "Cung Điện Hư Không",
+      "[Nền] Gió hư không thổi nhẹ màn lụa, ô cờ đen trắng dẫn đến bến bờ vô định.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10369": [
+      "ts_g368",
+      "bg_30412",
+      270365,
+      "Vụ Quy Đài",
+      "[Nền] Sân ga đêm mưa, ánh đèn ấm cắt vụn màn mưa, lữ khách nhìn đoàn tàu, hơi sương phủ lên hành lý ướt.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10370": [
+      "ts_g369",
+      "bg_30413",
+      270366,
+      "Cung Trăng Biển Mây",
+      "[Nền] Mây trôi ánh nguyệt, lầu ngọc điện quỳnh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10371": [
+      "ts_g370",
+      "bg_30414",
+      270367,
+      "Bến Trúc Bên Sông",
+      "[Nền] Trúc xanh lay gió, sóng biếc gợn trăng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10372": [
+      "ts_g371",
+      "bg_30415",
+      270368,
+      "Suối Nóng Trong Núi",
+      "[Nền] Trong núi có một mạch suối nước nóng, bốn mùa ấm áp.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10373": [
+      "ts_g372",
+      "bg_30416",
+      270369,
+      "Đài Ngọc Trên Mây",
+      "[Nền] Mây quấn điện ngọc, sương phủ đài sương.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10374": [
+      "ts_g373",
+      "bg_30417",
+      270370,
+      "Thần Điện Mộng Đẹp",
+      "[Nền] Dưới vòm trời sông Ngân, sừng sững thần điện mộng đẹp.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10375": [
+      "ts_g374",
+      "bg_30418",
+      270371,
+      "Thành Hoa Tươi",
+      "[Nền] Thành hoa tươi tuổi thơ, gặp lại trong mộng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10376": [
+      "ts_g375",
+      "bg_30419",
+      270372,
+      "Rừng Cây Trong Tuyết",
+      "[Nền] Đình son phủ tuyết mới, tùng xanh đứng vững trong vườn lạnh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      1764172200
+    ],
+    "10377": [
+      "ts_g376",
+      "bg_30420",
+      270373,
+      "Ngự Uyển Sau Mưa",
+      "[Nền] Mưa rửa ngói lưu ly, gió lay cành biếc.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      1764172200
+    ],
+    "10378": [
+      "ts_g377",
+      "bg_30421",
+      270374,
+      "Cổng Thành Lá Thu",
+      "[Nền] Một thành phong sương sắc, nửa cổng vang tiếng lá thu rụng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      1764172200
+    ],
+    "10379": [
+      "ts_g378",
+      "bg_30422",
+      270375,
+      "Tùng Trúc Nhàn Đình",
+      "[Nền] Bóng tùng phủ sân biếc, nắng sáng soi trúc xanh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      1764172200
+    ],
+    "10380": [
+      "ts_g379",
+      "bg_30423",
+      270376,
+      "Đăng Ảnh Giáng Tiêu",
+      "[Nền] Đài đỏ lụa hồng phản tuyết trắng, đèn ngọc soi bóng dài.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      1764172200
+    ],
+    "10381": [
+      "ts_g380",
+      "bg_30424",
+      270377,
+      "Đêm Pha Lê",
+      "[Nền] Ánh pha lê chảy, màn đêm tráng lệ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10382": [
+      "ts_g381",
+      "bg_30425",
+      270378,
+      "Gió Tuyết Mênh Mang",
+      "[Nền] Gió tuyết mịt mùng, trời đất mênh mang.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10383": [
+      "ts_g382",
+      "bg_30426",
+      270379,
+      "Ánh Đèn Như Mộng",
+      "[Nền] Dòng sông đèn trút xuống, rắc xuống nhân gian muôn điểm sao.",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10384": [
+      "ts_g383",
+      "bg_30427",
+      270380,
+      "Bách Lạc Sênh Ca",
+      "[Nền] Đêm chưa dứt tiếng ca, sự phồn hoa nơi đây không bao giờ hạ màn.",
+      0,
+      0,
+      2,
+      "Nhận khi mua tại Tiệm Trang Sức",
+      [],
+      [],
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10385": [
+      "ts_g384",
+      "bg_30428",
+      270381,
+      "Thung Lũng Suối Đào",
+      "[Nền] Thung lũng suối đào, nước chảy róc rách.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10386": [
+      "ts_g385",
+      "bg_30429",
+      270382,
+      "Nhà Giữa Rừng Trúc",
+      "[Nền] Nơi sâu trong rừng trúc, dường như có nhà ai.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10387": [
+      "ts_g386",
+      "bg_30430",
+      270383,
+      "Đèn Nguyện Sông Chiều",
+      "[Nền] Khi sông Yamuna nuốt chửng tia nắng cuối cùng, trên mặt nước nổi lên hàng ngàn ngàn ngọn đèn cầu nguyện.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10388": [
+      "ts_g387",
+      "bg_30431",
+      270384,
+      "Vườn Hoa Nghịch Mệnh",
+      "[Nền] Tòa tháp ngược, định mệnh tan vỡ, hóa thành những cánh hoa bay tả tơi, rơi vào khu vườn bất tận.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10389": [
+      "ts_g388",
+      "bg_30432",
+      270385,
+      "Suối Lạnh Sóng Biếc",
+      "[Nền] Suối lạnh nơi núi sâu, sóng biếc gợn lăn tăn.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      1765468200
+    ],
+    "10390": [
+      "ts_g389",
+      "bg_30433",
+      270386,
+      "Rừng Báu Khổng Tước",
+      "[Nền] Trong rừng thất bảo, khổng tước nhảy múa.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      1765468200
+    ],
+    "10391": [
+      "ts_g390",
+      "bg_30434",
+      270387,
+      "Ngọn Núi Gió Tuyết",
+      "[Nền] Gió bắc cuốn tuyết, ngọn núi hùng vĩ.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      1766073000
+    ],
+    "10392": [
+      "ts_g391",
+      "bg_30435",
+      270388,
+      "Thị Trấn Vùng Cực",
+      "[Nền] Vùng tuyết địa cực, thị trấn nhộn nhịp.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      1766073000
+    ],
+    "10393": [
+      "ts_g392",
+      "bg_30436",
+      270389,
+      "Dệt Mộng Cát",
+      "[Nền] Sương đêm lan khắp căn phòng châu báu, rèm lụa vàng ôm lấy tiếng thì thầm của cát bụi, như lạc vào miền cổ tích Nghìn Lẻ Một Đêm.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      1764109200
+    ],
+    "10406": [
+      "ts_g405",
+      "bg_30449",
+      270402,
+      "Ngựa Lành Đón Xuân",
+      "[Nền] Ngựa lành đón năm mới, muôn dặm xuân mở lối.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10407": [
+      "ts_g406",
+      "bg_30450",
+      270403,
+      "Thiên Cung Bích Họa",
+      "[Nền] Lầu ngọc mây bay, son đỏ vẽ trọn giấc mộng trường sinh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10408": [
+      "ts_g407",
+      "bg_30451",
+      270404,
+      "Giao Giới Cõi Thần",
+      "[Nền] Hai cõi gặp nhau, đèn lửa soi sáng tầng mây Cửu Tiêu.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10409": [
+      "ts_g408",
+      "bg_30452",
+      270405,
+      "Vườn Hoa Nhan Sắc",
+      "[Nền] Dưới ánh sớm, mặt nước gợn ánh vàng lấp lánh.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10410": [
+      "ts_g409",
+      "bg_30453",
+      270406,
+      "Bình Minh Trên Mây",
+      "[Nền] Bình minh hé mở, thánh quang tràn qua điện thần trên mây.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10411": [
+      "ts_g410",
+      "bg_30454",
+      270407,
+      "Lâu Đài Đêm Tuyết",
+      "[Nền] Lâu đài đứng giữa đêm tuyết, ánh đèn xuyên qua màn tuyết chảy dài.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [],
+      0
+    ],
+    "10416": [
+      "ts_g415",
+      "bg_30459",
+      270412,
+      "Bóng Cây Ánh Nước",
+      "[Nền] Núi xa mờ sương, hoa cây ngát hương.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      0
+    ],
+    "10417": [
+      "ts_g416",
+      "bg_30460",
+      270413,
+      "Ngày Hè Nhàn Nhã",
+      "[Nền] Sen non in bóng, cỏ thơm thanh nhã.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      0
+    ],
+    "10418": [
+      "ts_g417",
+      "bg_30461",
+      270414,
+      "Liễu Lay Sóng Biếc",
+      "[Nền] Nước biếc soi hiên, liễu xanh theo gió.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      0
+    ],
+    "10419": [
+      "ts_g418",
+      "bg_30462",
+      270415,
+      "Đèn Khuya Chùa Cổ",
+      "[Nền] Chùa xưa về đêm, ánh đèn soi bóng.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      0
+    ],
+    "10420": [
+      "ts_g419",
+      "bg_30463",
+      270416,
+      "Tây Hồ Sương Mờ",
+      "[Nền] Tây Hồ dâng sương, mưa khói đưa chuyện tiền duyên.",
+      0,
+      0,
+      2,
+      "Sự kiện mở khóa",
+      [],
+      [],
+      [
+        12820
+      ],
+      [
+        1,
+        3,
+        4,
+        5
+      ],
+      0
+    ],
+    "11001": [
+      "ts_g1",
+      "bg_20016",
+      271001,
+      "Sơ Mai Ánh Tuyết",
+      "Bối cảnh đổi trang phục mặc định của A Lý Cổn",
+      10001,
+      2,
+      0,
+      "0",
+      [],
+      [],
+      [],
+      [],
+      0
+    ],
+    "11002": [
+      "ts_g4",
+      "bg_30004",
+      271000,
+      "Viễn Sơn Lan Đình",
+      "Bối cảnh đổi trang phục mặc định của A Lý Cổn",
+      10001,
+      1,
+      0,
+      "0",
+      [],
+      [],
+      [],
+      [],
+      0
+    ],
+    "12001": [
+      "ts_g5",
+      "bg_10015",
+      272001,
+      "Bích Liễu Phù Phong",
+      "Bối cảnh đổi thời trang mặc định Alendi",
+      10002,
+      2,
+      0,
+      "0",
+      [],
+      [],
+      [],
+      [],
+      0
+    ],
+    "12002": [
+      "ts_g4",
+      "bg_30004",
+      271000,
+      "Viễn Sơn Lan Đình",
+      "Bối cảnh đổi thời trang mặc định Alendi",
+      10002,
+      1,
+      0,
+      "0",
+      [],
+      [],
+      [],
+      [],
+      0
+    ],
+    "13001": [
+      "ts_g2",
+      "bg_10012",
+      273001,
+      "Minh Kỷ Tâm Trai",
+      "Bối cảnh mặc định của Hoằng Lịch",
+      10003,
+      2,
+      0,
+      "0",
+      [],
+      [],
+      [],
+      [],
+      0
+    ],
+    "13002": [
+      "ts_g4",
+      "bg_30004",
+      271000,
+      "Viễn Sơn Lan Đình",
+      "Bối cảnh mặc định của Hoằng Lịch",
+      10003,
+      1,
+      0,
+      "0",
+      [],
+      [],
+      [],
+      [],
+      0
+    ],
+    "14001": [
+      "ts_g3",
+      "bg_10014",
+      274001,
+      "Thiên Chí Yển Các",
+      "Bối cảnh thay đồ mặc định của Tề Mặc",
+      10004,
+      2,
+      0,
+      "0",
+      [],
+      [],
+      [],
+      [],
+      0
+    ],
+    "14002": [
+      "ts_g4",
+      "bg_30004",
+      271000,
+      "Viễn Sơn Lan Đình",
+      "Bối cảnh thay đồ mặc định của Tề Mặc",
+      10004,
+      1,
+      0,
+      "0",
+      [],
+      [],
+      [],
+      [],
+      0
+    ]
+  }
+}

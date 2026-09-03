@@ -1,0 +1,95 @@
+{
+  "colMap": [
+    "name",
+    "type",
+    "icon",
+    "styleIcon",
+    "imprintIcon"
+  ],
+  "list": {
+    "10001": [
+      "Hoa Quý",
+      1,
+      "cm_a6",
+      "ds_a18",
+      "bxs_x6"
+    ],
+    "10002": [
+      "Mộc Mạc",
+      1,
+      "cm_a10",
+      "ds_a32",
+      "bxs_x10"
+    ],
+    "10003": [
+      "Tao Nhã",
+      2,
+      "cm_a1",
+      "ds_a17",
+      "bxs_x1"
+    ],
+    "10004": [
+      "Hoạt Bát",
+      2,
+      "cm_a11",
+      "ds_a19",
+      "bxs_x11"
+    ],
+    "10005": [
+      "Nhẹ Nhàng",
+      3,
+      "cm_a8",
+      "ds_a28",
+      "bxs_x8"
+    ],
+    "10006": [
+      "Khí Khái",
+      3,
+      "cm_a2",
+      "ds_a31",
+      "bxs_x2"
+    ],
+    "10007": [
+      "Dễ thương",
+      4,
+      "cm_a5",
+      "ds_a29",
+      "bxs_x5"
+    ],
+    "10008": [
+      "Tươi Mát",
+      4,
+      "cm_a3",
+      "ds_a21",
+      "bxs_x3"
+    ],
+    "10009": [
+      "Truyền Thống",
+      5,
+      "cm_a12",
+      "ds_a15",
+      "bxs_x12"
+    ],
+    "10010": [
+      "Nước Ngoài",
+      5,
+      "cm_a7",
+      "ds_a30",
+      "bxs_x7"
+    ],
+    "10011": [
+      "Đoan Trang",
+      6,
+      "cm_a9",
+      "ds_a16",
+      "bxs_x9"
+    ],
+    "10012": [
+      "Tinh Nghịch",
+      6,
+      "cm_a4",
+      "ds_a20",
+      "bxs_x4"
+    ]
+  }
+}

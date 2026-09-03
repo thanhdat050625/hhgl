@@ -1,0 +1,256 @@
+{
+  "colMap": [
+    "constellation",
+    "icon",
+    "titleIcon",
+    "headIcon",
+    "nameIcon",
+    "period",
+    "sorting",
+    "textSid",
+    "patch",
+    "text"
+  ],
+  "list": {
+    "101": [
+      "Cung Bạch Dương",
+      "at_b1",
+      "at_c1_cn",
+      "at_e6",
+      "at_f2_cn",
+      "3.21-4.19",
+      1,
+      [
+        101001,
+        101002,
+        101003
+      ],
+      [
+        10101,
+        10102,
+        10103
+      ],
+      "Ba ngôi sao sáng, tạo nên sừng và mũi của Bạch Dương."
+    ],
+    "102": [
+      "Cung Kim Ngưu",
+      "at_b2",
+      "at_c2_cn",
+      "at_e7",
+      "at_f3_cn",
+      "4.20-5.20",
+      2,
+      [
+        102001,
+        102002,
+        102003
+      ],
+      [
+        10201,
+        10202,
+        10203
+      ],
+      "Chú trâu vàng cúi xuống và vươn chiếc sừng dài."
+    ],
+    "103": [
+      "Cung Song Tử ",
+      "at_b3",
+      "at_c3_cn",
+      "at_e8",
+      "at_f4_cn",
+      "5.21-6.21",
+      3,
+      [
+        103001,
+        103002,
+        103003
+      ],
+      [
+        10301,
+        10302,
+        10303
+      ],
+      "Liên kết hai đoạn, đại diện cho hai ngôi sao đôi không thể tách rời."
+    ],
+    "104": [
+      "Sao Cự Giải",
+      "at_b4",
+      "at_c4_cn",
+      "at_e9",
+      "at_f5_cn",
+      "6.22-7.22",
+      4,
+      [
+        104001,
+        104002,
+        104003
+      ],
+      [
+        10401,
+        10402,
+        10403
+      ],
+      "Con cua nhỏ với chiếc mai cứng đang nhấy nháy trên bầu trời đêm."
+    ],
+    "105": [
+      "Cung Sử Tử",
+      "at_b5",
+      "at_c5_cn",
+      "at_e10",
+      "at_f6_cn",
+      "7.23-8.22",
+      5,
+      [
+        105001,
+        105002,
+        105003
+      ],
+      [
+        10501,
+        10502,
+        10503
+      ],
+      "Sư tử đang ngự trên bầu trời, rũ chiếc đuôi xuống."
+    ],
+    "106": [
+      "Cung xử nữ",
+      "at_b6",
+      "at_c6_cn",
+      "at_e11",
+      "at_f7_cn",
+      "8.23-9.22",
+      6,
+      [
+        106001,
+        106002,
+        106003
+      ],
+      [
+        10601,
+        10602,
+        10603
+      ],
+      "Thiếu nữ cầm nhành lúa lên tay, tượng trưng cho thu hoạch thành quả của trí tuệ."
+    ],
+    "107": [
+      "Cung thiên bình ",
+      "at_b7",
+      "at_c7_cn",
+      "at_e12",
+      "at_f8_cn",
+      "9.23-10.23",
+      7,
+      [
+        107001,
+        107002,
+        107003
+      ],
+      [
+        10701,
+        10702,
+        10703
+      ],
+      "Một chiếc cân ổn định, đạt được sự cân bằng giữa hai bên."
+    ],
+    "108": [
+      "Chung bò cạp",
+      "at_b8",
+      "at_c8_cn",
+      "at_e13",
+      "at_f9_cn",
+      "10.24-11.22",
+      8,
+      [
+        108001,
+        108002,
+        108003
+      ],
+      [
+        10801,
+        10802,
+        10803
+      ],
+      "Bò cạp cong đuôi, bí ẩn và nguy hiểm."
+    ],
+    "109": [
+      "Chòm Nhân Mã",
+      "at_b9",
+      "at_c9_cn",
+      "at_e14",
+      "at_f10_cn",
+      "11.23-12.21",
+      9,
+      [
+        109001,
+        109002,
+        109003
+      ],
+      [
+        10901,
+        10902,
+        10903
+      ],
+      "Nhân mã kéo cung tên trên bầu trời đêm, nhắm vào con mồi của mình."
+    ],
+    "110": [
+      "Cung Ma Kết",
+      "at_b10",
+      "at_c10_cn",
+      "at_e15",
+      "at_f11_cn",
+      "12.22-1.19",
+      10,
+      [
+        110001,
+        110002,
+        110003
+      ],
+      [
+        11001,
+        11002,
+        11003
+      ],
+      "Sơn dương vững chải, đang cúi đầu với bộ râu đặc biệt."
+    ],
+    "111": [
+      "Thủy Bình",
+      "at_b11",
+      "at_c11_cn",
+      "at_e16",
+      "at_f12_cn",
+      "1.20-2.18",
+      11,
+      [
+        111001,
+        111002,
+        111003
+      ],
+      [
+        11101,
+        11102,
+        11103
+      ],
+      "Trong bữa tiệc linh đình, người cầm chiếc bình rót rượu ngon."
+    ],
+    "112": [
+      "Song Ngư",
+      "at_b12",
+      "at_c12_cn",
+      "at_e17",
+      "at_f13_cn",
+      "2.19-3.20",
+      12,
+      [
+        112001,
+        112002,
+        112003
+      ],
+      [
+        11201,
+        11202,
+        11203
+      ],
+      "Hai con cá quấn vào nhau, không biết bơi về phương nào."
+    ]
+  }
+}

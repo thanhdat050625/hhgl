@@ -1,0 +1,28 @@
+{
+  "colMap": [
+    "name",
+    "icon",
+    "type",
+    "typeName",
+    "location",
+    "valueId"
+  ],
+  "list": {
+    "1001": [
+      "《Khẩu Nhược Huyền Hà》",
+      62501,
+      1,
+      "Tỷ lệ Bạo Kích",
+      0,
+      1
+    ],
+    "1002": [
+      "《Học Vấn Uyên Thâm》",
+      62502,
+      2,
+      "Sát thương bạo kích",
+      1,
+      1
+    ]
+  }
+}

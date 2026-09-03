@@ -1,0 +1,182 @@
+{
+  "colMap": [
+    "name",
+    "description",
+    "iconProp",
+    "iconPreview",
+    "aniType",
+    "source",
+    "aniLoc",
+    "getWay",
+    "getPath",
+    "whichBranch",
+    "onTime"
+  ],
+  "list": {
+    "10012": [
+      "Bong Bóng Mộng Ảo",
+      "Hiệu Ứng này thuộc về Gói Chủ Đề Cảnh [Biển Mộng Ảo]. Dùng tại Thay Đồ-Cảnh-Hiệu Ứng.",
+      350001,
+      351001,
+      3,
+      "tx_30001",
+      2,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10022": [
+      "Linh Điệp Bay Múa",
+      "Hiệu Ứng này thuộc về Gói Chủ Đề Cảnh [Linh Điệp Bỉ Ngạn]. Dùng tại Thay Đồ-Cảnh-Hiệu Ứng.",
+      350002,
+      351002,
+      3,
+      "tx_30002",
+      2,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10032": [
+      "Ánh Sao Trời",
+      "Hiệu Ứng này thuộc về Gói Chủ Đề Cảnh [Ánh Sao Tarot]. Dùng tại Thay Đồ-Cảnh-Hiệu Ứng.",
+      350003,
+      351003,
+      3,
+      "tx_30003",
+      3,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10042": [
+      "Ánh Nến Lung Linh",
+      "Hiệu ứng này thuộc Gói Chủ Đề này thuộc Gói Chủ Đề [Bí Cảnh Lâu Đài]. Dùng tại Đổi-Cảnh-Hiệu Ứng.",
+      350004,
+      351004,
+      3,
+      "tx_30004",
+      3,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10052": [
+      "Chuồn Chuồn Nắng Ấm",
+      "Hiệu ứng này thuộc Gói Chủ Đề [Ánh Nước Ao Sen]. Dùng tại Đổi-Cảnh-Hiệu Ứng.",
+      350005,
+      351005,
+      3,
+      "tx_30005",
+      3,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10062": [
+      "Phù Quang Bảo Cung",
+      "Hiệu Ứng này thuộc về Gói Chủ Đề Cảnh [Hương Thoảng Cung Nga]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      350006,
+      351006,
+      3,
+      "tx_30006",
+      3,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10072": [
+      "Hoa Hương Điệp Ảnh",
+      "Hiệu Ứng này thuộc về Gói Chủ Đề Cảnh [Nhặt Nắng Đồng Xanh]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      350007,
+      351007,
+      3,
+      "tx_30007",
+      3,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10082": [
+      "Ánh Vàng Ngân Hạnh",
+      "Hiệu Ứng này thuộc về Gói Chủ Đề Cảnh [Tranh Thu Động Thiên]. Dùng tại Thay Đồ-Cảnh-Hiệu Ứng.",
+      350008,
+      351008,
+      3,
+      "tx_30009",
+      3,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10092": [
+      "Bạch Âu Vẽ Trời",
+      "Hiệu Ứng này thuộc về Gói Chủ Đề Cảnh [Chuyến Đi Mùa Hè]. Dùng tại Thay Đồ-Cảnh-Hiệu Ứng.",
+      350009,
+      351009,
+      3,
+      "tx_30008",
+      3,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10102": [
+      "Muôn Điểm Sao Sáng",
+      "Hiệu Ứng này thuộc về Gói Chủ Đề Cảnh [Ánh Đèn Như Mộng]. Dùng tại Thay Đồ-Cảnh-Hiệu Ứng.",
+      350010,
+      351010,
+      3,
+      "tx_30010",
+      3,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10112": [
+      "Đèn Hoa Cổ Vận",
+      "Hiệu Ứng này thuộc về Gói Chủ Đề Cảnh [Bách Lạc Sênh Ca]. Dùng tại Thay Đồ-Cảnh-Hiệu Ứng.",
+      350011,
+      351011,
+      3,
+      "tx_30011",
+      3,
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ]
+  }
+}

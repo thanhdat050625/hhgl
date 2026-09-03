@@ -1,0 +1,148 @@
+{
+  "colMap": [
+    "banner",
+    "showFigure",
+    "starts",
+    "name",
+    "nameIcon",
+    "description",
+    "suitId",
+    "reward",
+    "unlockType",
+    "type",
+    "ifNew"
+  ],
+  "list": {
+    "1001": [
+      "pf_b17",
+      "pf_b19",
+      4,
+      "Lê Hoa Hải Đường",
+      "pf_b25_cn",
+      "Tiêu tương thủy nguyệt lạc lê đường, thiên niên vạn tuế, tiêu hoa tụng thanh.",
+      [
+        1571,
+        1565,
+        1570
+      ],
+      [
+        [
+          2,
+          208,
+          3
+        ],
+        [
+          1,
+          12021,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          0
+        ]
+      ],
+      1,
+      0
+    ],
+    "1002": [
+      "pf_b18",
+      "pf_b20",
+      3,
+      "Lời Hẹn Thiếu Nữ",
+      "pf_b15_cn",
+      "Lời hẹn giữa các cô gái, là ánh sao lấp lánh trong dòng thời gian.",
+      [
+        1547,
+        1544
+      ],
+      [
+        [
+          2,
+          208,
+          2
+        ],
+        [
+          1,
+          12021,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          0
+        ]
+      ],
+      1,
+      0
+    ],
+    "1003": [
+      "pf_e38",
+      "pf_e37",
+      4,
+      "Bữa Tiệc Hương Thơm",
+      "pf_e30_cn",
+      "Trong khoảng thời gian tràn ngập hương thơm, cùng nhau ước nguyện thôi.",
+      [
+        1548,
+        1546,
+        1545
+      ],
+      [
+        [
+          2,
+          208,
+          3
+        ],
+        [
+          1,
+          12021,
+          1
+        ]
+      ],
+      [
+        [
+          5,
+          3000
+        ]
+      ],
+      2,
+      0
+    ],
+    "1004": [
+      "pf_j1",
+      "pf_j2",
+      4,
+      "Phái Học Viện",
+      "pf_j3_cn",
+      "Phong cách học viện thời trang trẻ trung, đưa bạn quay về tháng ngày học sinh.",
+      [
+        1698,
+        1697,
+        1696
+      ],
+      [
+        [
+          2,
+          208,
+          3
+        ],
+        [
+          1,
+          12021,
+          1
+        ]
+      ],
+      [
+        [
+          0,
+          0
+        ]
+      ],
+      1,
+      1
+    ]
+  }
+}

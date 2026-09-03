@@ -1,0 +1,312 @@
+{
+  "colMap": [
+    "name",
+    "basicIntroduce",
+    "specialIntroduce",
+    "hide",
+    "notUnlockIcon",
+    "unlockIcon",
+    "targetId",
+    "targetNumber",
+    "array"
+  ],
+  "list": {
+    "10001": [
+      "Chép Đỏ",
+      "[Thường-10 điểm]\nCá nước ngọt, cơ thể hình thoi.",
+      "",
+      0,
+      "313001",
+      "312001",
+      100001,
+      20,
+      1
+    ],
+    "10002": [
+      "Cá Koi",
+      "[Cao-40 điểm]\nCó hoa văn đỏ trắng, nghe nói có thể đem lại vận may cho người khác.",
+      "",
+      0,
+      "313001",
+      "312002",
+      101001,
+      20,
+      2
+    ],
+    "10003": [
+      "Miểng Sành Cam",
+      "[Thường-20 điểm]\nKhi thiếu cá trống, cá mái khỏe mạnh nhất sẽ chuyển đổi giới tính thành trống.",
+      "",
+      0,
+      "313002",
+      "312003",
+      102001,
+      20,
+      3
+    ],
+    "10004": [
+      "Miểng Sành 2 Màu",
+      "[Thường-10 điểm]\nCá biển, mình cao hơi dẹt, toàn thân là vây tia.",
+      "",
+      0,
+      "313002",
+      "312004",
+      103001,
+      20,
+      4
+    ],
+    "10005": [
+      "Khổng Tước Đuôi Cam",
+      "[Thường-10 điểm]\nCá cảnh, lưng có vây dài, vây ở đuôi to và dài.",
+      "",
+      0,
+      "313003",
+      "312005",
+      104001,
+      20,
+      5
+    ],
+    "10006": [
+      "Khổng Tước Đuôi Lam",
+      "[Cao-30 điểm]\nCòn được gọi là cá cơm, màu sắc đẹp mắt, tuổi thọ lại khá ngắn.",
+      "",
+      0,
+      "313003",
+      "312006",
+      105001,
+      20,
+      6
+    ],
+    "10007": [
+      "Tiên Ngư Vàng",
+      "[Thường-10 điểm]\nCá nhiệt đới có giá trị làm cảnh cao, cơ thể hình thoi.",
+      "",
+      0,
+      "313004",
+      "312007",
+      106001,
+      20,
+      7
+    ],
+    "10008": [
+      "Tiên Ngư Lam",
+      "[Thường-20 điểm]\nTính cách yên tĩnh, tư thế bơi phóng khoáng, được gọi là hoàng hậu cá nhiệt đới.",
+      "",
+      0,
+      "313004",
+      "312008",
+      107001,
+      20,
+      8
+    ],
+    "10009": [
+      "Thương Ngư Lam",
+      "[Cao-30 điểm]\nLoài cá xa bờ, có thể vượt qua Đại Tây Dương chỉ trong hai tháng.",
+      "",
+      0,
+      "313005",
+      "312009",
+      108001,
+      20,
+      9
+    ],
+    "10010": [
+      "Thương Ngư Tím",
+      "[Thường-20 điểm]\nGiống quý, cơ thể cường tráng, có thể dài đến bốn mét.",
+      "",
+      0,
+      "313005",
+      "312010",
+      109001,
+      20,
+      10
+    ],
+    "10011": [
+      "Cá Tầm Vàng",
+      "[Hiếm-50 điểm]\nGiống cá nguyên thủy, bơi trong con sông thời gian đã hơn cả ti năm.",
+      "",
+      0,
+      "313006",
+      "312011",
+      110001,
+      20,
+      11
+    ],
+    "10012": [
+      "Cá Tầm Đen",
+      "[Cao-30 điểm]\nCơ thể thon dài hình thoi, mặt cắt ngang của cơ thể giống hình ngũ giác.",
+      "",
+      0,
+      "313006",
+      "312013",
+      111001,
+      20,
+      12
+    ],
+    "10013": [
+      "Cá Tầm Nâu",
+      "[Cao-40 điểm]\nChỉ sống ở Bắc Bán Cầu, bơi đến thượng lưu sông vào thời kì sinh sản.",
+      "",
+      0,
+      "313006",
+      "312012",
+      112001,
+      20,
+      13
+    ],
+    "10014": [
+      "Cá Kiếm Lam",
+      "[Hiếm-50 điểm]\nXé toạc con sóng, nhanh như chớp, kẻ săn thức ăn thần tốc.",
+      "",
+      0,
+      "313007",
+      "312014",
+      113001,
+      20,
+      14
+    ],
+    "10015": [
+      "Cá Kiếm Nâu",
+      "[Cao-40 điểm]\nCơ thể hình giọt nước, phần miệng như một thanh kiếm đã rút khỏi vỏ.",
+      "",
+      0,
+      "313007",
+      "312015",
+      114001,
+      20,
+      15
+    ],
+    "10016": [
+      "Cá Chuồn Lam",
+      "[Cao-40 điểm]\nHình dáng kì lạ, vây ngực cực kì phát triển, giống hệt như cánh của chim.",
+      "",
+      0,
+      "313008",
+      "312016",
+      115001,
+      20,
+      16
+    ],
+    "10017": [
+      "Cá Chuồn Tím",
+      "[Hiếm-50 điểm]\nGiương đôi vây ra, bay về bầu trời, tựa như truyện cổ tích xuất hiện trong hiện thực.",
+      "",
+      0,
+      "313008",
+      "312017",
+      116001,
+      20,
+      17
+    ],
+    "10018": [
+      "Cá Mực",
+      "[Hiếm-50 điểm]\nCó thể tự do thay đổi màu sắc cơ thể, hòa vào tự nhiên, khó mà phát hiện được.",
+      "<font color=0xf27082>Cứ cách một khoảng thời gian sẽ phun mực, nhuộm đen vùng nước xung quanh.</font>",
+      0,
+      "313009",
+      "312018",
+      117001,
+      20,
+      18
+    ],
+    "10019": [
+      "Cá Chình",
+      "[Hiếm-50 điểm]\nCó thể tự do điều khiển điện, trong giới tự nhiên không ai chống cự lại được.",
+      "<font color=0xf27082>Khi bị tấn công, sẽ bắn ra điện, khiến cho kẻ địch bị tê liệt trong 5 giây.</font>",
+      0,
+      "313010",
+      "312019",
+      118001,
+      20,
+      19
+    ],
+    "10020": [
+      "An Khang Ngư",
+      "[Cao-30 điểm]\nTrên lưng có khí phát sáng như lồng đèn, tỏa ra ánh sáng một vùng.",
+      "",
+      0,
+      "313014",
+      "312022",
+      119001,
+      20,
+      20
+    ],
+    "10021": [
+      "Dao Ngư",
+      "[Cao-30 điểm]\nHai vây như cánh, ngao du ở đáy biển như bay lượn ở trên trời.",
+      "",
+      0,
+      "313012",
+      "312020",
+      120001,
+      20,
+      21
+    ],
+    "10022": [
+      "Phiên Xa Ngư",
+      "[Cao-40 điểm]\nLoài cá đẻ trứng nhiều nhất và nhiệt độ ổn định nhất trên thế giới.",
+      "",
+      0,
+      "313015",
+      "312023",
+      121001,
+      20,
+      22
+    ],
+    "10023": [
+      "Thích Đồn",
+      "[Hiếm-50 điểm]\nTrên người nhiều gai cứng, bụng có một túi khí to.",
+      "<font color=0xf27082>Khi biến lớn sẽ làm đứt dây câu; khi thu nhỏ mới có thể câu được.</font>",
+      0,
+      "313016",
+      "312024",
+      122001,
+      20,
+      23
+    ],
+    "10024": [
+      "Kim Long Ngư",
+      "[Hiếm-100 điểm]\nLoài cá nước ngọt nguyên thủy, tính tình hung tợn, vảy huyến lệ.",
+      "",
+      0,
+      "313013",
+      "312021",
+      123001,
+      20,
+      24
+    ],
+    "10025": [
+      "Cua",
+      "[Hiếm-100 điểm]\n Động vật giáp xác, một trong ba thủy sản quý, có nhiều nhất ở mùa thu.",
+      "",
+      0,
+      "313018",
+      "312026",
+      124001,
+      20,
+      25
+    ],
+    "10026": [
+      "Trai Ngọc",
+      "[Hiếm-200 điểm]\n Cỏ hai vỏ dày, có thể biến hạt cát thành trân châu.",
+      "<font color=0xf27082>Không thể dùng cần câu câu lên, chỉ có thể đặt bom cho nổ mới bắt được.</font>",
+      0,
+      "313017",
+      "312025",
+      125001,
+      20,
+      26
+    ],
+    "10027": [
+      "Cá Mập",
+      "[Hiếm-200 điểm]\nLoài ăn thịt đáng sợ nhất trên đại dương, sự tồn tại cao nhất trong chuỗi thức ăn.",
+      "<font color=0xf27082>Ăn hết toàn bộ cá. Không bị mắc câu, chỉ có thể dùng bom nổ mới bắt được.</font>",
+      0,
+      "313019",
+      "312027",
+      126001,
+      20,
+      27
+    ]
+  }
+}

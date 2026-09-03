@@ -1,0 +1,6566 @@
+{
+  "colMap": [
+    "name",
+    "activityId",
+    "activityType",
+    "type",
+    "quality",
+    "icon",
+    "awardListIcon",
+    "description",
+    "getPath",
+    "suggestPath",
+    "onTime"
+  ],
+  "list": {
+    "1": [
+      "Cung Vận",
+      0,
+      0,
+      0,
+      "3",
+      "111001",
+      110001,
+      "Cung Vận, đại diện cho khí vận của hậu cung, tích luỹ đủ là có thể thăng vị",
+      [
+        10100,
+        10300,
+        14300,
+        12805,
+        10903,
+        12821,
+        12804,
+        12801,
+        10500,
+        12303,
+        10700
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      0
+    ],
+    "2": [
+      "Bạc",
+      0,
+      0,
+      0,
+      "1",
+      "111004",
+      110004,
+      "Bạc, tiền tệ chính thức của Đại Thanh, chủ yếu dùng để bồi dưỡng Tuỳ Tùng, cùng với mua tài nguyên, đạo cụ",
+      [
+        10200,
+        11200,
+        10700,
+        10100,
+        10900,
+        10600,
+        12804,
+        11400
+      ],
+      [
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      0
+    ],
+    "3": [
+      "Dược Thảo",
+      0,
+      0,
+      0,
+      "1",
+      "111002",
+      110002,
+      "Dược Thảo, vật phẩm cần hồi phục nguyên khí",
+      [
+        10200,
+        11200,
+        10600,
+        10300
+      ],
+      [
+        1,
+        1,
+        0,
+        0
+      ],
+      0
+    ],
+    "4": [
+      "Nguyên Khí",
+      0,
+      0,
+      0,
+      "1",
+      "111003",
+      110003,
+      "Nguyên Khí sẽ tổn khi giao huấn đối thủ trong Cốt truyện, phải đủ Nguyên Khí mới đánh bại được đối thủ.",
+      [
+        10200,
+        11200,
+        12804,
+        10700,
+        10900,
+        10600,
+        11400
+      ],
+      [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      0
+    ],
+    "5": [
+      "Uy Danh",
+      0,
+      0,
+      0,
+      "2",
+      "111013",
+      110010,
+      "Uy Danh, tiêu hao để giáo huấn đám người xấu trong Đại Lý Tự, đủ Uy Danh thì có thể áp chế người khác  ",
+      [
+        10100
+      ],
+      [],
+      0
+    ],
+    "6": [
+      "Khí Thế",
+      0,
+      0,
+      0,
+      "1",
+      "111007",
+      100001,
+      "Khí thế, Trong Cung Luận Chiến tích lũy, dùng đổi buff luận chiến tăng thực lực Tùy Tùng",
+      [
+        11300
+      ],
+      [],
+      0
+    ],
+    "7": [
+      "Lá Bạc",
+      0,
+      0,
+      0,
+      "2",
+      "111008",
+      100034,
+      "Lá Bạc, dùng để Ước Nguyện-Cây Ước Nguyện",
+      [
+        10100,
+        10500,
+        12821,
+        11102,
+        10600,
+        13700,
+        14300,
+        12804,
+        10700
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      0
+    ],
+    "8": [
+      "Vàng",
+      0,
+      0,
+      0,
+      "3",
+      "111005",
+      110005,
+      "Vàng, nhận được khi nạp tiền, có thể dùng để mua vật quý hiếm ",
+      [
+        12000,
+        10400,
+        10700,
+        12804,
+        10600,
+        10501,
+        11199
+      ],
+      [
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      0
+    ],
+    "9": [
+      "Thẻ Cầu Nguyện",
+      0,
+      0,
+      0,
+      "3",
+      "111006",
+      100033,
+      "Thẻ Cầu Nguyện, nhận trong Cầu Nguyện-Cây Cầu Nguyện, đổi thời trang trong Tiệm Cây Cầu Nguyện.",
+      [
+        11000
+      ],
+      [],
+      0
+    ],
+    "10": [
+      "Mảnh Thẻ Cầu Nguyện",
+      0,
+      0,
+      0,
+      "1",
+      "111009",
+      100032,
+      "Mảnh Thẻ Cầu Nguyện, Cầu Nguyện-Cây Cầu Nguyện hoặc tách trang phục sẽ nhận được, có thể ghép thành Thẻ Cầu Nguyện",
+      [
+        11000,
+        13800
+      ],
+      [
+        1,
+        0
+      ],
+      0
+    ],
+    "11": [
+      "Điểm Thể Lực",
+      0,
+      0,
+      0,
+      "2",
+      "111010",
+      110006,
+      "Mức Thể Lực tiêu hao khi vượt ải Du Ngoạn",
+      [
+        11101
+      ],
+      [],
+      0
+    ],
+    "12": [
+      "Thẻ Tâm Ngữ",
+      0,
+      0,
+      0,
+      "6",
+      "109007",
+      100196,
+      "Trong Tuần Lễ Thời Trang, có thể đổi thời trang và đạo cụ",
+      [
+        10900,
+        13600
+      ],
+      [
+        1,
+        0
+      ],
+      0
+    ],
+    "13": [
+      "Điểm tâm",
+      110101,
+      1101,
+      0,
+      "2",
+      "109008",
+      100210,
+      "Điểm tâm ngon miệng, có thể đổi đạo cụ ở chỗ 'Tiệm Đổi' sự kiện",
+      [
+        12841,
+        12810
+      ],
+      [
+        1,
+        0
+      ],
+      0
+    ],
+    "16": [
+      "Huân",
+      0,
+      0,
+      0,
+      "3",
+      "111015",
+      110012,
+      "Nhận được khi hoàn thành thêu phẩm, có thể đổi thưởng. ",
+      [
+        13700
+      ],
+      [],
+      0
+    ],
+    "17": [
+      "Thêu thùa",
+      0,
+      0,
+      0,
+      "3",
+      "111017",
+      110019,
+      "Kim chỉ trong phòng thêu",
+      [
+        13700
+      ],
+      [],
+      0
+    ],
+    "18": [
+      "Chìa Khóa Tâm Linh",
+      0,
+      0,
+      0,
+      "4",
+      "109009",
+      100236,
+      "Chìa khóa tâm linh, dùng để mở khóa cốt truyện thẻ bài",
+      [
+        12821,
+        12804
+      ],
+      [
+        1,
+        0
+      ],
+      0
+    ],
+    "19": [
+      "Tích điểm Liên Server",
+      0,
+      1801,
+      0,
+      "4",
+      "av_c16",
+      100236,
+      "Tích điểm Liên Server",
+      [],
+      [],
+      0
+    ],
+    "20": [
+      "Thái Vân Truy Nguyệt",
+      190101,
+      1901,
+      0,
+      "4",
+      "109014",
+      100247,
+      "Trong sự kiện [Tiệc Quảng Hàn], đổi Bộ Trung Thu “Giới hạn” tuyệt đẹp",
+      [
+        12898,
+        12841
+      ],
+      [
+        1,
+        0
+      ],
+      0
+    ],
+    "21": [
+      "Ly Nhân Túy",
+      220101,
+      2201,
+      0,
+      "4",
+      "109015",
+      100269,
+      "Bồ Công Anh, trong sự kiện [Kỳ Nghỉ Đặc Biệt], đổi Thẻ “A Lý Cổn”",
+      [
+        12846
+      ],
+      [],
+      0
+    ],
+    "22": [
+      "Điểm Mặc Ngấn",
+      220101,
+      2201,
+      0,
+      "4",
+      "109017",
+      100277,
+      "Bồ Công Anh, trong sự kiện [Kỳ Nghỉ Đặc Biệt], đổi Thẻ “Alendi”",
+      [
+        12846
+      ],
+      [],
+      0
+    ],
+    "23": [
+      "Số Yên Hà",
+      220101,
+      2201,
+      0,
+      "4",
+      "109016",
+      100275,
+      "Bồ Công Anh, trong sự kiện [Kỳ Nghỉ Đặc Biệt], đổi Thẻ “Hoằng Lịch”",
+      [
+        12846
+      ],
+      [],
+      0
+    ],
+    "24": [
+      "Phù Sinh Lạc",
+      220101,
+      2201,
+      0,
+      "4",
+      "109018",
+      100279,
+      "Bồ Công Anh, trong sự kiện [Kỳ Nghỉ Đặc Biệt], đổi Thẻ “Tề Mặc”",
+      [
+        12846
+      ],
+      [],
+      0
+    ],
+    "25": [
+      "Điểm thể lực sự kiện",
+      220101,
+      2201,
+      0,
+      "4",
+      "100248",
+      100247,
+      "Điểm thể lực sự kiện",
+      [
+        12846
+      ],
+      [],
+      0
+    ],
+    "26": [
+      "Sức ảnh hưởng",
+      0,
+      0,
+      0,
+      "4",
+      "110018",
+      110018,
+      "Hệ thống dã ngoại, dùng để tăng EXP của Rương Cung Vận",
+      [
+        14300
+      ],
+      [],
+      0
+    ],
+    "27": [
+      "Bảng Số Tình Yêu",
+      260103,
+      2601,
+      0,
+      "4",
+      "111026",
+      110026,
+      "Mau đón nhận tình yêu thuộc về bạn! Trong sự kiện [Ngày Cưới Mơ Mộng], đổi bộ “giới hạn” xinh đẹp.",
+      [
+        12898,
+        10501,
+        11924
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      0
+    ],
+    "28": [
+      "Thiên Vũ Phiến",
+      280101,
+      2801,
+      0,
+      "4",
+      "111018",
+      110020,
+      "Tây Vực có một cách nói, người có được thần vật sẽ thấy kỳ tích… Trong sự kiện [Tây Di Lạc], đổi đạo cụ hiếm",
+      [
+        12851
+      ],
+      [],
+      0
+    ],
+    "29": [
+      "Lời Hứa Vĩnh Hằng",
+      280201,
+      2802,
+      0,
+      "4",
+      "111030",
+      110030,
+      "Tây Vực có một cách nói, người có được thần vật sẽ thấy kỳ tích… Trong sự kiện [Khoảnh Khắc Rung Động], đổi đạo cụ hiếm",
+      [
+        12862
+      ],
+      [],
+      0
+    ],
+    "30": [
+      "Bóng Thơm Bảy Màu",
+      320101,
+      3201,
+      0,
+      "4",
+      "111025",
+      110025,
+      "Trái bóng rực rỡ, có mùi thơm, dùng để đổi thưởng quý hiếm.",
+      [
+        12856
+      ],
+      [],
+      0
+    ],
+    "31": [
+      "Quà Lưu Niệm",
+      350101,
+      3501,
+      0,
+      "4",
+      "111020",
+      110022,
+      "Quà lưu niệm suối nóng, kỹ thuật thêu và chuỗi ngọc đều rất quý hiếm.",
+      [
+        12858
+      ],
+      [],
+      0
+    ],
+    "32": [
+      "Quà Cục Cưng",
+      0,
+      0,
+      0,
+      "4",
+      "111021",
+      110023,
+      "Gói động lòng do Cục Cưng tặng, trong đó chứa đựng tấm lòng mà Cục Cưng dành cho bạn.",
+      [
+        17200
+      ],
+      [],
+      0
+    ],
+    "33": [
+      "Tín Vật Giáng Đào",
+      390101,
+      3901,
+      0,
+      "4",
+      "111027",
+      110027,
+      "Gặp gỡ là duyên, là tín vật thể hiện tâm ý của Hoa Thần, mong có thể nhận lấy. [Chỉ hiệu quả Vòng SK này]",
+      [
+        12865
+      ],
+      [],
+      0
+    ],
+    "34": [
+      "Năng Lượng Giáng Đào",
+      390101,
+      3901,
+      0,
+      "4",
+      "111028",
+      110028,
+      "Tuy chỉ chứa một ít sức mạnh của Hoa Thần, nhưng cũng là một vật trân quý [Chỉ hiệu quả Vòng SK này]",
+      [
+        12865
+      ],
+      [],
+      0
+    ],
+    "35": [
+      "Cỏ May Mắn",
+      400101,
+      4001,
+      0,
+      "4",
+      "111029",
+      110029,
+      "Cỏ May Mắn ở Thiên Cung Dao Trì, ngụ ý hạnh phúc, mang đến may mắn cho người sở hữu. [Chỉ hiệu quả Vòng SK này]",
+      [
+        12864
+      ],
+      [],
+      0
+    ],
+    "36": [
+      "Điểm Yêu Thích",
+      410101,
+      4101,
+      0,
+      "4",
+      "111028",
+      110028,
+      "Điểm yêu thích với A Lý Cổn [Chỉ có tác dụng ở SK lần này]",
+      [],
+      [],
+      0
+    ],
+    "37": [
+      "EXP nghiên cứu",
+      0,
+      4201,
+      0,
+      "4",
+      "111036",
+      110036,
+      "EXP nghiên cứu, dùng tăng cấp Sở Nghiên Cứu. [SK biến mất sẽ kết thúc]",
+      [
+        12867
+      ],
+      [],
+      0
+    ],
+    "38": [
+      "Ngọc Ấn Chương",
+      0,
+      4201,
+      0,
+      "4",
+      "111035",
+      110035,
+      "Con dấu chế tác từ ngọc thượng phẩm, tượng trưng cho thân phận cao quý. [SK biến mất sẽ kết thúc]",
+      [
+        12867
+      ],
+      [],
+      0
+    ],
+    "39": [
+      "Mính Hương Bối",
+      260104,
+      2601,
+      0,
+      "4",
+      "111031",
+      110031,
+      "Hâm trà ủ rượu, đợi chờ cố nhân. Dùng đổi bộ trong SK [Tuyết Nhạc Cẩm Niên]. [Chỉ hiệu lực SK vòng này]",
+      [
+        12898,
+        10501,
+        11924,
+        11101
+      ],
+      [],
+      0
+    ],
+    "40": [
+      "Kim Linh",
+      260105,
+      2601,
+      0,
+      "4",
+      "111032",
+      110032,
+      "Thượng cổ Thần Tước, truyền thế linh vũ, có thể trong SK [Lưu Kim Tước Linh Hiện Thế], đổi bộ giới hạn tuyệt đẹp! [Chỉ hiệu lực SK vòng này]",
+      [
+        12898,
+        10501,
+        11924
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      0
+    ],
+    "41": [
+      "Tước Linh Thạch",
+      430101,
+      4301,
+      0,
+      "4",
+      "111033",
+      110033,
+      "Thí luyện Kim Tước, Linh Thạch hiện thế! Đây là Linh Thạch có sau khi thí luyện, dùng đổi thẻ bài hạn định và khung Avatar. [Chỉ hiệu quả Vòng SK này]",
+      [
+        12898,
+        10501,
+        11924
+      ],
+      [
+        1,
+        0,
+        0
+      ],
+      0
+    ],
+    "42": [
+      "Tiên Hồ Ngọc Bài",
+      450101,
+      4501,
+      0,
+      "4",
+      "111039",
+      110039,
+      "Ngọc cổ điêu khắc hồ ly, tín vật hồ ly dùng để phân biệt thân phận. [Hiệu lực trong SK vòng này]",
+      [
+        12871
+      ],
+      [],
+      0
+    ],
+    "43": [
+      "Lần Chúc Phúc",
+      440101,
+      4401,
+      0,
+      "4",
+      "110040",
+      110040,
+      "Dùng trong SK Chúc Phúc Tiên Hồ, nhận thưởng ngẫu nhiên, Chúc Phúc toàn server sẽ tăng điểm tương ứng. Mỗi lần tốn 1 lần Chúc Phúc, Chúc Phúc toàn server tăng 1 điểm. [Hiệu lực trong SK vòng này]",
+      [
+        12870,
+        12882
+      ],
+      [],
+      0
+    ],
+    "44": [
+      "Vé Thưởng Hội Chùa",
+      480101,
+      4801,
+      0,
+      "4",
+      "111045",
+      110045,
+      "Vé Thưởng Hội Chùa, nhận trong SK, dùng để đổi nhiều thưởng.",
+      [
+        12875,
+        12877,
+        12853,
+        12873,
+        10501
+      ],
+      [],
+      0
+    ],
+    "45": [
+      "Thiên Đoàn Minh Bài",
+      490101,
+      4901,
+      0,
+      "4",
+      "111041",
+      110041,
+      "Tín vật Thiên Đoàn Đỉnh Cao. Dùng để đổi Thiên Phú Tùy Tùng và Quà Bồi Dưỡng. [Hiệu lực trong SK vòng này]",
+      [
+        12824,
+        12877
+      ],
+      [],
+      0
+    ],
+    "46": [
+      "Vinh Dự",
+      480101,
+      4801,
+      0,
+      "4",
+      "111044",
+      110044,
+      "Vinh Dự",
+      [
+        12824,
+        12875,
+        12877,
+        12853,
+        12873,
+        10501
+      ],
+      [],
+      0
+    ],
+    "47": [
+      "Pháo Hoa",
+      320102,
+      3201,
+      0,
+      "4",
+      "111043",
+      110043,
+      "Cùng ngắm pháo hoa, khoảnh khắc tỏa sáng. [Hiệu lực trong SK vòng này]",
+      [
+        12877
+      ],
+      [],
+      0
+    ],
+    "48": [
+      "Đá Bốn Mùa",
+      280301,
+      2803,
+      0,
+      "4",
+      "111042",
+      110042,
+      "Rực rỡ bốn mùa, đồng hành cùng bạn. [Hiệu lực trong SK vòng này]",
+      [
+        12853
+      ],
+      [],
+      0
+    ],
+    "49": [
+      "Quyển Tàng Điển",
+      0,
+      0,
+      0,
+      "4",
+      "111050",
+      110050,
+      "Học thuật phải kiêm nhu, tâm ẩn trong điển tịch. Điển tịch quý hiếm, là thứ mà nhiều học giả mong cầu.",
+      [
+        17100
+      ],
+      [],
+      0
+    ],
+    "50": [
+      "Đồng",
+      0,
+      0,
+      0,
+      "4",
+      "111048",
+      110048,
+      "Hình dáng như đồng tiền và có lỗ vuông, nhận được từ trò chơi chợ phiên, có thể đổi vật hiếm ở Khu Trân Phẩm.",
+      [
+        17300
+      ],
+      [],
+      0
+    ],
+    "51": [
+      "Tín Vật Hương Nhài",
+      390201,
+      3902,
+      0,
+      "4",
+      "111046",
+      110046,
+      "Gặp gỡ là duyên, là tín vật thể hiện tâm ý của Hoa Thần, mong có thể nhận lấy. [Chỉ hiệu quả Vòng SK này]",
+      [
+        12878
+      ],
+      [],
+      0
+    ],
+    "52": [
+      "Sức Mạnh Hương Nhài",
+      390201,
+      3902,
+      0,
+      "4",
+      "111047",
+      110047,
+      "Tuy chỉ chứa một ít sức mạnh của Hoa Thần, nhưng cũng là một vật trân quý [Chỉ hiệu quả Vòng SK này]",
+      [
+        12878
+      ],
+      [],
+      0
+    ],
+    "53": [
+      "Tinh Lực",
+      0,
+      0,
+      0,
+      "4",
+      "111049",
+      110049,
+      "Ở cảnh chợ phiên, mỗi lần chơi trò bất kỳ sẽ tốn 1 điểm Tinh Lực.",
+      [
+        17300
+      ],
+      [],
+      0
+    ],
+    "54": [
+      "Điểm Yêu Thích",
+      410102,
+      4101,
+      0,
+      "4",
+      "111028",
+      110028,
+      "Điểm yêu thích với Hoằng Lịch [Chỉ có tác dụng ở SK lần này]",
+      [],
+      [],
+      0
+    ],
+    "56": [
+      "Đá Tam Sinh",
+      260106,
+      2601,
+      0,
+      "3",
+      "111051",
+      110051,
+      "Đá Tam Sinh ánh sáng huyền diệu, bảo vật bất phàm.",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "58": [
+      "Hoa Dung Thiếp",
+      0,
+      0,
+      0,
+      "6",
+      "111054",
+      110054,
+      "Trong thi đấu Nữ Hoàng Hóa Trang, dùng đổi thời trang và đạo cụ tài nguyên",
+      [
+        10900,
+        17900
+      ],
+      [
+        1,
+        0
+      ],
+      0
+    ],
+    "59": [
+      "Điểm sự kiện Liên Kết 2 Màu",
+      0,
+      5501,
+      0,
+      "4",
+      "av_c16",
+      100236,
+      "Điểm sự kiện Liên Kết 2 Màu",
+      [],
+      [],
+      0
+    ],
+    "60": [
+      "Kỷ Niệm Chương",
+      560101,
+      5601,
+      0,
+      "4",
+      "111057",
+      110057,
+      "Hành trình du hành, kỷ niệm thế giới. Trong sự kiện [Vòng Quanh Thế Giới], đổi các phục sức tuyệt đẹp của các quốc gia! [Hiệu lực trong sự kiện vòng này]",
+      [
+        18101
+      ],
+      [],
+      0
+    ],
+    "61": [
+      "Điểm Tuệ Nhãn",
+      570101,
+      5701,
+      0,
+      "4",
+      "111060",
+      110060,
+      "Trân bảo nhận khi mở bảo hạp, càng quý hiếm điểm Tuệ Nhãn càng cao. [Hiệu lực trong sự kiện vòng này]",
+      [
+        18102
+      ],
+      [],
+      0
+    ],
+    "62": [
+      "Búa Vàng",
+      570101,
+      5701,
+      0,
+      "4",
+      "111059",
+      110059,
+      "Giải quyết dứt khoát, dùng Búa Vàng có thể mở bảo hạp. [Hiệu lực trong vòng sự kiện lần này]",
+      [
+        18102
+      ],
+      [],
+      0
+    ],
+    "63": [
+      "Tín Vật Tường Vi",
+      390301,
+      3903,
+      0,
+      "4",
+      "111055",
+      110055,
+      "Gặp gỡ là duyên, là tín vật thể hiện tâm ý của Hoa Thần, mong có thể nhận lấy. [Chỉ hiệu quả Vòng SK này]",
+      [
+        12910
+      ],
+      [],
+      0
+    ],
+    "64": [
+      "Năng Lượng Tường Vi",
+      390301,
+      3903,
+      0,
+      "4",
+      "111056",
+      110056,
+      "Tuy chỉ chứa một ít sức mạnh của Hoa Thần, nhưng cũng là một vật trân quý [Chỉ hiệu quả Vòng SK này]",
+      [
+        12910
+      ],
+      [],
+      0
+    ],
+    "65": [
+      "Điểm Yêu Thích",
+      410103,
+      4101,
+      0,
+      "4",
+      "111028",
+      110028,
+      "Điểm ngọt ngào với Tề Mặc [Chỉ hiệu lực trong vòng sự kiện này]",
+      [],
+      [],
+      0
+    ],
+    "66": [
+      "Tuyết Tinh",
+      260107,
+      2601,
+      0,
+      "4",
+      "111065",
+      110065,
+      "Chuông đêm vang trong đêm, tuyết trắng thuần khiết hoàn mỹ dành cho bạn. [Chỉ hiệu lực trong SK vòng này]",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "67": [
+      "Tiên Khí",
+      590101,
+      5901,
+      0,
+      "4",
+      "111066",
+      110066,
+      "Thoát khỏi trần tục, Tiên Khí lan tỏa. Khi tiêu hao Tiên khí, có thể mở hộp trân phẩm. [Chỉ hiệu lực trong SK vòng này]",
+      [
+        18104
+      ],
+      [],
+      0
+    ],
+    "68": [
+      "Đèn Ngôi Sao",
+      600101,
+      6001,
+      0,
+      "4",
+      "111070",
+      110070,
+      "Mang chút ánh sao trên bầu trời đêm rộng lớn, mong có thể hoàn thành ước nguyện của bạn. [Chỉ hiệu lực trong SK vòng này]",
+      [
+        18105
+      ],
+      [],
+      0
+    ],
+    "69": [
+      "Điểm Yêu Thích",
+      410104,
+      4101,
+      0,
+      "4",
+      "111028",
+      110028,
+      "Điểm yêu thích với Alendi [Chỉ hiệu lực SK vòng này]",
+      [],
+      [],
+      0
+    ],
+    "70": [
+      "Tín Vật U Lan",
+      390401,
+      3904,
+      0,
+      "4",
+      "111072",
+      110072,
+      "Gặp gỡ là duyên, là tín vật thể hiện tâm ý của Hoa Thần, mong có thể nhận lấy. [Chỉ hiệu quả Vòng SK này]",
+      [
+        12911
+      ],
+      [],
+      0
+    ],
+    "71": [
+      "Năng Lượng U Lan",
+      390401,
+      3904,
+      0,
+      "4",
+      "111073",
+      110073,
+      "Tuy chỉ chứa một ít sức mạnh của Hoa Thần, nhưng cũng là một vật trân quý [Chỉ hiệu quả Vòng SK này]",
+      [
+        12911
+      ],
+      [],
+      0
+    ],
+    "72": [
+      "Huy Nguyệt",
+      0,
+      0,
+      0,
+      "4",
+      "111075",
+      110075,
+      "Ánh sáng tỏa khắp, minh nguyệt sáng soi. Dùng để đổi Hoa Phục mùa này.",
+      [
+        18200
+      ],
+      [],
+      0
+    ],
+    "73": [
+      "Ngôi Sao",
+      0,
+      0,
+      0,
+      "4",
+      "111076",
+      110076,
+      "Trăng sao lấp lánh. Dùng để đổi Hoa Phục mùa trước.",
+      [
+        18200
+      ],
+      [],
+      0
+    ],
+    "74": [
+      "Mỹ Nhân Kính",
+      560101,
+      5601,
+      0,
+      "4",
+      "111078",
+      110078,
+      "Bóng hình cẩm tú vẫn còn trong gương. Dùng đổi phục sức giới hạn tuyệt đẹp trong SK [Giang Sơn Mỹ Nhân]! [Chỉ hiệu lực SK vòng này]",
+      [
+        18106
+      ],
+      [],
+      0
+    ],
+    "75": [
+      "Bánh Tổ",
+      260108,
+      2601,
+      0,
+      "4",
+      "111077",
+      110077,
+      "Trắng như bạc, óng như vàng, dùng trong năm mới với hy vọng giàu có cao sang. [Chỉ có hiệu quả trong sự kiện đợt này]",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "76": [
+      "Xăm Phúc",
+      490102,
+      4901,
+      0,
+      "4",
+      "111074",
+      110074,
+      "Xăm Phúc mang lại cát tường. Dùng để đổi Tùy Tùng Thiên Phú và Quà Bồi Dưỡng trong SK Thiên Đoàn. [Chỉ hiệu lực SK vòng này]",
+      [
+        12824
+      ],
+      [],
+      0
+    ],
+    "77": [
+      "Bạch Cáo Thạch",
+      630101,
+      6301,
+      0,
+      "4",
+      "111080",
+      110080,
+      "Quà tặng của Nữ Thần Ban Mai, chứa sức mạnh thần bí. Dùng đổi bộ Nữ Thần Ban Mai và đơn phẩm chủ đề! [Chỉ hiệu lực SK vòng này]",
+      [
+        18500
+      ],
+      [],
+      0
+    ],
+    "78": [
+      "Hắc Diệu Thạch",
+      630101,
+      6301,
+      0,
+      "4",
+      "111079",
+      110079,
+      "Quà tặng của Nữ Thần Bóng Đêm, chứa sức mạnh thần bí. Dùng đổi bộ Nữ Thần Bóng Đêm và đơn phẩm chủ đề! [Chỉ hiệu lực SK vòng này]",
+      [
+        18500
+      ],
+      [],
+      0
+    ],
+    "79": [
+      "Hào Quang Nữ Thần",
+      630101,
+      6301,
+      0,
+      "4",
+      "111081",
+      110081,
+      "Hào quang của Nữ Thần Nhật Nguyệt, tượng trưng cho vinh diệu tối cao. Dùng cho XH tích điểm. [Chỉ hiệu lực SK vòng này]",
+      [
+        18500
+      ],
+      [],
+      0
+    ],
+    "80": [
+      "Tơ Liễu",
+      640101,
+      6401,
+      0,
+      "4",
+      "111082",
+      110082,
+      "Tơ liễu phất phơ, gió xuân vui đùa. Đổi thưởng giới hạn trong SK [Giang Sơn Như Họa-Giang Nam Phú]! [Chỉ hiệu lực SK vòng này]",
+      [
+        18300
+      ],
+      [],
+      0
+    ],
+    "81": [
+      "Vũ Lộ",
+      640102,
+      6401,
+      0,
+      "4",
+      "111083",
+      110083,
+      "Trời ban mưa xuống, tưới khắp nhân gian. Dùng đổi thưởng giới hạn trong SK [Giang Sơn Như Họa-Lạc Thần Phú].",
+      [
+        18300
+      ],
+      [],
+      0
+    ],
+    "82": [
+      "Điểm K.Năng",
+      0,
+      0,
+      0,
+      "4",
+      "111086",
+      110086,
+      "Pha lê trong suốt, ẩn chứa sức mạnh thần bí. Dùng để tăng cấp kỹ năng [Đấu Tài Nghệ]. Nếu không đủ điểm kỹ năng sẽ tốn Vàng để tăng cấp.",
+      [
+        18700
+      ],
+      [],
+      0
+    ],
+    "83": [
+      "Nữ Nhi Bí Quyển",
+      390501,
+      3905,
+      0,
+      "4",
+      "111084",
+      110084,
+      "Bí quyển rượu tiên tặng cho người hữu duyên, rất quý. [Chỉ hiệu lực SK vòng này]",
+      [
+        12912
+      ],
+      [],
+      0
+    ],
+    "84": [
+      "Nữ Nhi Thuần Hương",
+      390501,
+      3905,
+      0,
+      "4",
+      "111085",
+      110085,
+      "Hương rượu thơm nồng, ẩn chứa linh lực. [Chỉ hiệu lực SK vòng này]",
+      [
+        12912
+      ],
+      [],
+      0
+    ],
+    "85": [
+      "Điểm Yêu Thích",
+      410105,
+      4101,
+      0,
+      "4",
+      "111028",
+      110028,
+      "Điểm yêu thích với A Lý Cổn [Chỉ có tác dụng ở SK lần này]",
+      [],
+      [],
+      0
+    ],
+    "86": [
+      "Vỏ Sò",
+      0,
+      0,
+      0,
+      "4",
+      "111087",
+      110087,
+      "Chiếu lấp lánh, vô cùng quý giá, dùng trong Biệt Viện.",
+      [
+        18721,
+        18722,
+        18726,
+        13100
+      ],
+      [],
+      0
+    ],
+    "87": [
+      "Tư liệu nghiên cứu",
+      0,
+      0,
+      0,
+      "6",
+      "109031",
+      100409,
+      "Tư liệu quý, dùng để tăng cấp Kỳ Tích cho gia cụ trong [Viện Nghiên Cứu Biệt Viện].",
+      [
+        18726,
+        18721
+      ],
+      [],
+      0
+    ],
+    "88": [
+      "Độ Hoa Lệ",
+      0,
+      0,
+      0,
+      "4",
+      "111088",
+      110088,
+      "EXP tăng cấp Biệt Viện",
+      [
+        18723,
+        18725
+      ],
+      [],
+      0
+    ],
+    "89": [
+      "Gấu Tìm Mộng",
+      260109,
+      2601,
+      0,
+      "4",
+      "111089",
+      110089,
+      "Gấu nhỏ dẫn vào ảo mộng, dùng trong SK [Chuyện Kể Giấc Mơ], đổi trang phục hạn giờ tuyệt đẹp! [Hiệu lực trong sự kiện vòng này]",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "90": [
+      "Linh Đằng",
+      720101,
+      7201,
+      0,
+      "4",
+      "111094",
+      110094,
+      "Linh Đăng nghìn sợi tơ vương. Có thể đổi 2 bộ Ưu Nhã Tư Đằng! [Hiệu lực trong sự kiện vòng này]",
+      [
+        18550
+      ],
+      [],
+      0
+    ],
+    "91": [
+      "Yêu Đằng",
+      720101,
+      7201,
+      0,
+      "4",
+      "111095",
+      110095,
+      "Yêu Đằng nghìn sợi tơ vương. Có thể đổi 2 bộ Yêu Mi Tư Đằng! [Hiệu lực trong sự kiện vòng này]",
+      [
+        18550
+      ],
+      [],
+      0
+    ],
+    "92": [
+      "Sức Mạnh Tư Đằng",
+      720101,
+      7201,
+      0,
+      "4",
+      "111096",
+      110096,
+      "Sức mạnh khống chế nghìn cây khô héo hay tươi tốt. Dùng cho XH tích điểm. [Hiệu lực trong sự kiện vòng này]",
+      [
+        18550
+      ],
+      [],
+      0
+    ],
+    "93": [
+      "Vé Thưởng Hội Chùa 2021",
+      480201,
+      4802,
+      0,
+      "4",
+      "111093",
+      110093,
+      "Vé thưởng Lễ Hội Chùa 2021, dùng đổi thưởng chỉ định trong SK [Thương Khung Thịnh Thế] [Hiệu lực trong sự kiện vòng này]",
+      [
+        18790,
+        18760
+      ],
+      [],
+      0
+    ],
+    "94": [
+      "Thư Bốn Mùa",
+      680101,
+      6801,
+      0,
+      "4",
+      "111092",
+      110092,
+      "Bốn mùa nắng gió và hoa. Dùng Thư Bốn Mùa trong SK [Bốn Mùa Phồn Thịnh] đổi bộ chỉ định![Hiệu lực trong sự kiện vòng này]",
+      [
+        18770
+      ],
+      [],
+      0
+    ],
+    "95": [
+      "Thư Phồn Hoa",
+      680101,
+      6801,
+      0,
+      "4",
+      "111091",
+      110091,
+      "Thần tiên dạo bước phồn hoa, Dùng Thư Phồn Hoa trong SK [Bốn Mùa Phồn Thịnh] đổi bộ chỉ định! [Hiệu lực trong sự kiện vòng này]",
+      [
+        18770
+      ],
+      [],
+      0
+    ],
+    "96": [
+      "Điểm Pháo Hoa",
+      690101,
+      6901,
+      0,
+      "4",
+      "111097",
+      110097,
+      "Ánh sáng rực rỡ màn đêm, dùng cho XH tích điểm. [Hiệu lực trong sự kiện vòng này]",
+      [
+        18810
+      ],
+      [],
+      0
+    ],
+    "97": [
+      "Hương Mộng Ảo",
+      280202,
+      2802,
+      0,
+      "4",
+      "111090",
+      110090,
+      "Hương thơm này có thể đưa người ta vào mộng đẹp. Dùng đổi thưởng quý trong SK [Mộng Ảo Chung Đôi]. [Hiệu lực trong sự kiện vòng này]",
+      [
+        18820
+      ],
+      [],
+      0
+    ],
+    "98": [
+      "Điểm May Mắn",
+      670101,
+      6701,
+      0,
+      "4",
+      "0",
+      0,
+      "Điểm May Mắn",
+      [],
+      [],
+      0
+    ],
+    "99": [
+      "Thiên Đoàn Minh Bài",
+      490103,
+      4901,
+      0,
+      "4",
+      "111041",
+      110041,
+      "Tín vật Thiên Đoàn Đỉnh Cao. Dùng để đổi Thiên Phú Tùy Tùng và Quà Bồi Dưỡng. [Hiệu lực trong SK vòng này]",
+      [
+        12824,
+        18820
+      ],
+      [],
+      0
+    ],
+    "100": [
+      "Thuấn Anh Phiến",
+      260110,
+      2601,
+      0,
+      "4",
+      "111053",
+      110053,
+      "Dùng để đổi thời trang trong hoạt động",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "201": [
+      "Hổ Phách Bí Quyển",
+      390502,
+      3906,
+      0,
+      "4",
+      "111098",
+      110098,
+      "Bí quyển rượu tiên tặng cho người hữu duyên, rất quý. [Chỉ hiệu lực SK vòng này]",
+      [
+        12913
+      ],
+      [],
+      0
+    ],
+    "202": [
+      "Hổ Phách Thuần Hương",
+      390502,
+      3906,
+      0,
+      "4",
+      "111099",
+      110099,
+      "Hương rượu thơm nồng, ẩn chứa linh lực. [Chỉ hiệu lực SK vòng này]",
+      [
+        12913
+      ],
+      [],
+      0
+    ],
+    "203": [
+      "Cành Thông",
+      640103,
+      6401,
+      0,
+      "4",
+      "111100",
+      110100,
+      "Cành thông treo mây, ngọn rừng thưa gió. Có thể đổi thưởng giới hạn trong SK [Giang Sơn Như Họa-Thanh Đại Hành]!",
+      [
+        18300
+      ],
+      [],
+      0
+    ],
+    "204": [
+      "Điểm Yêu Thích",
+      0,
+      4101,
+      0,
+      "4",
+      "111028",
+      110028,
+      "Điểm yêu thích với Hoằng Lịch [Chỉ có tác dụng ở SK lần này]",
+      [],
+      [],
+      0
+    ],
+    "205": [
+      "Thẻ Nhân Duyên",
+      630102,
+      6301,
+      0,
+      "4",
+      "111101",
+      110101,
+      "Tặng quà cho Thần Nhân Duyên sẽ nhận được, dùng đổi Bộ chỉ định và đơn phẩm chủ đề trong SK [Kết Duyên Tình Yêu]! [Chỉ hiệu lực ở vòng SK này]",
+      [
+        18501
+      ],
+      [],
+      0
+    ],
+    "206": [
+      "Thẻ Tình Yêu",
+      630102,
+      6301,
+      0,
+      "4",
+      "111102",
+      110102,
+      "Tặng quà cho Thần Tình Yêu sẽ nhận được, dùng đổi Bộ chỉ định và đơn phẩm chủ đề trong SK [Kết Duyên Tình Yêu]! [Chỉ hiệu lực ở vòng SK này]",
+      [
+        18501
+      ],
+      [],
+      0
+    ],
+    "207": [
+      "Trái Tim Yêu Mến",
+      630102,
+      6301,
+      0,
+      "4",
+      "111103",
+      110103,
+      "Điểm sự kiện nhận khi tặng quà, có thể tham gia xếp hạng trong SK [Kết Duyên Tình Yêu]. [Chỉ hiệu lực ở vòng SK này]",
+      [
+        18501
+      ],
+      [],
+      0
+    ],
+    "208": [
+      "Phiếu Thiện Ảnh",
+      0,
+      0,
+      0,
+      "5",
+      "111104",
+      110104,
+      "Hiểu nhau trở thành bạn thân, nhờ nó để ghi lại những tháng năm tươi đẹp. Tiêu hao trong Thiến Ảnh Lâu-Chụp 2 Người.",
+      [
+        18860
+      ],
+      [],
+      0
+    ],
+    "209": [
+      "Đèn Lồng Thỏ Con",
+      760101,
+      7601,
+      0,
+      "4",
+      "111109",
+      110109,
+      "Đèn sáng tựa ánh trăng, thỏ đưa tiên duyên đến. Có thể dùng để đổi bộ hạn định trong hoạt động [Nguyệt Thố Phi Tiên]! [Có hiệu lực trong sự kiện lần này]",
+      [
+        18870
+      ],
+      [],
+      0
+    ],
+    "210": [
+      "Tùng Linh Dạ Bí Quyển ",
+      390503,
+      3907,
+      0,
+      "4",
+      "111107",
+      110107,
+      "Bí quyển rượu tiên tặng cho người hữu duyên, rất quý. [Chỉ hiệu lực SK vòng này]",
+      [
+        12914
+      ],
+      [],
+      0
+    ],
+    "211": [
+      "Tùng Linh Dạ Thuần Hương ",
+      390503,
+      3907,
+      0,
+      "4",
+      "111108",
+      110108,
+      "Hương rượu thơm nồng, ẩn chứa linh lực. [Chỉ hiệu lực SK vòng này]",
+      [
+        12914
+      ],
+      [],
+      0
+    ],
+    "212": [
+      "Phiếu Thiến Ảnh Bang",
+      0,
+      0,
+      1,
+      "5",
+      "111105",
+      110105,
+      "Quen biết trở thành anh em trong Bang, nhờ nó để ghi lại những tháng năm tươi đẹp. Tiêu hao trong Thiến Ảnh Lâu-Chụp Ảnh Bang",
+      [
+        18860
+      ],
+      [],
+      0
+    ],
+    "213": [
+      "Đằng Hoàng Ấn",
+      260111,
+      2601,
+      0,
+      "4",
+      "111106",
+      110106,
+      "Hoàng Ấn xuất hiện, hình thành bởi tao nhã của thế gian. Sử dụng Đằng Hoàng Ấn, có thể đổi trang phục giới hạn tuyệt đẹp trong HĐ [Hoàng Giả Phong Hoa]! [Chỉ có hiệu lực trong HĐ lần này]",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "214": [
+      "Tài Phú Bang",
+      0,
+      0,
+      1,
+      "4",
+      "0",
+      0,
+      "Tài Phú Bang",
+      [],
+      [],
+      0
+    ],
+    "215": [
+      "Đá Khởi Huyễn",
+      560101,
+      5601,
+      0,
+      "4",
+      "111111",
+      110111,
+      "Khởi dạ mộng đàm, ngưng thạch kết huyễn. Có thể đổi phục sức giới hạn tuyệt đẹp trong hoạt động [Khởi Dạ Đàm]! [Có hiệu quả trong hoạt động đợt này]",
+      [
+        18107
+      ],
+      [],
+      0
+    ],
+    "216": [
+      "Nguyên Bảo",
+      640104,
+      6401,
+      0,
+      "4",
+      "111110",
+      110110,
+      "Nguyên Bảo thông thương, khắp thành rộn rã. Có thể đổi phần thưởng giới hạn trong hoạt động [Giang Sơn Như Họa-Ngự Bảo Hành]!",
+      [
+        18300
+      ],
+      [],
+      0
+    ],
+    "217": [
+      "Điểm Yêu Thích",
+      0,
+      4101,
+      0,
+      "4",
+      "111028",
+      110028,
+      "Điểm ngọt ngào với Tề Mặc [Chỉ hiệu lực trong vòng sự kiện này]",
+      [],
+      [],
+      0
+    ],
+    "218": [
+      "Phi Vũ",
+      640105,
+      6401,
+      0,
+      "4",
+      "111114",
+      110114,
+      "Phi vũ lăng phong, sơn hải khả việt. Có thể đổi thưởng giới hạn trong  HĐ [Giang Nam Như Họa-Toàn Vũ Quyết]!",
+      [
+        18300
+      ],
+      [],
+      0
+    ],
+    "219": [
+      "Con Dấu Champagne",
+      630103,
+      6301,
+      0,
+      "4",
+      "111115",
+      110115,
+      "Xu nhận được khi hiến rượu ngon cho Nữ Vương Champagne, dùng Con Dấu Champagne, Có thể đổi set đồ chỉ định và món lẻ thuộc chủ đề trong HĐ [Party Ngà Say]! [Chỉ có hiệu lực trong HĐ lần này]",
+      [
+        18502
+      ],
+      [],
+      0
+    ],
+    "220": [
+      "Con Dấu Rượu Rum",
+      630103,
+      6301,
+      0,
+      "4",
+      "111116",
+      110116,
+      "Xu nhận được khi hiến rượu ngon cho Nữ Vương Rượu Rum, dùng Con Dấu Rượu Rum, Có thể đổi set đồ chỉ định và món lẻ thuộc chủ đề trong HĐ [Party Ngà Say]! [Chỉ có hiệu lực trong HĐ lần này]",
+      [
+        18502
+      ],
+      [],
+      0
+    ],
+    "221": [
+      "Tín Hiệu Xã Giao",
+      630103,
+      6301,
+      0,
+      "4",
+      "111117",
+      110117,
+      "Điểm HĐ nhận được sau khi chia sẻ rượu ngon, có thể tham gia xếp hạng trong BXH HĐ [Party Ngà Say].  [Chỉ có hiệu lực trong HĐ lần này]",
+      [
+        18502
+      ],
+      [],
+      0
+    ],
+    "222": [
+      "Bí Quyển Vân Thanh Lộ",
+      390504,
+      3908,
+      0,
+      "4",
+      "111112",
+      110112,
+      "Bí quyển rượu tiên tặng cho người hữu duyên, rất quý. [Chỉ hiệu lực SK vòng này]",
+      [
+        12915
+      ],
+      [],
+      0
+    ],
+    "223": [
+      "Thuần Hương Vân Thanh Lộ",
+      390504,
+      3908,
+      0,
+      "4",
+      "111113",
+      110113,
+      "Hương rượu thơm nồng, ẩn chứa linh lực. [Chỉ hiệu lực SK vòng này]",
+      [
+        12915
+      ],
+      [],
+      0
+    ],
+    "224": [
+      "Ngưng Sương Hoa",
+      790101,
+      7901,
+      0,
+      "4",
+      "111118",
+      110118,
+      "Phong lộ hàn tiêu, ngưng sương tụ lan. Dùng đổi thưởng giới hạn trong SK [Ngạo Sương Vĩnh Điện]! [Hiệu lực trong sự kiện vòng này]",
+      [
+        18920
+      ],
+      [],
+      0
+    ],
+    "225": [
+      "Ngọc Phúc Lộc",
+      560101,
+      5601,
+      0,
+      "4",
+      "111119",
+      110119,
+      "Phúc lộc tràn đầy, năm mới dư dả. Trong HĐ [Phúc Lộc Dồi Dào], có thể đổi phục sức tuyệt đẹp giới hạn! [Hiệu lực trong HĐ này]",
+      [
+        18108
+      ],
+      [],
+      0
+    ],
+    "226": [
+      "Điểm May Mắn",
+      0,
+      6702,
+      0,
+      "4",
+      "0",
+      0,
+      "Điểm May Mắn",
+      [],
+      [],
+      0
+    ],
+    "227": [
+      "Xăm Phúc",
+      0,
+      4901,
+      0,
+      "4",
+      "111074",
+      110074,
+      "Xăm Phúc mang lại cát tường. Dùng để đổi Tùy Tùng Thiên Phú và Quà Bồi Dưỡng trong SK Thiên Đoàn. [Chỉ hiệu lực SK vòng này]",
+      [
+        12824
+      ],
+      [],
+      0
+    ],
+    "228": [
+      "Thư Ước Nguyện",
+      0,
+      8001,
+      0,
+      "4",
+      "111120",
+      110120,
+      "Thành khẩn sẽ được Thư Ước Nguyện vạn sự như ý. Có thể nhận lượt cầu nguyện trong HĐ [Xăm Cầu Nguyện Như Ý]! [Hiệu quả trong HĐ vòng này]",
+      [
+        12000
+      ],
+      [],
+      0
+    ],
+    "229": [
+      "Nút Như Ý",
+      0,
+      8001,
+      0,
+      "4",
+      "111121",
+      110121,
+      "Thiện lương sẽ được Nút Thắt Như Ý thế sự viên mãn. Có thể đổi Tùy Tùng Thiên Phú và thưởng giới hạn trong HĐ [Xăm Cầu Nguyện Như Ý]! [Hiệu quả trong HĐ vòng này]",
+      [
+        18970
+      ],
+      [],
+      0
+    ],
+    "230": [
+      "Dũng Khí",
+      0,
+      8201,
+      0,
+      "4",
+      "111124",
+      110124,
+      "Điểm HĐ nhận được khi thuần phục Niên Thú, có thể tham gia xếp hạng trong BXH HĐ [Thuần Niên Thú] [Chỉ hiệu lực trong HĐ lần này]",
+      [
+        18940
+      ],
+      [],
+      0
+    ],
+    "231": [
+      "Tranh Tết",
+      0,
+      8201,
+      0,
+      "4",
+      "111125",
+      110125,
+      "Năm mới đến, dán Tranh Tết. Có thể đổi phần thưởng giới hạn trong HĐ [Thuần Niên Thú]! [Có hiệu lực trong HĐ lần này]",
+      [
+        18940
+      ],
+      [],
+      0
+    ],
+    "232": [
+      "Chữ Phúc",
+      830101,
+      8301,
+      0,
+      "4",
+      "111122",
+      110122,
+      "Phúc, mọi sự đều như ý. Có thể đổi nội thất giới hạn trong HĐ [Biệt Viện Phúc Đến]! [Có hiệu lực trong HĐ lần này]",
+      [
+        18940,
+        18930,
+        18950
+      ],
+      [],
+      0
+    ],
+    "233": [
+      "Điểm Yêu Thích",
+      0,
+      4101,
+      0,
+      "4",
+      "0",
+      110028,
+      "Điểm yêu thích với Alendi [Chỉ hiệu lực SK vòng này]",
+      [],
+      [],
+      0
+    ],
+    "234": [
+      "Sách Huyền Ảo",
+      260112,
+      2601,
+      0,
+      "4",
+      "111123",
+      110123,
+      "Cuốn Sách Huyền Ảo bị dây mây quấn quanh, xa xưa lại thần bí. Sử dụng Sách Huyền Ảo, tại HĐ [Ma Chú Tường Vi VS Pháp Điển Vinh Quang], dùng để đổi trang phục giới hạn tuyệt đẹp! [Chỉ có hiệu quả trong HĐ này]",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "235": [
+      "Lời Hứa Vĩnh Hằng",
+      0,
+      2802,
+      0,
+      "4",
+      "111030",
+      110030,
+      "Tây Vực có một cách nói, người có được thần vật sẽ thấy kỳ tích… Trong sự kiện [Khoảnh Khắc Rung Động], đổi đạo cụ hiếm",
+      [
+        12862
+      ],
+      [],
+      0
+    ],
+    "236": [
+      "Hôn Thư Giai Lão",
+      850101,
+      8501,
+      0,
+      "4",
+      "111127",
+      110127,
+      "Xu nhận được sau khi tặng quà cưới kiểu Trung, sử dụng Hôn Thư Giai Lão, Có thể đổi set đồ chỉ định và món lẻ thuộc chủ đề trong HĐ [Thế Ước Khuynh Luyến]! [Có hiệu lực trong HĐ lần này]",
+      [
+        18980
+      ],
+      [],
+      0
+    ],
+    "237": [
+      "Hứa Nguyện Vĩnh Kết",
+      850101,
+      8501,
+      0,
+      "4",
+      "111126",
+      110126,
+      "Xu nhận được sau khi tặng quà cưới kiểu Tây, sử dụng Hứa Nguyện Vĩnh Kết, Có thể đổi set đồ chỉ định và món lẻ thuộc chủ đề trong HĐ [Thế Ước Khuynh Luyến]! [Có hiệu lực trong HĐ lần này]",
+      [
+        18980
+      ],
+      [],
+      0
+    ],
+    "238": [
+      "Tiêu Phổ Cửu Cung",
+      630104,
+      6301,
+      0,
+      "4",
+      "111128",
+      110128,
+      "Nguyên liệu nhận được sau khi diễn tấu cho Tiên Tử, sử dụng Tiêu Phổ Cửu Cung, có thể tại HĐ [Tiên Âm Thiên Lại], đổi bộ và món lẻ chủ đề chỉ định! [Chỉ có hiệu quả trong HĐ này]",
+      [
+        18503
+      ],
+      [],
+      0
+    ],
+    "239": [
+      "Cầm Phổ Nhã Nhạc",
+      630104,
+      6301,
+      0,
+      "4",
+      "111129",
+      110129,
+      "Nguyên liệu nhận được sau khi diễn tấu cho Tiên Tử, sử dụng Cầm Phổ Nhã Nhạc, có thể tại HĐ [Tiên Âm Thiên Lại], đổi bộ và món lẻ chủ đề chỉ định! [Chỉ có hiệu quả trong HĐ này]",
+      [
+        18503
+      ],
+      [],
+      0
+    ],
+    "240": [
+      "Văn Tư Tiên Nhạc",
+      630104,
+      6301,
+      0,
+      "4",
+      "111130",
+      110130,
+      "Điểm HĐ nhận được sau khi diễn tấu, có thể tham gia BXH của HĐ [Tiên Âm Thiên Lại]. [Chỉ có hiệu quả trong HĐ này]",
+      [
+        18503
+      ],
+      [],
+      0
+    ],
+    "241": [
+      "Bài Ma Thuật",
+      640106,
+      6401,
+      0,
+      "4",
+      "111133",
+      110133,
+      "Cánh chim và trời sao, bí ẩn của ma thuật. Sử dụng Bài Ma Thuật, tại HĐ [Tarot Kỳ Ảo], dùng để đổi trang phục giới hạn tuyệt đẹp! [Chỉ có hiệu quả trong HĐ này]",
+      [
+        18610
+      ],
+      [],
+      0
+    ],
+    "242": [
+      "Điểm Yêu Thích",
+      0,
+      4101,
+      0,
+      "4",
+      "111028",
+      110028,
+      "Điểm yêu thích với A Lý Cổn [Chỉ có tác dụng ở SK lần này]",
+      [],
+      [],
+      0
+    ],
+    "243": [
+      "Vân Y Kính",
+      260113,
+      2601,
+      0,
+      "4",
+      "111131",
+      110131,
+      "Kính hoa tắm ánh trăng, nơi nào chiếu bóng điệp. Sử dụng Vân Y Kính, tại HĐ [Kính Hoa Điệp Ảnh], dùng để đổi trang phục giới hạn tuyệt đẹp! [Chỉ có hiệu quả trong HĐ này]",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "244": [
+      "Ấm Trà Ngọc",
+      260114,
+      2601,
+      0,
+      "4",
+      "111132",
+      110132,
+      "Xoay ấm ngọc, trà tỏa hương. Dùng Ấm Trà Ngọc đổi trang phục tuyệt đẹp trong [Tiệc Trà Vườn Xuân] [Có tác dụng trong HĐ lần này].",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "245": [
+      "Tư Đằng Chúc Phúc",
+      890101,
+      8901,
+      0,
+      "4",
+      "111141",
+      110141,
+      "Chúc phúc do Tư Đằng mang đến, có thể đổi bộ và món lẻ của Dâng Linh Khí! [Có hiệu lực trong hoạt động này]",
+      [
+        19020
+      ],
+      [],
+      0
+    ],
+    "246": [
+      "Suối Nguồn Tư Đằng",
+      890101,
+      8901,
+      0,
+      "4",
+      "111140",
+      110140,
+      "Suối nguồn do Tư Đằng mang đến, có thể đổi bộ của Dâng Kinh Điển! [Có hiệu lực trong hoạt động này]",
+      [
+        19020
+      ],
+      [],
+      0
+    ],
+    "247": [
+      "Kỳ Thuật Phong Vũ",
+      390601,
+      3909,
+      0,
+      "4",
+      "111134",
+      110134,
+      "Phép thuật mà tự nhiên ban tặng. Đổi bộ và đan phẩm chủ đề giới hạn trong [Tứ Tượng Xoay Vòng-Vũ Điệu Gió] [Có tác dụng trong HĐ lần này].",
+      [
+        12916
+      ],
+      [],
+      0
+    ],
+    "248": [
+      "Hơi Thở Phong Vũ",
+      390601,
+      3909,
+      0,
+      "4",
+      "111135",
+      110135,
+      "Lời chúc phúc của tự nhiên. Tham gia tranh hạng trong bảng xếp hạng [Tứ Tượng Xoay Vòng-Vũ Điệu Gió] [Có tác dụng trong HĐ lần này].",
+      [
+        12916
+      ],
+      [],
+      0
+    ],
+    "249": [
+      "Đèn Loan Vũ",
+      790102,
+      7901,
+      0,
+      "4",
+      "111142",
+      110142,
+      "Loan mang sương đến, Vũ dệt ánh sáng.  Đổi bộ và đan phẩm chủ đề giới hạn trong [Thương Loan Tái Sinh] [Có tác dụng trong HĐ lần này].",
+      [
+        19040
+      ],
+      [],
+      0
+    ],
+    "250": [
+      "Bài Tế Tư",
+      640107,
+      6401,
+      0,
+      "4",
+      "111144",
+      110144,
+      "Trí tuệ của Tế Tư còn sáng hơn bảo thạch.  Dùng Bài Tế Tư đổi trang phục tuyệt đẹp trong [Tarot Kỳ Ảo] [Có tác dụng trong HĐ lần này].",
+      [
+        18610
+      ],
+      [],
+      0
+    ],
+    "252": [
+      "Thiên Đoàn Minh Bài",
+      0,
+      4901,
+      0,
+      "4",
+      "111041",
+      110041,
+      "Tín vật Thiên Đoàn Đỉnh Cao. Dùng để đổi Thiên Phú Tùy Tùng và Quà Bồi Dưỡng. [Hiệu lực trong SK vòng này]",
+      [
+        12824
+      ],
+      [],
+      0
+    ],
+    "253": [
+      "2023 Vé Thưởng Hội Chùa",
+      480301,
+      4803,
+      0,
+      "4",
+      "111143",
+      110143,
+      "Vé thưởng chỉ định chính thức lễ mừng Hội Chùa 2023, có thể đổi phần thưởng giới hạn trong HĐ [Tiếng Vọng Thiên Mệnh] [Hiệu quả trong HĐ vòng này]",
+      [
+        18791,
+        18760
+      ],
+      [],
+      0
+    ],
+    "254": [
+      "Sao Băng Giả Tưởng",
+      910101,
+      9101,
+      0,
+      "4",
+      "111145",
+      110145,
+      "Một ngôi sao băng, một giả tưởng. Dùng Sao Băng Giả Tưởng đổi bộ và đan phẩm chủ đề chỉ định trong [Thì Thầm Say Ngủ] [Có tác dụng trong HĐ lần này].",
+      [
+        19060
+      ],
+      [],
+      0
+    ],
+    "255": [
+      "Hiểu Nguyệt Quyển Mộng",
+      910101,
+      9101,
+      0,
+      "4",
+      "111146",
+      110146,
+      "Một lần trăng khuyết, một giấc mơ đẹp. Dùng Hiểu Nguyệt Quyển Mộng đổi bộ và đan phẩm chủ đề chỉ định trong [Thì Thầm Say Ngủ] [Có tác dụng trong HĐ lần này].",
+      [
+        19060
+      ],
+      [],
+      0
+    ],
+    "256": [
+      "Chỉ Số Giả Tưởng",
+      910101,
+      9101,
+      0,
+      "4",
+      "111147",
+      110147,
+      "Lời chúc phúc của Kỳ Lân Huyễn Tưởng.  Tham gia tranh hạng trong bảng xếp hạng [Thì Thầm Say Ngủ] [Có tác dụng trong HĐ lần này].",
+      [
+        19060
+      ],
+      [],
+      0
+    ],
+    "257": [
+      "Dũng Khí",
+      820102,
+      8201,
+      0,
+      "4",
+      "111124",
+      110124,
+      "Điểm HĐ nhận được khi Thuần Manh Hổ, có thể tham gia xếp hạng trong BXH HĐ [Thuần Manh Hổ]. [Chỉ có hiệu lực trong HĐ lần này]",
+      [
+        18941
+      ],
+      [],
+      0
+    ],
+    "258": [
+      "Ấn Manh Hổ",
+      820102,
+      8201,
+      0,
+      "4",
+      "111149",
+      110149,
+      "Dấu ấn Manh Hổ, tiếng hổ gầm vang. Có thể đổi phần thưởng giới hạn trong HĐ [Thuần Manh Hổ]! [Chỉ có hiệu lực trong HĐ lần này]",
+      [
+        18941
+      ],
+      [],
+      0
+    ],
+    "259": [
+      "Đá Nguyện Vọng",
+      830102,
+      8301,
+      0,
+      "4",
+      "111148",
+      110148,
+      "Hỏi đá vô đạo, tâm thành ắt linh. Có thể đổi nội thất giới hạn trong HĐ [Gửi Gắm Tâm Nguyện]! [Chỉ có hiệu lực trong HĐ lần này]",
+      [
+        18941,
+        18931,
+        18951
+      ],
+      [],
+      0
+    ],
+    "260": [
+      "Bùa Linh Kỳ Lân",
+      920101,
+      9201,
+      0,
+      "4",
+      "111151",
+      110151,
+      "Kỳ Lân Trung Hoàng mang điềm lành, sử dụng Bùa Linh Kỳ Lân có thể đổi Bộ Kỳ Lân trong HĐ [Linh Thiên Thượng May Mắn Điềm Trời]! [Hiệu quả trong HĐ vòng này]",
+      [
+        19070
+      ],
+      [],
+      0
+    ],
+    "261": [
+      "Bùa Tứ Linh",
+      920101,
+      9201,
+      0,
+      "4",
+      "111150",
+      110150,
+      "Tứ Linh thượng cổ luôn phong nhã, dùng Bùa Tứ Linh có thể đổi món trong Bộ Tứ Linh trong HĐ [Linh Thiên Thượng May Mắn Điềm Trời]! [Hiệu quả trong HĐ vòng này]",
+      [
+        19070
+      ],
+      [],
+      0
+    ],
+    "262": [
+      "Ý Thơ Lưu Luyến",
+      630105,
+      6301,
+      0,
+      "4",
+      "111152",
+      110152,
+      "Xu nhận được khi ngâm thơ tấu khúc cho tiên tử, dùng Ý Thơ Lưu Luyến có thể đổi Bộ chỉ định và vật phẩm chủ đề trong HĐ [Thơ Nhạc Tình Yêu Báo Ngày Cưới]! [Hiệu quả trong HĐ vòng này]",
+      [
+        18504
+      ],
+      [],
+      0
+    ],
+    "263": [
+      "Cảnh Khúc Mông Lung",
+      630105,
+      6301,
+      0,
+      "4",
+      "111153",
+      110153,
+      "Xu nhận được khi ngâm thơ tấu khúc cho tiên tử, dùng Cảnh Khúc Mông Lung có thể đổi Bộ chỉ định và vật phẩm chủ đề trong HĐ [Thơ Nhạc Tình Yêu Báo Ngày Cưới]! [Hiệu quả trong HĐ vòng này]",
+      [
+        18504
+      ],
+      [],
+      0
+    ],
+    "264": [
+      "Tâm Ý Tình Ca",
+      630105,
+      6301,
+      0,
+      "4",
+      "111154",
+      110154,
+      "Ngâm thơ tấu khúc nhận điểm hoạt động, có thể tham gia xếp hạng trong HĐ [Thơ Nhạc Tình Yêu Báo Ngày Cưới]. [Hiệu quả trong HĐ vòng này]",
+      [
+        18504
+      ],
+      [],
+      0
+    ],
+    "265": [
+      "Kỳ Thuật Mưa Bay",
+      390602,
+      3909,
+      0,
+      "4",
+      "111156",
+      110156,
+      "Pháp thuật bí ẩn được thiên nhiên ban tặng. Có thể đổi Bộ giới hạn và vật phẩm chủ đề trong HĐ [Tứ Tượng Xoay Vòng Mưa Bay]! [Hiệu quả trong HĐ vòng này]",
+      [
+        12917
+      ],
+      [],
+      0
+    ],
+    "266": [
+      "Hơi Thở Mưa Bay",
+      390602,
+      3909,
+      0,
+      "4",
+      "111157",
+      110157,
+      "Lời chúc mà thiên nhiên truyền đạt. Có thể tham gia xếp hạng trong BXH HĐ [Tứ Tượng Xoay Vòng Mưa Bay]. [Hiệu quả trong HĐ vòng này]",
+      [
+        12917
+      ],
+      [],
+      0
+    ],
+    "267": [
+      "Nấm Phép Thuật",
+      760102,
+      7601,
+      0,
+      "4",
+      "111155",
+      110155,
+      "Sáng lập lòe, nấm phép thuật. Có thể đổi thưởng giới hạn trong HĐ [Khu Rừng Nấm Ảo-Chủ Tinh Linh]! [Hiệu quả trong HĐ vòng này]",
+      [
+        18871
+      ],
+      [],
+      0
+    ],
+    "268": [
+      "Hoa Quá Khứ",
+      850102,
+      8501,
+      0,
+      "4",
+      "111158",
+      110158,
+      "Tạm biệt quá khứ, làm lại kiếp này. Có thể đổi Bộ chỉ định và vật phẩm chủ đề trong HĐ [U Thành Dị Chí]! [Hiệu quả trong HĐ vòng này]",
+      [
+        18981
+      ],
+      [],
+      0
+    ],
+    "269": [
+      "Tranh Mỹ Nhân",
+      850102,
+      8501,
+      0,
+      "4",
+      "111159",
+      110159,
+      "Thiếu nữ đẹp trong tranh trăm ngàn tư thái. Có thể đổi Bộ chỉ định và vật phẩm chủ đề trong HĐ [U Thành Dị Chí]! [Hiệu quả trong HĐ vòng này]",
+      [
+        18981
+      ],
+      [],
+      0
+    ],
+    "270": [
+      "Thẻ Ẩn Sĩ",
+      640108,
+      6401,
+      0,
+      "4",
+      "111162",
+      110162,
+      "Chân lý của ẩn sĩ, lóa mắt hơn cả ngọn đèn sáng. Dùng Thẻ Ẩn Sĩ, có thể đổi trang sức giới hạn tuyệt đẹp trong HĐ [Tarot Huyền Ảo]! [Hiệu lực trong HĐ vòng này]",
+      [
+        18610
+      ],
+      [],
+      0
+    ],
+    "271": [
+      "Tín Vật Quế Vàng",
+      630106,
+      6301,
+      0,
+      "4",
+      "111163",
+      110163,
+      "Xu nhận được sau khi tặng quà, dùng Tín Vật Quế Vàng, có thể đổi bộ và vật phẩm chủ đề chỉ định trong HĐ [Hẹn Ước Quế Vàng]! [Hiệu lực trong HĐ vòng này]",
+      [
+        18505
+      ],
+      [],
+      0
+    ],
+    "272": [
+      "Tín Vật Nguyệt Thố",
+      630106,
+      6301,
+      0,
+      "4",
+      "111164",
+      110164,
+      "Xu nhận được sau khi tặng quà, dùng Tín Vật Nguyệt Thố, có thể đổi bộ và vật phẩm chủ đề chỉ định trong HĐ [Hẹn Ước Quế Vàng]! [Hiệu lực trong HĐ vòng này]",
+      [
+        18505
+      ],
+      [],
+      0
+    ],
+    "273": [
+      "Lời Hứa Quế Vàng",
+      630106,
+      6301,
+      0,
+      "4",
+      "111165",
+      110165,
+      "Điểm HĐ nhận sau khi tặng quà, có thể tham gia xếp hạng trong BXH HĐ [Hẹn Ước Quế Vàng]. [Hiệu lực trong HĐ vòng này]",
+      [
+        18505
+      ],
+      [],
+      0
+    ],
+    "274": [
+      "Thuốc Nhuộm Vàng",
+      880101,
+      8801,
+      0,
+      "4",
+      "111136",
+      110136,
+      "Màu sắc ôn hòa ấm áp. Dùng thuốc nhuộm này, có thể bổ sung màu vàng trong HĐ Ý Họa Truyền Thế, dùng nhận: Điểm Tiến Độ x1. [Hiệu lực trong HĐ vòng này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "275": [
+      "Thuốc Nhuộm Lục",
+      880101,
+      8801,
+      0,
+      "4",
+      "111137",
+      110137,
+      "Màu sắc như thảm cỏ bao la. Dùng thuốc nhuộm này, có thể bổ sung màu lục trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ x1. [Hiệu lực trong HĐ vòng này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "276": [
+      "Thuốc Nhuộm Nâu",
+      880101,
+      8801,
+      0,
+      "4",
+      "111138",
+      110138,
+      "Màu sắc của đất đai rộng lớn. Dùng thuốc nhuộm này, có thể bổ sung màu nâu trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ x1. [Hiệu lực trong HĐ vòng này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "277": [
+      "Thuốc Nhuộm Trắng",
+      880101,
+      8801,
+      0,
+      "4",
+      "111139",
+      110139,
+      "Màu sắc của sự tinh khiết. Dùng thuốc nhuộm này, có thể bổ sung màu trắng trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ x1. [Hiệu lực trong HĐ vòng này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "278": [
+      "Thuốc Nhuộm Hồng Đào",
+      880102,
+      8801,
+      0,
+      "4",
+      "111166",
+      110166,
+      "Màu của tiên đào rực rỡ. Dùng màu này có thể bổ sung màu hồng đào trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ vòng này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "279": [
+      "Thuốc Nhuộm Xanh Ngọc",
+      880102,
+      8801,
+      0,
+      "4",
+      "111167",
+      110167,
+      "Màu của bầu trời xanh. Dùng màu này có thể bổ sung màu xanh ngọc trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "280": [
+      "Thuốc Nhuộm Màu Be",
+      880102,
+      8801,
+      0,
+      "4",
+      "111168",
+      110168,
+      "Màu của tây hà huyền tiêu. Dùng màu này có thể bổ sung màu be trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "281": [
+      "Thuốc Nhuộm Hồng Nhạt",
+      880102,
+      8801,
+      0,
+      "4",
+      "111169",
+      110169,
+      "Màu của những đám mây thì thầm. Dùng màu này có thể bổ sung màu hồng nhạt trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "282": [
+      "Sương Ý Phong",
+      890102,
+      8901,
+      0,
+      "4",
+      "111173",
+      110173,
+      "Ý sương nhiễm lên lá phong vàng, có thể đổi đơn phẩm và Bộ trong Dâng Mị Lực! [Hiệu lực trong HĐ lần này]",
+      [
+        19021
+      ],
+      [],
+      0
+    ],
+    "283": [
+      "Hồng Nhiễm Quỳnh",
+      890102,
+      8901,
+      0,
+      "4",
+      "111172",
+      110172,
+      "Hoa hồng được nhuộm bởi đóa quỳnh, có thể đổi Bộ trong Tái Hiện Kinh Điển! [Hiệu lực trong HĐ vòng này]",
+      [
+        19021
+      ],
+      [],
+      0
+    ],
+    "284": [
+      "Kỳ Thuật Sấm Sét",
+      390603,
+      3909,
+      0,
+      "4",
+      "111170",
+      110170,
+      "Thiên nhiên ban tặng phép thuật bí ẩn. Có thể đổi Bộ Hạn Định và đơn phẩm chủ đề trong HĐ [Tứ Tượng Lưu Chuyển·Sấm Sét]! [Hiệu lực trong HĐ vòng này]",
+      [
+        12918
+      ],
+      [],
+      0
+    ],
+    "285": [
+      "Hơi Thở Sấm Sét",
+      390603,
+      3909,
+      0,
+      "4",
+      "111171",
+      110171,
+      "Thiên nhiên ban lời chúc phúc. Có thể tham gia xếp hạng trong BXH HĐ [Tứ Tượng Lưu Chuyển·Sấm Sét]. [Hiệu lực trong HĐ vòng này]",
+      [
+        12918
+      ],
+      [],
+      0
+    ],
+    "286": [
+      "Ấn Thời Gian",
+      560101,
+      5601,
+      0,
+      "4",
+      "111174",
+      110174,
+      "Sức mạnh thần bí vô cùng lớn, tiết lộ anh hùng ca năm tháng. Có thể đổi trang phục hạn định tuyệt đẹp trong HĐ [Văn Minh Thiên Cổ·Dấu Ấn Thần Bí]! [Hiệu lực trong HĐ lần này]",
+      [
+        18109
+      ],
+      [],
+      0
+    ],
+    "287": [
+      "Bài Tình Nhân",
+      640109,
+      6401,
+      0,
+      "4",
+      "111176",
+      110176,
+      "Sự bảo vệ của tình nhân, ấm áp lại ngọt ngào. Dùng Bài Tình Nhân, có thể đổi trang phục hạn định tuyệt đẹp trong HĐ Tarot Huyền Ảo! [Hiệu lực trong HĐ lần này]",
+      [
+        18610
+      ],
+      [],
+      0
+    ],
+    "288": [
+      "Tiên Lực",
+      960101,
+      9601,
+      0,
+      "4",
+      "111175",
+      110175,
+      "Tiên khí vấn vít, đan thanh nhập họa, có thể giúp đỡ cho tiến trình Bộ series Thơ Ca trong HĐ Giang Sơn Như Họa-Tiên Cảnh Đào Nguyên, và đổi thưởng hạn định! [Hiệu lực trong HĐ lần này]",
+      [
+        19110
+      ],
+      [],
+      0
+    ],
+    "289": [
+      "Nhung Tuyết",
+      850103,
+      8501,
+      0,
+      "4",
+      "111177",
+      110177,
+      "Vải nhung ấm áp, trắng sáng như tuyết. Có thể đổi Bộ chỉ định và vật phẩm chủ đề trong hoạt động [Thiều Hoa Đông Nguyện]! [Hiệu lực trong hoạt động vòng này]",
+      [
+        18982
+      ],
+      [],
+      0
+    ],
+    "290": [
+      "Bội Bích Lãnh",
+      850103,
+      8501,
+      0,
+      "4",
+      "111178",
+      110178,
+      "Ngọc bội xanh thêm hoa, như nước sông mùa xuân. Có thể đổi Bộ chỉ định và vật phẩm chủ đề trong hoạt động [Thiều Hoa Đông Nguyện]! [Hiệu lực trong hoạt động vòng này]",
+      [
+        18982
+      ],
+      [],
+      0
+    ],
+    "291": [
+      "Thuốc Nhuộm Xanh Tía",
+      880103,
+      8801,
+      0,
+      "4",
+      "111179",
+      110179,
+      "Màu trời đêm đô thị. Dùng màu thuốc nhuộm này có thể bổ sung màu xanh tía trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "292": [
+      "Thuốc Nhuộm Tử Hương",
+      880103,
+      8801,
+      0,
+      "4",
+      "111180",
+      110180,
+      "Màu ánh sáng sang trọng. Dùng màu thuốc nhuộm này có thể bổ sung màu tử hương trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "293": [
+      "Thuốc Nhuộm Bạch Ngân",
+      880103,
+      8801,
+      0,
+      "4",
+      "111181",
+      110181,
+      "Màu kim cương lấp lánh. Dùng màu thuốc nhuộm này có thể bổ sung màu bạch ngân trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "294": [
+      "Thuốc Nhuộm Xanh Lục",
+      880103,
+      8801,
+      0,
+      "4",
+      "111182",
+      110182,
+      "Màu quầng sáng lưu chuyển. Dùng màu thuốc nhuộm này có thể bổ sung màu xanh lục trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "295": [
+      "Pha Lê Huyễn Hy",
+      910102,
+      9101,
+      0,
+      "4",
+      "111184",
+      110184,
+      "Pha lê lấp lánh, ảo mộng rộn ràng. Có thể đổi bộ chỉ định và món lẻ chủ đề trong HĐ Ma Kính Thì Thầm! [Hiệu lực trong HĐ lần này]",
+      [
+        19061
+      ],
+      [],
+      0
+    ],
+    "296": [
+      "Cánh Quạ Đêm Tối",
+      910102,
+      9101,
+      0,
+      "4",
+      "111185",
+      110185,
+      "Đêm tối tịch liêu, cánh quạ quay về. Có thể đổi bộ chỉ định và món lẻ chủ đề trong HĐ Ma Kính Thì Thầm! [Hiệu lực trong HĐ lần này]",
+      [
+        19061
+      ],
+      [],
+      0
+    ],
+    "297": [
+      "Điểm Kỳ Ảo",
+      910102,
+      9101,
+      0,
+      "4",
+      "111186",
+      110186,
+      "Món quà mà quạ đêm tặng. Có thể tham gia xếp hạng trong BXH HĐ Ma Kính Thì Thầm. [Hiệu lực trong HĐ lần này]",
+      [
+        19061
+      ],
+      [],
+      0
+    ],
+    "298": [
+      "Bé Thỏ Điềm Lành",
+      830103,
+      8301,
+      0,
+      "4",
+      "111183",
+      110183,
+      "Thỏ điềm lành đón xuân, phúc lộc dồi dào. Có thể đổi gia cụ giới hạn trong HĐ [Phúc Lộc Tuổi Mới]! [Hiệu lực trong HĐ vòng này]",
+      [
+        18940,
+        18930,
+        18952
+      ],
+      [],
+      0
+    ],
+    "299": [
+      "Bông Lúa Vàng",
+      560101,
+      5601,
+      0,
+      "4",
+      "111187",
+      110187,
+      "Năm mới bội thu, bách nghiệp hưng vượng. Có thể đổi trang phục trang sức giới hạn trong HĐ [Đón Năm Mới-Bách Nghiệp Hưng Vượng]! [Hiệu lực trong HĐ vòng này]",
+      [
+        18110
+      ],
+      [],
+      0
+    ],
+    "300": [
+      "Tử Diên",
+      0,
+      0,
+      0,
+      "4",
+      "111189",
+      110189,
+      "Hoa diên vĩ tím nở rộ, nhớ về thời gian đẹp đẽ. Có thể đổi thưởng hạn định trong Phòng Quà.",
+      [
+        14002
+      ],
+      [],
+      0
+    ],
+    "301": [
+      "Gấu Nhung",
+      0,
+      9701,
+      0,
+      "4",
+      "111188",
+      110188,
+      "Gấu đồ chơi đáng yêu, lông tơ có mùi ngọt ngào. Có thể đổi thời trang Lam Nhan hạn định và thưởng đạo cụ trong [Tâm Tư Khéo Léo]. [Hiệu lực trong HĐ lần này]",
+      [
+        19120
+      ],
+      [],
+      0
+    ],
+    "302": [
+      "Kết Hoa Hồng",
+      850104,
+      8501,
+      0,
+      "4",
+      "111193",
+      110193,
+      "Nút thắt hoa hồng, tỏa sáng rực rỡ trong đêm. Có thể đổi thời trang chỉ định và món lẻ chủ đề trong HĐ [Cá Vượt Kỳ Hoa]! [Hiệu lực trong HĐ lần này]",
+      [
+        18983
+      ],
+      [],
+      0
+    ],
+    "303": [
+      "Kim Ngư Trụy ",
+      850104,
+      8501,
+      0,
+      "4",
+      "111194",
+      110194,
+      "Mặt dây chuyền cá vàng rực rỡ, đèn lồng treo đầy. Có thể đổi thời trang chỉ định và món lẻ chủ đề trong [Cá Vượt Kỳ Hoa]! [Hiệu lực trong HĐ lần này]",
+      [
+        18983
+      ],
+      [],
+      0
+    ],
+    "304": [
+      "Kỳ Thuật Băng Ngưng",
+      390604,
+      3909,
+      0,
+      "4",
+      "111191",
+      110191,
+      "Pháp thuật thần bí do thiên nhiên ban tặng. Có thể đổi thời trang chỉ định và món lẻ chủ đề trong HĐ [Tứ Tượng Xoay Vòng-Băng Ngưng ]![Hiệu lực trong HĐ lần này]",
+      [
+        12919
+      ],
+      [],
+      0
+    ],
+    "305": [
+      "Hơi Thở Băng Ngưng",
+      390604,
+      3909,
+      0,
+      "4",
+      "111192",
+      110192,
+      "Lời chúc phúc đến từ thiên nhiên. Có thể tham gia xếp hạng trong BXH HĐ [Tứ Tượng Xoay Vòng-Băng Ngưng].[Hiệu lực trong HĐ lần này]",
+      [
+        12919
+      ],
+      [],
+      0
+    ],
+    "306": [
+      "Giáng Tâm Mai",
+      640110,
+      6401,
+      0,
+      "4",
+      "111190",
+      110190,
+      "Đài hoa đỏ thắm bắt nạt bóng tối thưa thớt, với trái tim cô đơn. Có thể đổi phục sức hạn định tuyệt đẹp trong HĐ [Phong Hoa Dật Lục]! [Hiệu lực trong HĐ lần này]",
+      [
+        18611
+      ],
+      [],
+      0
+    ],
+    "307": [
+      "Thuộc Nhuộm Ráng Đỏ",
+      880104,
+      8801,
+      0,
+      "4",
+      "111197",
+      110197,
+      "Màu đỏ ráng chiều. Dùng thuốc nhuộm này có thể bổ sung màu Ráng Đỏ trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "308": [
+      "Thuốc Nhuộm Sáng Nhẹ",
+      880104,
+      8801,
+      0,
+      "4",
+      "111198",
+      110198,
+      "Màu sáng bình minh. Dùng thuốc nhuộm này có thể bổ sung màu Sáng Nhẹ trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "309": [
+      "Thuốc Nhuộm Hồ Trong",
+      880104,
+      8801,
+      0,
+      "4",
+      "111199",
+      110199,
+      "Màu nước hồ trong xanh. Dùng thuốc nhuộm này có thể bổ sung màu Hồ Trong trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "310": [
+      "Thuốc Nhuộm Mây Tím",
+      880104,
+      8801,
+      0,
+      "4",
+      "111200",
+      110200,
+      "Màu mây tím xinh đẹp. Dùng thuốc nhuộm này có thể bổ sung màu Mây Tím trong HĐ Ý Họa Truyền Thế. Dùng nhận: Điểm Tiến Độ×1. [Hiệu lực trong HĐ lần này]",
+      [
+        19010
+      ],
+      [],
+      0
+    ],
+    "311": [
+      "Tim Rực Đỏ",
+      630107,
+      6301,
+      0,
+      "4",
+      "111201",
+      110201,
+      "Ngọn lửa cháy bỏng, trái tim bất khuất. Có thể đổi bộ Vũ Công Carmen và món lẻ. [Hiệu lực trong HĐ lần này]",
+      [
+        18506
+      ],
+      [],
+      0
+    ],
+    "312": [
+      "Tim Thủy Tinh",
+      630107,
+      6301,
+      0,
+      "4",
+      "111202",
+      110202,
+      "Thủy tinh thuần khiết, tình yêu chân thành. Có thể đổi bộ Vũ Công Hồ Thiên Nga và món lẻ. [Hiệu lực trong HĐ lần này]",
+      [
+        18506
+      ],
+      [],
+      0
+    ],
+    "313": [
+      "Tình Yêu Trời Sao",
+      630107,
+      6301,
+      0,
+      "4",
+      "111203",
+      110203,
+      "Những ngôi sao đang rơi, tình yêu sâu đậm. Điểm HĐ nhận được sau khi tặng quà có thể tham gia xếp hạng trong HĐ [Xây Mộng Trời Sao].[Hiệu lực trong HĐ lần này]",
+      [
+        18506
+      ],
+      [],
+      0
+    ],
+    "314": [
+      "Rượu Bốn Mùa",
+      680102,
+      6801,
+      0,
+      "4",
+      "111195",
+      110195,
+      "Bốn mùa lưu chuyển, rượu tiên thơm nồng. Dùng Rượu Bốn Mùa, có thể đổi bộ Rượu Tiên Bốn Mùa trong HĐ [Bốn Mùa Vô Lo·Dâng Rượu Tiên]! [Hiệu lực trong HĐ lần này]",
+      [
+        18771
+      ],
+      [],
+      0
+    ],
+    "315": [
+      "Rượu Vô Ưu",
+      680102,
+      6801,
+      0,
+      "4",
+      "111196",
+      110196,
+      "Say men ngọc, ngàn thu vô ưu. Dùng Rượu Vô Ưu, có thể đổi bộ Túy Vô Ưu trong HĐ [Bốn Mùa Vô Lo·Dâng Rượu Tiên]! [Hiệu lực trong HĐ lần này]",
+      [
+        18771
+      ],
+      [],
+      0
+    ],
+    "316": [
+      "Đơn Thuốc Thược Dược ",
+      390701,
+      3909,
+      0,
+      "4",
+      "111204",
+      110204,
+      "Tế thế an dân, thuốc thang thảo mộc. Có thể đổi Bộ hạn định và món lẻ chủ đề trong HĐ Cây Tiên Bốn Vị-Thược Dược! [Có hiệu lực trong HĐ lần này]",
+      [
+        12940
+      ],
+      [],
+      0
+    ],
+    "317": [
+      "Hương Thược Dược ",
+      390701,
+      3909,
+      0,
+      "4",
+      "111205",
+      110205,
+      "Hương thơm thảo mộc lan tỏa. Có thể tham gia xếp hạng trong BXH Cây Tiên Bốn Vị-Thược Dược. [Có hiệu lực trong HĐ lần này]",
+      [
+        12940
+      ],
+      [],
+      0
+    ],
+    "318": [
+      "Khăn Gấm Minh Nhụy",
+      0,
+      9901,
+      0,
+      "4",
+      "111206",
+      110206,
+      "Thêu ngọc nhụy thơm, khăn gấm tỏ ý. Có thể đổi thời trang tái hiện và món lẻ quay về trong Điện Cẩm Tú-Sảnh Chính! [Có hiệu lực trong HĐ lần này]",
+      [
+        19130
+      ],
+      [],
+      0
+    ],
+    "319": [
+      "Phẩm Thêu Ảnh Tước",
+      0,
+      9901,
+      0,
+      "4",
+      "111207",
+      110207,
+      "Đôi chim hót líu lo, tranh thêu dệt cảnh. Có thể đổi thời trang tái hiện và món lẻ mới trong Điện Cẩm Tú-Sảnh Phụ! [Có hiệu lực trong HĐ lần này]",
+      [
+        19130
+      ],
+      [],
+      0
+    ],
+    "320": [
+      "Đóa Lan Hồng",
+      640111,
+      6401,
+      0,
+      "4",
+      "111208",
+      110208,
+      "Hoa ngọc lan hồng, hương thơm dài lâu. Có thể đổi trang sức hạn định tuyệt đẹp trong HĐ Phong Hoa Dật Lục! [Có hiệu lực trong HĐ lần này]",
+      [
+        18611
+      ],
+      [],
+      0
+    ],
+    "321": [
+      "Sen Tuyết",
+      790103,
+      7901,
+      0,
+      "4",
+      "111209",
+      110209,
+      "Da băng giá mặt ngọc ngà, hương thơm phảng phất. Có thể đổi Bộ hạn định và món lẻ chủ đề trong HĐ Cảnh Chiều Thiên Sơn! [Có hiệu lực trong HĐ lần này]",
+      [
+        19041
+      ],
+      [],
+      0
+    ],
+    "322": [
+      "Mảnh Trác Yên Sơn",
+      0,
+      8801,
+      0,
+      "4",
+      "111212",
+      110212,
+      "Gió và khói bay lượn khắp trời, mây mù xanh ngọc. Dùng Mảnh này có thể sửa chữa Tranh Trác Yên Sơn trong HĐ Sóng Xanh Non Nước. Dùng xong có thể nhận: Điểm Tiến Độ×1. [Có hiệu lực trong HĐ lần này]",
+      [
+        19011
+      ],
+      [],
+      0
+    ],
+    "323": [
+      "Mảnh Thiên Y Hải",
+      0,
+      8801,
+      0,
+      "4",
+      "111213",
+      110213,
+      "Biển xanh lật sóng, thiên cổ gợn lăn tăn. Dùng Mảnh này, có thể sửa chữa Tranh Thiên Y Hải trong HĐ Sóng Xanh Non Nước. Dùng xong có thể nhận: Điểm Tiến Độ×1. [Có hiệu lực trong HĐ lần này]",
+      [
+        19011
+      ],
+      [],
+      0
+    ],
+    "324": [
+      "Mảnh Xích Ô Lan",
+      0,
+      8801,
+      0,
+      "4",
+      "111214",
+      110214,
+      "Ngắm mặt trời một nửa, sóng nước lăn tăn. Dùng Mảnh này có thể sửa chữa Tranh Xích Ô Lan trong HĐ Sóng Xanh Non Nước. Dùng xong có thể nhận: Điểm Tiến Độ×1. [Có hiệu lực trong HĐ lần này]",
+      [
+        19011
+      ],
+      [],
+      0
+    ],
+    "325": [
+      "Mảnh Quy Mộ Phong",
+      0,
+      8801,
+      0,
+      "4",
+      "111215",
+      110215,
+      "Mây chiều bồng bềnh khắp biển, đỉnh núi hiểm trở. Dùng Mảnh này, có thể sửa chữa Tranh Quy Mộ Phong trong HĐ Sóng Xanh Non Nước. Dùng xong có thể nhận: Điểm Tiến Độ×1. [Có hiệu lực trong HĐ lần này]",
+      [
+        19011
+      ],
+      [],
+      0
+    ],
+    "326": [
+      "Ngọc Thông Linh",
+      1020101,
+      10201,
+      0,
+      "4",
+      "111210",
+      110210,
+      "Thông linh bảo ngọc, ấm áp không tỳ vết. Sau khi nhận có thể đổi Bộ Bảo Ngọc trong HĐ Hồng Lâu Mơ Mộng. [Có hiệu lực trong HĐ lần này]",
+      [
+        19140
+      ],
+      [],
+      0
+    ],
+    "327": [
+      "Cỏ Châu Đỏ",
+      1020101,
+      10201,
+      0,
+      "4",
+      "111211",
+      110211,
+      "Xích châu tiên thảo, duyên dáng thướt tha. Sau khi nhận có thể đổi Bộ Đại Ngọc trong HĐ Hồng Lâu Mơ Mộng. [Có hiệu lực trong HĐ lần này]",
+      [
+        19140
+      ],
+      [],
+      0
+    ],
+    "328": [
+      "Trúc Xanh",
+      640112,
+      6401,
+      0,
+      "4",
+      "111217",
+      110217,
+      "Trúc xào xạc,một mảnh xanh ngọc. Có thể trong HĐ đổi trang sức hạn định tuyệt đẹp trong HĐ [Phong Hoa Dật Lục]! [Hiệu lực trong HĐ vòng này]",
+      [
+        18611
+      ],
+      [],
+      0
+    ],
+    "329": [
+      "Tín Vật Công Chúa",
+      910103,
+      9101,
+      0,
+      "4",
+      "111218",
+      110218,
+      "Thiện ý của công chúa, ấm áp động lòng người. Có thể đổi Bộ chỉ định và món lẻ chủ đề trong HĐ [Hồn Nhiên Thì Thầm-Cổ Tích Huyền Ảo]! [Hiệu lực trong HĐ vòng này]",
+      [
+        19062
+      ],
+      [],
+      0
+    ],
+    "330": [
+      "Tín Vật Hoàng Hậu",
+      910103,
+      9101,
+      0,
+      "4",
+      "111219",
+      110219,
+      "Thủ đoạn của hoàng hậu, tàn nhẫn và trực tiếp. Có thể đổi Bộ chỉ định và món lẻ chủ đề trong HĐ [Hồn Nhiên Thì Thầm-Cổ Tích Huyền Ảo]! [Hiệu lực trong HĐ vòng này]",
+      [
+        19062
+      ],
+      [],
+      0
+    ],
+    "331": [
+      "Chỉ Số Cổ Tích",
+      910103,
+      9101,
+      0,
+      "4",
+      "111220",
+      110220,
+      "Sự chạm trán giữa các thiện và cái ác, vẽ nên một câu chuyện cổ tích hồn nhiên. Tham gia xếp hạng trong BXH HĐ [Hồn Nhiên Thì Thầm-Cổ Tích Huyền Ảo]. [Hiệu lực trong HĐ vòng này]",
+      [
+        19062
+      ],
+      [],
+      0
+    ],
+    "332": [
+      "Túi Phồn Hoa",
+      1030101,
+      10301,
+      0,
+      "4",
+      "111223",
+      110223,
+      "Từng sợi từng sợi chỉ thêu ngàn hoa. Có thể đổi Bộ chỉ định và món lẻ chủ đề trong HĐ [Thịnh Yến Đình Hoa]! [Hiệu lực trong HĐ vòng này]",
+      [
+        19150
+      ],
+      [],
+      0
+    ],
+    "333": [
+      "Túi Bách Điệp",
+      1030101,
+      10301,
+      0,
+      "4",
+      "111224",
+      110224,
+      "Từng hạt ngọc dệt nên trăm loài bướm. Có thể đổi Bộ chỉ định và món lẻ chủ đề trong HĐ [Thịnh Yến Đình Hoa]! [Hiệu lực trong HĐ vòng này]",
+      [
+        19150
+      ],
+      [],
+      0
+    ],
+    "334": [
+      "Điểm nhân khí",
+      1030101,
+      10301,
+      0,
+      "4",
+      "111225",
+      110225,
+      "Yến tiệc linh đình, không còn chỗ trống. Dùng để tăng cấp Tiệc Hải Vân. [Hiệu lực trong HĐ vòng này]",
+      [
+        19150
+      ],
+      [],
+      0
+    ],
+    "335": [
+      "Điểm nhân khí",
+      1030101,
+      10301,
+      0,
+      "4",
+      "111225",
+      110225,
+      "Yến tiệc linh đình, không còn chỗ trống. Dùng để tăng cấp Tiệc Du Điệp. [Hiệu lực trong HĐ vòng này]",
+      [
+        19150
+      ],
+      [],
+      0
+    ],
+    "336": [
+      "Vé Thưởng Hội Chùa 2023",
+      480302,
+      4803,
+      0,
+      "4",
+      "111216",
+      110216,
+      "Vé thưởng chính thức của Lễ Hội Chùa 2023, có thể đổi thưởng hạn giờ trong HĐ [Trân Tu Bách Vị]! [Hiệu lực trong HĐ vòng này]",
+      [
+        18792,
+        18760
+      ],
+      [],
+      0
+    ],
+    "337": [
+      "Thuốc Nhuộm Trăng Mơ",
+      920102,
+      9201,
+      0,
+      "4",
+      "111222",
+      110222,
+      "Màu trăng mơ óng ánh. Dùng màu này, có thể đổi Bộ Trăng Mơ trong HĐ [Ý Họa Truyền Thế-Bóng Sáng Trăng Mơ]! [Hiệu lực trong HĐ vòng này]",
+      [
+        19071
+      ],
+      [],
+      0
+    ],
+    "338": [
+      "Thuốc Nhuộm Rực Rỡ",
+      920102,
+      9201,
+      0,
+      "4",
+      "111221",
+      110221,
+      "Màu rực rỡ tươi đẹp. Dùng màu này, có thể đổi món lẻ của Bộ quay về trong HĐ [Ý Họa Truyền Thế-Bóng Sáng Trăng Mơ]! [Hiệu lực trong HĐ vòng này]",
+      [
+        19071
+      ],
+      [],
+      0
+    ],
+    "339": [
+      "Bản Nhạc Bậc Thầy",
+      630108,
+      6301,
+      0,
+      "4",
+      "111227",
+      110227,
+      "Tác phẩm của sự khéo léo, tinh tế đến từng âm tiết. Có thể đổi Bộ Tiếng Đàn Ngày Hè và món lẻ. [Hiệu lực trong HĐ vòng này]",
+      [
+        18507
+      ],
+      [],
+      0
+    ],
+    "340": [
+      "Đĩa Nhạc Điển Tàng",
+      630108,
+      6301,
+      0,
+      "4",
+      "111228",
+      110228,
+      "Phiên bản cất giữ, ghi lại từng một âm thanh kinh điển. Có thể đổi Bộ Bài Ca Giữa Hè và món lẻ. [Hiệu lực trong HĐ vòng này]",
+      [
+        18507
+      ],
+      [],
+      0
+    ],
+    "341": [
+      "Thanh Âm Giữa Hè",
+      630108,
+      6301,
+      0,
+      "4",
+      "111229",
+      110229,
+      "Tiếng ca và âm nhạc hòa  quyện vào nhau, vang vọng suốt ngày hè. Tích điểm HĐ nhận được sau khi tặng quà, có thể tham gia xếp hạng trong BXH HĐ [Kỳ Ngộ Giữa Hè]. [Hiệu lực trong HĐ vòng này]",
+      [
+        18507
+      ],
+      [],
+      0
+    ],
+    "342": [
+      "Dũng Khí",
+      820104,
+      8201,
+      0,
+      "4",
+      "111124",
+      110124,
+      "Điệm HĐ nhận được khi thuần phục Manh Thỏ, có thể tham gia xếp hạng trong BXH [Thuần Manh Thỏ]. [Chỉ có hiệu lực trong HĐ vòng này]",
+      [
+        18942
+      ],
+      [],
+      0
+    ],
+    "343": [
+      "Dây Chuyền Thỏ Con ",
+      820104,
+      8201,
+      0,
+      "4",
+      "111226",
+      110226,
+      "Chúc mừng ngày lễ, manh thỏ tập kích. Có thể đổi thưởng hạn định trong HĐ [Thuần Manh Thỏ]! [Hiệu lực trong HĐ vòng này]",
+      [
+        18942
+      ],
+      [],
+      0
+    ],
+    "344": [
+      "Đá Nguyện Vọng",
+      830104,
+      8301,
+      0,
+      "4",
+      "111148",
+      110148,
+      "Hỏi đá vô đạo, tâm thành ắt linh. Có thể đổi nội thất giới hạn trong HĐ [Gửi Gắm Tâm Nguyện]! [Chỉ có hiệu lực trong HĐ lần này]",
+      [
+        18942,
+        18931,
+        18951
+      ],
+      [],
+      0
+    ],
+    "345": [
+      "Đơn Thuốc Long Quỳ",
+      390702,
+      3909,
+      0,
+      "4",
+      "111230",
+      110230,
+      "Cứu thế an dân, nguyên liệu thảo mộc. Có thể đổi Bộ hạn định và món lẻ chủ đề trong HĐ [Cây Tiên Bốn Vị-Long Quỳ]! [Chỉ hiệu lực trong HĐ lần này]",
+      [
+        12941
+      ],
+      [],
+      0
+    ],
+    "346": [
+      "Hương Long Quỳ",
+      390702,
+      3909,
+      0,
+      "4",
+      "111231",
+      110231,
+      "Hương thơm tỏa ra từ thảo mộc. Có thể tham gia xếp hạng trong BXH HĐ [Cây Tiên Bốn Vị-Long Quỳ].[Chỉ hiệu lực trong HĐ lần này]",
+      [
+        12941
+      ],
+      [],
+      0
+    ],
+    "347": [
+      "Hoa Hồng Mộng Mơ",
+      760103,
+      7601,
+      0,
+      "4",
+      "111232",
+      110232,
+      "Một giấc phồn hoa, hoa hồng nở rộ. Có thể đổi thưởng hạn định trong HĐ [Vườn Hồng Mộng Mơ-Giai Nhân Nồng Nàn]! [Chỉ hiệu lực trong HĐ lần này]",
+      [
+        18872
+      ],
+      [],
+      0
+    ],
+    "348": [
+      "Thiệp Hồng Hoa Cưới",
+      630109,
+      6301,
+      0,
+      "4",
+      "111233",
+      110233,
+      "Hoa cưới tình chung, chân thành mời bạn bè thân thiết đến tham gia hôn lễ. Dùng Bó Hoa Lãng Mạn, có thể đổi Bộ hạn định và món lẻ chủ đề trong HĐ [Lưu Luyến Tình Nồng]! [Chỉ hiệu lực trong HĐ lần này]",
+      [
+        18508
+      ],
+      [],
+      0
+    ],
+    "349": [
+      "Hỉ Thiếp Loan Phượng",
+      630109,
+      6301,
+      0,
+      "4",
+      "111234",
+      110234,
+      "Loan phượng song hỷ, chân thành mời bạn bè thân thiết đến tham gia hôn yến. Dùng Tú Cầu Đỏ Thắm, có thể đổi Bộ hạn định và món lẻ chủ đề trong HĐ [Lưu Luyến Tình Nồng]! [Chỉ hiệu lực trong HĐ lần này]",
+      [
+        18508
+      ],
+      [],
+      0
+    ],
+    "350": [
+      "Tín Vật Tình Yêu",
+      630109,
+      6301,
+      0,
+      "4",
+      "111235",
+      110235,
+      "Khiến cả thế giới chứng kiến, lời thề tình yêu bất diệt. Có thể tham gia xếp hạng trong BXH HĐ [Lưu Luyến Tình Nồng]. [Chỉ hiệu lực trong HĐ lần này]",
+      [
+        18508
+      ],
+      [],
+      0
+    ],
+    "351": [
+      "Đông Ly Cúc",
+      640113,
+      6401,
+      0,
+      "4",
+      "111240",
+      110240,
+      "Đông ly thu cúc, nhụy vàng cánh dài. Dùng trong SK [Phong Hoa Dật Lục], đổi bộ giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        18611
+      ],
+      [],
+      0
+    ],
+    "352": [
+      "Ngọc Bội Tế Lam",
+      1030102,
+      10301,
+      0,
+      "4",
+      "111236",
+      110236,
+      "Ngọc đẹp tế lam, ánh vàng lấp lánh. Dùng trong SK [Phong Thái Phượng Hoàng], đổi bộ và món lẻ chủ đề chỉ định! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        19151
+      ],
+      [],
+      0
+    ],
+    "353": [
+      "Ngọc Bội Đan Tranh",
+      1030102,
+      10301,
+      0,
+      "4",
+      "111237",
+      110237,
+      "Ngọc quý đan tranh, ánh bạc lấp lánh. Dùng trong SK [Phong Thái Phượng Hoàng], đổi bộ và món lẻ chủ đề chỉ định! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        19151
+      ],
+      [],
+      0
+    ],
+    "354": [
+      "Điểm Hoa Lệ",
+      1030102,
+      10301,
+      0,
+      "4",
+      "111238",
+      110238,
+      "Nguy nga lộng lẫy, Phượng Hoàng dừng lại. Dùng để tăng cấp Cung Nguyên Chiêu. [Chỉ có hiệu lực trong SK lần này]",
+      [
+        19151
+      ],
+      [],
+      0
+    ],
+    "355": [
+      "Điểm Hoa Lệ",
+      1030102,
+      10301,
+      0,
+      "4",
+      "111238",
+      110238,
+      "Nguy nga lộng lẫy, Phượng Hoàng dừng lại. Dùng để tăng cấp Cung Bảo Gia. [Chỉ có hiệu lực trong SK lần này]",
+      [
+        19151
+      ],
+      [],
+      0
+    ],
+    "356": [
+      "Sáo Ngự Thú",
+      260115,
+      2601,
+      0,
+      "4",
+      "111239",
+      110239,
+      "Dùng âm thanh để ký kế khế ước. Dùng Sáo Ngự Thú, tại SK [Khúc Ngự Thú], đổi bộ giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "357": [
+      "Vải Nguyệt Hoa",
+      1040101,
+      10401,
+      0,
+      "4",
+      "111241",
+      110241,
+      "Ánh trăng trong veo, nỗi nhớ đoàn viên. Dùng tại SK [Cầu Nguyện Dưới Trăng], để chế tạo trang phục hoặc đổi món lẻ chủ đồ chỉ định! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        19160
+      ],
+      [],
+      0
+    ],
+    "358": [
+      "Vải Ngọc Dung",
+      1040101,
+      10401,
+      0,
+      "4",
+      "111242",
+      110242,
+      "Thỏ Ngọc xinh đẹp, cầu khẩn vô ưu. Dùng tại SK [Cầu Nguyện Dưới Trăng], để chế tạo trang phục hoặc đổi món lẻ chủ đồ chỉ định! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        19160
+      ],
+      [],
+      0
+    ],
+    "359": [
+      "Màu Điển Tàng",
+      890103,
+      8901,
+      0,
+      "4",
+      "111244",
+      110244,
+      "Sắc màu cổ điển, trang điểm xinh đẹp. Có thể đổi bộ và món lẻ Dâng Mị Lực! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        19022
+      ],
+      [],
+      0
+    ],
+    "360": [
+      "Mỹ Nhân Kính",
+      890103,
+      8901,
+      0,
+      "4",
+      "111243",
+      110243,
+      "Người đẹp như hoa, kính chiếu vô hà. Có thể đổi bộ và món lẻ Tái Hiện Kinh Điển! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        19022
+      ],
+      [],
+      0
+    ],
+    "361": [
+      "Sao Vũ Đạo",
+      560101,
+      5601,
+      0,
+      "4",
+      "111245",
+      110245,
+      "Món quà tặng cho vũ công đẹp nhất. Đến SK [Điệu Khuynh Thành] để đổi bộ giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        18111
+      ],
+      [],
+      0
+    ],
+    "362": [
+      "Phượng Bách Hiểu",
+      0,
+      0,
+      0,
+      "4",
+      "111248",
+      110248,
+      "Sau khi hoàn thành sự kiện Bách Hiểu Tư nhận được phiếu lễ, có thể đổi món lẻ chủ đề và trang phục giới hạn tuyệt đẹp trong Quà Bách Hiểu.",
+      [
+        18210
+      ],
+      [],
+      0
+    ],
+    "363": [
+      "Loan Bách Hiểu",
+      0,
+      0,
+      0,
+      "4",
+      "111249",
+      110249,
+      "Do Phượng Bách Hiểu đổi thành, có thể đổi món lẻ chủ đề và trang sức giới hạn tuyệt đẹp của mùa trước trong Quà Bách Hiểu.",
+      [
+        18210
+      ],
+      [],
+      0
+    ],
+    "364": [
+      "Điệp Bách Hiểu",
+      0,
+      0,
+      0,
+      "4",
+      "111250",
+      110250,
+      "Sau khi hoàn thành sự kiện Bách Hiểu Tư nhận được phiếu lễ, có thể đổi đạo cụ quý hiếm trong Quà Bách Hiểu.",
+      [
+        18210
+      ],
+      [],
+      0
+    ],
+    "365": [
+      "Điểm Danh Vọng",
+      0,
+      0,
+      0,
+      "4",
+      "111247",
+      110247,
+      "Đến Bách Hiểu Tư-Quà Bách Hiểu-Đạo Cụ Hiếm, có thể đổi thành Điệp Bách Hiểu.",
+      [
+        18210
+      ],
+      [],
+      0
+    ],
+    "366": [
+      "Châu Ngọc",
+      790104,
+      7901,
+      0,
+      "4",
+      "111246",
+      110246,
+      "Ngọc châu ẩm ướt, ánh sáng rực rỡ. Có thể đổi món lẻ chủ đề và Bộ Hạn Đinh trong HĐ [Ánh Sáng Châu Ngọc]! [Có hiệu lực trong HĐ lần này]",
+      [
+        19042
+      ],
+      [],
+      0
+    ],
+    "367": [
+      "Ngôi Sao Đóng Băng",
+      850105,
+      8501,
+      0,
+      "4",
+      "111252",
+      110252,
+      "Ánh sao đóng băng, là quà tặng của tuyết. Có thể đổi món lẻ chủ đề và Bộ chỉ định trong HĐ Xứ Tuyết Mịt Mờ! [Có hiệu lực trong HĐ vòng này]",
+      [
+        18984
+      ],
+      [],
+      0
+    ],
+    "368": [
+      "Cành Thông Đóng Băng",
+      850105,
+      8501,
+      0,
+      "4",
+      "111253",
+      110253,
+      "Thông xanh đóng băng, là quà tặng của tuyết. Có thể đổi món lẻ chủ đề và Bộ chỉ định trong HĐ Xứ Tuyết Mịt Mờ! [Có hiệu lực trong HĐ vòng này]",
+      [
+        18984
+      ],
+      [],
+      0
+    ],
+    "369": [
+      "Gạch Hoa Hồng",
+      1060101,
+      10601,
+      0,
+      "4",
+      "111254",
+      110254,
+      "Màu hoa hồng, trang trí cho Cổ Lâu. Có thể tu sửa Cổ Lâu để nhận món lẻ chủ đề và Bộ chỉ định trong HĐ [Tái Hiện Thành Cổ Lụa Hoa]! [Có hiệu lực trong HĐ lần này]",
+      [
+        19180
+      ],
+      [],
+      0
+    ],
+    "370": [
+      "Gạch Lụa Hoa",
+      1060101,
+      10601,
+      0,
+      "4",
+      "111255",
+      110255,
+      "Trang sức lụa hoa,  trang trí cho Cổ Bảo. Có thể tu sửa Cổ Bảo để nhận món lẻ chủ đề và Bộ chỉ định trong HĐ [Tái Hiện Thành Cổ Lụa Hoa]! [Có hiệu lực trong HĐ lần này]",
+      [
+        19180
+      ],
+      [],
+      0
+    ],
+    "371": [
+      "Lô Hội",
+      390703,
+      3909,
+      0,
+      "4",
+      "111258",
+      110258,
+      "Trị thế an dân, nguyên liệu thuốc. Có thể đổi món lẻ chủ đề và Bộ Hạn Định trong [Cây Tiên Bốn Vị-Lô Hội]! [Có hiệu lực trong HĐ lần này]",
+      [
+        12942
+      ],
+      [],
+      0
+    ],
+    "372": [
+      "Hương Lô Hội",
+      390703,
+      3909,
+      0,
+      "4",
+      "111259",
+      110259,
+      "Hương thơm của thảo mộc. Có thể tham gia xếp hạng trong BXH HĐ [Cây Tiên Bốn Vị-Lô Hội]. [Có hiệu lực trong HĐ lần này]",
+      [
+        12942
+      ],
+      [],
+      0
+    ],
+    "373": [
+      "Ấn Hạc Tiêu Dao",
+      0,
+      4501,
+      0,
+      "4",
+      "111251",
+      110251,
+      "Cưỡi hạc rẽ gió, tiêu dao đất trời. Có thể đổi món lẻ chủ đề và Bộ chỉ định trong series HĐ [Tiêu Dao Ký]! [Có hiệu lực trong HĐ lần này]",
+      [
+        18400
+      ],
+      [],
+      0
+    ],
+    "374": [
+      "Ngọc Rồng",
+      830105,
+      8301,
+      0,
+      "4",
+      "111256",
+      110256,
+      "Tường long hí châu, thời đến vận đổi. Đến SK [Cát Tinh Cao Chiếu], đổi nội thất giới hạn! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        18940,
+        18930,
+        18953
+      ],
+      [],
+      0
+    ],
+    "375": [
+      "Ngọc Giang Sơn",
+      560101,
+      5601,
+      0,
+      "4",
+      "111257",
+      110257,
+      "Ngọc đón xuân, giang sơn gấm vóc. Đến SK [Giang Sơn Gấm Vóc], đổi đồ đẹp giới hạn! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        18112
+      ],
+      [],
+      0
+    ],
+    "376": [
+      "Pha Lê Tứ Tượng",
+      680103,
+      6801,
+      0,
+      "4",
+      "111262",
+      110262,
+      "Tứ tượng xoay vòng,hội tụ kết tinh. Có thể đổi Bộ Tứ Tượng Xoay Vòng trong HĐ [Tứ Tượng Xoay Vòng-Chư Thần Sum Họp]! [Có hiệu lực trong HĐ lần này]",
+      [
+        18772
+      ],
+      [],
+      0
+    ],
+    "377": [
+      "Pha Lê Cầu Vồng",
+      680103,
+      6801,
+      0,
+      "4",
+      "111261",
+      110261,
+      "Tứ tượng cầu vồng, ngưng tụ sắc màu.  Có thể đổi Bộ Ngợi Ca Cầu Vồng trong HĐ [Tứ Tượng Xoay Vòng-Chư Thần Sum Họp]! [Có hiệu lực trong HĐ lần này]",
+      [
+        18772
+      ],
+      [],
+      0
+    ],
+    "378": [
+      "Bánh Trôi",
+      260116,
+      2601,
+      0,
+      "4",
+      "111260",
+      110260,
+      "Bánh trôi làm thức ăn, cùng dự tiệc đoàn viên. Dùng Bánh Trôi đôi trang phục hạn định tuyệt đẹp trong HĐ [Tiệc Đoàn Viên]! [Có hiệu lực trong HĐ lần này]",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "379": [
+      "Cao Gót Vàng",
+      640114,
+      6401,
+      0,
+      "4",
+      "111263",
+      110263,
+      "Trong tim có ánh sáng, đi đường hoa của chính mình. Có thể đổi trang phục tuyệt đẹp trong HĐ [Thời Đại Lấp Lánh]! [Có hiệu lực trong HĐ lần này]",
+      [
+        18612
+      ],
+      [],
+      0
+    ],
+    "380": [
+      "Chìa Vàng",
+      630110,
+      6301,
+      0,
+      "4",
+      "111265",
+      110265,
+      "Chìa khóa mở ra cánh cửa cổ xưa, hướng đến ánh xuân rạng ngời. Có thể đồ lẻ chủ đề và bộ chỉ định trong SK [Thiên Kim Chạy Trốn]! [Hiệu lực trong SK vòng này]",
+      [
+        18509
+      ],
+      [],
+      0
+    ],
+    "381": [
+      "Chìa Bạc",
+      630110,
+      6301,
+      0,
+      "4",
+      "111264",
+      110264,
+      "Chìa khóa mở ra cánh cửa nặng nề, truy tìm vì sao xán lạn. Có thể đồ lẻ chủ đề và bộ chỉ định trong SK [Thiên Kim Chạy Trốn]! [Hiệu lực trong SK vòng này]",
+      [
+        18509
+      ],
+      [],
+      0
+    ],
+    "382": [
+      "Chìa Thiên Kim",
+      630110,
+      6301,
+      0,
+      "4",
+      "111266",
+      110266,
+      "Thiên kim chạy trốn, mở ra cánh cửa vận mệnh. Có thể tham gia xếp hạng trên BXH SK [Thiên Kim Chạy Trốn]. [Hiệu lực trong SK vòng này]",
+      [
+        18509
+      ],
+      [],
+      0
+    ],
+    "383": [
+      "Đơn Thuốc Linh Chi",
+      390704,
+      3909,
+      0,
+      "4",
+      "111267",
+      110267,
+      "Trị thế an dân, nguyên liệu thuốc. Có thể đổi món lẻ chủ đề và Bộ Hạn Định trong [Cây Tiên Bốn Vị-Linh Chi]! [Hiệu lực trong SK lần này]",
+      [
+        12943
+      ],
+      [],
+      0
+    ],
+    "384": [
+      "Hương Linh Chi",
+      390704,
+      3909,
+      0,
+      "4",
+      "111268",
+      110268,
+      "Hương thơm của thảo mộc. Có thể tham gia xếp hạng trong BXH SK [Cây Tiên Bốn Vị-Linh Chi]. [Hiệu lực trong SK lần này]",
+      [
+        12943
+      ],
+      [],
+      0
+    ],
+    "385": [
+      "Gỗ Anh Đào",
+      0,
+      8801,
+      0,
+      "4",
+      "111269",
+      110269,
+      "Linh thụ thần vực, chất gỗ kỳ diệu. Dùng Gỗ Thần này có thể nuôi trồng Anh Đào Thần Vực trong SK Thần Vực Kỳ Đàm. Dùng có thể nhận: Điểm Tiến Độ x1. [Hiệu lực trong SK vòng này]",
+      [
+        19012
+      ],
+      [],
+      0
+    ],
+    "386": [
+      "Gỗ U Huỳnh",
+      0,
+      8801,
+      0,
+      "4",
+      "111270",
+      110270,
+      "Linh thụ thần vực, chất gỗ kỳ diệu. Dùng Gỗ Thần này có thể nuôi trồng U Huỳnh Thần Vực trong SK Thần Vực Kỳ Đàm. Dùng có thể nhận: Điểm Tiến Độ ×1. [Hiệu lực trong SK vòng này]",
+      [
+        19012
+      ],
+      [],
+      0
+    ],
+    "387": [
+      "Gỗ Hòe Vàng",
+      0,
+      8801,
+      0,
+      "4",
+      "111271",
+      110271,
+      "Linh thụ thần vực, chất gỗ kỳ diệu. Dùng Gỗ Thần này có thể nuôi trồng Hòe Vàng Thần Vực trong SK Thần Vực Kỳ Đàm. Dùng có thể nhận: Điểm Tiến Độ ×1. [Hiệu lực trong SK vòng này]",
+      [
+        19012
+      ],
+      [],
+      0
+    ],
+    "388": [
+      "Gỗ Đông Thanh",
+      0,
+      8801,
+      0,
+      "4",
+      "111272",
+      110272,
+      "Linh thụ thần vực, chất gỗ kỳ diệu. Dùng Gỗ Thần này có thể nuôi trồng Đông Thanh Thần Vực trong SK Thần Vực Kỳ Đàm. Dùng có thể nhận: Điểm Tiến Độ ×1. [Hiệu lực trong SK vòng này]",
+      [
+        19012
+      ],
+      [],
+      0
+    ],
+    "389": [
+      "Xu Lam Mộng",
+      0,
+      10901,
+      0,
+      "4",
+      "111277",
+      110277,
+      "Vào miệng ngọt ngào, hạnh phúc tràn đầy. Có thể đổi trang phục giới hạn dạo chơi A Lý Cổn trong SK [Sổ Kỷ Niệm Dạo Chơi]! [Hiệu lực trong SK vòng này]",
+      [
+        19200
+      ],
+      [],
+      0
+    ],
+    "390": [
+      "Xu Vàng Rực",
+      0,
+      10901,
+      0,
+      "4",
+      "111278",
+      110278,
+      "Chua ngọt vừa miệng, trái tim tan chảy. Có thể đổi trang phục giới hạn dạo chơi Hoằng Lịch trong SK [Sổ Kỷ Niệm Dạo Chơi]! [Hiệu lực trong SK vòng này]",
+      [
+        19200
+      ],
+      [],
+      0
+    ],
+    "391": [
+      "Xu Cam Ấm",
+      0,
+      10901,
+      0,
+      "4",
+      "111279",
+      110279,
+      "Ấm áp chữa lành, nụ cười trở lại. Có thể đổi trang phục giới hạn dạo chơi Alendi trong SK [Sổ Kỷ Niệm Dạo Chơi]! [Hiệu lực trong SK vòng này]",
+      [
+        19200
+      ],
+      [],
+      0
+    ],
+    "392": [
+      "Xu Tím Ảo",
+      0,
+      10901,
+      0,
+      "4",
+      "111280",
+      110280,
+      "Vị giác kích thích, ngọt ngào vô hạn. Có thể đổi trang phục giới hạn dạo chơi Tề Mặc trong SK [Sổ Kỷ Niệm Dạo Chơi]! [Hiệu lực trong SK vòng này]",
+      [
+        19200
+      ],
+      [],
+      0
+    ],
+    "393": [
+      "Hồi Ức Biển Sao",
+      0,
+      10901,
+      0,
+      "4",
+      "111276",
+      110276,
+      "Ngân hà mãi sáng, ký ức trường tồn. Có thể đổi thẻ giới hạn tuyệt đẹp trong SK [Sổ Kỷ Niệm Dạo Chơi]! [Hiệu lực trong SK vòng này]",
+      [
+        19200
+      ],
+      [],
+      0
+    ],
+    "394": [
+      "Rối Gỗ",
+      1030103,
+      10301,
+      0,
+      "4",
+      "111273",
+      110273,
+      "Ngón tay động đậy, diễn ra bách thái nhân gian. Có thể đổi món lẻ chủ đề và bộ chỉ định trong SK [Câu Đố Con Rối]! [Hiệu lực trong SK vòng này]",
+      [
+        19152
+      ],
+      [],
+      0
+    ],
+    "395": [
+      "Búp Bê",
+      1030103,
+      10301,
+      0,
+      "4",
+      "111274",
+      110274,
+      "Bàn tay điều khiển, bật lên những suy nghĩ thú vị. Có thể đổi món lẻ chủ đề và bộ chỉ định trong SK [Câu Đố Con Rối]! [Hiệu lực trong SK vòng này]",
+      [
+        19152
+      ],
+      [],
+      0
+    ],
+    "396": [
+      "Điểm Bí Ẩn",
+      1030103,
+      10301,
+      0,
+      "4",
+      "111275",
+      110275,
+      "Câu đố xuất hiện, thú vị không dứt. Dùng để tăng cấp Viện Con Rối. [Hiệu lực trong SK vòng này]",
+      [
+        19152
+      ],
+      [],
+      0
+    ],
+    "397": [
+      "Điểm Bí Ẩn",
+      1030103,
+      10301,
+      0,
+      "4",
+      "111275",
+      110275,
+      "Câu đố xuất hiện, thú vị không dứt. Dùng để tăng cấp Viện Kịch Rối. [Hiệu lực trong SK vòng này]",
+      [
+        19152
+      ],
+      [],
+      0
+    ],
+    "398": [
+      "Bản Nhạc",
+      390801,
+      3909,
+      0,
+      "4",
+      "111282",
+      110282,
+      "Tiếng đàn du dương, chương nhạc truyền thế. Có thể đổi món lẻ chủ đề và bộ giới hạn trong SK [Tao Nhã Tứ Nghệ-Đánh Đàn]! [Hiệu lực trong SK vòng này]",
+      [
+        12944
+      ],
+      [],
+      0
+    ],
+    "399": [
+      "Thú Huyền Âm",
+      390801,
+      3909,
+      0,
+      "4",
+      "111283",
+      110283,
+      "Âm thanh tuyệt diệu, âm vận nhã thú. Có thể tham gia xếp hạng trên BXH SK [Tao Nhã Tứ Nghệ-Đánh Đàn]. [Hiệu lực trong SK vòng này]",
+      [
+        12944
+      ],
+      [],
+      0
+    ],
+    "400": [
+      "Bướm Kỳ Dạ",
+      890104,
+      8901,
+      0,
+      "4",
+      "111285",
+      110285,
+      "Bướm kỳ ảo, nhanh nhẹn như mơ. Có thể đổi bộ và món lẻ Dâng Mị Lực! [Hiệu lực trong SK vòng này]",
+      [
+        19023
+      ],
+      [],
+      0
+    ],
+    "401": [
+      "Sao Kỳ Dạ",
+      890104,
+      8901,
+      0,
+      "4",
+      "111284",
+      110284,
+      "Vì sao giữa đêm, tỏa sáng lấp lánh. Có thể đổi tái hiện lại bộ kinh điển! [Hiệu lực trong SK vòng này]",
+      [
+        19023
+      ],
+      [],
+      0
+    ],
+    "402": [
+      "Vé Thưởng Hội Chùa",
+      480303,
+      4803,
+      0,
+      "4",
+      "111281",
+      110281,
+      "Vé thưởng Hội Chùa, dùng đổi thưởng chỉ định trong SK [Hơi Thở Vạn Vật] [Hiệu lực trong SK vòng này]",
+      [
+        18793,
+        18760
+      ],
+      [],
+      0
+    ],
+    "403": [
+      "Mây Nhân Ái",
+      920103,
+      9201,
+      0,
+      "4",
+      "111287",
+      110287,
+      "Trái tim nhân đức, mây lành bầu bạn. Trong SK [Sóng Xanh Non Nước-Ngàn Năm Nhân Ái], đổi bộ Sô Ngu! [Hiệu lực trong SK vòng này]",
+      [
+        19072
+      ],
+      [],
+      0
+    ],
+    "404": [
+      "Mây Sơn Hải",
+      920103,
+      9201,
+      0,
+      "4",
+      "111286",
+      110286,
+      "Mây lành chiếu non nước, mây phúc cùng quân đi. Trong SK [Sóng Xanh Non Nước-Ngàn Năm Nhân Ái], đổi bộ quay lại! [Hiệu lực trong SK vòng này]",
+      [
+        19072
+      ],
+      [],
+      0
+    ],
+    "405": [
+      "Mái Chèo",
+      1020102,
+      10201,
+      0,
+      "4",
+      "111289",
+      110289,
+      "Khua nhẹ mặt nước, đưa thuyền đi xa. Nhận để đổi bộ Thuyền Hoa trong SK Chung Tình Chung Ý-Ngồi Thuyền Rồng. [Hiệu lực trong SK vòng này]",
+      [
+        19141
+      ],
+      [],
+      0
+    ],
+    "406": [
+      "Lá Tre",
+      1020102,
+      10201,
+      0,
+      "4",
+      "111288",
+      110288,
+      "Hương bánh bay xa, chúc phúc dài lâu. Nhận để đổi bộ Bánh Ú trong SK Chung Tình Chung Ý-Ngồi Thuyền Rồng. [Hiệu lực trong SK vòng này]",
+      [
+        19141
+      ],
+      [],
+      0
+    ],
+    "407": [
+      "Đàn Hạc Vàng",
+      640115,
+      6401,
+      0,
+      "4",
+      "111296",
+      110296,
+      "Đàn hạc vàng, vang vọng âm thanh trời ban. Trong SK [Thời Đại Lấp Lánh], đổi bộ giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        18612
+      ],
+      [],
+      0
+    ],
+    "408": [
+      "Đai Lụa",
+      910104,
+      9101,
+      0,
+      "4",
+      "111291",
+      110291,
+      "Đai lụa tung bai, mang theo lời chúc phúc của công chúa. Trong SK [Thì Thầm Mộng Ảo-Cổ Tích Rực Rỡ], đổi bộ giới hạn và món lẻ chủ đề! [Hiệu lực trong SK vòng này]",
+      [
+        19063
+      ],
+      [],
+      0
+    ],
+    "409": [
+      "Kẹo Ngon",
+      910104,
+      9101,
+      0,
+      "4",
+      "111292",
+      110292,
+      "Viên kẹo ngọt ngào, mang theo lời chúc phúc của công chúa. Trong SK [Thì Thầm Mộng Ảo-Cổ Tích Rực Rỡ], đổi bộ giới hạn và món lẻ chủ đề! [Hiệu lực trong SK vòng này]",
+      [
+        19063
+      ],
+      [],
+      0
+    ],
+    "410": [
+      "Điểm Rực Rỡ",
+      910104,
+      9101,
+      0,
+      "4",
+      "111293",
+      110293,
+      "Bảo vệ giấc mơ, tạo nên thế giới cổ tích. Dùng để xếp hạng trong SK [Thì Thầm Mộng Ảo-Cổ Tích Rực Rỡ]. [Hiệu lực trong SK vòng này]",
+      [
+        19063
+      ],
+      [],
+      0
+    ],
+    "411": [
+      "Đá Nguyện Vọng",
+      830106,
+      8301,
+      0,
+      "4",
+      "111148",
+      110148,
+      "Hỏi đá vô đạo, tâm thành ắt linh. Có thể đổi nội thất giới hạn trong HĐ [Gửi Gắm Tâm Nguyện]! [Chỉ có hiệu lực trong HĐ lần này]",
+      [
+        18943,
+        18931,
+        18951
+      ],
+      [],
+      0
+    ],
+    "412": [
+      "Dũng Khí",
+      820106,
+      8201,
+      0,
+      "4",
+      "111124",
+      110124,
+      "Điểm SK nhận được khi thuần phục Du Long, dùng để xếp hạng trong SK [Thuần Du Long]. [Hiệu lực trong SK vòng này]",
+      [
+        18943
+      ],
+      [],
+      0
+    ],
+    "413": [
+      "Long Phách Châu",
+      820106,
+      8201,
+      0,
+      "4",
+      "111290",
+      110290,
+      "Du Long hí châu, điềm lành khắp vườn! Để đổi thưởng giới hạn trong SK [Thuần Du Long]! [Hiệu lực trong SK vòng này]",
+      [
+        18943
+      ],
+      [],
+      0
+    ],
+    "414": [
+      "Sách Cờ Cổ",
+      390802,
+      3909,
+      0,
+      "4",
+      "111294",
+      110294,
+      "Sách cờ thiên cổ, tinh hoa trí tuệ. Trong SK [Tao Nhã Tứ Nghệ-Chơi Cờ], đổi bộ giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        12945
+      ],
+      [],
+      0
+    ],
+    "415": [
+      "Thú Chơi Cờ",
+      390802,
+      3909,
+      0,
+      "4",
+      "111295",
+      110295,
+      "Đặt quân cờ, định càn khôn. Dùng để xếp hạng trong SK [Tao Nhã Tứ Nghệ-Chơi Cờ]. [Hiệu lực trong SK vòng này]",
+      [
+        12945
+      ],
+      [],
+      0
+    ],
+    "416": [
+      "Đá Ngôi Sao",
+      1060102,
+      10601,
+      0,
+      "4",
+      "111297",
+      110297,
+      "Màu tím vàng, dự đoán của trăng sao. Trong SK [Giai Điệu Thời Gian], sửa món đồ cổ nhận bộ chỉ định và món lẻ chủ đề! [Hiệu lực trong SK vòng này]",
+      [
+        19181
+      ],
+      [],
+      0
+    ],
+    "417": [
+      "Đá Bầu Trời",
+      1060102,
+      10601,
+      0,
+      "4",
+      "111298",
+      110298,
+      "Màu xanh bạc, bài thơ của vận mệnh. Trong SK [Giai Điệu Thời Gian], sửa món đồ cổ nhận bộ chỉ định và món lẻ chủ đề! [Hiệu lực trong SK vòng này]",
+      [
+        19181
+      ],
+      [],
+      0
+    ],
+    "418": [
+      "Vé Kịch",
+      640116,
+      6401,
+      0,
+      "4",
+      "111299",
+      110299,
+      "Sân kịch lớn, mời bạn thưởng thức. Trong SK [Thời Đại Lấp Lánh], đổi bộ giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        18612
+      ],
+      [],
+      0
+    ],
+    "419": [
+      "Ảo Lực",
+      960102,
+      9601,
+      0,
+      "4",
+      "111300",
+      110300,
+      "Sức mạnh kỳ ảo, lấp lánh ánh sáng. Trong SK [Tarot Kỳ Ảo-Cốc Thánh Vinh Dự], hỗ trợ bộ trong series Tarot, nhận thưởng giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        19111
+      ],
+      [],
+      0
+    ],
+    "420": [
+      "Tim Cầu Nguyện",
+      630111,
+      6301,
+      0,
+      "4",
+      "111301",
+      110301,
+      "Nguyện kết duyên lành, bên nhau suốt kiếp. Trong SK [Thất Tịch-Lời Thề Chân Ái], đổi bộ giới hạn và món lẻ chủ đề! [Hiệu lực trong SK vòng này]",
+      [
+        18510
+      ],
+      [],
+      0
+    ],
+    "421": [
+      "Tim Say Đắm",
+      630111,
+      6301,
+      0,
+      "4",
+      "111302",
+      110302,
+      "Mong được chân tình, không phụ đời này. Trong SK [Thất Tịch-Lời Thề Chân Ái], đổi bộ giới hạn và món lẻ chủ đề! [Hiệu lực trong SK vòng này]",
+      [
+        18510
+      ],
+      [],
+      0
+    ],
+    "422": [
+      "Ước Hẹn Hỷ Thước",
+      630111,
+      6301,
+      0,
+      "4",
+      "111303",
+      110303,
+      "Ngày hội gặp bên cầu Hỷ Thước. Dùng để xếp hạng trong SK [Thất Tịch-Lời Thề Chân Ái]. [Hiệu lực trong SK vòng này]",
+      [
+        18510
+      ],
+      [],
+      0
+    ],
+    "423": [
+      "Ngọc Cát",
+      790105,
+      7901,
+      0,
+      "4",
+      "111304",
+      110304,
+      "Ẩn chứa sức mạnh thần bí của biển cát. Dùng trong SK [Sa Mạc Biến Mất] để đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        19043
+      ],
+      [],
+      0
+    ],
+    "424": [
+      "Bút Nghiên ",
+      390803,
+      3909,
+      0,
+      "4",
+      "111305",
+      110305,
+      "Mượn ngòi bút tỏ tình ý. Dùng trong SK [Tao Nhã Tứ Nghệ-Thư Pháp] để đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        12946
+      ],
+      [],
+      0
+    ],
+    "425": [
+      "Thú Thư Pháp ",
+      390803,
+      3909,
+      0,
+      "4",
+      "111306",
+      110306,
+      "Nghiên mực lưu hương, thư pháp tao nhã. Dùng để xếp hạng trong BXH SK [Tao Nhã Tứ Nghệ-Thư Pháp]. [Chỉ có hiệu lực trong SK này]",
+      [
+        12946
+      ],
+      [],
+      0
+    ],
+    "426": [
+      "Bánh Hương Hoa",
+      850106,
+      8501,
+      0,
+      "4",
+      "111307",
+      110307,
+      "Bánh Hoa được làm từ hoa sen dưới trăng. Dùng trong SK [Bóng Trăng Ngàn Dặm-Cùng Ngắm Ánh Trăng], đổi bộ chỉ định và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        18985
+      ],
+      [],
+      0
+    ],
+    "427": [
+      "Bánh Dẻo",
+      850106,
+      8501,
+      0,
+      "4",
+      "111308",
+      110308,
+      "Bánh Dẻo được làm từ giọt sương dưới trăng. Dùng trong SK [Bóng Trăng Ngàn Dặm-Cùng Ngắm Ánh Trăng], đổi bộ chỉ định và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        18985
+      ],
+      [],
+      0
+    ],
+    "428": [
+      "Giải Vàng",
+      640117,
+      6401,
+      0,
+      "4",
+      "111309",
+      110309,
+      "Giải vàng xuất sắc, tượng trưng cho vinh dự. Dùng trong SK [Thời Đại Lấp Lánh], đổi bộ giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK này]",
+      [
+        18612
+      ],
+      [],
+      0
+    ],
+    "429": [
+      "Bích Vũ",
+      260117,
+      2601,
+      0,
+      "4",
+      "111310",
+      110310,
+      "Bích vũ du, phượng hoàng phi. Dùng Bích Vũ, tại SK [Phượng Phi Tước Vũ] đổi bộ giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK này]",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "430": [
+      "Quả Thông ",
+      630112,
+      6301,
+      0,
+      "4",
+      "111311",
+      110311,
+      "Quả thông tròn vo, là món mà các bạn Sóc thích nhất. Trong SK [Hành Trình Rừng Mây], đổi bộ chỉ định và món vẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        18511
+      ],
+      [],
+      0
+    ],
+    "431": [
+      "Quả Ngọt ",
+      630112,
+      6301,
+      0,
+      "4",
+      "111312",
+      110312,
+      "Quả tươi ngọt ngào, là món mà các Tiên Lộ thích nhất. Trong SK [Hành Trình Rừng Mây], đổi bộ chỉ định và món vẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        18511
+      ],
+      [],
+      0
+    ],
+    "432": [
+      "Chúc Phúc ",
+      630112,
+      6301,
+      0,
+      "4",
+      "111313",
+      110313,
+      "Hành trình rừng mây, chúc phúc bầu bạn. Dùng để xếp hạng trong BXH SK [Hành Trình Rừng Mây]. [Chỉ có hiệu lực trong SK này]",
+      [
+        18511
+      ],
+      [],
+      0
+    ],
+    "433": [
+      "Cánh Sáng",
+      560101,
+      5601,
+      0,
+      "4",
+      "111314",
+      110314,
+      "Ánh nắng vàng rực rỡ, bạn cho vạn vật đôi cánh hy vọng. Dùng trong SK [Đôi Cánh Hy Vọng], đổi bộ giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK này]",
+      [
+        18113
+      ],
+      [],
+      0
+    ],
+    "435": [
+      "Gấm Thục",
+      1120101,
+      11201,
+      0,
+      "4",
+      "111316",
+      110316,
+      "Gấm Thục hiếm có, 1 tấc ngang 10 đấu vàng. Dùng tại SK [Hồi Ức Chân Hoàn], đổi bộ giới hạn tuyệt đẹp! [Có hiệu lực trong SK này]",
+      [
+        19230,
+        19240,
+        19250,
+        19260
+      ],
+      [],
+      0
+    ],
+    "436": [
+      "Ốc Vẽ Mày",
+      1120101,
+      11201,
+      0,
+      "4",
+      "111317",
+      110317,
+      "Cống phẩm dị vực, 1 cái giá 10 đấu vàng. Dùng tại SK [Hồi Ức Chân Hoàn], đổi bộ giới hạn tuyệt đẹp! [Có hiệu lực trong SK này]",
+      [
+        19230,
+        19240,
+        19250,
+        19260
+      ],
+      [],
+      0
+    ],
+    "437": [
+      "Mõ Hối Lỗi",
+      1170101,
+      11701,
+      0,
+      "4",
+      "111318",
+      110318,
+      "Tiếng mõ vang vọng, hối hận không thôi. Dùng tại SK [Cam Lộ Tự Trừ Gian], đổi thưởng siêu hời! [Có hiệu lực trong SK này]",
+      [
+        19280
+      ],
+      [],
+      0
+    ],
+    "438": [
+      "Công Đức",
+      1170101,
+      11701,
+      0,
+      "4",
+      "111319",
+      110319,
+      "Chăm làm điều thiện, đức thấm lòng người. Dùng để tham gia BXH [Cam Lộ Tự Trừ Gian]. [Có hiệu lực trong SK này]",
+      [
+        19280
+      ],
+      [],
+      0
+    ],
+    "439": [
+      "Cành Vân Tùng",
+      760104,
+      7601,
+      0,
+      "4",
+      "111320",
+      110320,
+      "Vân tùng sừng sững, không sợ gió lạnh!. Dùng trong SK [Mặc Vận Tàng Phong], đổi thưởng giới hạn! [Chỉ có hiệu lực trong SK này]",
+      [
+        18873
+      ],
+      [],
+      0
+    ],
+    "440": [
+      "Cành Ỷ Mai",
+      1160101,
+      11601,
+      0,
+      "4",
+      "111329",
+      100546,
+      "Hàn mai ngạo tuyết, nhất chi độc tú. Trong SK [Chân Hoàn Dạo Vườn] đổi nội thất và ngoại cảnh Biệt Viện giới hạn! [Có hiệu lực trong SK này]",
+      [
+        19270
+      ],
+      [],
+      0
+    ],
+    "441": [
+      "Bướm Ảo",
+      1030104,
+      10301,
+      0,
+      "4",
+      "111321",
+      110321,
+      "Vỗ nhẹ cánh bướm, mở ra phép thuật của rừng sâu. Dùng trong SK [Chuyện Đêm Huyền Bí], đổi món lẻ chủ đề và bộ chỉ định! [Chỉ có hiệu lực trong SK này]",
+      [
+        19153
+      ],
+      [],
+      0
+    ],
+    "442": [
+      "Đèn Thần",
+      1030104,
+      10301,
+      0,
+      "4",
+      "111322",
+      110322,
+      "Sao trời niệm chú, kể về điều ước chốn trần gian. Dùng trong SK [Chuyện Đêm Huyền Bí], đổi món lẻ chủ đề và bộ chỉ định! [Chỉ có hiệu lực trong SK này]",
+      [
+        19153
+      ],
+      [],
+      0
+    ],
+    "443": [
+      "Điểm Thần Bí",
+      1030104,
+      10301,
+      0,
+      "4",
+      "111323",
+      110323,
+      "Thần tích ẩn hiện, ảo ảnh khó lường. Dùng để tăng cấp Thần Bí của Chuyện Đêm. [Chỉ có hiệu lực trong SK này]",
+      [
+        19153
+      ],
+      [],
+      0
+    ],
+    "444": [
+      "Điểm Thần Bí",
+      1030104,
+      10301,
+      0,
+      "4",
+      "111323",
+      110323,
+      "Thần tích ẩn hiện, ảo ảnh khó lường. Dùng để tăng cấp Thần Bí của Chuyện Đêm. [Chỉ có hiệu lực trong SK này]",
+      [
+        19153
+      ],
+      [],
+      0
+    ],
+    "445": [
+      "Bài Sao",
+      640118,
+      6401,
+      0,
+      "4",
+      "111324",
+      110324,
+      "Sao trời chớp tắt, mang đến ánh sáng hy vọng. Dùng tại SK [Tarot Mộng Ảo], đổi trang sức giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK này]",
+      [
+        18613
+      ],
+      [],
+      0
+    ],
+    "446": [
+      "Tuyết Lam",
+      850107,
+      8501,
+      0,
+      "4",
+      "111325",
+      110325,
+      "Sắc xanh trong suốt đó, lặng lẽ mà xa xăm. Tại SK [Quà Mùa Đông], đổi bộ chỉ định và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        18986
+      ],
+      [],
+      0
+    ],
+    "447": [
+      "Tuyết Tím",
+      850107,
+      8501,
+      0,
+      "4",
+      "111326",
+      110326,
+      "Sắc tím trong suốt đó, hoa lệ mà mộng ảo. Tại SK [Quà Mùa Đông], đổi bộ chỉ định và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        18986
+      ],
+      [],
+      0
+    ],
+    "448": [
+      "Sen Vàng Nhụy Thánh",
+      890105,
+      8901,
+      0,
+      "4",
+      "111328",
+      110328,
+      "Sen vàng nhụy thành, gửi tặng phúc lành. Có thể đổi món lẻ và bộ tại Dâng Mị Lực! [Chỉ có hiệu lực trong SK này]",
+      [
+        19024
+      ],
+      [],
+      0
+    ],
+    "449": [
+      "Ngọc Phúc Lành",
+      890105,
+      8901,
+      0,
+      "4",
+      "111327",
+      110327,
+      "Phúc lộc dồi dào, ngọc dân cát lành. Có thể đổi bộ Tái Hiện Kinh Điển! [Chỉ có hiệu lực trong SK này]",
+      [
+        19024
+      ],
+      [],
+      0
+    ],
+    "450": [
+      "Ảo Vũ",
+      790106,
+      7901,
+      0,
+      "4",
+      "111330",
+      110330,
+      "Tín vật quý hiếm đến từ Ảo Vũ Cảnh. Dùng trong SK [Ảo Vũ Thành Thơ], đổi món lẻ chủ đề và bộ giới hạn! [Chỉ có hiệu lực trong SK này]",
+      [
+        19044
+      ],
+      [],
+      0
+    ],
+    "451": [
+      "Phiếu Sao Băng",
+      0,
+      0,
+      0,
+      "5",
+      "111334",
+      110334,
+      "Một loại xu cực hiếm, có thể dùng để mua vật phẩm mà bạn cần, mời đến web nạp để nhận.",
+      [],
+      [],
+      0
+    ],
+    "452": [
+      "Đan Thanh",
+      390804,
+      3909,
+      0,
+      "4",
+      "111331",
+      110331,
+      "Đan thanh trong tranh, vẽ nên thiên thu. Dùng trong SK [Tao Nhã Tứ Nghệ-Hội Họa], đổi món lẻ chủ đề và bộ giới hạn! [Chỉ có hiệu lực trong SK này]",
+      [
+        12947
+      ],
+      [],
+      0
+    ],
+    "453": [
+      "Thú Hội Họa ",
+      390804,
+      3909,
+      0,
+      "4",
+      "111332",
+      110332,
+      "Đan Thanh khó tả, họa nhã đầy thi vị. Dùng tại BXH của SK [Tao Nhã Tứ Nghệ-Hội Họa] để xếp hạng. [Chỉ có hiệu lực trong SK này]",
+      [
+        12947
+      ],
+      [],
+      0
+    ],
+    "454": [
+      "Thánh Linh Xà",
+      830107,
+      8301,
+      0,
+      "4",
+      "111333",
+      110333,
+      "Linh Xà chúc phúc, phúc lộc song toàn. Trong SK [U Cư Thánh Linh] đổi nội thất giới hạn! [Chỉ cố hiệu lực trong SK lần này]",
+      [
+        18940,
+        18930,
+        18954
+      ],
+      [],
+      0
+    ],
+    "455": [
+      "Bình Vàng",
+      560101,
+      5601,
+      0,
+      "4",
+      "111335",
+      110335,
+      "Bình bảo lấp lánh, bảo vật tái hiện. Trong SK [Bảo Vật Tái Hiện] đổi trang phục giới hạn lộng lẫy! [Chỉ cố hiệu lực trong SK lần này]",
+      [
+        18114
+      ],
+      [],
+      0
+    ],
+    "456": [
+      "Hộp Bốn Vị",
+      680104,
+      6801,
+      0,
+      "4",
+      "111337",
+      110337,
+      "Hộp chứ bốn vị, tiêu trừ bệnh tật. Dùng tại SK [Cây Tiên Bốn Vị-Tìm Kiếm Bách Thảo], đổi bộ Cây Tiên Bốn Vị! [Chỉ có hiệu lực trong SK này]",
+      [
+        18773
+      ],
+      [],
+      0
+    ],
+    "457": [
+      "Bách Thảo",
+      680104,
+      6801,
+      0,
+      "4",
+      "111336",
+      110336,
+      "Trăm cỏ làm thuốc, hóa giải tai ương. Dùng tại SK [Cây Tiên Bốn Vị-Tìm Kiếm Bách Thảo], đổi bộ Ngự Bách Thảo! [Chỉ có hiệu lực trong SK này]",
+      [
+        18773
+      ],
+      [],
+      0
+    ],
+    "458": [
+      "Bí Kíp Dành Dành",
+      850108,
+      8501,
+      0,
+      "4",
+      "111338",
+      110338,
+      "Hoa ủ mật ngọt, gửi gắm thuần khiết. Dùng tại SK [Bí Kíp Độc Quyền], đổi món lẻ và bộ chỉ định! [Chỉ có hiệu lực trong SK này]",
+      [
+        18987
+      ],
+      [],
+      0
+    ],
+    "459": [
+      "Bí Kíp Hoa Lan",
+      850108,
+      8501,
+      0,
+      "4",
+      "111339",
+      110339,
+      "Hoa kết tình dài, năm tháng dịu dàng. Dùng tại SK [Bí Kíp Độc Quyền], đổi món lẻ và bộ chỉ định! [Chỉ có hiệu lực trong SK này]",
+      [
+        18987
+      ],
+      [],
+      0
+    ],
+    "460": [
+      "Mèo Đèn",
+      1020103,
+      10201,
+      0,
+      "4",
+      "111340",
+      110340,
+      "Chú mèo chiêu khách cho chủ nhân. Dùng tại SK [Ánh Đèn Muôn Nhà]. Đổi trang phục giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK này]",
+      [
+        19142
+      ],
+      [],
+      0
+    ],
+    "461": [
+      "Cún Tiệc",
+      1020103,
+      10201,
+      0,
+      "4",
+      "111341",
+      110341,
+      "Chú chó cùng chủ nhân tham dự yến tiệc. Dùng tại SK [Ánh Đèn Muôn Nhà]. Đổi trang phục giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK này]",
+      [
+        19142
+      ],
+      [],
+      0
+    ],
+    "462": [
+      "Tâm Vũ",
+      1190101,
+      11901,
+      0,
+      "4",
+      "111342",
+      110342,
+      "Dùng trong SK [Ước Hẹn Trùng Phùng-Quà Riêng Quay Lại], tăng cấp quay lại. [Chỉ có hiệu lực trong SK này]",
+      [
+        19300
+      ],
+      [],
+      0
+    ],
+    "463": [
+      "Ngọc Rồng ",
+      590102,
+      5901,
+      0,
+      "4",
+      "111343",
+      110343,
+      "Ngọc rồng tỏa sáng, phản chiếu truyền thuyết cổ xưa. Dùng trong SK [Rồng Và Thiếu Nữ], mở Hộp Trân Phẩm. [Chỉ có hiệu lực trong SK này]",
+      [
+        18150
+      ],
+      [],
+      0
+    ],
+    "464": [
+      "Công Thức",
+      390805,
+      3909,
+      0,
+      "4",
+      "111344",
+      110344,
+      "Công thức hương truyền đời, Đông Các giữ xuân. Dùng trong SK [Hương Vận Tứ Phương-Đông Các Tàng Xuân], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        12948
+      ],
+      [],
+      0
+    ],
+    "465": [
+      "Hương Thơm",
+      390805,
+      3909,
+      0,
+      "4",
+      "111345",
+      110345,
+      "Hương ấm Đông Các, thần vận ngàn hoa. Dùng trong SK [Hương Vận Tứ Phương-Đông Các Tàng Xuân], tham gia xếp hạng. [Chỉ có hiệu lực trong SK này]",
+      [
+        12948
+      ],
+      [],
+      0
+    ],
+    "466": [
+      "Sáo Quỷ",
+      910105,
+      9101,
+      0,
+      "4",
+      "111346",
+      110346,
+      "Tiếng sáo kỳ bí, thổi lên chân tướng kỳ lạ. Dùng trong SK [Thì Thầm Huyền Bí-Chuyện Lạ Kỳ Bí], đổi bộ chỉ định và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        19064
+      ],
+      [],
+      0
+    ],
+    "467": [
+      "Ô Đêm",
+      910105,
+      9101,
+      0,
+      "4",
+      "111347",
+      110347,
+      "Ô mưa đêm tối, ẩn giấu chuyện kỳ bí. Dùng trong SK [Thì Thầm Huyền Bí-Chuyện Lạ Kỳ Bí], đổi bộ chỉ định và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        19064
+      ],
+      [],
+      0
+    ],
+    "468": [
+      "Điểm Kỳ Bí",
+      910105,
+      9101,
+      0,
+      "4",
+      "111348",
+      110348,
+      "Giải mã câu đố, khám phá truyền lạ kỳ quái. Dùng trong SK [Thì Thầm Huyền Bí-Chuyện Lạ Kỳ Bí], tham gia xếp hạng. [Chỉ có hiệu lực trong SK này]",
+      [
+        19064
+      ],
+      [],
+      0
+    ],
+    "469": [
+      "Mảnh Trác Yên Sơn",
+      0,
+      8801,
+      0,
+      "4",
+      "111212",
+      110212,
+      "Gió khói phủ ngọc xanh, núi mờ chạm ngọc. Dùng mảnh này tại SK Chuyện Lạ Sơn Hải để phục hồi Cuộn Trác Yên Sơn. Dùng nhận: Tiến Độ ×1. [Chỉ có hiệu lực trong SK này]",
+      [
+        19013
+      ],
+      [],
+      0
+    ],
+    "470": [
+      "Mảnh Thiên Y Hải",
+      0,
+      8801,
+      0,
+      "4",
+      "111213",
+      110213,
+      "Sóng biển nghìn năm, gợn nước trong veo. Dùng mảnh này tại SK Chuyện Lạ Sơn Hải để phục hồi Cuộn Thiên Y Hải. Dùng nhận: Tiến Độ ×1. [Chỉ có hiệu lực trong SK này]",
+      [
+        19013
+      ],
+      [],
+      0
+    ],
+    "471": [
+      "Mảnh Xích Ô Lan",
+      0,
+      8801,
+      0,
+      "4",
+      "111214",
+      110214,
+      "Nửa vách thấy biển, sóng vỗ ầm ầm. Dùng mảnh này tại SK Chuyện Lạ Sơn Hải để phục hồi Cuộn Xích Ô Lan. Dùng nhận: Tiến Độ ×1. [Chỉ có hiệu lực trong SK này]",
+      [
+        19013
+      ],
+      [],
+      0
+    ],
+    "472": [
+      "Mảnh Quy Mộ Phong",
+      0,
+      8801,
+      0,
+      "4",
+      "111215",
+      110215,
+      "Mây chiều trôi bốn biển, đỉnh núi hiểm trở. Dùng mảnh này tại SK Chuyện Lạ Sơn Hải để phục hồi Cuộn Quy Mộ Phong. Dùng nhận: Tiến Độ ×1. [Chỉ có hiệu lực trong SK này]",
+      [
+        19013
+      ],
+      [],
+      0
+    ],
+    "474": [
+      "Lục Lạc",
+      1030105,
+      10301,
+      0,
+      "4",
+      "111350",
+      110350,
+      "Tiếng lắc lục lạc, là tiếng gọi Thiên Sơn. Dùng trong SK [Phong Cảnh Diễm Lệ], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        19154
+      ],
+      [],
+      0
+    ],
+    "475": [
+      "Trống Lắc",
+      1030105,
+      10301,
+      0,
+      "4",
+      "111351",
+      110351,
+      "Tiếng gõ trống lắc, là lời thì thầm Núi Tuyết. Dùng trong SK [Phong Cảnh Diễm Lệ], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        19154
+      ],
+      [],
+      0
+    ],
+    "476": [
+      "Điểm Diễm Lệ",
+      1030105,
+      10301,
+      0,
+      "4",
+      "111352",
+      110352,
+      "Phong cảnh ngoạn mục, rực rỡ vô biên. Dùng để tăng Cấp Diễm Lệ. [Chỉ có hiệu lực trong SK này]",
+      [
+        19154
+      ],
+      [],
+      0
+    ],
+    "477": [
+      "Điểm Diễm Lệ",
+      1030105,
+      10301,
+      0,
+      "4",
+      "111352",
+      110352,
+      "Phong cảnh ngoạn mục, rực rỡ vô biên. Dùng để tăng Cấp Diễm Lệ. [Chỉ có hiệu lực trong SK này]",
+      [
+        19154
+      ],
+      [],
+      0
+    ],
+    "478": [
+      "Sao Cầu Vồng",
+      1060103,
+      10601,
+      0,
+      "4",
+      "111353",
+      110353,
+      "Ánh sao cầu vồng, thắp sáng khoảnh khắc cổ điển. Trong SK [Thời Gian Nhàn Nhã], sửa chữa thời gian nhận bộ chỉ định và món lẻ chủ đề! [Hiệu lực trong SK vòng này]",
+      [
+        19182
+      ],
+      [],
+      0
+    ],
+    "479": [
+      "Sao Ánh Sáng",
+      1060103,
+      10601,
+      0,
+      "4",
+      "111354",
+      110354,
+      "Ngôi sao lấp lánh, thắp sáng khoảnh khắc thần tượng. Trong SK [Thời Gian Nhàn Nhã], sửa chữa thời gian nhận bộ chỉ định và món lẻ chủ đề! [Hiệu lực trong SK vòng này]",
+      [
+        19182
+      ],
+      [],
+      0
+    ],
+    "480": [
+      "Bài Ác Ma",
+      640119,
+      6401,
+      0,
+      "4",
+      "111355",
+      110355,
+      "Ác quỷ thì thầm, trở thành xiềng xích dục vọng. Trong SK [Tarot Mộng Ảo], đổi bộ giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        18613
+      ],
+      [],
+      0
+    ],
+    "481": [
+      "Hao Thiên Khuyển",
+      1020104,
+      10201,
+      0,
+      "4",
+      "111356",
+      110356,
+      "Săn yêu diệt quái, Thần Khuyển Hao Thiên. Trong SK [Tây Du Hành-Khởi Duyên], đổi bộ giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        19143
+      ],
+      [],
+      0
+    ],
+    "482": [
+      "Bí Tử Chu",
+      1020104,
+      10201,
+      0,
+      "4",
+      "111357",
+      110357,
+      "Thiên địa vương triện, Nhện Yêu thần bí. Trong SK [Tây Du Hành-Khởi Duyên], đổi bộ giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        19143
+      ],
+      [],
+      0
+    ],
+    "483": [
+      "Hương Nam",
+      390806,
+      3909,
+      0,
+      "4",
+      "111358",
+      110358,
+      "Công thức hương truyền đời, Mộng Xưa Nam Triều. Dùng trong SK [Hương Vận Tứ Phương-Mộng Xưa Nam Triều], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        12949
+      ],
+      [],
+      0
+    ],
+    "484": [
+      "Hương Thơm",
+      390806,
+      3909,
+      0,
+      "4",
+      "111359",
+      110359,
+      "Phong nhã Nam Triều, hương thơm cổ điển. Dùng trong SK [Hương Vận Tứ Phương-Mộng Xưa Nam Triều], tham gia xếp hạng. [Chỉ có hiệu lực trong SK này]",
+      [
+        12949
+      ],
+      [],
+      0
+    ],
+    "485": [
+      "Đậu Mộng",
+      790107,
+      7901,
+      0,
+      "4",
+      "111363",
+      110363,
+      "Gieo một hạt đậu, kết trái ngọt ngào. Dùng trong SK [Công Chúa Hạt Đậu], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        19045
+      ],
+      [],
+      0
+    ],
+    "486": [
+      "KNB",
+      920104,
+      9201,
+      0,
+      "4",
+      "111110",
+      110110,
+      "Nguyên Bảo dâng lành, vàng ngọc đón cát. Trong SK [Thần Vực Kỳ Đàm-Tỳ Hưu Thiên Lộc], đổi bộ Tỳ Hưu! [Chỉ có hiệu lực trong SK này]",
+      [
+        19073
+      ],
+      [],
+      0
+    ],
+    "487": [
+      "Xu Phúc",
+      920104,
+      9201,
+      0,
+      "4",
+      "111360",
+      110360,
+      "Đồng xu khéo đúc, tài lộc đến sân, phúc đầy nhà. Trong SK [Thần Vực Kỳ Đàm-Tỳ Hưu Thiên Lộc], đổi bộ quay lại! [Hiệu lực trong SK vòng này]",
+      [
+        19073
+      ],
+      [],
+      0
+    ],
+    "488": [
+      "Vé Thưởng Hội Chùa",
+      480304,
+      4803,
+      0,
+      "4",
+      "111362",
+      110362,
+      "Vé thưởng Hội Chùa, dùng đổi thưởng chỉ định trong SK [Núi Có Cỏ Cây-Hổ Phách Nương Tựa] [Hiệu lực trong SK vòng này]",
+      [
+        18794,
+        18760
+      ],
+      [],
+      0
+    ],
+    "489": [
+      "Đế Kiếm",
+      760105,
+      7601,
+      0,
+      "4",
+      "111364",
+      110364,
+      "Ma diễm thiêu trời, Đế Kiếm trấn uyên. Để đổi thưởng giới hạn trong SK [Đế Kiếm Phong Hoa]! [Hiệu lực trong SK vòng này]",
+      [
+        18874
+      ],
+      [],
+      0
+    ],
+    "490": [
+      "Đá Tối",
+      850109,
+      8501,
+      0,
+      "4",
+      "111079",
+      110079,
+      "Tinh thạch đến từ vực sâu. Dùng trong SK [Chỉ Dẫn Đêm Vắng], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        18988
+      ],
+      [],
+      0
+    ],
+    "491": [
+      "Đá Sáng",
+      850109,
+      8501,
+      0,
+      "4",
+      "111080",
+      110080,
+      "Tinh thạch đến từ thiên quốc. Dùng trong SK [Chỉ Dẫn Đêm Vắng], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        18988
+      ],
+      [],
+      0
+    ],
+    "492": [
+      "Đá Nguyện Vọng",
+      830108,
+      8301,
+      0,
+      "4",
+      "111148",
+      110148,
+      "Hỏi đá vô đạo, tâm thành ắt linh. Có thể đổi nội thất giới hạn trong HĐ [Gửi Gắm Tâm Nguyện]! [Chỉ có hiệu lực trong HĐ lần này]",
+      [
+        18944,
+        18931,
+        18951
+      ],
+      [],
+      0
+    ],
+    "493": [
+      "Dũng Khí",
+      820108,
+      8201,
+      0,
+      "4",
+      "111124",
+      110124,
+      "Điểm SK nhận được khi thuần phục Kiêu Xà, dùng để xếp hạng trong SK [Thuần Kiêu Xà]. [Hiệu lực trong SK vòng này]",
+      [
+        18944
+      ],
+      [],
+      0
+    ],
+    "494": [
+      "Huyền Tinh",
+      820108,
+      8201,
+      0,
+      "4",
+      "111361",
+      110361,
+      "Linh Xà cuộn phúc, bảo vệ bình an! Để đổi thưởng giới hạn trong SK [Thuần Kiêu Xà]! [Hiệu lực trong SK vòng này]",
+      [
+        18944
+      ],
+      [],
+      0
+    ],
+    "495": [
+      "Hương Tây",
+      390807,
+      3909,
+      0,
+      "4",
+      "111365",
+      110365,
+      "Công thức hương truyền đời, Nhã Ý Lầu Tây. Dùng trong SK [Hương Vận Tứ Phương-Nhã Ý Lầu Tây], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        12950
+      ],
+      [],
+      0
+    ],
+    "496": [
+      "Hương Thơm",
+      390807,
+      3909,
+      0,
+      "4",
+      "111366",
+      110366,
+      "Lầu Tây thanh nhã, hương thơm thoát tục. Dùng trong SK [Hương Vận Tứ Phương-Nhã Ý Lầu Tây], tham gia xếp hạng. [Chỉ có hiệu lực trong SK này]",
+      [
+        12950
+      ],
+      [],
+      0
+    ],
+    "497": [
+      "Trúc Xanh",
+      1030106,
+      10301,
+      0,
+      "4",
+      "111217",
+      110217,
+      "Trúc biếc sum suê, đêm hè mát lành. Có thể đồ lẻ chủ đề và bộ chỉ định trong SK [Ngày Hè Gió Mát]! [Chỉ có hiệu lực trong SK này]",
+      [
+        19155
+      ],
+      [],
+      0
+    ],
+    "498": [
+      "Trà Đá",
+      1030106,
+      10301,
+      0,
+      "4",
+      "111368",
+      110368,
+      "Đồ uống mát lạnh, xua tan oi ả ngày hè. Có thể đồ lẻ chủ đề và bộ chỉ định trong SK [Ngày Hè Gió Mát]! [Chỉ có hiệu lực trong SK này]",
+      [
+        19155
+      ],
+      [],
+      0
+    ],
+    "499": [
+      "Điểm Gió Mát",
+      1030106,
+      10301,
+      0,
+      "4",
+      "111081",
+      110081,
+      "Kỳ nghỉ rực rỡ, mùa hè mát mẻ. Dùng để tăng cấp Gió. [Chỉ có hiệu lực trong SK này]",
+      [
+        19155
+      ],
+      [],
+      0
+    ],
+    "500": [
+      "Điểm Gió Mát",
+      1030106,
+      10301,
+      0,
+      "4",
+      "111081",
+      110081,
+      "Kỳ nghỉ rực rỡ, mùa hè mát mẻ. Dùng để tăng cấp Gió. [Chỉ có hiệu lực trong SK này]",
+      [
+        19155
+      ],
+      [],
+      0
+    ],
+    "501": [
+      "Đồng Hồ Cát",
+      260118,
+      2601,
+      0,
+      "4",
+      "111369",
+      110369,
+      "Một hạt cát một thế giới, bước vào hành trình vô tận. Đến SK [Hành Trình Thời Gian], đổi đồ đẹp giới hạn! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        12892,
+        10501,
+        11924
+      ],
+      [],
+      0
+    ],
+    "502": [
+      " Hộp Quà",
+      590103,
+      5901,
+      0,
+      "4",
+      "111026",
+      110026,
+      "Duyên định trọn đời, tình yêu vĩnh cửu. Dùng trong SK [Tình Yêu Ánh Sao], mở Hộp Trân Phẩm. [Chỉ có hiệu lực trong SK này]",
+      [
+        18151
+      ],
+      [],
+      0
+    ],
+    "503": [
+      "Cành Mai",
+      790108,
+      7901,
+      0,
+      "4",
+      "111377",
+      110377,
+      "Tím ngát kiêu sa, hương mai lan tỏa. Dùng trong SK [Tử Dục Lưu Hương], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        19046
+      ],
+      [],
+      0
+    ],
+    "504": [
+      "Hoa Phượng",
+      1120102,
+      11201,
+      0,
+      "4",
+      "111370",
+      110370,
+      "Rực rỡ như lửa, ý hoa tương tư. Có thể đổi bộ giới hạn tuyệt đẹp trong sự kiện [Vạn Vật Tương Tư]! [Có hiệu lực trong SK này]",
+      [
+        19231,
+        19241,
+        19251,
+        19261
+      ],
+      [],
+      0
+    ],
+    "505": [
+      "Đuôi Hồ",
+      1120102,
+      11201,
+      0,
+      "4",
+      "111371",
+      110371,
+      "Trăng sáng dệt mộng, đuôi Hồ ràng buộc. Có thể đổi bộ giới hạn tuyệt đẹp trong sự kiện [Vạn Vật Tương Tư]! [Có hiệu lực trong SK này]",
+      [
+        19231,
+        19241,
+        19251,
+        19261
+      ],
+      [],
+      0
+    ],
+    "507": [
+      "Ngọc Nguyệt Hồ",
+      1170102,
+      11701,
+      0,
+      "4",
+      "111373",
+      110373,
+      "Ngọc rọi ngàn trần, nghiệp tiêu Hồ phách! Có thể đổi phần thưởng siêu giá trị trong sự kiện [Thanh Khâu Diệt Ác]! [Có hiệu lực trong SK này]",
+      [
+        19281
+      ],
+      [],
+      0
+    ],
+    "508": [
+      "Công Đức",
+      1170102,
+      11701,
+      0,
+      "4",
+      "111319",
+      110319,
+      "Thiện hạnh thiên hạ, đức thấm lòng người. Có thể tham gia xếp hạng trong BXH [Thanh Khâu Diệt Ác]. [Có hiệu lực trong SK này]",
+      [
+        19281
+      ],
+      [],
+      0
+    ],
+    "509": [
+      "Hoa Đào",
+      1160102,
+      11601,
+      0,
+      "4",
+      "111027",
+      110027,
+      "Cánh hồng rực rỡ, dung nhan lộng lẫy. Có thể đổi nội thất và ngoại cảnh Biệt Viện trong SK [Gặp Gỡ Thanh Thủy]! [Có hiệu lực trong SK này]",
+      [
+        19271
+      ],
+      [],
+      0
+    ],
+    "510": [
+      "Lá The Fool",
+      640120,
+      6401,
+      0,
+      "4",
+      "111374",
+      110374,
+      "Hồn nhiên bước vào hành trình định mệnh. Đến SK [Tarot Mộng Ảo], đổi đồ đẹp giới hạn! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        18613
+      ],
+      [],
+      0
+    ],
+    "511": [
+      "Sen Vàng",
+      1020105,
+      10201,
+      0,
+      "4",
+      "111375",
+      110375,
+      "Linh Châu chuyển thế, hóa thân kim liên. Trong SK [Tây Du - Giải Nạn], đổi bộ giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        19144
+      ],
+      [],
+      0
+    ],
+    "512": [
+      "Quạt Ba Tiêu",
+      1020105,
+      10201,
+      0,
+      "4",
+      "111376",
+      110376,
+      "Dưới quạt Ba Tiêu, gió mây sấm chớp nổi dậy. Trong SK [Tây Du - Giải Nạn], đổi bộ giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        19144
+      ],
+      [],
+      0
+    ],
+    "514": [
+      "Dật Lực",
+      960103,
+      9601,
+      0,
+      "4",
+      "111378",
+      110378,
+      "Phong hoa tuyệt đại, tao nhã muôn thuở. Dùng tại SK [Phong Hoa Dật Lục - Ngạo Tùng], trợ lực series Dật Lục và đổi thưởng giới hạn! [Chỉ có hiệu lực trong SK này]",
+      [
+        19112
+      ],
+      [],
+      0
+    ],
+    "515": [
+      "Hương Bắc",
+      390808,
+      3909,
+      0,
+      "4",
+      "111379",
+      110379,
+      "Công thức hương truyền đời, Danh Hoa Bắc Uyển. Dùng trong SK [Hương Vận Tứ Phương-Danh Hoa Bắc Uyển], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        12951
+      ],
+      [],
+      0
+    ],
+    "516": [
+      "Hương Thơm",
+      390808,
+      3909,
+      0,
+      "4",
+      "111380",
+      110380,
+      "Bắc Uyển tao nhã, thanh trong tinh khiết. Dùng trong SK [Hương Vận Tứ Phương-Danh Hoa Bắc Uyển], tham gia xếp hạng. [Chỉ có hiệu lực trong SK này]",
+      [
+        12951
+      ],
+      [],
+      0
+    ],
+    "517": [
+      "Sao Mộng",
+      910106,
+      9101,
+      0,
+      "4",
+      "111381",
+      110381,
+      "Sao trên tầng mây, dệt nên mộng ngọt. Dùng trong SK [Thì Thầm Cõi Mộng - Khúc Ca Ngủ Ngon], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        19065
+      ],
+      [],
+      0
+    ],
+    "518": [
+      "Nốt Nhạc",
+      910106,
+      9101,
+      0,
+      "4",
+      "111382",
+      110382,
+      "Nốt nhạc nhảy múa, dâng khúc mộng đẹp. Dùng trong SK [Thì Thầm Cõi Mộng - Khúc Ca Ngủ Ngon], đổi bộ giới hạn và món lẻ chủ đề! [Chỉ có hiệu lực trong SK này]",
+      [
+        19065
+      ],
+      [],
+      0
+    ],
+    "519": [
+      "Điểm Cõi Mộng",
+      910106,
+      9101,
+      0,
+      "4",
+      "111383",
+      110383,
+      "Lưu trữ mỗi một giấc mộng đẹp. Dùng trong SK [Thì Thầm Cõi Mộng - Khúc Ca Ngủ Ngon], tham gia xếp hạng. [Chỉ có hiệu lực trong SK này]",
+      [
+        19065
+      ],
+      [],
+      0
+    ],
+    "520": [
+      "Hoa Đào",
+      850110,
+      8501,
+      0,
+      "4",
+      "111028",
+      110028,
+      "Quà đáp lễ của Nhà Đào. Có thể đồ lẻ chủ đề và bộ chỉ định trong SK [Lời Nhắn Đáng Yêu]! [Chỉ có hiệu lực trong SK này]",
+      [
+        18989
+      ],
+      [],
+      0
+    ],
+    "521": [
+      "Lá Trúc",
+      850110,
+      8501,
+      0,
+      "4",
+      "111384",
+      110384,
+      "Quà đáp lễ của Nhà Trúc. Có thể đồ lẻ chủ đề và bộ chỉ định trong SK [Lời Nhắn Đáng Yêu]! [Chỉ có hiệu lực trong SK này]",
+      [
+        18989
+      ],
+      [],
+      0
+    ],
+    "522": [
+      "Lá Tower",
+      640121,
+      6401,
+      0,
+      "4",
+      "111385",
+      110385,
+      "Nơi tòa tháp sụp đổ, là lúc vận mệnh tái sinh. Dùng tại SK [Tarot Mộng Ảo], đổi trang sức giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK này]",
+      [
+        18613
+      ],
+      [],
+      0
+    ],
+    "523": [
+      "Nốt Ngân",
+      560101,
+      5601,
+      0,
+      "4",
+      "111229",
+      110229,
+      "Khắc ghi chương nhạc vĩnh hằng. Dùng tại SK [Khúc Nhạc Ngân Nga], đổi trang sức giới hạn tuyệt đẹp! [Chỉ có hiệu lực trong SK này]",
+      [
+        18115
+      ],
+      [],
+      0
+    ],
+    "524": [
+      "Đèn Dầu Sông Thánh",
+      890106,
+      8901,
+      0,
+      "4",
+      "111387",
+      110387,
+      "Sông Thánh chảy mãi, đèn dầu soi ước nguyện. Có thể đổi món lẻ và bộ tại Dâng Mị Lực! [Chỉ có hiệu lực trong SK này]",
+      [
+        19025
+      ],
+      [],
+      0
+    ],
+    "525": [
+      "Dấu Ấn Thiên Cổ",
+      890106,
+      8901,
+      0,
+      "4",
+      "111174",
+      110174,
+      "Sử thi văn minh thiên cổ. Có thể đổi bộ Tái Hiện Kinh Điển! [Chỉ có hiệu lực trong SK này]",
+      [
+        19025
+      ],
+      [],
+      0
+    ],
+    "532": [
+      "Tim Cầu Nguyện",
+      590104,
+      5901,
+      0,
+      "4",
+      "111394",
+      110394,
+      "Viên ngọc hình trái tim hội tụ sức mạnh nguyện cầu thành kính. Dùng trong SK [Hươu Và Thiếu Nữ], mở Hộp Trân Phẩm. [Chỉ có hiệu lực trong SK này]",
+      [
+        18152
+      ],
+      [],
+      1766073000
+    ],
+    "533": [
+      "Bạch Mã",
+      1020106,
+      10201,
+      0,
+      "4",
+      "111395",
+      110395,
+      "Yên bạc bờm sương, đạp sóng về Tây. Trong SK [Tây Du - Tư Viễn], đổi bộ giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        19145
+      ],
+      [],
+      1765468200
+    ],
+    "534": [
+      "Tước Linh",
+      1020106,
+      10201,
+      0,
+      "4",
+      "111396",
+      110396,
+      "Lông tước soi nước, tương tư gửi tình. Trong SK [Tây Du - Tư Viễn], đổi bộ giới hạn! [Hiệu lực trong SK vòng này]",
+      [
+        19145
+      ],
+      [],
+      1765468200
+    ],
+    "535": [
+      "Vòng Phượng Huyết",
+      1120103,
+      11201,
+      0,
+      "4",
+      "111397",
+      110397,
+      "Ngọc tụ phượng huyết, nửa đời vương vấn. Đến SK [Hồi Ký Nhược Hy], đổi đồ đẹp giới hạn! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        19232,
+        19242,
+        19252,
+        19262
+      ],
+      [],
+      1764172200
+    ],
+    "536": [
+      "Trâm Mộc Lan",
+      1120103,
+      11201,
+      0,
+      "4",
+      "111398",
+      110398,
+      "Mộc lan nở, một đời tình sâu. Đến SK [Hồi Ký Nhược Hy], đổi đồ đẹp giới hạn! [Chỉ có hiệu lực trong SK lần này]",
+      [
+        19232,
+        19242,
+        19252,
+        19262
+      ],
+      [],
+      1764172200
+    ],
+    "537": [
+      "Cành Tê Vân",
+      1160103,
+      11601,
+      0,
+      "4",
+      "111400",
+      110400,
+      "Tùng vươn lên mây, bóng trong trời đất. Trong SK [Nhược Hy Dạo Vườn] đổi nội thất và ngoại cảnh Biệt Viện giới hạn! [Có hiệu lực trong SK này]",
+      [
+        19272
+      ],
+      [],
+      1764172200
+    ],
+    "538": [
+      "Thư Khuyên",
+      1170103,
+      11701,
+      0,
+      "4",
+      "111401",
+      110401,
+      "Một lá thư khuyên, tránh xa sóng gió. Dùng tại SK [Bãi Săn Khuyên Can], đổi thưởng siêu hời! [Có hiệu lực trong SK này]",
+      [
+        19282
+      ],
+      [],
+      1764172200
+    ],
+    "539": [
+      "Công Đức",
+      1170103,
+      11701,
+      0,
+      "4",
+      "111319",
+      110319,
+      "Chăm làm điều thiện, đức thấm lòng người. Dùng để tham gia BXH [Bãi Săn Khuyên Can]. [Có hiệu lực trong SK này]",
+      [
+        19282
+      ],
+      [],
+      1764172200
+    ]
+  }
+}

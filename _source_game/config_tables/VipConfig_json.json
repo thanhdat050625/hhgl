@@ -1,0 +1,639 @@
+{
+  "colMap": [
+    "title",
+    "icon",
+    "vipBg",
+    "price",
+    "visit",
+    "luck",
+    "energy",
+    "award",
+    "sweetEnergy",
+    "isQuickDebate",
+    "godLike",
+    "description",
+    "popFreeTimes",
+    "popBuyTimes",
+    "palaceFreeTimes",
+    "palaceBuyTimes",
+    "fishingFreeTimes",
+    "fishingBuyTimes",
+    "newshowBonus",
+    "restrictionNum"
+  ],
+  "list": {
+    "1": [
+      "VIP 0",
+      "VIP 0",
+      [],
+      0,
+      3,
+      0,
+      3,
+      [],
+      1,
+      0,
+      "1,1,1,1,1,1,1",
+      "Trống",
+      2,
+      12,
+      1,
+      8,
+      2,
+      2,
+      0,
+      0
+    ],
+    "2": [
+      "VIP 1",
+      "VIP 1",
+      [
+        "we_d1",
+        "we_c2_bg"
+      ],
+      300,
+      4,
+      0,
+      4,
+      [
+        [
+          9,
+          170001,
+          1
+        ]
+      ],
+      1,
+      0,
+      "1,1,1,1,1,1,1",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 300 Vàng để tăng cấp VIP 1\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 4\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 2\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 1\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 1 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 1 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 1 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 1 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 1 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 1 lần\n11. Mở khóa khiêu chiến nhanh PB Bang\n12. Mở khóa khiêu chiến Kẻ Thù Chính nhanh\n13. Mở khóa Ủy Phái nhanh\n14. Mở khóa khiêu chiến 1 Kẻ Thù ở Đại Lý Tự nhanh\n15. Giảm 10% giá cầu nguyện 10 lần</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      0
+    ],
+    "3": [
+      "VIP 2",
+      "VIP 2",
+      [
+        "we_c12",
+        "we_d2",
+        "we_c2_bg",
+        [
+          130,
+          74
+        ],
+        "we_c7"
+      ],
+      1000,
+      5,
+      0,
+      5,
+      [
+        [
+          9,
+          170002,
+          1
+        ]
+      ],
+      2,
+      0,
+      "2,2,2,2,2,2,2",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 1000 Vàng để tăng cấp VIP 2\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 5\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 2\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 2\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 2 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 2 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 2 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 2 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 2 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 2 lần\n11. Mở khóa Chuyện Vui Nhàn Nhã nhanh\n12. Giảm 10% giá cầu nguyện 10 lần\n13. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 1\n14. Mở khóa Giáo Huấn nhanh tất cả Kẻ Thù ở Đại Lý Tự</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      1
+    ],
+    "4": [
+      "VIP 3",
+      "VIP 3",
+      [
+        "we_c13",
+        "we_d5",
+        "we_c1_bg",
+        [
+          109,
+          129
+        ],
+        "we_c8"
+      ],
+      2560,
+      6,
+      1,
+      6,
+      [
+        [
+          9,
+          170003,
+          1
+        ]
+      ],
+      2,
+      0,
+      "2,2,2,2,2,2,2",
+      "<font color=0xb67676 size=18px>1. Nạp tích lũy 2560 Vàng trở thành VIP 3\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 6\n3. <font color=0x5580ce size=18px>Ủy phái</font>được mở khóa:  3 đội\n4. <font color=0x5580ce size=18px>Lam Nhan</font> được mua Thể Lực: 2 lần\n5. Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện X10</font>] có 15% xác suất kích hoạt, giới hạn 2 lần\n6. Thần Tích [<font color=0x5580ce size=18px>Liên Tục Tăng 3 Cấp</font>] có 15% xác suất kích hoạt, giới hạn 2 lần\n7. Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] có 15% xác suất kích hoạt, giới hạn 2 lần\n8. Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] có 15% xác suất kích hoạt, giới hạn 2 lần\n9. Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] có 15% xác suất kích hoạt, giới hạn 2 lần\n10. Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] có 15% xác suất kích hoạt, giới hạn 2 lần\n11. Mở khóa xử lý Nội Vụ nhanh\n12. Mở khóa nút nấu nhanh trong Ngự Thiện Phòng\n13. Mở khóa xử lý Cung Vụ nhanh\n14. Cầu nguyện-Vàng 10 lần Cây Thần giảm 10%\n15. Số lượng Tùy Tùng cấm túc trong Luận Chiến tăng 3\n16. Tự do thay đồ mở khóa Phương án 3</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      3
+    ],
+    "5": [
+      "VIP 4",
+      "VIP 4",
+      [
+        "we_c11",
+        "we_d6",
+        "we_c2_bg",
+        [
+          151,
+          90
+        ],
+        "we_c6"
+      ],
+      5800,
+      7,
+      1,
+      7,
+      [
+        [
+          9,
+          170004,
+          1
+        ]
+      ],
+      3,
+      0,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Nạp tích lũy 5800 Vàng trở thành VIP4\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 7\n3. <font color=0x5580ce size=18px>Ủy phái</font>được mở khóa:  3 đội\n4. <font color=0x5580ce size=18px>Lam Nhan</font> được mua Thể Lực: 3 lần\n5. Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện X10</font>] có 15% xác suất kích hoạt, giới hạn 3 lần\n6. Thần Tích [<font color=0x5580ce size=18px>Liên Tục Tăng 3 Cấp</font>] có 15% xác suất kích hoạt, giới hạn 3 lần\n7. Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] có 15% xác suất kích hoạt, giới hạn 3 lần\n8. Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] có 15% xác suất kích hoạt, giới hạn 3 lần\n9. Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] có 15% xác suất kích hoạt, giới hạn 3 lần\n10. Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] có 15% xác suất kích hoạt, giới hạn 3 lần\n11.Cầu nguyện-Vàng 10 lần Cây Thần giảm 10%\n12.Mở khóa trồng nhanh trong vườn </font>\n13. Vườn Cây mở khóa Bón Phân nhanh\n14. Số lượng Tùy Tùng cấm túc trong Luận Chiến tăng 3</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      3
+    ],
+    "6": [
+      "VIP 5",
+      "VIP 5",
+      [
+        "we_c9",
+        "we_d4",
+        "we_c1_bg",
+        [
+          137,
+          81
+        ],
+        "we_c4"
+      ],
+      10000,
+      8,
+      2,
+      8,
+      [
+        [
+          9,
+          170005,
+          1
+        ]
+      ],
+      3,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 10000 Vàng để tăng cấp VIP 5\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 8\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 4\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 3\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11.Mở khóa luận chiến nhanh\n12. Giảm 10% giá cầu nguyện 10 lần\n13. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 5</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      5
+    ],
+    "7": [
+      "VIP 6",
+      "VIP 6",
+      [
+        "we_c10",
+        "we_d1",
+        "we_c2_bg",
+        [
+          138,
+          92
+        ],
+        "we_c5"
+      ],
+      25000,
+      9,
+      2,
+      9,
+      [
+        [
+          9,
+          170006,
+          1
+        ]
+      ],
+      4,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 25000 Vàng để tăng cấp VIP 6\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 9\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 4\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 4\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11. Giảm 10% giá cầu nguyện 10 lần\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 5</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      5
+    ],
+    "8": [
+      "VIP 7",
+      "VIP 7",
+      [
+        "we_d9",
+        "we_d16",
+        "we_c1_bg",
+        [
+          75,
+          81
+        ],
+        "we_d14"
+      ],
+      50000,
+      10,
+      3,
+      10,
+      [
+        [
+          9,
+          170007,
+          1
+        ]
+      ],
+      4,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 50000 Vàng để tăng cấp VIP 7\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 10\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 5\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 4\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11. Giảm 10% giá cầu nguyện 10 lần\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 10</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      10
+    ],
+    "9": [
+      "VIP 8",
+      "VIP 8",
+      [
+        "we_d8",
+        "we_d18",
+        "we_c2_bg",
+        [
+          142,
+          90
+        ],
+        "we_d12"
+      ],
+      80000,
+      11,
+      3,
+      11,
+      [
+        [
+          9,
+          170008,
+          1
+        ]
+      ],
+      5,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 80000 Vàng để tăng cấp VIP 8\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 11\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 5\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 5\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11. Giảm 10% giá cầu nguyện 10 lần\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 10</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      10
+    ],
+    "10": [
+      "VIP 9",
+      "VIP 9",
+      [
+        "we_d7",
+        "we_d15",
+        "we_c1_bg",
+        [
+          62.5,
+          88
+        ],
+        "we_d11"
+      ],
+      120000,
+      12,
+      4,
+      12,
+      [
+        [
+          9,
+          170009,
+          1
+        ]
+      ],
+      5,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 120000 Vàng để tăng cấp VIP 9\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 12\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 6\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 5\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11. Giảm 10% giá cầu nguyện 10 lần\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 15</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      15
+    ],
+    "11": [
+      "VIP 10",
+      "VIP 10",
+      [
+        "we_d23",
+        "we_d20",
+        "we_c2_bg",
+        [
+          131,
+          61
+        ],
+        "we_d22"
+      ],
+      200000,
+      13,
+      4,
+      13,
+      [
+        [
+          9,
+          170010,
+          1
+        ]
+      ],
+      6,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 200000 Vàng để tăng cấp VIP 10\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 13\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 6\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 6\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11. Giảm 10% giá cầu nguyện 10 lần\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 15</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      15
+    ],
+    "12": [
+      "VIP 11",
+      "VIP 11",
+      [
+        "we_d26",
+        "we_d21",
+        "we_c1_bg",
+        [
+          126,
+          97
+        ],
+        "we_c4"
+      ],
+      300000,
+      14,
+      5,
+      14,
+      [
+        [
+          9,
+          170011,
+          1
+        ]
+      ],
+      6,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 300000 Vàng để tăng cấp VIP 11\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 14\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 6\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 6\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11. Giảm 10% giá cầu nguyện 10 lần\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 15</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      15
+    ],
+    "13": [
+      "VIP 12",
+      "VIP 12",
+      [
+        "we_d25",
+        "we_d19",
+        "we_c2_bg",
+        [
+          146,
+          89
+        ],
+        "we_d24"
+      ],
+      500000,
+      15,
+      5,
+      15,
+      [
+        [
+          9,
+          170012,
+          1
+        ]
+      ],
+      7,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 500000 Vàng để tăng cấp VIP 12\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 15\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 6\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 7\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11. Giảm 10% giá cầu nguyện 10 lần\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 15</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      15
+    ],
+    "14": [
+      "VIP 13",
+      "VIP 13",
+      [
+        "we_av_j2_cn",
+        "we_av_j1",
+        "we_c2_bg",
+        [
+          13,
+          151
+        ],
+        "we_av_j3_cn",
+        "we_av_j4_cn"
+      ],
+      1000000,
+      16,
+      6,
+      16,
+      [
+        [
+          9,
+          170013,
+          1
+        ]
+      ],
+      7,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 1000000 Vàng để tăng cấp VIP 13\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 16\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 6\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 7\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11. Giảm 10% giá cầu nguyện 10 lần\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 20</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      20
+    ],
+    "15": [
+      "VIP 14",
+      "VIP 14",
+      [
+        "we_av_j5_cn",
+        "we_av_j8",
+        "we_av_j9",
+        [
+          13,
+          151
+        ],
+        "we_av_j6_cn",
+        "we_av_j7_cn"
+      ],
+      2000000,
+      17,
+      6,
+      17,
+      [
+        [
+          9,
+          170014,
+          1
+        ]
+      ],
+      8,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 2000000 Vàng để tăng cấp VIP 14\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 17\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 6\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 8\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11. Giảm 10% giá cầu nguyện 10 lần\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 20</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      20
+    ],
+    "16": [
+      "VIP 15",
+      "VIP 15",
+      [
+        "we_k6_cn",
+        "we_k5",
+        "we_k4",
+        [
+          6,
+          195
+        ],
+        "we_k3_cn",
+        "we_k2_cn",
+        "we_k1_cn"
+      ],
+      4000000,
+      18,
+      6,
+      18,
+      [
+        [
+          9,
+          170015,
+          1
+        ]
+      ],
+      8,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1. Tích lũy nạp 4000000 Vàng để tăng cấp VIP 15\n2. Giới hạn <font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>: 18\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 6\n4. Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 8\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11. Giảm 10% giá cầu nguyện 10 lần\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 20</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      20
+    ],
+    "17": [
+      "VIP 16",
+      "VIP 16",
+      [
+        "we_l3_cn",
+        "we_l2",
+        "we_l1",
+        [
+          13,
+          148
+        ],
+        "we_l5_cn",
+        "we_l4_cn"
+      ],
+      8000000,
+      19,
+      6,
+      19,
+      [
+        [
+          9,
+          170016,
+          1
+        ]
+      ],
+      9,
+      1,
+      "3,3,3,3,3,3,3",
+      "<font color=0xb67676 size=18px>1.Nạp tích lũy 8000000 vàng trở thành VIP 16\n2.<font color=0x5580ce size=18px>Chuyện Vui Nhàn Nhã</font>giới hạn: 19\n3. Đội ngũ <font color=0x5580ce size=18px>Ủy Phái</font> được mở: 6\n4.<font color=0x5580ce size=18px> Mua Thể Lực <font color=0x5580ce size=18px>Lam Nhan Du Ngoạn</font> (lần): 9\n5. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Bán Từ Thiện X10</font>] mỗi ngày, giới hạn 3 lần\n6. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tăng 3 Cấp</font>] mỗi ngày, giới hạn 3 lần\n7. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Vàng Trời Ban</font>] mỗi ngày, giới hạn 3 lần\n8. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Lam Nhan Chúc Phúc</font>] mỗi ngày, giới hạn 3 lần\n9. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Tư Chất Thông Minh</font>] mỗi ngày, giới hạn 3 lần\n10. Xác suất kích hoạt 15% Thần Tích [<font color=0x5580ce size=18px>Thu Hoạch Bất Ngờ</font>] mỗi ngày, giới hạn 3 lần\n11.Cầu nguyện-Vàng 10 lần Cây Thần giảm 10%\n12. Số lượng Tùy Tùng cấm túc trong Trong Cung Luận Chiến thêm 20</font>",
+      3,
+      20,
+      1,
+      16,
+      3,
+      2,
+      0,
+      20
+    ]
+  }
+}

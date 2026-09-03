@@ -1,0 +1,9019 @@
+{
+  "colMap": [
+    "activityId",
+    "icon",
+    "brideType",
+    "lineType",
+    "title",
+    "content",
+    "targetValue",
+    "targetType",
+    "reward",
+    "targetUI",
+    "rechargeForbid",
+    "sign",
+    "sort"
+  ],
+  "list": {
+    "10001": [
+      850101,
+      "btn_csl_a9",
+      1,
+      1,
+      "Kiểm Tra Thú Vị",
+      "Trước khi đón cô dâu, chú rể phải trải qua rất nhiều khảo nghiệm, đã đến lúc để Tùy Tùng xuất hiện khảo nghiệm chú rể rồi!",
+      20,
+      16,
+      [
+        [
+          17,
+          780002,
+          16
+        ]
+      ],
+      11300,
+      0,
+      0,
+      1
+    ],
+    "10002": [
+      850101,
+      "btn_csl_a11",
+      1,
+      1,
+      "Chăm Sóc Sủng",
+      "Dạo gần đây cô dâu bận đến mức không có thời gian chăm sóc thú cưng trong nhà, Tiểu Chủ muốn đến giúp đỡ chăm sóc sao?",
+      500,
+      113,
+      [
+        [
+          17,
+          780002,
+          20
+        ]
+      ],
+      13400,
+      0,
+      0,
+      2
+    ],
+    "10003": [
+      850101,
+      "btn_csl_a9",
+      1,
+      1,
+      "Trang Phục Phù Dâu",
+      "Ngày tổ chức đám cưới còn phải chuẩn bị trang phục cho phù dâu, Tiểu Chủ giúp xem xem kiểu dáng được chọn có thích hợp hay không?",
+      100,
+      71,
+      [
+        [
+          17,
+          780002,
+          28
+        ]
+      ],
+      11000,
+      0,
+      0,
+      3
+    ],
+    "10004": [
+      850101,
+      "btn_csl_a11",
+      1,
+      1,
+      "Bó Hoa Hoàn Mỹ",
+      "Bó hoa của cô dâu còn thiếu rất nhiều đóa hoa có ngụ ý tốt, Tiểu Chủ hẹn Lam Nhan cùng đi hái đi!",
+      120,
+      14,
+      [
+        [
+          17,
+          780002,
+          15
+        ]
+      ],
+      11100,
+      0,
+      0,
+      4
+    ],
+    "10005": [
+      850101,
+      "btn_csl_a10",
+      1,
+      1,
+      "Hồi Ức Ngọt Ngào",
+      "Nghe nói công viên mà đôi vợ trồng trẻ đích ước lâu rồi không được tu sửa, đang quyên tiền trùng tu, Tiểu Chủ cũng góp một chút sức đi!",
+      5,
+      17,
+      [
+        [
+          17,
+          780002,
+          26
+        ]
+      ],
+      12300,
+      0,
+      0,
+      5
+    ],
+    "10006": [
+      850101,
+      "btn_csl_a10",
+      1,
+      1,
+      "Món Ngọt Đến Thăm",
+      "Lam Nhan cố ý mang món ngọt ngon miệng đến cho Tiểu Chủ, mau nếm xem hương vị như thế nào?",
+      20,
+      34,
+      [
+        [
+          17,
+          780002,
+          30
+        ]
+      ],
+      11100,
+      0,
+      0,
+      6
+    ],
+    "10007": [
+      850101,
+      "btn_csl_a11",
+      1,
+      1,
+      "Sắp Xếp Nhân Viên",
+      "Chuẩn bị cho đám cưới cần sắp xếp nhân viên tạp vụ, Tiểu Chủ cần an bài nhân viên liên quan!",
+      25,
+      74,
+      [
+        [
+          17,
+          780002,
+          15
+        ]
+      ],
+      11200,
+      0,
+      0,
+      7
+    ],
+    "10008": [
+      850101,
+      "btn_csl_a9",
+      1,
+      1,
+      "Luyện Tập Tiết Mục",
+      "Trong đám cưới có vài tiết mục biểu diễn, Tiểu Chủ nhớ giục những người tham gia biểu diễn chăm chỉ luyện tập nhé.",
+      150,
+      98,
+      [
+        [
+          17,
+          780002,
+          20
+        ]
+      ],
+      11700,
+      0,
+      0,
+      8
+    ],
+    "10009": [
+      850101,
+      "btn_csl_a11",
+      1,
+      1,
+      "Chuyện Lớn Nhỏ",
+      "Những chuyện phải chuẩn bị cho đám cưới nhiều đến mức đôi vợ chồng trẻ phát điên, cần Tiểu Chủ hỗ trợ chia sẻ!",
+      120,
+      4,
+      [
+        [
+          17,
+          780002,
+          15
+        ]
+      ],
+      10300,
+      0,
+      0,
+      9
+    ],
+    "10010": [
+      850101,
+      "btn_csl_a10",
+      1,
+      1,
+      "Chăm Sóc Vườn Hoa",
+      "Đám cưới được tổ chức trong một vườn hoa lớn, cần Tiểu Chủ hỗ trợ kiểm tra xử lý tình huống.",
+      120,
+      2,
+      [
+        [
+          17,
+          780002,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "10101": [
+      850101,
+      "btn_csl_a10",
+      1,
+      2,
+      "Ánh Nến Lãng Mạn",
+      "Thắp nến có thể tăng thêm lãng mạn cho đám cưới, Tiểu Chủ hỗ trợ lực chọn kiểu dáng của ngọn nến!",
+      199,
+      174,
+      [
+        [
+          17,
+          780002,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "10102": [
+      850101,
+      "btn_csl_a11",
+      1,
+      2,
+      "Hoa Cài Tao Nhã",
+      "Khách khứa và người nhà tham gia đám cưới đều phải đeo hoa cài, Tiểu Chủ chuẩn bị một chút!",
+      299,
+      174,
+      [
+        [
+          17,
+          780002,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "10103": [
+      850101,
+      "btn_csl_a10",
+      1,
+      2,
+      "Bóng Bay Trái Tim",
+      "Nơi tổ chức đám cưới cần dùng bóng bay trái tim để trang trí, Tiểu Chủ giúp đỡ mua sắm một chút!",
+      499,
+      174,
+      [
+        [
+          17,
+          780002,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "10104": [
+      850101,
+      "btn_csl_a9",
+      1,
+      2,
+      "Găng Tay Trắng",
+      "Cô dâu chú rể cần một đôi găng tay trắng để phối với áo cưới, giao cho Tiểu Chủ chuẩn bị!",
+      999,
+      174,
+      [
+        [
+          17,
+          780002,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "10105": [
+      850101,
+      "btn_csl_a10",
+      1,
+      2,
+      "Khăn Voan Ren",
+      "Trong lúc diễn tập, khăn voan của cô dâu không cẩn thận bị rách, Tiểu Chủ mau dặn dò nhà thiết kế chuẩn bị một cái mới!",
+      999,
+      174,
+      [
+        [
+          17,
+          780002,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "10106": [
+      850101,
+      "btn_csl_a9",
+      1,
+      2,
+      "Thiệp Cưới",
+      "Một tấm thiệp cưới đẹp mắt có thể nói lên thành ý hy vọng nhận được lời chúc mừng của đôi vợ chồng trẻ, Tiểu Chủ xem xem kiểu thiệp cưới nào thích hợp?",
+      999,
+      174,
+      [
+        [
+          17,
+          780002,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "10107": [
+      850101,
+      "btn_csl_a10",
+      1,
+      2,
+      "Bánh Đám Cưới",
+      "Bánh ngọt trong đám cưới là thứ không thể thiếu, Tiểu Chủ giúp đặt làm một chiếc bánh phù hợp!",
+      1999,
+      174,
+      [
+        [
+          17,
+          780002,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "10108": [
+      850101,
+      "btn_csl_a9",
+      1,
+      2,
+      "Champagne Ăn Mừng",
+      "Champagne chảy dọc tháp rượu, ngụ ý đôi vợ chồng trẻ mở ra suối nguồn tình yêu, chai champagne trong trang trại rượu Hoàng Gia của tiểu chủ rất thích hợp làm quà mừng!",
+      50073,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780002,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "10109": [
+      850101,
+      "btn_csl_a11",
+      1,
+      2,
+      "Vòng Cổ Kim Cương",
+      "Ngày tổ chức đám cưới, cô dâu phải là người lộng lẫy nhất, Tiểu Chủ lấy vòng cổ kim cương làm quà mừng, giúp cô dâu càng thêm lộng lẫy!",
+      50075,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780002,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "10110": [
+      850101,
+      "btn_csl_a10",
+      1,
+      2,
+      "Nhẫn Cưới Lấp Lánh",
+      "Trong đám cưới, quan trọng nhất là trao nhẫn cưới, Tiểu Chủ hãy góp ý chọn cặp nhẫn cưới thích hợp!",
+      50076,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780002,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "10201": [
+      850101,
+      "btn_csl_a13",
+      2,
+      1,
+      "Cầu Nguyện May Mắn",
+      "Đám cưới xuất hiện mây lành, ắt hẳn Tiểu Chủ cũng dính được không ít may mắn, không bằng nhân cơ hội này thử may mắn?",
+      10,
+      132,
+      [
+        [
+          17,
+          780001,
+          35
+        ]
+      ],
+      11000,
+      0,
+      0,
+      1
+    ],
+    "10202": [
+      850101,
+      "btn_csl_a14",
+      2,
+      1,
+      "Cây Sả Trừ Uế",
+      "Cô dâu cần dùng nước sả để lau người rửa mặt, gột rửa tà khí dơ bẩn. Tiểu Chủ hãy giúp cô dâu nấu nước sả!",
+      60,
+      100,
+      [
+        [
+          17,
+          780001,
+          15
+        ]
+      ],
+      13200,
+      0,
+      0,
+      2
+    ],
+    "10203": [
+      850101,
+      "btn_csl_a13",
+      2,
+      1,
+      "Hải Đường Đóa Đóa",
+      "Tiệc cưới cần hoa hải đường để trang trí, Tiểu Chủ cùng cô dâu ra vườn hoa xem đóa hoa nào nở đẹp!",
+      40,
+      99,
+      [
+        [
+          17,
+          780001,
+          15
+        ]
+      ],
+      13100,
+      0,
+      0,
+      3
+    ],
+    "10204": [
+      850101,
+      "btn_csl_a14",
+      2,
+      1,
+      "Đốt Pháo Mừng",
+      "Lam Nhan giúp đỡ đốt pháo mừng, Tiểu Chủ mau đi xem tay họ có bị thương hay không!",
+      60,
+      97,
+      [
+        [
+          17,
+          780001,
+          30
+        ]
+      ],
+      11101,
+      0,
+      0,
+      4
+    ],
+    "10205": [
+      850101,
+      "btn_csl_a13",
+      2,
+      1,
+      "Cầu Tình Duyên",
+      "Cầu tình duyên mĩ mãn thuận lợi, Tiểu Chủ cùng cô dâu đến Miếu Nguyệt Lão thắp hương đi!",
+      360,
+      128,
+      [
+        [
+          17,
+          780001,
+          16
+        ]
+      ],
+      13300,
+      0,
+      0,
+      5
+    ],
+    "10206": [
+      850101,
+      "btn_csl_a12",
+      2,
+      1,
+      "Giấy Cắt Song Hỉ",
+      "Đám cưới cần dán nhiều chữ song hỉ, Tiểu Chủ cùng so với các cô nương cắt giấy xem ai khéo tay hơn!",
+      20,
+      154,
+      [
+        [
+          17,
+          780001,
+          24
+        ]
+      ],
+      18200,
+      0,
+      0,
+      6
+    ],
+    "10207": [
+      850101,
+      "btn_csl_a14",
+      2,
+      1,
+      "Món Ngọt Tình Yêu",
+      "Lam Nhan hỗ trợ trang trí nơi tổ chức đám cưới, Tiểu Chủ mau mang món ngọt tình yêu đến để khao họ đi!",
+      180,
+      41,
+      [
+        [
+          17,
+          780001,
+          20
+        ]
+      ],
+      11100,
+      0,
+      0,
+      7
+    ],
+    "10208": [
+      850101,
+      "btn_csl_a13",
+      2,
+      1,
+      "Tiệc Đón Dâu",
+      "Thế mà lại có người lẻn vào tiệc cưới hết ăn lại uống? Tiểu Chủ, dạy bọn họ một trận đi!",
+      300,
+      7,
+      [
+        [
+          17,
+          780001,
+          15
+        ]
+      ],
+      10600,
+      0,
+      0,
+      8
+    ],
+    "10209": [
+      850101,
+      "btn_csl_a12",
+      2,
+      1,
+      "Bố Thí Tích Phúc",
+      "Cô dâu nói làm việc thiện tích phúc cầu hôn nhân mỹ mãn, Tiểu Chủ giúp đỡ vật tư bố thí để cầu phúc!",
+      120,
+      1,
+      [
+        [
+          17,
+          780001,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      9
+    ],
+    "10210": [
+      850101,
+      "btn_csl_a14",
+      2,
+      1,
+      "Bổ Dưỡng Khí Sắc",
+      "Để ngày cưới thật xinh đẹp, cô dân cần giữ sắc mặt hồng hào, tặng cô dâu một ít huyết yến để bồi bổ!",
+      120,
+      3,
+      [
+        [
+          17,
+          780001,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "10301": [
+      850101,
+      "btn_csl_a12",
+      2,
+      2,
+      "Trâm Phượng Mới",
+      "Mã não trên trâm phượng vô tình bị rơi, Tiểu Chủ mau giúp đỡ mua một cái mới!",
+      199,
+      174,
+      [
+        [
+          17,
+          780001,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "10302": [
+      850101,
+      "btn_csl_a14",
+      2,
+      2,
+      "Thìa Dĩa Bát Đũa",
+      "Lúc kiểm kê đồ cưới phát hiện thiếu một bộ đồ ăn gỗ lim long phượng, Tiểu Chủ mau hỗ trợ mua một bộ mới!",
+      299,
+      174,
+      [
+        [
+          17,
+          780001,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "10303": [
+      850101,
+      "btn_csl_a12",
+      2,
+      2,
+      "Chăn Long Phượng",
+      "Giường cưới cần được trải một chiếc chăn long phượng đỏ thẫm, Tiểu Chủ mau nghĩ cách giúp cô dâu!",
+      499,
+      174,
+      [
+        [
+          17,
+          780001,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "10304": [
+      850101,
+      "btn_csl_a13",
+      2,
+      2,
+      "Sớm Sinh Con Trai",
+      "Táo đỏ ngụ ý 'sớm sinh con trai', Tiểu Chủ mua một ít táo đỏ cho tiệc cưới!",
+      999,
+      174,
+      [
+        [
+          17,
+          780001,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "10305": [
+      850101,
+      "btn_csl_a14",
+      2,
+      2,
+      "Đoàn Viên Mĩ Mãn",
+      "Trước đám cưới, cô dâu chú rể phải ăn một bát bánh trôi ngụ ý đoàn viên mĩ mãn, nếu Tiểu Chủ có thể nhờ Ngự Thiện Phòng làm hộ thì càng hoàn hảo!",
+      999,
+      174,
+      [
+        [
+          17,
+          780001,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "10306": [
+      850101,
+      "btn_csl_a13",
+      2,
+      2,
+      "Hộp Kẹo Cưới",
+      "Phải chuẩn bị kẹo cưới cho khách đến dự tiệc, Tiểu Chủ giúp đỡ nếm thử xem có ngon hay không?",
+      999,
+      174,
+      [
+        [
+          17,
+          780001,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "10307": [
+      850101,
+      "btn_csl_a12",
+      2,
+      2,
+      "Đặt Mua Thiệp Cưới",
+      "Trước đám cưới cần gửi thiệp đến bạn bè người thân, Tiểu Chủ hỗ trợ lựa chọn hình thức thiệp cưới!",
+      1999,
+      174,
+      [
+        [
+          17,
+          780001,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "10308": [
+      850101,
+      "btn_csl_a13",
+      2,
+      2,
+      "Son Hoa Đào",
+      "Ngày đón dâu, cô dâu trang điểm theo phong cách hoa đào, Tiểu Chủ mau đi chọn một hộp son phù hợp!",
+      50074,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780001,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "10309": [
+      850101,
+      "btn_csl_a14",
+      2,
+      2,
+      "Đôi Vòng Vàng Ngọc",
+      "Tiểu Chủ xem, đôi vòng vàng ngọc sang trọng này, làm quà mừng tặng cô dâu là rất thích hợp!",
+      50077,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780001,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "10310": [
+      850101,
+      "btn_csl_a12",
+      2,
+      2,
+      "Lăng La Tơ Lụa",
+      "Tiểu Chủ cần đặt mua một bộ đồ mới tham gia tiệc cưới, mau đến phường tơ lụa xem có hàng mới về hay không!",
+      50078,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780001,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "20001": [
+      850102,
+      "btn_sc_a9",
+      1,
+      1,
+      "Tích Chọn Phục Sức",
+      "Để thăm dò chùa cổ lần này, tiểu chủ có thể tích chọn một vài trang phục và trang sức trước.",
+      10,
+      132,
+      [
+        [
+          17,
+          780101,
+          35
+        ]
+      ],
+      11000,
+      0,
+      0,
+      1
+    ],
+    "20002": [
+      850102,
+      "btn_sc_a11",
+      1,
+      1,
+      "Nấu Đồ Ngon",
+      "Đường sá xa xôi, tiểu chủ có thể nấu vài món ngon để tránh bị đói trên đường.",
+      60,
+      100,
+      [
+        [
+          17,
+          780101,
+          15
+        ]
+      ],
+      13200,
+      0,
+      0,
+      2
+    ],
+    "20003": [
+      850102,
+      "btn_sc_a9",
+      1,
+      1,
+      "Chăm Sóc Biển Hoa",
+      "Biển hoa trước chùa cổ là nơi cô ấy và thư sinh gặp nhau, tiểu chủ có thể giúp chăm sóc một tay.",
+      40,
+      99,
+      [
+        [
+          17,
+          780101,
+          15
+        ]
+      ],
+      13100,
+      0,
+      0,
+      3
+    ],
+    "20004": [
+      850102,
+      "btn_sc_a11",
+      1,
+      1,
+      "Quan Tâm Thăm Hỏi",
+      "Chuyến di lịch này rất vất vả, tiểu chủ có thể xem Tri Kỉ đã mệt chưa?",
+      60,
+      97,
+      [
+        [
+          17,
+          780101,
+          30
+        ]
+      ],
+      11101,
+      0,
+      0,
+      4
+    ],
+    "20005": [
+      850102,
+      "btn_sc_a10",
+      1,
+      1,
+      "Du Lịch Tìm Kiếm",
+      "Nếu muốn tìm kiếm câu chuyện của cô ấy, chi bằng du lịch tìm kiếm một phen, không chừng sẽ có phát hiện mới.",
+      360,
+      128,
+      [
+        [
+          17,
+          780101,
+          16
+        ]
+      ],
+      13300,
+      0,
+      0,
+      5
+    ],
+    "20006": [
+      850102,
+      "btn_sc_a10",
+      1,
+      1,
+      "Manh Mối Truyền Thuyết",
+      "Câu chuyện của cô ấy thu hút rất nhiều người, nếu tiểu chủ có manh mối, e rằng sẽ phải thi đấu với người khác.",
+      20,
+      154,
+      [
+        [
+          17,
+          780101,
+          24
+        ]
+      ],
+      18200,
+      0,
+      0,
+      6
+    ],
+    "20007": [
+      850102,
+      "btn_sc_a11",
+      1,
+      1,
+      "Quà Tình Yêu",
+      "Tri Kỉ bằng lòng cùng tiểu chủ thăm dò chùa cổ, tiểu chủ hãy tặng vài món quà nào!",
+      180,
+      41,
+      [
+        [
+          17,
+          780101,
+          20
+        ]
+      ],
+      11100,
+      0,
+      0,
+      7
+    ],
+    "20008": [
+      850102,
+      "btn_sc_a9",
+      1,
+      1,
+      "Dạy Dỗ Côn Đồ",
+      "Có người dám phá hỏng di tích chùa cổ? Tiểu chủ hãy cho họ ít bài học!",
+      300,
+      7,
+      [
+        [
+          17,
+          780101,
+          15
+        ]
+      ],
+      10600,
+      0,
+      0,
+      8
+    ],
+    "20009": [
+      850102,
+      "btn_sc_a11",
+      1,
+      1,
+      "Vật Tư Cứu Tế",
+      "Cô ấy về lại nơi bắt đầu mối duyên, tìm được bờ bên kia, tiểu chủ hãy quyên góp vật tư chúc phúc cô ấy nào!",
+      120,
+      1,
+      [
+        [
+          17,
+          780101,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      9
+    ],
+    "20010": [
+      850102,
+      "btn_sc_a10",
+      1,
+      1,
+      "Huyết Yến Bổ Khí",
+      "Sức cùng lực kiệt vì tìm những trang rời của cô ấy, tiểu chủ hãy ăn một ít máu yến để bổ sung sức lực nào.",
+      120,
+      3,
+      [
+        [
+          17,
+          780101,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "20101": [
+      850102,
+      "btn_sc_a10",
+      1,
+      2,
+      "Bút Lông Sói-Cao",
+      "Bút lông sói cao cấp viết về cô ấy, tiểu chủ hãy tích chọn một ít Bút Lông Sói nhé!",
+      199,
+      174,
+      [
+        [
+          17,
+          780101,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "20102": [
+      850102,
+      "btn_sc_a11",
+      1,
+      2,
+      "Giấy Viết Hoán Hoa",
+      "Trang giấy trắng tinh tôn lên dáng điệu thướt tha của cô ấy, tiểu chủ hãy tích chọn ít Giấy Viết Hoán Hoa nhé!",
+      299,
+      174,
+      [
+        [
+          17,
+          780101,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "20103": [
+      850102,
+      "btn_sc_a10",
+      1,
+      2,
+      "Mực Chu Sa Vẽ",
+      "Mực chu sa đỏ tiện cho việc tô màu, tiểu chủ hãy tích chọn ít Mực Chu Sa nhé!",
+      499,
+      174,
+      [
+        [
+          17,
+          780101,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "20104": [
+      850102,
+      "btn_sc_a9",
+      1,
+      2,
+      "Mua Nghiên Báu",
+      "Mua nghiên báu vuông này có thể mài ra mực nhuyễn, thích hợp viết lại câu chuyện của cô ấy!",
+      999,
+      174,
+      [
+        [
+          17,
+          780101,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "20105": [
+      850102,
+      "btn_sc_a10",
+      1,
+      2,
+      "Mua Nước Suối",
+      "Mua Suối Ngũ Liên có thể rửa sạch mọi bụi bặm, lộ ra bí mật ẩn trong lớp bụi!",
+      999,
+      174,
+      [
+        [
+          17,
+          780101,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "20106": [
+      850102,
+      "btn_sc_a9",
+      1,
+      2,
+      "Giấy Mới Thực Dụng",
+      "Giấy mới thực dụng mang theo để viết, có thể lưu giữ vết tích của cô ấy trên giấy.",
+      999,
+      174,
+      [
+        [
+          17,
+          780101,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "20107": [
+      850102,
+      "btn_sc_a10",
+      1,
+      2,
+      "Hộp Gỗ Đàn Hương",
+      "Mảnh rời đánh rơi trong chùa cổ là duyên phận kiếp trước của cô ấy, mua Hộp Gỗ Đàn Hương lưu giữ nó lại nhé!",
+      1999,
+      174,
+      [
+        [
+          17,
+          780101,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "20108": [
+      850102,
+      "btn_sc_a9",
+      1,
+      2,
+      "Chương Rời Dị Chí",
+      "Chương rời U Thành Dị Chí trong tay thương nhân, tiểu chủ hãy thu thập nó, không chừng sẽ biết được đầu đuôi tin đồn!",
+      50073,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780101,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "20109": [
+      850102,
+      "btn_sc_a11",
+      1,
+      2,
+      "Truyện Ký Cổ Hương",
+      "Không ngờ trong tiệm sách cổ lại có truyện ký về cô ấy, tiểu chủ có thể mua quyển sách này lại!",
+      50075,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780101,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "20110": [
+      850102,
+      "btn_sc_a10",
+      1,
+      2,
+      "Tranh Đấu Giá",
+      "Bức tranh của cô ấy đang được đấu giá, nếu tiểu chủ có thể mua nó hoặc nhìn lén khuôn mặt thật của cô ấy!",
+      50076,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780101,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "20201": [
+      850102,
+      "btn_sc_a13",
+      2,
+      1,
+      "Bảo Vệ Hoàn Mỹ",
+      "Trên phố lưu truyền rất nhiều tin đồn vô lý của cô ấy, đã đến lúc để các tùy tùng ra sân đổi chiều gió rồi.",
+      20,
+      16,
+      [
+        [
+          17,
+          780102,
+          16
+        ]
+      ],
+      11300,
+      0,
+      0,
+      1
+    ],
+    "20202": [
+      850102,
+      "btn_sc_a14",
+      2,
+      1,
+      "Bầu Bạn Pet",
+      "Tiểu chủ ra ngoài du lịch, thăm dò di tích cổ cũng đừng quên bầu bạn với Pet trong nhà, nhớ thường xuyên chăm sóc đó.",
+      500,
+      113,
+      [
+        [
+          17,
+          780102,
+          20
+        ]
+      ],
+      13400,
+      0,
+      0,
+      2
+    ],
+    "20203": [
+      850102,
+      "btn_sc_a13",
+      2,
+      1,
+      "Áo Lưới Cẩm Tú",
+      "Áo lưới cẩm tú mà các cô gái thích nhất, hay tiểu chủ tích chọn vài áo gấm để trải nghiệm tâm trạng của các cô ấy.",
+      100,
+      71,
+      [
+        [
+          17,
+          780102,
+          28
+        ]
+      ],
+      11000,
+      0,
+      0,
+      3
+    ],
+    "20204": [
+      850102,
+      "btn_sc_a14",
+      2,
+      1,
+      "Bó Hoa Ánh Nắng",
+      "Tương truyền cô ấy thích hoa tươi, giờ đang là lúc trăm hoa đua nở, tiểu chủ hãy hẹn Tri Kỉ cùng đi hái nào!",
+      120,
+      14,
+      [
+        [
+          17,
+          780102,
+          15
+        ]
+      ],
+      11100,
+      0,
+      0,
+      4
+    ],
+    "20205": [
+      850102,
+      "btn_sc_a13",
+      2,
+      1,
+      "Rực Rỡ Hẳn Lên",
+      "Nơi ở của cô ấy đã hứng chịu gió mưa trăm năm, đã hơi tồi tàn, tiểu chủ hãy tới xây lại giúp nhé.",
+      5,
+      17,
+      [
+        [
+          17,
+          780102,
+          26
+        ]
+      ],
+      12300,
+      0,
+      0,
+      5
+    ],
+    "20206": [
+      850102,
+      "btn_sc_a12",
+      2,
+      1,
+      "Tấm Lòng Ngọt Ngào",
+      "Tiểu chủ thăm dò di tích vất vả, Tri Kỉ tận tay làm điểm tâm ngon đến hỏi han, tiểu chủ mau nếm xem hương vị thế nào?",
+      20,
+      34,
+      [
+        [
+          17,
+          780102,
+          30
+        ]
+      ],
+      11100,
+      0,
+      0,
+      6
+    ],
+    "20207": [
+      850102,
+      "btn_sc_a14",
+      2,
+      1,
+      "Người Đi Theo",
+      "Tới gần nơi ở của cô ấy thăm dò, cần nhân viên tạp vụ đi cùng, tiểu chủ hãy sắp xếp nhé!",
+      25,
+      74,
+      [
+        [
+          17,
+          780102,
+          15
+        ]
+      ],
+      11200,
+      0,
+      0,
+      7
+    ],
+    "20208": [
+      850102,
+      "btn_sc_a13",
+      2,
+      1,
+      "Rừng Núi Nguy Hiểm",
+      "Ra ngoài thăm dò di tích cổ liên quan tới cô ấy sẽ rất nguy hiểm, tiểu chủ nhớ giục tùy tùng chăm chỉ luyện võ nhé.",
+      150,
+      98,
+      [
+        [
+          17,
+          780102,
+          20
+        ]
+      ],
+      11700,
+      0,
+      0,
+      8
+    ],
+    "20209": [
+      850102,
+      "btn_sc_a12",
+      2,
+      1,
+      "Thu Thập Tin Tức",
+      "Những tin tức liên quan tới cô ấy thăm dò được ở dân gian đã tích thành núi, tiểu chủ mau xử lý nhé!",
+      120,
+      4,
+      [
+        [
+          17,
+          780102,
+          15
+        ]
+      ],
+      10300,
+      0,
+      0,
+      9
+    ],
+    "20210": [
+      850102,
+      "btn_sc_a14",
+      2,
+      1,
+      "Dò Xét Vườn Thuốc",
+      "Ra ngoài thăm dò di tích cổ sao không chuẩn bị ít thuốc thường dùng? Tiểu chủ mau tới chuẩn bị thuốc nào!",
+      120,
+      2,
+      [
+        [
+          17,
+          780102,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "20301": [
+      850102,
+      "btn_sc_a12",
+      2,
+      2,
+      "Bút Lông Sói Vẽ",
+      "Cần dùng bút lông sói để vẽ lại dấu vết sót lại của cô ấy, tiểu chủ hãy giúp chọn cái thích hợp nhé!",
+      199,
+      174,
+      [
+        [
+          17,
+          780102,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "20302": [
+      850102,
+      "btn_sc_a14",
+      2,
+      2,
+      "Ánh Đèn Lay Động",
+      "Có thể trong di tích không đủ ánh sáng, nến sẽ giúp thắp sáng không gian tối, tiểu chủ hãy chuẩn bị nhé!",
+      299,
+      174,
+      [
+        [
+          17,
+          780102,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "20303": [
+      850102,
+      "btn_sc_a12",
+      2,
+      2,
+      "Giấy Trắng Tinh",
+      "Một trang giấy xuất sắc có thể dùng để ghi chép những thứ nhìn thấy và nghĩ tới trong lúc thăm dò di tích cổ, tiểu chủ hãy mua một ít nhé!",
+      499,
+      174,
+      [
+        [
+          17,
+          780102,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "20304": [
+      850102,
+      "btn_sc_a13",
+      2,
+      2,
+      "Ngựa Tốt Ngàn Dặm",
+      "Lên núi xuống biển, thăm dò di tích cổ sao có thể thiếu 1 con ngựa tốt chạy được ngàn dặm? Giao nó cho tiểu chủ chuẩn bị nhé!",
+      999,
+      174,
+      [
+        [
+          17,
+          780102,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "20305": [
+      850102,
+      "btn_sc_a14",
+      2,
+      2,
+      "Đệm Mềm Nhung",
+      "Con đường thăm dò gập ghềnh khó đi, đệm mềm nhung có thể hòa hoãn cảm giác mệt mỏi, hay là tiểu chủ tới mua một ít nhé.",
+      999,
+      174,
+      [
+        [
+          17,
+          780102,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "20306": [
+      850102,
+      "btn_sc_a13",
+      2,
+      2,
+      "Giường Thơm Mỹ Nhân",
+      "Tương truyền chiếc giường mỹ nhân này là vật cô ấy thường dùng khi nghỉ ngơi, hay là tiểu chủ mua thử xem có thoải mái không.",
+      999,
+      174,
+      [
+        [
+          17,
+          780102,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "20307": [
+      850102,
+      "btn_sc_a12",
+      2,
+      2,
+      "Điêu Khắc Đá Vàng",
+      "Nếu xâu lại đầu đuôi câu chuyện về cô ấy khắc trên đá vàng, chắc chắn sẽ được lưu truyền rất lâu, tiểu chủ hãy mua vật phẩm tương ứng nhé!",
+      1999,
+      174,
+      [
+        [
+          17,
+          780102,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "20308": [
+      850102,
+      "btn_sc_a13",
+      2,
+      2,
+      "Pha Lê Như Sao",
+      "Pha lê lấp lánh như sao trời, nghe nói từng được trang điểm ở nơi ở của cô ấy, tiểu chủ mua làm kỷ niệm nhé!",
+      50074,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780102,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "20309": [
+      850102,
+      "btn_sc_a14",
+      2,
+      2,
+      "Mực Huy Ngàn Năm",
+      "Mực Huy Châu ngàn năm không phai, lấy mực Huy Châu ghi chép lại câu chuyện của cô ấy, không chừng sẽ lưu truyền ngàn năm, tiểu chủ mau mua nào!",
+      50077,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780102,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "20310": [
+      850102,
+      "btn_sc_a12",
+      2,
+      2,
+      "Truyện Ký Cổ Xưa",
+      "Trong thị trấn gần nơi cô ấy ở đến nay vẫn lưu truyền quyển sách truyện ký cổ xưa, tiểu chủ mau đi mua vài quyển nào!",
+      50078,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780102,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "30001": [
+      850103,
+      "btn_ww_a9",
+      1,
+      1,
+      "Phối Trang Phục",
+      "Tiệc Đông Chí quan trọng, hay tiểu chủ chuẩn bị thêm vài trang phục và trang sức để phối nhé?",
+      10,
+      132,
+      [
+        [
+          17,
+          780201,
+          35
+        ]
+      ],
+      11000,
+      0,
+      0,
+      1
+    ],
+    "30002": [
+      850103,
+      "btn_ww_a11",
+      1,
+      1,
+      "Nấu Sủi Cảo",
+      "Gói xong bánh trôi sủi cảo rồi, tiểu chủ mau mang đến Ngự Thiện Phòng nấu nào!",
+      60,
+      100,
+      [
+        [
+          17,
+          780201,
+          15
+        ]
+      ],
+      13200,
+      0,
+      0,
+      2
+    ],
+    "30003": [
+      850103,
+      "btn_ww_a9",
+      1,
+      1,
+      "Mai Hoa Như Tuyết",
+      "Tiệc Đông Chí cần thêm hoa mai trang trí, tiểu chủ hãy ra vườn hái vài hoa mai đến nào!",
+      40,
+      99,
+      [
+        [
+          17,
+          780201,
+          15
+        ]
+      ],
+      13100,
+      0,
+      0,
+      3
+    ],
+    "30004": [
+      850103,
+      "btn_ww_a11",
+      1,
+      1,
+      "Gắng Sức Giúp Đỡ",
+      "Lần này Tri Kỉ đã giúp rất nhiều cho việc chuẩn bị Tiệc Đông Chí, tiểu chủ mai xem họ có mệt không?",
+      60,
+      97,
+      [
+        [
+          17,
+          780201,
+          30
+        ]
+      ],
+      11101,
+      0,
+      0,
+      4
+    ],
+    "30005": [
+      850103,
+      "btn_ww_a10",
+      1,
+      1,
+      "Đạp Tuyết Tìm Mai",
+      "Tiểu chủ lội tuyết đến, chi bằng ngắt vài cành mai đỏ trang trí thêm cho Tiệc Đông Chí.",
+      360,
+      128,
+      [
+        [
+          17,
+          780201,
+          16
+        ]
+      ],
+      13300,
+      0,
+      0,
+      5
+    ],
+    "30006": [
+      850103,
+      "btn_ww_a10",
+      1,
+      1,
+      "Tuyết Trắng Mịt Mờ",
+      "Tuyết trắng mịt mờ đông lại đến, người người hối hả gói sủi cảo, cùng thi xem ai gói vừa nhanh vừa đẹp nào?",
+      20,
+      154,
+      [
+        [
+          17,
+          780201,
+          24
+        ]
+      ],
+      18200,
+      0,
+      0,
+      6
+    ],
+    "30007": [
+      850103,
+      "btn_ww_a11",
+      1,
+      1,
+      "Bày Tỏ Tấm Lòng",
+      "Tri Kỉ giúp đỡ chuẩn bị Tiệc Đông Chí, tiểu chủ nên tặng ít quà bày tỏ tấm lòng.",
+      180,
+      41,
+      [
+        [
+          17,
+          780201,
+          20
+        ]
+      ],
+      11100,
+      0,
+      0,
+      7
+    ],
+    "30008": [
+      850103,
+      "btn_ww_a9",
+      1,
+      1,
+      "Không Thể Lãng Phí",
+      "Có người dám dùng phung phí? Tiểu chủ hãy mau dạy dỗ kẻ đó!",
+      300,
+      7,
+      [
+        [
+          17,
+          780201,
+          15
+        ]
+      ],
+      10600,
+      0,
+      0,
+      8
+    ],
+    "30009": [
+      850103,
+      "btn_ww_a11",
+      1,
+      1,
+      "Vật Tư Cứu Tế",
+      "Ngày đông gió rét, tiểu chủ tốt bụng lấy vật tư cứu tế, vui một mình không bằng mọi người cùng vui.",
+      120,
+      1,
+      [
+        [
+          17,
+          780201,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      9
+    ],
+    "30010": [
+      850103,
+      "btn_ww_a10",
+      1,
+      1,
+      "Khí Lạnh Xâm Thể",
+      "Đông rét đã đến, hơi lạnh vào cơ thể, tiểu chủ hãy ăn ít yến sào bồi bổ sức khỏe nào!",
+      120,
+      3,
+      [
+        [
+          17,
+          780201,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "30101": [
+      850103,
+      "btn_ww_a10",
+      1,
+      2,
+      "Trâm Phượng Bị Mất",
+      "Trâm phượng chuẩn bị để đi dự tiệc bị bất cẩn đánh mất rồi, tiểu chủ mau đi mua trang sức mới nào.",
+      199,
+      174,
+      [
+        [
+          17,
+          780201,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "30102": [
+      850103,
+      "btn_ww_a11",
+      1,
+      2,
+      "Giày Vải Áo Đông",
+      "Đến lúc chọn giày vải áo bông đi dự tiệc rồi, hay tiểu chủ hãy chọn nào.",
+      299,
+      174,
+      [
+        [
+          17,
+          780201,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "30103": [
+      850103,
+      "btn_ww_a10",
+      1,
+      2,
+      "Chọn Bình Hoa",
+      "Hoa mai nở rộ, tiểu chủ có thể chọn vài bình hoa tiện cho mọi người cùng ngắm mai.",
+      499,
+      174,
+      [
+        [
+          17,
+          780201,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "30104": [
+      850103,
+      "btn_ww_a9",
+      1,
+      2,
+      "Bát Đĩa Yến Tiệc",
+      "Tiểu chủ cần chọn ít bát đĩa cần cho Tiệc Đông Chí để phòng hờ thêm.",
+      999,
+      174,
+      [
+        [
+          17,
+          780201,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "30105": [
+      850103,
+      "btn_ww_a10",
+      1,
+      2,
+      "Cửu Cửu Tiêu Hàn",
+      "Nghe nói trong thành có bán Tranh Cửu Cửu Tiêu Hàn, tiểu chủ có thể mua nó để giải trí tiêu khiển.",
+      999,
+      174,
+      [
+        [
+          17,
+          780201,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "30106": [
+      850103,
+      "btn_ww_a9",
+      1,
+      2,
+      "Mẫu Thiệp Mời",
+      "Cần gửi thiệp mời cho bạn bè thân thích trước Tiệc Đông Chí, tiểu chủ có thể mua mẫu thiệp mời trước.",
+      999,
+      174,
+      [
+        [
+          17,
+          780201,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "30107": [
+      850103,
+      "btn_ww_a10",
+      1,
+      2,
+      "Yên Chi Thủy Phấn",
+      "Cần trang điểm thật đẹp vào bữa tiệc, tiểu chủ hãy chọn son và bột phấn trước nào.",
+      1999,
+      174,
+      [
+        [
+          17,
+          780201,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "30108": [
+      850103,
+      "btn_ww_a9",
+      1,
+      2,
+      "Quà Tốt Đông Chí",
+      "Hôm yến tiệc phải tặng quà Đông Chí cho bạn bè thân thích, tiểu chủ nghĩ xem nên mua quà gì đây?",
+      50073,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780201,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "30109": [
+      850103,
+      "btn_ww_a11",
+      1,
+      2,
+      "Nguyên Liệu Tươi Mới",
+      "Tiểu chủ hãy suy nghĩ thực đơn của bữa tiệc, chuẩn bị sớm để mua nguyên liệu tươi mới nào.",
+      50075,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780201,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "30110": [
+      850103,
+      "btn_ww_a10",
+      1,
+      2,
+      "Sủi Cảo Đoàn Viên",
+      "Sủi cảo ngụ ý đoàn viên, mọi người đều thích ăn, tiểu chủ có thể chọn ít bột mì, nhân thịt về gói sủi cảo.",
+      50076,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780201,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "30201": [
+      850103,
+      "btn_ww_a13",
+      2,
+      1,
+      "Dạy Dỗ Vô Lại",
+      "Có đám vô lại gần đây dám phá hỏng bữa tiệc, đã đến lúc dạy dỗ chúng 1 trận rồi!",
+      20,
+      16,
+      [
+        [
+          17,
+          780202,
+          16
+        ]
+      ],
+      11300,
+      0,
+      0,
+      1
+    ],
+    "30202": [
+      850103,
+      "btn_ww_a14",
+      2,
+      1,
+      "Chăm Sóc Sủng",
+      "Thời tiết rét lạnh, gió bấc thổi vù, tiểu chủ hãy chăm sóc Sủng nhiều hơn tránh bị cảm lạnh!",
+      500,
+      113,
+      [
+        [
+          17,
+          780202,
+          20
+        ]
+      ],
+      13400,
+      0,
+      0,
+      2
+    ],
+    "30203": [
+      850103,
+      "btn_ww_a13",
+      2,
+      1,
+      "Áo Đông Giữ Ấm",
+      "Tuyết trắng xóa, gió lạnh thổi, tiểu chủ hãy chuẩn bị thêm áo đông giữ ấm nhé.",
+      100,
+      71,
+      [
+        [
+          17,
+          780202,
+          28
+        ]
+      ],
+      11000,
+      0,
+      0,
+      3
+    ],
+    "30204": [
+      850103,
+      "btn_ww_a14",
+      2,
+      1,
+      "Hoa Lan Thoang Thoảng",
+      "Để khuấy động không khí ngày đông, Tri Kỉ đã mang hoa lan thanh ngát đến cho tiểu chủ, bấy giờ trong phòng đượm hương thơm.",
+      120,
+      14,
+      [
+        [
+          17,
+          780202,
+          15
+        ]
+      ],
+      11100,
+      0,
+      0,
+      4
+    ],
+    "30205": [
+      850103,
+      "btn_ww_a13",
+      2,
+      1,
+      "Tu Sửa Đình Cổ",
+      "Đình cổ trong sân đã nhiều năm không tu sửa, nhân lúc thời tiết trong xanh, tiểu chủ hãy giúp đỡ tu sửa nhé.",
+      5,
+      17,
+      [
+        [
+          17,
+          780202,
+          26
+        ]
+      ],
+      12300,
+      0,
+      0,
+      5
+    ],
+    "30206": [
+      850103,
+      "btn_ww_a12",
+      2,
+      1,
+      "Pháo Hoa Bất Ngờ",
+      "Tri Kỉ đã chuẩn bị tràng pháo hoa cho tiểu chủ, tiểu chủ mau đi xem nào!",
+      20,
+      34,
+      [
+        [
+          17,
+          780202,
+          30
+        ]
+      ],
+      11100,
+      0,
+      0,
+      6
+    ],
+    "30207": [
+      850103,
+      "btn_ww_a14",
+      2,
+      1,
+      "Điều Phối Tùy Tùng",
+      "Tiệc Đông Chí, việc nhiều phức tạp, tiểu chủ hãy điều phối tùy tùng hỗ trợ, tổ chức bữa tiệc này thật hoàn hảo nào.",
+      25,
+      74,
+      [
+        [
+          17,
+          780202,
+          15
+        ]
+      ],
+      11200,
+      0,
+      0,
+      7
+    ],
+    "30208": [
+      850103,
+      "btn_ww_a13",
+      2,
+      1,
+      "Tiết mục biểu diễn",
+      "Đã chuẩn bị vài tiết mục biểu diễn trong bữa tiệc, tiểu chủ nhớ thúc giục những người biểu diễn chăm chỉ luyện tập nhé.",
+      150,
+      98,
+      [
+        [
+          17,
+          780202,
+          20
+        ]
+      ],
+      11700,
+      0,
+      0,
+      8
+    ],
+    "30209": [
+      850103,
+      "btn_ww_a12",
+      2,
+      1,
+      "Công Việc Chuẩn Bị",
+      "Tiểu chủ mau xử lý những việc chuẩn bị cho Tiệc Đông Chí nào, phải nhớ đừng bị rối nhé.",
+      120,
+      4,
+      [
+        [
+          17,
+          780202,
+          15
+        ]
+      ],
+      10300,
+      0,
+      0,
+      9
+    ],
+    "30210": [
+      850103,
+      "btn_ww_a14",
+      2,
+      1,
+      "Trèo Cây Mai",
+      "Nghe nói có khách trèo lên cây mai đỏ trong vườn hoa, tiểu chủ mau tới vườn hoa xem thử nào!",
+      120,
+      2,
+      [
+        [
+          17,
+          780202,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "30301": [
+      850103,
+      "btn_ww_a12",
+      2,
+      2,
+      "Chọn Rượu Ngon",
+      "Đến muộn trời sắp có tuyết rơi, uống 1 ly nhé? Tiểu chủ có thể chọn thêm vài loại rượu ngon cho bữa tiệc này.",
+      199,
+      174,
+      [
+        [
+          17,
+          780202,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "30302": [
+      850103,
+      "btn_ww_a14",
+      2,
+      2,
+      "Chọn Găng Tay",
+      "Đôi găng tay thích nhất đã bị bất cẩn đánh mất rồi, tiểu chủ nhân lúc rảnh rỗi mua lại nào.",
+      299,
+      174,
+      [
+        [
+          17,
+          780202,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "30303": [
+      850103,
+      "btn_ww_a12",
+      2,
+      2,
+      "Lửa Than",
+      "Mùa đông không thể thiếu lửa than giữ ấm, tiểu chủ phải chuẩn bị sẵn thêm ít than đó.",
+      499,
+      174,
+      [
+        [
+          17,
+          780202,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "30304": [
+      850103,
+      "btn_ww_a13",
+      2,
+      2,
+      "Đề Phòng Cảm Lạnh",
+      "Để chăm sóc từng vị khách đến dự tiệc, tiểu chủ cần mua thêm lò sưởi tay, đề phòng bị cảm lạnh.",
+      999,
+      174,
+      [
+        [
+          17,
+          780202,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "30305": [
+      850103,
+      "btn_ww_a14",
+      2,
+      2,
+      "Chuẩn Bị Canh Nóng",
+      "Cần chuẩn bị canh nóng làm ấm người cho khách dự tiệc, tiểu chủ đã mua nguyên liệu chưa?",
+      999,
+      174,
+      [
+        [
+          17,
+          780202,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "30306": [
+      850103,
+      "btn_ww_a13",
+      2,
+      2,
+      "Vịt Quay Tươi Ngon",
+      "Nghe nói đông thành có một hộ bán vịt quay ngon số một, hay tiểu chủ mua một ít về để mọi người thưởng thức nhé.",
+      999,
+      174,
+      [
+        [
+          17,
+          780202,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "30307": [
+      850103,
+      "btn_ww_a12",
+      2,
+      2,
+      "Chuẩn Bị Thức Ăn",
+      "Măng mùa đông của Giang Đông, cải thảo của đất Việt, tươi ngon thanh đạm, tiểu chủ có thể đặt mua trước để chuẩn bị cho bữa tiệc.",
+      1999,
+      174,
+      [
+        [
+          17,
+          780202,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "30308": [
+      850103,
+      "btn_ww_a13",
+      2,
+      2,
+      "Kem Bơ",
+      "Kem bơ của nhà Liễu Nương Tử rất ngon, tiểu chủ có thể mua một ít để đãi khách.",
+      50074,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780202,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "30309": [
+      850103,
+      "btn_ww_a14",
+      2,
+      2,
+      "Mã Não Kim Trạc",
+      "Đôi vòng mã não làm bằng vàng nguyên chất này rất hợp với trang phục của tiểu chủ, chi bằng mua nó.",
+      50077,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780202,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "30310": [
+      850103,
+      "btn_ww_a12",
+      2,
+      2,
+      "Quà Tơ Lụa",
+      "Phường Lụa mới nhập ít tơ lụa rất thích hợp làm quà tặng, chọn nó làm quà Đông Chí nhé.",
+      50078,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780202,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "40001": [
+      850104,
+      "btn_ffr_a9",
+      1,
+      1,
+      "Cố Ý Phá Hoại",
+      "Lễ hội gần đến, lại có người phá hoại hoa viên, đã đến lúc để đám tùy tùng dạy dỗ bọn chúng!",
+      20,
+      16,
+      [
+        [
+          17,
+          780301,
+          16
+        ]
+      ],
+      11300,
+      0,
+      0,
+      1
+    ],
+    "40002": [
+      850104,
+      "btn_ffr_a11",
+      1,
+      1,
+      "Chăm Sóc Sủng",
+      "Mọi thứ trở nên bận rộn hơn vào ngày lễ hội, nhưng Tiểu Chủ cũng cần chú ý đến sức khỏe của thú cưng, để tránh cảm lạnh.",
+      500,
+      113,
+      [
+        [
+          17,
+          780301,
+          20
+        ]
+      ],
+      13400,
+      0,
+      0,
+      2
+    ],
+    "40003": [
+      850104,
+      "btn_ffr_a9",
+      1,
+      1,
+      "Ngọc Bội Đã Cũ",
+      "Ngọc bội của Tiểu Chủ đã hơi cũ, chi bằng đổi ngọc bội mới xem?",
+      100,
+      71,
+      [
+        [
+          17,
+          780301,
+          28
+        ]
+      ],
+      11000,
+      0,
+      0,
+      3
+    ],
+    "40004": [
+      850104,
+      "btn_ffr_a11",
+      1,
+      1,
+      "Chuẩn Bị Đố Đèn",
+      "Để tăng thêm không khí lễ hội, Lam Nhan đặc biệt chuẩn bị rất nhiều câu đố đèn lồng, chi bằng Tiểu Chủ đoán thử xem?",
+      120,
+      14,
+      [
+        [
+          17,
+          780301,
+          15
+        ]
+      ],
+      11100,
+      0,
+      0,
+      4
+    ],
+    "40005": [
+      850104,
+      "btn_ffr_a10",
+      1,
+      1,
+      "Tu Sửa Vườn Hoa",
+      "Để có một tết nguyên tiêu viên mãn, khu vườn đã được cải tạo từ bên trong lẫn bên ngoài.",
+      5,
+      17,
+      [
+        [
+          17,
+          780301,
+          26
+        ]
+      ],
+      12300,
+      0,
+      0,
+      5
+    ],
+    "40006": [
+      850104,
+      "btn_ffr_a10",
+      1,
+      1,
+      "Pháo Hoa Ngày Lễ",
+      "Lam Nhan đã chuẩn bị pháo hoa ngày lễ cho Tiểu Chủ, người mau đi xem thử!",
+      20,
+      34,
+      [
+        [
+          17,
+          780301,
+          30
+        ]
+      ],
+      11100,
+      0,
+      0,
+      6
+    ],
+    "40007": [
+      850104,
+      "btn_ffr_a11",
+      1,
+      1,
+      "Tiệc Vườn Nguyên Tiêu",
+      "Hội Nguyên Tiêu, trăm hoa nở, nhiều việc phức tạp, Tiểu Chủ cần điều phái tùy tùng giúp đỡ, để tiệc sân vườn này trở nên hoàn hảo.",
+      25,
+      74,
+      [
+        [
+          17,
+          780301,
+          15
+        ]
+      ],
+      11200,
+      0,
+      0,
+      7
+    ],
+    "40008": [
+      850104,
+      "btn_ffr_a9",
+      1,
+      1,
+      "Múa Lân",
+      "Tiểu Chủ nhớ thúc giục các tùy tùng tập luyện biểu diễn múa lân, tăng thêm không khí ngày lễ cho Tết Nguyên Tiêu.",
+      150,
+      98,
+      [
+        [
+          17,
+          780301,
+          20
+        ]
+      ],
+      11700,
+      0,
+      0,
+      8
+    ],
+    "40009": [
+      850104,
+      "btn_ffr_a11",
+      1,
+      1,
+      "Chuẩn Bị Nguyên Tiêu",
+      "Tiểu Chủ nhanh đi xử lý công việc chuẩn bị cho tiệc vườn nguyên tiêu, để tránh rối loạn trình tự.",
+      120,
+      4,
+      [
+        [
+          17,
+          780301,
+          15
+        ]
+      ],
+      10300,
+      0,
+      0,
+      9
+    ],
+    "40010": [
+      850104,
+      "btn_ffr_a10",
+      1,
+      1,
+      "Chăm Sóc Chăm Hoa",
+      "Trăm hoa trong vườn nở vừa đúng lúc, nhưng cần thời gian chăm sóc, mới có thể duy trì sự xinh đẹp này càng lâu hơn.",
+      120,
+      2,
+      [
+        [
+          17,
+          780301,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "40101": [
+      850104,
+      "btn_ffr_a10",
+      1,
+      2,
+      "Mua Ruy Băng",
+      "Tiểu Chủ có thể mua một số ruy băng để trang trí bông hoa trong vườn, khiến vẻ đẹp của chúng càng thêm bắt mắt.",
+      199,
+      174,
+      [
+        [
+          17,
+          780301,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "40102": [
+      850104,
+      "btn_ffr_a11",
+      1,
+      2,
+      "Thưởng Trăng Trong Vườn",
+      "Tuy là đầu xuân, nhưng đêm khuya gió lạnh, Tiểu Chủ cần chuẩn bị một ít áo ấm, mới có thể thưởng trăng trong vườn tốt hơn.",
+      299,
+      174,
+      [
+        [
+          17,
+          780301,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "40103": [
+      850104,
+      "btn_ffr_a10",
+      1,
+      2,
+      "Mua Lá Trà",
+      "Thưởng hoa thưởng nguyệt đương nhiên không thể thiếu một ấm trà nóng, Tiểu Chủ cần mua trước lá trà mới được.",
+      499,
+      174,
+      [
+        [
+          17,
+          780301,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "40104": [
+      850104,
+      "btn_ffr_a9",
+      1,
+      2,
+      "Tán Gẫu Chuyện Nhà",
+      "Ngồi cùng bạn bè giữa trăm hoa, tán gẫu chuyện nhà, phải chuẩn bị điểm tâm và hoa quả.",
+      999,
+      174,
+      [
+        [
+          17,
+          780301,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "40105": [
+      850104,
+      "btn_ffr_a10",
+      1,
+      2,
+      "Pháo Trúc Khói Hoa",
+      "Nguyên tiêu sắp đến, giá pháo hoa đã tăng lên, chi bằng Tiểu Chủ đi mua trước?",
+      999,
+      174,
+      [
+        [
+          17,
+          780301,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "40106": [
+      850104,
+      "btn_ffr_a9",
+      1,
+      2,
+      "Đoán Đố Trong Vườn",
+      "Tiểu Chủ mua một ít đèn lồng trở về, làm mội vài câu đố đèn, sau đó cùng bạn bè thân thiết chơi đố đèn?",
+      999,
+      174,
+      [
+        [
+          17,
+          780301,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "40107": [
+      850104,
+      "btn_ffr_a10",
+      1,
+      2,
+      "Hoa Tai Đá Quý",
+      "Đôi hoa tai hồng ngọc này rất phù hợp với không khí lễ hội, chi bằng Tiểu Chủ mua cho mình một đôi để phối trong hội Nguyên Tiêu?",
+      1999,
+      174,
+      [
+        [
+          17,
+          780301,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "40108": [
+      850104,
+      "btn_ffr_a9",
+      1,
+      2,
+      "Tặng Mật Quả",
+      "Bánh mật quả từ các cửa hàng bánh ngọt trong thành vô cùng ngon, chi bằng Tiểu Chủ mua một ít về làm quà?",
+      50073,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780301,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "40109": [
+      850104,
+      "btn_ffr_a11",
+      1,
+      2,
+      "Tiếng Rao Ngoài Cửa",
+      "Đột nhiên nghe thấy tiếng rao ngoài cửa, hóa ra có người bán chè trôi nước, Tiểu Chủ có muốn mua một chén nếm thử?",
+      50075,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780301,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "40110": [
+      850104,
+      "btn_ffr_a10",
+      1,
+      2,
+      "Mua Giày Mới",
+      "Tiểu Chủ, đôi giày này không hợp với bộ váy của người, cho bằng mua một đôi giày mới?",
+      50076,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780301,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "40201": [
+      850104,
+      "btn_ffr_a13",
+      2,
+      1,
+      "Cầu Được Ước Thấy",
+      "Tết Nguyên Tiêu là một ngày lành, Tiểu Chủ có muốn đi cầu nguyện không?",
+      10,
+      132,
+      [
+        [
+          17,
+          780302,
+          35
+        ]
+      ],
+      11000,
+      0,
+      0,
+      1
+    ],
+    "40202": [
+      850104,
+      "btn_ffr_a14",
+      2,
+      1,
+      "Mười Dặm Hương Thơm",
+      "Khi màn đêm buông xuống, những món ăn tinh xảo ra khỏi chảo, hương thơm bay xa mười dặm.",
+      60,
+      100,
+      [
+        [
+          17,
+          780302,
+          15
+        ]
+      ],
+      13200,
+      0,
+      0,
+      2
+    ],
+    "40203": [
+      850104,
+      "btn_ffr_a13",
+      2,
+      1,
+      "Trăm Hoa Đua Nở",
+      "Đầu xuân gió thoảng, trăm hoa trong vườn nở rộ, Tiểu Chủ có thể hái một ít hoa về trang trí cho lễ hội.",
+      40,
+      99,
+      [
+        [
+          17,
+          780302,
+          15
+        ]
+      ],
+      13100,
+      0,
+      0,
+      3
+    ],
+    "40204": [
+      850104,
+      "btn_ffr_a14",
+      2,
+      1,
+      "Thưởng Đèn Ngắm Trăng",
+      "Nguyên Tiêu đã đến, Lam Nhan mời Tiểu Chủ thưởng đèn ngắm trăng, Tiểu Chủ nhanh đến buổi hẹn nào!",
+      60,
+      97,
+      [
+        [
+          17,
+          780302,
+          30
+        ]
+      ],
+      11101,
+      0,
+      0,
+      4
+    ],
+    "40205": [
+      850104,
+      "btn_ffr_a13",
+      2,
+      1,
+      "Sáng Như Ban Ngày",
+      "Trong thành lên đèn như ban ngày, vô cùng sống động, Tiểu Chủ chi bằng ra ngoài thưởng đèn?",
+      360,
+      128,
+      [
+        [
+          17,
+          780302,
+          16
+        ]
+      ],
+      13300,
+      0,
+      0,
+      5
+    ],
+    "40206": [
+      850104,
+      "btn_ffr_a12",
+      2,
+      1,
+      "Làm Trôi Nước",
+      "Tết Nguyên Tiêu đương nhiên không thể thiếu ăn chè trôi nước, nhìn thử Tiểu Chủ và các cô nương khác, ai làm chè trôi nước vừa nhanh vừa ngon mắt?",
+      20,
+      154,
+      [
+        [
+          17,
+          780302,
+          24
+        ]
+      ],
+      18200,
+      0,
+      0,
+      6
+    ],
+    "40207": [
+      850104,
+      "btn_ffr_a14",
+      2,
+      1,
+      "Quà Nguyên Tiêu",
+      "Lam Nhan tặng đến quà Nguyên Tiêu, Tiểu Chủ cũng nên chuẩn bị quà đáp lễ thể hiện tâm ý.",
+      180,
+      41,
+      [
+        [
+          17,
+          780302,
+          20
+        ]
+      ],
+      11100,
+      0,
+      0,
+      7
+    ],
+    "40208": [
+      850104,
+      "btn_ffr_a13",
+      2,
+      1,
+      "Vô Cớ Gây Sự",
+      "Trong lúc ngắm đèn lồng, lại có người gây sự, Tiểu Chủ cần ngăn cản, tránh để xảy ra chuyện!",
+      300,
+      7,
+      [
+        [
+          17,
+          780302,
+          15
+        ]
+      ],
+      10600,
+      0,
+      0,
+      8
+    ],
+    "40209": [
+      850104,
+      "btn_ffr_a12",
+      2,
+      1,
+      "Thiên Hạ Thái Bình",
+      "Yến hội ngày lễ, Tiểu Chủ có lòng quyên góp đồ dùng, mong thiên hạ không còn tai họa, quốc thái dân an.",
+      120,
+      1,
+      [
+        [
+          17,
+          780302,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      9
+    ],
+    "40210": [
+      850104,
+      "btn_ffr_a14",
+      2,
+      1,
+      "Cái Lạnh Mùa Xuân",
+      "Tiết xuân se lạnh, vẫn có những cơn gió se lạnh, Tiểu Chủ ăn yến huyết bồi bổ cơ thể nhé!",
+      120,
+      3,
+      [
+        [
+          17,
+          780302,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "40301": [
+      850104,
+      "btn_ffr_a12",
+      2,
+      2,
+      "Đèn Sáng Đầy Thành",
+      "Đêm nay thành phố đầy đèn, sao Tiểu Chủ không mua một đèn lồng mà mình thích?",
+      199,
+      174,
+      [
+        [
+          17,
+          780302,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "40302": [
+      850104,
+      "btn_ffr_a14",
+      2,
+      2,
+      "Mua Mặt Nạ",
+      "Tiểu Chủ nhìn xem, mặt nạ bán ở quầy hàng nhỏ đó thật tinh xảo, vô cùng thích hợp với Tiểu Chủ.",
+      299,
+      174,
+      [
+        [
+          17,
+          780302,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "40303": [
+      850104,
+      "btn_ffr_a12",
+      2,
+      2,
+      "Trâm Cài Tinh Xảo",
+      "Tiểu Chủ cài chiếc trâm này trông rất đẹp, người có muốn mua nó không?",
+      499,
+      174,
+      [
+        [
+          17,
+          780302,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "40304": [
+      850104,
+      "btn_ffr_a13",
+      2,
+      2,
+      "Chuẩn Bị Trang Phục Mới",
+      "Tết Nguyên Tiêu, tiết trời đầu xuân, Tiểu Chủ cũng cần chuẩn bị vài trang phục mới cho bản thân mình mới phải.",
+      999,
+      174,
+      [
+        [
+          17,
+          780302,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "40305": [
+      850104,
+      "btn_ffr_a14",
+      2,
+      2,
+      "Trang Điểm Mai Đỏ",
+      "Nghe nói kiểu trang điểm mùa xuân phổ biến hiện nay là dùng son vẽ mai đỏ trên trán, Tiểu Chủ chuẩn bị thêm một ít son thượng hạng nào?",
+      999,
+      174,
+      [
+        [
+          17,
+          780302,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "40306": [
+      850104,
+      "btn_ffr_a13",
+      2,
+      2,
+      "Bạn Bè Thân Thiết",
+      "Cây lửa hoa ngân đêm giao thừa, phải chăng Tiểu Chủ muốn chuẩn bị món quà dành cho bạn bè thân thiết?",
+      999,
+      174,
+      [
+        [
+          17,
+          780302,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "40307": [
+      850104,
+      "btn_ffr_a12",
+      2,
+      2,
+      "Nghỉ Chân Quán Nhỏ",
+      "Dạo hội đèn lồng một lúc lâu, sao Tiểu Chủ không đến quán nhỏ bên cạnh ăn một chén chè trôi nước, nghỉ ngơi một tí?",
+      1999,
+      174,
+      [
+        [
+          17,
+          780302,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "40308": [
+      850104,
+      "btn_ffr_a13",
+      2,
+      2,
+      "Cùng Thưởng Pháo Hoa",
+      "Tiểu Chủ không muốn mua một ít pháo hoa và tận hưởng bầu trời đầy màu sắc với bạn bè của mình ư?",
+      50074,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780302,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "40309": [
+      850104,
+      "btn_ffr_a14",
+      2,
+      2,
+      "Đèn Hoa Ước Nguyện",
+      "Đèn lồng gửi ước nguyện, như sao trên trời, Tiểu Chủ cũng mua một chiếc để cầu nguyện đi?",
+      50077,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780302,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "40310": [
+      850104,
+      "btn_ffr_a12",
+      2,
+      2,
+      "Mua Nguyên Liệu",
+      "Để làm chè trôi nước, Tiểu Chủ cần chuẩn bị bột gạo nếp, đường hoa quế và quả óc chó.",
+      50078,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780302,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "50001": [
+      850105,
+      "btn_ixxhi_a9",
+      1,
+      1,
+      "Ước Nguyện Sao Băng",
+      "Trong màn đêm tĩnh lặng, sao băng lướt qua đường chân trời, Tiểu Chủ chi bằng cầu nguyện một điều?",
+      10,
+      132,
+      [
+        [
+          17,
+          780401,
+          35
+        ]
+      ],
+      11000,
+      0,
+      0,
+      1
+    ],
+    "50002": [
+      850105,
+      "btn_ixxhi_a11",
+      1,
+      1,
+      "Món Ăn Lửa Trại",
+      "Khi nghỉ ngơi ở cứ điểm tạm thời, đốt lửa trại, thưởng cho sự vất vả hôm nay bằng những món ăn nóng hổi.",
+      60,
+      100,
+      [
+        [
+          17,
+          780401,
+          15
+        ]
+      ],
+      13200,
+      0,
+      0,
+      2
+    ],
+    "50003": [
+      850105,
+      "btn_ixxhi_a9",
+      1,
+      1,
+      "Hoa Cỏ Trang Trí",
+      "Những bông hoa nhiều màu sắc, xinh đẹp đáng yêu, Tiểu Chủ có thể hái vài nhành hoa cài lên búi tóc mình.",
+      40,
+      99,
+      [
+        [
+          17,
+          780401,
+          15
+        ]
+      ],
+      13100,
+      0,
+      0,
+      3
+    ],
+    "50004": [
+      850105,
+      "btn_ixxhi_a11",
+      1,
+      1,
+      "Hoa Tươi Trong Tuyết",
+      "Trong tuyết có hoa tươi nở rộ, Lam Nhan mời bạn cùng thưởng thức, Tiểu Chủ nhanh đi hẹn hò nào!",
+      60,
+      97,
+      [
+        [
+          17,
+          780401,
+          30
+        ]
+      ],
+      11101,
+      0,
+      0,
+      4
+    ],
+    "50005": [
+      850105,
+      "btn_ixxhi_a10",
+      1,
+      1,
+      "Xứ Tuyết Vô Tận",
+      "Gió thổi băng qua núi sông, xứ tuyết vô tận đang kêu gọi, Tiểu Chủ nhanh đến khám phá thử xem nào!",
+      360,
+      128,
+      [
+        [
+          17,
+          780401,
+          16
+        ]
+      ],
+      13300,
+      0,
+      0,
+      5
+    ],
+    "50006": [
+      850105,
+      "btn_ixxhi_a10",
+      1,
+      1,
+      "Làm Trôi Nước",
+      "Người đến khám phá xứ tuyết vẫn còn rất nhiều, chi bằng Tiểu Chủ so tài cùng họ xem, xem ai có thể thành công khám phá trước",
+      20,
+      154,
+      [
+        [
+          17,
+          780401,
+          24
+        ]
+      ],
+      18200,
+      0,
+      0,
+      6
+    ],
+    "50007": [
+      850105,
+      "btn_ixxhi_a11",
+      1,
+      1,
+      "Quà Tâm Ý",
+      "Lam Nhan đã giúp đỡ rất nhiều trong chuyến đi đến xứ tuyết này, Tiểu Chủ chi bằng chuẩn bị một vài quà cảm ơn để thể hiện tấm lòng.",
+      180,
+      41,
+      [
+        [
+          17,
+          780401,
+          20
+        ]
+      ],
+      11100,
+      0,
+      0,
+      7
+    ],
+    "50008": [
+      850105,
+      "btn_ixxhi_a9",
+      1,
+      1,
+      "Chặn Đường Gây Sự",
+      "Trong con đường thăm dò, gặp phải người chặn đường gây sự, Tiểu Chủ phải đến ngăn lại, để tránh xảy ra sự cố!",
+      300,
+      7,
+      [
+        [
+          17,
+          780401,
+          15
+        ]
+      ],
+      10600,
+      0,
+      0,
+      8
+    ],
+    "50009": [
+      850105,
+      "btn_ixxhi_a11",
+      1,
+      1,
+      "Du Khách Lạc Đường",
+      "Tình cờ gặp du khách lạc đường trong xứ tuyết, Tiểu Chủ tốt bụng, tặng lại vật tư.",
+      120,
+      1,
+      [
+        [
+          17,
+          780401,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      9
+    ],
+    "50010": [
+      850105,
+      "btn_ixxhi_a10",
+      1,
+      1,
+      "Sương Tuyết Băng Lạnh",
+      "Sương giá phất phơ, băng lạnh thấu xương, Tiểu Chủ ăn chút huyết yến bồi bổ thân thể đi.",
+      120,
+      3,
+      [
+        [
+          17,
+          780401,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "50101": [
+      850105,
+      "btn_ixxhi_a10",
+      1,
+      2,
+      "Giữ Ấm Chống Rét",
+      "Để giữ ấm trong lúc thăm dò xứ tuyết, Tiểu Chủ hãy mua ngay một bộ trang phục chống rét cao cấp nhé.",
+      199,
+      174,
+      [
+        [
+          17,
+          780401,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "50102": [
+      850105,
+      "btn_ixxhi_a11",
+      1,
+      2,
+      "Mua Thực Phẩm",
+      "Thăm dò thời gian dài cần chuẩn bị lương thực thật đầy đủ, Tiểu Chủ nhanh đến mua một ít nào!",
+      299,
+      174,
+      [
+        [
+          17,
+          780401,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "50103": [
+      850105,
+      "btn_ixxhi_a10",
+      1,
+      2,
+      "Xe Trượt Tuyết",
+      "Nơi tích lũy lớp tuyết dày, đi lại khó khăn, Tiểu Chủ chi bằng mua xe trượt tuyết nhỉ.",
+      499,
+      174,
+      [
+        [
+          17,
+          780401,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "50104": [
+      850105,
+      "btn_ixxhi_a9",
+      1,
+      2,
+      "Lâu Đài Nhộn Nhịp",
+      "Băng qua xứ tuyết, tiến vào xứ sở tiên linh, trong lâu đài nhộn nhịp, Tiểu Chủ chi bằng mua một ít đặc sản mang về?",
+      999,
+      174,
+      [
+        [
+          17,
+          780401,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "50105": [
+      850105,
+      "btn_ixxhi_a10",
+      1,
+      2,
+      "Đèn Băng Tuyết",
+      "Nhìn xem, chiếc đèn được chạm khắc từ băng tuyết thực sự quá đẹp, Tiểu Chủ mua một cái nhé?",
+      999,
+      174,
+      [
+        [
+          17,
+          780401,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "50106": [
+      850105,
+      "btn_ixxhi_a9",
+      1,
+      2,
+      "Món Ăn Tươi Ngon",
+      "Hương vị thức ăn do lâu đài cung cấp rất tươi ngon, Tiểu Chủ hay là mua nhiều một xíu, ăn cho thật thỏa thích.",
+      999,
+      174,
+      [
+        [
+          17,
+          780401,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "50107": [
+      850105,
+      "btn_ixxhi_a10",
+      1,
+      2,
+      "Mộc Mạc Tự Nhiên",
+      "Nghe nói trong lâu đài băng tuyết hiện nay đang thịnh hành kiểu trang điểm tự nhiên, Tiểu Chủ cũng mời người trang điểm như thế thử xem?",
+      1999,
+      174,
+      [
+        [
+          17,
+          780401,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "50108": [
+      850105,
+      "btn_ixxhi_a9",
+      1,
+      2,
+      "Lễ Phục Đông Tuyết",
+      "Mỗi tối trong lâu đài đều có vũ hội lớn, Tiểu Chủ cũng cần chuẩn bị cho mình vài bộ lễ phục mới phải.",
+      50074,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780401,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "50109": [
+      850105,
+      "btn_ixxhi_a11",
+      1,
+      2,
+      "Chuông Sao Hạnh Phúc",
+      "Những chiếc chuông vàng sáng lấp lánh, tượng trưng cho hạnh phúc, chi bằng Tiểu Chủ cũng mua một cái?",
+      50077,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780401,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "50110": [
+      850105,
+      "btn_ixxhi_a10",
+      1,
+      2,
+      "Quà Thân Mật",
+      "Trong lâu đài băng tuyết, các loại vật phẩm đều khác với thế giới bên ngoài, Tiểu Chủ có định chuẩn bị quà cho bạn bè thân thiết?",
+      50078,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780401,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "50201": [
+      850105,
+      "btn_ixxhi_a13",
+      2,
+      1,
+      "Phá Hoại Vật Tư",
+      "Giờ khởi hành gần đến, lại có người phá hoại vật tư, đã đến lúc để các Tùy Tùng giáo huấn bọn chúng một phen rồi!",
+      20,
+      16,
+      [
+        [
+          17,
+          780402,
+          16
+        ]
+      ],
+      11300,
+      0,
+      0,
+      1
+    ],
+    "50202": [
+      850105,
+      "btn_ixxhi_a14",
+      2,
+      1,
+      "Sắp Xếp Mèo Cưng",
+      "Lần này không biết phải đi bao lâu, Tiểu Chủ chú ý sắp xếp ổn thỏa cho mèo cưng nhé, để tránh không ai chăm lo.",
+      500,
+      113,
+      [
+        [
+          17,
+          780402,
+          20
+        ]
+      ],
+      13400,
+      0,
+      0,
+      2
+    ],
+    "50203": [
+      850105,
+      "btn_ixxhi_a13",
+      2,
+      1,
+      "Hành Lý Đã Cũ",
+      "Gói hành lý của Tiểu Chủ đã hơi cũ rồi, hay là đổi cái mới?",
+      100,
+      71,
+      [
+        [
+          17,
+          780402,
+          28
+        ]
+      ],
+      11000,
+      0,
+      0,
+      3
+    ],
+    "50204": [
+      850105,
+      "btn_ixxhi_a14",
+      2,
+      1,
+      "Chuẩn Bị Đầy Đủ",
+      "Vì để thăm dò xứ tuyết cùng Tiểu Chủ, Lam Nhan đặc biệt chuẩn bị không ít thứ, Tiểu Chủ đi xem thử nhé?",
+      120,
+      14,
+      [
+        [
+          17,
+          780402,
+          15
+        ]
+      ],
+      11100,
+      0,
+      0,
+      4
+    ],
+    "50205": [
+      850105,
+      "btn_ixxhi_a13",
+      2,
+      1,
+      "Sửa Chữa Cứ Điểm",
+      "Một đêm tuyết dày đặc, làm phẩn đỉnh cứ điểm tạm bị đè bẹp, nhanh chóng sửa chữa.",
+      5,
+      17,
+      [
+        [
+          17,
+          780402,
+          26
+        ]
+      ],
+      12300,
+      0,
+      0,
+      5
+    ],
+    "50206": [
+      850105,
+      "btn_ixxhi_a12",
+      2,
+      1,
+      "Bất Ngờ Lam Nhan",
+      "Tuy rằng bận rộn, nhưng Lam Nhan cũng đã vì Tiểu Chủ chuẩn bị một sự bất ngờ, Tiểu Chủ nhanh đi xem thử xem.",
+      20,
+      34,
+      [
+        [
+          17,
+          780402,
+          30
+        ]
+      ],
+      11100,
+      0,
+      0,
+      6
+    ],
+    "50207": [
+      850105,
+      "btn_ixxhi_a14",
+      2,
+      1,
+      "Nhanh Chóng Xuất Phát",
+      "Khám phá vùng đất tuyết, việc nhiều phức tạp, Tiểu Chủ còn cần điều động Tùy Tùng giúp đỡ, nhanh chóng xuất phát.",
+      25,
+      74,
+      [
+        [
+          17,
+          780402,
+          15
+        ]
+      ],
+      11200,
+      0,
+      0,
+      7
+    ],
+    "50208": [
+      850105,
+      "btn_ixxhi_a13",
+      2,
+      1,
+      "Kiến Thức Thám Hiểm",
+      "Tiểu Chủ nhớ giục các Tùy Tùng học thêm kiến thức liên quan đến thám hiểm, tránh lúc thám hiểm Tuyết Vực lại không biết làm gì.",
+      150,
+      98,
+      [
+        [
+          17,
+          780402,
+          20
+        ]
+      ],
+      11700,
+      0,
+      0,
+      8
+    ],
+    "50209": [
+      850105,
+      "btn_ixxhi_a12",
+      2,
+      1,
+      "Chuẩn Bị Vật Phẩm",
+      "Tiểu Chủ nhanh xử lý việc chuẩn bị thám hiểm xứ tuyết, để tránh khi xuất phát hoang mang lộn xộn.",
+      120,
+      4,
+      [
+        [
+          17,
+          780402,
+          15
+        ]
+      ],
+      10300,
+      0,
+      0,
+      9
+    ],
+    "50210": [
+      850105,
+      "btn_ixxhi_a14",
+      2,
+      1,
+      "Tuyết Liên Hoang Dã",
+      "Tình cờ bắt gặp đóa tuyết liên nghe nói có thể chữa bách bệnh, chuyển đến trồng trong bồn hoa để chăm sóc cẩn thận.",
+      120,
+      2,
+      [
+        [
+          17,
+          780402,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "50301": [
+      850105,
+      "btn_ixxhi_a12",
+      2,
+      2,
+      "Chỉ Nam Dẫn Đường",
+      "Trong gió tuyết rất dễ lạc đường, Tiểu Chủ chi bằng mua một quyển chỉ nam dẫn đường mang theo bên mình.",
+      199,
+      174,
+      [
+        [
+          17,
+          780402,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "50302": [
+      850105,
+      "btn_ixxhi_a14",
+      2,
+      2,
+      "Thuốc Thường Dùng",
+      "An toàn là ưu tiên hàng đầu khi thám hiểm xứ tuyết, Tiểu Chủ nhớ mua những loại thuốc thường dùng nhé.",
+      299,
+      174,
+      [
+        [
+          17,
+          780402,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "50303": [
+      850105,
+      "btn_ixxhi_a12",
+      2,
+      2,
+      "Ngọn Lửa Trong Tuyết",
+      "Ngọn lửa có thể sưởi ấm trong cảnh giá lạnh, đồng thời cũng có thể nấu chín thức ăn, Tiểu Chủ nhanh chóng chuẩn bị nào.",
+      499,
+      174,
+      [
+        [
+          17,
+          780402,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "50304": [
+      850105,
+      "btn_ixxhi_a13",
+      2,
+      2,
+      "Con Phố Xứ Tuyết",
+      "Vượt qua xứ tuyết, đột nhiên bắt gặp dòng người qua lại trên phố, gian hàng khắp nơi, Tiểu Chủ hay là cũng mua một ít?",
+      999,
+      174,
+      [
+        [
+          17,
+          780402,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "50305": [
+      850105,
+      "btn_ixxhi_a14",
+      2,
+      2,
+      "Nóng Hổi",
+      "Mùi thơm từ các món ăn nóng hổi khiến người ta đói bụng, Tiểu Chủ mua một ít về ăn đi.",
+      999,
+      174,
+      [
+        [
+          17,
+          780402,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "50306": [
+      850105,
+      "btn_ixxhi_a13",
+      2,
+      2,
+      "Áo Khoác Màu Đen",
+      "Chiếc áo choàng đen này vô cùng thoải mái ấm áp, Tiểu Chủ chi bằng mua nó, vừa hay phối với cách ăn mặc hôm nay.",
+      999,
+      174,
+      [
+        [
+          17,
+          780402,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "50307": [
+      850105,
+      "btn_ixxhi_a12",
+      2,
+      2,
+      "Mua Giày Mới",
+      "Một đường gian khổ, giày Tiểu Chủ đã hơi rách, hay là mua một đôi giày mới nào.",
+      1999,
+      174,
+      [
+        [
+          17,
+          780402,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "50308": [
+      850105,
+      "btn_ixxhi_a13",
+      2,
+      2,
+      "Chuyến Thám Hiểm",
+      "Trời sáng rồi, tuyết ngưng rồi, Tiểu Chủ chi bằng chuẩn bị ít điểm tâm, ngồi dưới đình tuyết thông cùng với Lam Nhan, trò chuyện về chuyến đi thám hiểm.",
+      50073,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780402,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "50309": [
+      850105,
+      "btn_ixxhi_a14",
+      2,
+      2,
+      "Rượu Ngon Lá Thông",
+      "Chủ nhân đình viện vô cùng yêu thích ủ rượu lá thông, Tiểu Chủ chi bằng mua một ít về để kỷ niệm chuyến đi lần này?",
+      50075,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780402,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "50310": [
+      850105,
+      "btn_ixxhi_a12",
+      2,
+      2,
+      "Quà Cảm Ơn",
+      "Ngoài cửa có người đang bán đồ công nghệ tinh xảo, Tiểu Chủ mua về tặng cho chủ nhân gian phòng, làm quà cảm ơn.",
+      50076,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780402,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "60001": [
+      850106,
+      "btn_hffef_a9",
+      1,
+      1,
+      "Nguyện Ước Trăng Rằm",
+      "Trăng rằm trung thu treo trên bầu trời, Tiểu Chủ sao không đi ước nguyện một phen?",
+      10,
+      132,
+      [
+        [
+          17,
+          780501,
+          35
+        ]
+      ],
+      11000,
+      0,
+      0,
+      1
+    ],
+    "60002": [
+      850106,
+      "btn_hffef_a11",
+      1,
+      1,
+      "Gia Đình Đoàn Viên",
+      "Ngày đoàn viên gia đình rất thích hợp để cùng nấu nướng, Tiểu Chủ hãy nhanh chóng chuẩn bị nhé!",
+      60,
+      100,
+      [
+        [
+          17,
+          780501,
+          15
+        ]
+      ],
+      13200,
+      0,
+      0,
+      2
+    ],
+    "60003": [
+      850106,
+      "btn_hffef_a9",
+      1,
+      1,
+      "Hoa Cỏ Trang Trí",
+      "Những bông hoa nhiều màu sắc, xinh đẹp đáng yêu, Tiểu Chủ có thể hái vài nhành hoa cài lên búi tóc mình.",
+      40,
+      99,
+      [
+        [
+          17,
+          780501,
+          15
+        ]
+      ],
+      13100,
+      0,
+      0,
+      3
+    ],
+    "60004": [
+      850106,
+      "btn_hffef_a11",
+      1,
+      1,
+      "Món Ngon Hạn Giờ",
+      "Bánh trung thu có hương hoa chỉ có vào dịp Trung Thu, bạn bè mời cùng thưởng thức, Tiểu Chủ hãy nhanh đến hẹn nhé!",
+      60,
+      97,
+      [
+        [
+          17,
+          780501,
+          30
+        ]
+      ],
+      11101,
+      0,
+      0,
+      4
+    ],
+    "60005": [
+      850106,
+      "btn_hffef_a10",
+      1,
+      1,
+      "Họp Chợ Trung Thu",
+      "Nghe nói đêm nay họp chợ Trung Thu rất nhộn nhịp, Tiểu Chủ hãy đi khám phá một chút nhé!",
+      360,
+      128,
+      [
+        [
+          17,
+          780501,
+          16
+        ]
+      ],
+      13300,
+      0,
+      0,
+      5
+    ],
+    "60006": [
+      850106,
+      "btn_hffef_a10",
+      1,
+      1,
+      "Đố Đèn Trung Thu",
+      "Chợ đêm Trung Thu có hoạt động đố đèn, hay là Tiểu Chủ thi với họ xem ai thành công trước.",
+      20,
+      154,
+      [
+        [
+          17,
+          780501,
+          24
+        ]
+      ],
+      18200,
+      0,
+      0,
+      6
+    ],
+    "60007": [
+      850106,
+      "btn_hffef_a11",
+      1,
+      1,
+      "Quà Tâm Ý",
+      "Ngày lễ Trung Thu, thích hợp để cảm ơn, hay là Tiểu Chủ chuẩn bị chút quà để bày tỏ lòng mình.",
+      180,
+      41,
+      [
+        [
+          17,
+          780501,
+          20
+        ]
+      ],
+      11100,
+      0,
+      0,
+      7
+    ],
+    "60008": [
+      850106,
+      "btn_hffef_a9",
+      1,
+      1,
+      "Chặn Đường Gây Sự",
+      "Gặp phải người cản đường gây rối, Tiểu Chủ cần đi ngăn cản một chút, để tránh xảy ra sự cố!",
+      300,
+      7,
+      [
+        [
+          17,
+          780501,
+          15
+        ]
+      ],
+      10600,
+      0,
+      0,
+      8
+    ],
+    "60009": [
+      850106,
+      "btn_hffef_a11",
+      1,
+      1,
+      "Không Thể Về Nhà",
+      "Tình cờ gặp gỡ những người không thể về nhà đoàn viên đêm nay, Tiểu Chủ hãy tặng họ chút vật phẩm.",
+      120,
+      1,
+      [
+        [
+          17,
+          780501,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      9
+    ],
+    "60010": [
+      850106,
+      "btn_hffef_a10",
+      1,
+      1,
+      "Trời Chuyển Lạnh",
+      "Không khí lạnh dần, thời tiết cũng lạnh, Tiểu Chủ hãy ăn chút yến huyết để bồi bổ cơ thể nhé.",
+      120,
+      3,
+      [
+        [
+          17,
+          780501,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "60101": [
+      850106,
+      "btn_hffef_a10",
+      1,
+      2,
+      "Vào Thu Giữ Ấm",
+      "Mùa thu đã đến, hãy nhớ giữ ấm, Tiểu Chủ hãy nhanh chóng mua sắm một bộ trang phục đẹp và giữ ấm nhé!",
+      199,
+      174,
+      [
+        [
+          17,
+          780501,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "60102": [
+      850106,
+      "btn_hffef_a11",
+      1,
+      2,
+      "Mua Thực Phẩm",
+      "Để chuẩn bị cho bữa tiệc đoàn viên Trung Thu, cần có đủ thực phẩm, Tiểu Chủ hãy nhanh chóng mua sắm một chút nhé!",
+      299,
+      174,
+      [
+        [
+          17,
+          780501,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "60103": [
+      850106,
+      "btn_hffef_a10",
+      1,
+      2,
+      "Rượu Ngon Thưởng Trăng",
+      "Thưởng trăng sao có thể thiếu rượu ngon, Tiểu Chủ hãy nhanh chóng mua một chút nhé!",
+      499,
+      174,
+      [
+        [
+          17,
+          780501,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "60104": [
+      850106,
+      "btn_hffef_a9",
+      1,
+      2,
+      "Đốt Hương Cúng Trăng",
+      "Cúng trăng cần chuẩn bị đủ hương long diên, Tiểu Chủ nhớ chuẩn bị trước nhé!",
+      999,
+      174,
+      [
+        [
+          17,
+          780501,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "60105": [
+      850106,
+      "btn_hffef_a10",
+      1,
+      2,
+      "Đèn Ông Trăng",
+      "Nhìn kìa, đèn ông trăng làm bằng giấy mỏng thật đẹp, Tiểu Chủ hãy mua một cái nhé?",
+      999,
+      174,
+      [
+        [
+          17,
+          780501,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "60106": [
+      850106,
+      "btn_hffef_a9",
+      1,
+      2,
+      "Bánh Hương Hoa",
+      "Bánh trung thu hương hoa có vị tươi mát, Tiểu Chủ hay là mua thêm một chút, cũng để ăn cho đã.",
+      999,
+      174,
+      [
+        [
+          17,
+          780501,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "60107": [
+      850106,
+      "btn_hffef_a10",
+      1,
+      2,
+      "Ngâm Thơ Ngắm Trăng",
+      "Ngâm thơ ngắm trăng không thể thiếu bút mực, Tiểu Chủ hãy chuẩn bị trước một chút nhé.",
+      1999,
+      174,
+      [
+        [
+          17,
+          780501,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "60108": [
+      850106,
+      "btn_hffef_a9",
+      1,
+      2,
+      "Niềm Vui Đoàn Viên",
+      "Ngày lễ Trung Thu thích hợp chuẩn bị trang phục đẹp để mừng niềm vui đoàn viên, Tiểu Chủ cũng hãy đi mua vài bộ mới nhé.",
+      50074,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780501,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "60109": [
+      850106,
+      "btn_hffef_a11",
+      1,
+      2,
+      "Thời Điểm Ăn Cua",
+      "Đúng thời điểm ăn cua, cua béo đầy gạch, vị ngon đáng quý, Tiểu Chủ cũng hãy mua một chút để thưởng thức nhé.",
+      50077,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780501,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "60110": [
+      850106,
+      "btn_hffef_a10",
+      1,
+      2,
+      "Quà Nhớ Thương",
+      "Vào dịp Trung Thu có thể chuẩn bị một chút quà nhỏ, gửi đến bạn bè thân thiết để bày tỏ nỗi nhớ, Tiểu Chủ cũng hãy chuẩn bị nhé.",
+      50078,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780501,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "60201": [
+      850106,
+      "btn_hffef_a13",
+      2,
+      1,
+      "Phá Hủy Các Ngọc",
+      "Thời gian ngắm trăng sắp đến, lại có người phá hủy các ngọc ngắm trăng, đã đến lúc để các thuộc hạ dạy cho họ một bài học!",
+      20,
+      16,
+      [
+        [
+          17,
+          780502,
+          16
+        ]
+      ],
+      11300,
+      0,
+      0,
+      1
+    ],
+    "60202": [
+      850106,
+      "btn_hffef_a14",
+      2,
+      1,
+      "Sắp Xếp Mèo Cưng",
+      "Thú cưng cũng cần đón Tết Trung Thu, Tiểu Chủ đừng quên chăm sóc chúng nhé!",
+      500,
+      113,
+      [
+        [
+          17,
+          780502,
+          20
+        ]
+      ],
+      13400,
+      0,
+      0,
+      2
+    ],
+    "60203": [
+      850106,
+      "btn_hffef_a13",
+      2,
+      1,
+      "Chuẩn Bị Rượu Ngon",
+      "Tiểu Chủ có nhiều bạn bè thưởng trăng tối nay, chi bằng chuẩn bị thêm một ít rượu ngon đi?",
+      100,
+      71,
+      [
+        [
+          17,
+          780502,
+          28
+        ]
+      ],
+      11000,
+      0,
+      0,
+      3
+    ],
+    "60204": [
+      850106,
+      "btn_hffef_a14",
+      2,
+      1,
+      "Chuẩn Bị Đầy Đủ",
+      "Để cùng Tiểu Chủ đón Tết Trung Thu, Lam Nhan cũng đã chuẩn bị không ít thứ, Tiểu Chủ hãy đi xem nhé?",
+      120,
+      14,
+      [
+        [
+          17,
+          780502,
+          15
+        ]
+      ],
+      11100,
+      0,
+      0,
+      4
+    ],
+    "60205": [
+      850106,
+      "btn_hffef_a13",
+      2,
+      1,
+      "Sửa Chữa Các Ngọc",
+      "Đột nhiên có trận mưa, mái các ngọc ngắm trăng bị hư hại, hãy nhanh chóng sửa chữa một chút đi.",
+      5,
+      17,
+      [
+        [
+          17,
+          780502,
+          26
+        ]
+      ],
+      12300,
+      0,
+      0,
+      5
+    ],
+    "60206": [
+      850106,
+      "btn_hffef_a12",
+      2,
+      1,
+      "Bất Ngờ Lam Nhan",
+      "Trong dịp Tết Trung Thu, Lam Nhan đã chuẩn bị một bất ngờ cho Tiểu Chủ, Tiểu Chủ hãy nhanh chóng đi xem nhé.",
+      20,
+      34,
+      [
+        [
+          17,
+          780502,
+          30
+        ]
+      ],
+      11100,
+      0,
+      0,
+      6
+    ],
+    "60207": [
+      850106,
+      "btn_hffef_a14",
+      2,
+      1,
+      "Nghi Thức Ngắm Trăng",
+      "Nghi thức ngắm trăng rất quan trọng, Tiểu Chủ cần sắp xếp các thuộc hạ giúp đỡ, chuẩn bị nhanh chóng.",
+      25,
+      74,
+      [
+        [
+          17,
+          780502,
+          15
+        ]
+      ],
+      11200,
+      0,
+      0,
+      7
+    ],
+    "60208": [
+      850106,
+      "btn_hffef_a13",
+      2,
+      1,
+      "Thơ Ca Về Trăng",
+      "Tiểu Chủ nhớ nhắc nhở các thuộc hạ chuẩn bị các bài thơ liên quan đến trăng, tránh để không biết làm gì khi đến lúc.",
+      150,
+      98,
+      [
+        [
+          17,
+          780502,
+          20
+        ]
+      ],
+      11700,
+      0,
+      0,
+      8
+    ],
+    "60209": [
+      850106,
+      "btn_hffef_a12",
+      2,
+      1,
+      "Chuẩn Bị Vật Phẩm",
+      "Tiểu Chủ hãy nhanh chóng xử lý một chút công việc chuẩn bị cho nghi thức ngắm trăng, để tối nay không bị lộn xộn.",
+      120,
+      4,
+      [
+        [
+          17,
+          780502,
+          15
+        ]
+      ],
+      10300,
+      0,
+      0,
+      9
+    ],
+    "60210": [
+      850106,
+      "btn_hffef_a14",
+      2,
+      1,
+      "Bánh Dẻo",
+      "Gặp được hương thảo được cho là có thể làm bánh trung thu nhân lạnh, hãy cấy vào chậu và chăm sóc thật tốt nhé.",
+      120,
+      2,
+      [
+        [
+          17,
+          780502,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "60301": [
+      850106,
+      "btn_hffef_a12",
+      2,
+      2,
+      "Túi Hương Tử Đằng",
+      "Hoa tử đằng từ Tây Vực có mùi thơm kỳ lạ, Tiểu Chủ chi bằng có thể làm thành túi hương tặng bạn bè?",
+      199,
+      174,
+      [
+        [
+          17,
+          780502,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "60302": [
+      850106,
+      "btn_hffef_a14",
+      2,
+      2,
+      "Ngắm Trăng Dưới Đình",
+      "Tiểu Chủ có thể chuẩn bị một ít bánh ngọt, cùng Lam Nhan ngồi quây quần dưới đình ngắm trăng!",
+      299,
+      174,
+      [
+        [
+          17,
+          780502,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "60303": [
+      850106,
+      "btn_hffef_a12",
+      2,
+      2,
+      "Thèm Thuồng",
+      "Bánh trung thu có nhiều hình dạng khác nhau, mỗi cái đều làm người ta thèm thuồng, Tiểu Chủ hãy chuẩn bị thêm một ít bánh trung thu với nhiều hương vị nhé.",
+      499,
+      174,
+      [
+        [
+          17,
+          780502,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "60304": [
+      850106,
+      "btn_hffef_a13",
+      2,
+      2,
+      "Làm Bánh Trung Thu",
+      "Làm bánh trung thu nhân ngũ vị cần chuẩn bị năm loại nguyên liệu, Tiểu Chủ phải chuẩn bị sớm một chút.",
+      999,
+      174,
+      [
+        [
+          17,
+          780502,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "60305": [
+      850106,
+      "btn_hffef_a14",
+      2,
+      2,
+      "Ánh Trăng Sáng Tỏ",
+      "Ánh trăng sáng tỏ, đẹp không tả nổi, Tiểu Chủ hãy mua một ít giấy để vẽ lại nhé!",
+      999,
+      174,
+      [
+        [
+          17,
+          780502,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "60306": [
+      850106,
+      "btn_hffef_a13",
+      2,
+      2,
+      "Mứt hoa nhài",
+      "Mứt hoa nhài, thơm ngon ngọt ngào, Tiểu Chủ chi bằng mua thêm một ít, ăn cho thỏa thích.",
+      999,
+      174,
+      [
+        [
+          17,
+          780502,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "60307": [
+      850106,
+      "btn_hffef_a12",
+      2,
+      2,
+      "Bình Rượu Ngọc",
+      "Bình rượu ngọc này, màu sắc ấm áp, hoa văn tự nhiên, thực sự là bảo vật hiếm có, Tiểu Chủ đừng bỏ lỡ nhé!",
+      1999,
+      174,
+      [
+        [
+          17,
+          780502,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "60308": [
+      850106,
+      "btn_hffef_a13",
+      2,
+      2,
+      "Sắc Đêm Dần Lạnh",
+      "Đêm dần lạnh, ngắm trăng đừng để bị cảm, Tiểu Chủ nên mua vài chiếc áo choàng để phòng ngừa nhé!",
+      50073,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780502,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "60309": [
+      850106,
+      "btn_hffef_a14",
+      2,
+      2,
+      "Đèn Thỏ Ngọc",
+      "Chiếc đèn thỏ ngọc này rất tinh xảo, Tiểu Chủ chi bằng mua một ít về làm kỷ niệm Trung Thu?",
+      50075,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780502,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "60310": [
+      850106,
+      "btn_hffef_a12",
+      2,
+      2,
+      "Trâm Hoa Sen",
+      "Chiếc trâm hoa sen bằng thủy tinh này rất tinh tế, Tiểu Chủ chi bằng mua nó, rất hợp với trang phục hôm nay.",
+      50076,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780502,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "70001": [
+      850107,
+      "btn_ibdif_a9",
+      1,
+      1,
+      "Giá Rét Ngày Đông",
+      "Tiết trời giá rét, đường trơn dễ trượt, Tiểu Chủ hãy chuẩn bị nhiều trang phục giữ ấm!",
+      10,
+      132,
+      [
+        [
+          17,
+          780601,
+          35
+        ]
+      ],
+      11000,
+      0,
+      0,
+      1
+    ],
+    "70002": [
+      850107,
+      "btn_ibdif_a11",
+      1,
+      1,
+      "Thưởng Thức Món Ngon",
+      "Sau khi vui chơi là phải thưởng thức món ngon, Tiểu Chủ mau chuẩn bị thôi!",
+      60,
+      100,
+      [
+        [
+          17,
+          780601,
+          15
+        ]
+      ],
+      13200,
+      0,
+      0,
+      2
+    ],
+    "70003": [
+      850107,
+      "btn_ibdif_a9",
+      1,
+      1,
+      "Hồng Mai Tuyệt Sắc",
+      "Đóa hồng mai trong tuyết, lộng lẫy rực rỡ, Tiểu Chủ có thể hái để cài lên búi tóc.",
+      40,
+      99,
+      [
+        [
+          17,
+          780601,
+          15
+        ]
+      ],
+      13100,
+      0,
+      0,
+      3
+    ],
+    "70004": [
+      850107,
+      "btn_ibdif_a11",
+      1,
+      1,
+      "Cùng Ngắm Cảnh Tuyết",
+      "Cảnh tuyết tuyệt đẹp, Lam Nhan mời cùng ngắm cảnh, Tiểu Chủ mau đi hẹn hò đi!",
+      60,
+      97,
+      [
+        [
+          17,
+          780601,
+          30
+        ]
+      ],
+      11101,
+      0,
+      0,
+      4
+    ],
+    "70005": [
+      850107,
+      "btn_ibdif_a10",
+      1,
+      1,
+      "Cảnh Tuyết Trong Vườn",
+      "Cảnh tuyết trong vườn hôm nay, đẹp vô cùng tận, Tiểu Chủ mau đi ngắm cảnh!",
+      360,
+      128,
+      [
+        [
+          17,
+          780601,
+          16
+        ]
+      ],
+      13300,
+      0,
+      0,
+      5
+    ],
+    "70006": [
+      850107,
+      "btn_ibdif_a10",
+      1,
+      1,
+      "Người Tuyết Đáng Yêu",
+      "Tuyết đọng dày, đã đến lúc đắp người tuyết, Tiểu Chủ mau đấu với họ, xem người tuyết của ai đáng yêu nhất.",
+      20,
+      154,
+      [
+        [
+          17,
+          780601,
+          24
+        ]
+      ],
+      18200,
+      0,
+      0,
+      6
+    ],
+    "70007": [
+      850107,
+      "btn_ibdif_a11",
+      1,
+      1,
+      "Tri Ân Cảnh Đẹp",
+      "Bông tuyết bay múa, cảnh đẹp như mơ, Tiểu Chủ chi bằng chuẩn bị quà tặng Lam Nhan.",
+      180,
+      41,
+      [
+        [
+          17,
+          780601,
+          20
+        ]
+      ],
+      11100,
+      0,
+      0,
+      7
+    ],
+    "70008": [
+      850107,
+      "btn_ibdif_a9",
+      1,
+      1,
+      "Chiếm Phòng Ăn",
+      "Thế mà lại có người chiếm phòng ăn, Tiểu Chủ mau đi dạy dỗ đối phương!",
+      300,
+      7,
+      [
+        [
+          17,
+          780601,
+          15
+        ]
+      ],
+      10600,
+      0,
+      0,
+      8
+    ],
+    "70009": [
+      850107,
+      "btn_ibdif_a11",
+      1,
+      1,
+      "Tặng Vật Tư",
+      "Ngẫu nhiên gặp được một người đáng thương ăn mặc phong phanh, Tiểu Chủ chi bằng tặng một ít vật tư.",
+      120,
+      1,
+      [
+        [
+          17,
+          780601,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      9
+    ],
+    "70010": [
+      850107,
+      "btn_ibdif_a10",
+      1,
+      1,
+      "Bàn Tay Lạnh Buốt",
+      "Ngày giá rét, bàn tay lạnh buốt, Tiểu Chủ nên ăn huyết yến để bồi bổ.",
+      120,
+      3,
+      [
+        [
+          17,
+          780601,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "70101": [
+      850107,
+      "btn_ibdif_a10",
+      1,
+      2,
+      "Hoa Tai Rơi Mất",
+      "Lúc chơi không cẩn thận làm rơi hoa tai, Tiểu Chủ mau đi mua trang sức mới.",
+      199,
+      174,
+      [
+        [
+          17,
+          780601,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "70102": [
+      850107,
+      "btn_ibdif_a11",
+      1,
+      2,
+      "Mua Lá Trà",
+      "Nấu trà bên bếp sưởi rất hợp với cảnh này, lá trà sắp hết rồi, Tiểu Chủ mau đi mua thêm!",
+      299,
+      174,
+      [
+        [
+          17,
+          780601,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "70103": [
+      850107,
+      "btn_ibdif_a10",
+      1,
+      2,
+      "Bình Hoa Sứ Trắng",
+      "Bình hoa sứ trắng hợp với hồng mai nhất, Tiểu Chủ mau đi mua đi!",
+      499,
+      174,
+      [
+        [
+          17,
+          780601,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "70104": [
+      850107,
+      "btn_ibdif_a9",
+      1,
+      2,
+      "Tiểu Thuyết Bán Chạy",
+      "Nghe nói trong thành đang bán tiểu thuyết, Tiểu Chủ có thể mua về, để giải trí lúc nhàn rỗi.",
+      999,
+      174,
+      [
+        [
+          17,
+          780601,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "70105": [
+      850107,
+      "btn_ibdif_a10",
+      1,
+      2,
+      "Vẩy Mực Vẽ Tranh",
+      "Lúc ngắm tuyết có thể vẩy mực vẽ tranh, Tiểu Chủ chi bằng mua nhiều mực nước một chút.",
+      999,
+      174,
+      [
+        [
+          17,
+          780601,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "70106": [
+      850107,
+      "btn_ibdif_a9",
+      1,
+      2,
+      "Bút Lông Tử Hào",
+      "Bên kia đang bán bút lông Tử Hào, món đồ mà văn nhân mặc khách yêu nhất, Tiểu Chủ có thể mua một chút.",
+      999,
+      174,
+      [
+        [
+          17,
+          780601,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "70107": [
+      850107,
+      "btn_ibdif_a10",
+      1,
+      2,
+      "Trang Điểm Xinh Đẹp",
+      "Đi ngắm tuyết cũng phải trang điểm xinh đẹp, Tiểu Chủ đến chọn son phấn đi.",
+      1999,
+      174,
+      [
+        [
+          17,
+          780601,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "70108": [
+      850107,
+      "btn_ibdif_a9",
+      1,
+      2,
+      "Trang Phục Ấm Áp",
+      "Ngắm cảnh đương nhiên phải mặc trang phục vừa ấm áp vừa xinh đẹp, Tiểu Chủ mau đi mua thôi.",
+      50074,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780601,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "70109": [
+      850107,
+      "btn_ibdif_a11",
+      1,
+      2,
+      "Đồ Ăn Ngắm Tuyết",
+      "Tiểu Chủ cũng phải chuẩn bị đồ ăn khi ngắm tuyết, nên đi mua nguyên liệu tươi ngon.",
+      50077,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780601,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "70110": [
+      850107,
+      "btn_ibdif_a10",
+      1,
+      2,
+      "Bánh Hoa Mai",
+      "Bánh hoa mai mềm mại ngọt ngào, mọi người đều yêu thích, Tiểu Chủ mau đi mua nguyên liệu.",
+      50078,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780601,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "70201": [
+      850107,
+      "btn_ibdif_a13",
+      2,
+      1,
+      "Lẻn Vào Thành",
+      "Thế mà lại có đám vô lại muốn lẻn vào thành, đã đến lúc để các Tùy Tùng dạy bọn họ một trận!",
+      20,
+      16,
+      [
+        [
+          17,
+          780602,
+          16
+        ]
+      ],
+      11300,
+      0,
+      0,
+      1
+    ],
+    "70202": [
+      850107,
+      "btn_ibdif_a14",
+      2,
+      1,
+      "Để Ý Thú Nuôi",
+      "Tiết trời giá lạnh, nước đóng thành băng, Tiểu Chủ cần chăm sóc kỹ lưỡng cho thú nuôi, tránh bị cảm lạnh!",
+      500,
+      113,
+      [
+        [
+          17,
+          780602,
+          20
+        ]
+      ],
+      13400,
+      0,
+      0,
+      2
+    ],
+    "70203": [
+      850107,
+      "btn_ibdif_a13",
+      2,
+      1,
+      "Trang Phục Phù Hợp",
+      "Tuyết trắng khắp nơi, Tiểu Chủ mau thay trang phục phù hợp để thưởng thức cảnh đẹp này!",
+      100,
+      71,
+      [
+        [
+          17,
+          780602,
+          28
+        ]
+      ],
+      11000,
+      0,
+      0,
+      3
+    ],
+    "70204": [
+      850107,
+      "btn_ibdif_a14",
+      2,
+      1,
+      "Chuẩn Bị Lãng Mạn",
+      "Để tăng thêm lãng mạn, Lam Nhan chuẩn bị bất ngờ cho Tiểu Chủ, người mau đến xem xem?",
+      120,
+      14,
+      [
+        [
+          17,
+          780602,
+          15
+        ]
+      ],
+      11100,
+      0,
+      0,
+      4
+    ],
+    "70205": [
+      850107,
+      "btn_ibdif_a13",
+      2,
+      1,
+      "Sửa Chữa Tượng Băng",
+      "Tương băng tinh xảo bị thời tiết ảnh hưởng, cần tranh thủ sửa lại.",
+      5,
+      17,
+      [
+        [
+          17,
+          780602,
+          26
+        ]
+      ],
+      12300,
+      0,
+      0,
+      5
+    ],
+    "70206": [
+      850107,
+      "btn_ibdif_a12",
+      2,
+      1,
+      "Cánh Bướm Bất Ngờ",
+      "Lam Nhan đặc biệt tìm kiếm linh điệp lộng lẫy tặng Tiểu Chủ, ngươi mau đi xem xem.",
+      20,
+      34,
+      [
+        [
+          17,
+          780602,
+          30
+        ]
+      ],
+      11100,
+      0,
+      0,
+      6
+    ],
+    "70207": [
+      850107,
+      "btn_ibdif_a14",
+      2,
+      1,
+      "Tiệc Ngắm Tuyết",
+      "Tiệc ngắm tuyết, cần chuẩn bị nhiều, Tiểu Chủ cần điều Tùy Tùng đến hỗ trợ, nhanh chóng chuẩn bị.",
+      25,
+      74,
+      [
+        [
+          17,
+          780602,
+          15
+        ]
+      ],
+      11200,
+      0,
+      0,
+      7
+    ],
+    "70208": [
+      850107,
+      "btn_ibdif_a13",
+      2,
+      1,
+      "Ca Khúc Lãng Mạn",
+      "Tiểu Chủ nhớ đốc thúc Tùy Tùng sưu tầm ca khúc lãng mạn, tăng thêm không khí cho buổi tiệc.",
+      150,
+      98,
+      [
+        [
+          17,
+          780602,
+          20
+        ]
+      ],
+      11700,
+      0,
+      0,
+      8
+    ],
+    "70209": [
+      850107,
+      "btn_ibdif_a12",
+      2,
+      1,
+      "Chuẩn Bị Tiệc",
+      "Tiểu Chủ mau đi xử lý việc chuẩn bị cho buổi tiệc ngắm tuyết, tránh bối rối khi mở tiệc.",
+      120,
+      4,
+      [
+        [
+          17,
+          780602,
+          15
+        ]
+      ],
+      10300,
+      0,
+      0,
+      9
+    ],
+    "70210": [
+      850107,
+      "btn_ibdif_a14",
+      2,
+      1,
+      "Cây Lạ Ngày Tuyết",
+      "Gặp được loại cây lạ sẽ nở hoa khi tuyết rơi, trồng vào chậu để dễ chăm sóc.",
+      120,
+      2,
+      [
+        [
+          17,
+          780602,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "70301": [
+      850107,
+      "btn_ibdif_a12",
+      2,
+      2,
+      "Nước Hoa Tươi Mát",
+      "Nước hoa có hương thơm tươi mát, thoang thoảng mùi tùng bách, Tiểu Chủ chi bằng mua 1 chai.",
+      199,
+      174,
+      [
+        [
+          17,
+          780602,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "70302": [
+      850107,
+      "btn_ibdif_a14",
+      2,
+      2,
+      "Đèn Băng Pha Lê",
+      "Ngọn đèn tinh xảo được điêu khắc từ băng, treo giữa phòng chắc chắn sẽ rất đẹp, Tiểu Chủ mua 1 cái đi?",
+      299,
+      174,
+      [
+        [
+          17,
+          780602,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "70303": [
+      850107,
+      "btn_ibdif_a12",
+      2,
+      2,
+      "Bánh Ngọt Ngon",
+      "Bánh ngọt mềm mại ngon miệng, Tiểu Chủ có thể chuẩn bị nhiều loại khẩu vị.",
+      499,
+      174,
+      [
+        [
+          17,
+          780602,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "70304": [
+      850107,
+      "btn_ibdif_a13",
+      2,
+      2,
+      "Trâm Cài Tinh Xảo",
+      "Trâm cài tinh xảo này rất phù hợp với trang phục, Tiểu Chủ chi bằng mua 1 cái?",
+      999,
+      174,
+      [
+        [
+          17,
+          780602,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "70305": [
+      850107,
+      "btn_ibdif_a14",
+      2,
+      2,
+      "Lá Trà Thơm Dịu",
+      "Mùa đông thích hợp uống trà ấm nhất, chọn một vài lá trà thơm dịu vị ngọt thôi!",
+      999,
+      174,
+      [
+        [
+          17,
+          780602,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "70306": [
+      850107,
+      "btn_ibdif_a13",
+      2,
+      2,
+      "Chén Hoa Băng",
+      "Chén hoa băng trông rất thú vị, còn phù hợp với phong cảnh, Tiểu Chủ có thể mua một ít!",
+      999,
+      174,
+      [
+        [
+          17,
+          780602,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "70307": [
+      850107,
+      "btn_ibdif_a12",
+      2,
+      2,
+      "Khay Tròn Bạch Ngọc",
+      "Khay tròn bạch ngọc này, màu sắc dịu dàng, hoa văn tinh xảo, là báu vật quý hiếm, Tiểu Chủ đừng bỏ lỡ!",
+      1999,
+      174,
+      [
+        [
+          17,
+          780602,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "70308": [
+      850107,
+      "btn_ibdif_a13",
+      2,
+      2,
+      "Trang Phục Giữ Ấm",
+      "Buổi tiệc đông khách, lúc kết thúc thì cũng đã muộn, chi bằng mua ít trang phục giữ ấm để dự phòng trước!",
+      50073,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780602,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "70309": [
+      850107,
+      "btn_ibdif_a14",
+      2,
+      2,
+      "Trang Trí Băng Giá",
+      "Món đồ trang trí làm bằng băng này vô cùng tinh xảo, Tiểu Chủ chi bằng mua nó về.",
+      50075,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780602,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "70310": [
+      850107,
+      "btn_ibdif_a12",
+      2,
+      2,
+      "Trời Sao Đêm Tuyết",
+      "Nghe nói máy chụp ảnh có thể chụp lại vạn vật, trời sao đêm tuyết đẹp như này nên được lưu lại, Tiểu Chủ chi bằng mua 1 cái!",
+      50076,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780602,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "80001": [
+      850108,
+      "btn_aacxxf_a9",
+      1,
+      1,
+      "Phá Hủy Nghi Thức",
+      "Ai đó dám phá hoại nghi thức ngọt ngào, đã đến lúc để tùy tùng dạy cho họ một bài học!",
+      20,
+      16,
+      [
+        [
+          17,
+          780701,
+          16
+        ]
+      ],
+      11300,
+      0,
+      0,
+      1
+    ],
+    "80002": [
+      850108,
+      "btn_aacxxf_a11",
+      1,
+      1,
+      "Để Ý Thú Nuôi",
+      "Gai hoa sắc nhọn, cỏ dại um tùm, Tiểu Chủ nhớ chăm sóc thú cưng cẩn thận kẻo bị thương!",
+      500,
+      113,
+      [
+        [
+          17,
+          780701,
+          20
+        ]
+      ],
+      13400,
+      0,
+      0,
+      2
+    ],
+    "80003": [
+      850108,
+      "btn_aacxxf_a9",
+      1,
+      1,
+      "Trang Phục Nghi Thức",
+      "Cánh hoa dành dành trải đầy lối, nghi thức đã chuẩn bị xong, Tiểu Chủ mau thay chiếc váy phù hợp đi nào!",
+      100,
+      71,
+      [
+        [
+          17,
+          780701,
+          28
+        ]
+      ],
+      11000,
+      0,
+      0,
+      3
+    ],
+    "80004": [
+      850108,
+      "btn_aacxxf_a11",
+      1,
+      1,
+      "Người Tình Lãng Mạn",
+      "Ngày Valentine, Lam Nhan đã chuẩn bị nghi thức lãng mạn cho Tiểu Chủ, mau đi xem đi!",
+      120,
+      14,
+      [
+        [
+          17,
+          780701,
+          15
+        ]
+      ],
+      11100,
+      0,
+      0,
+      4
+    ],
+    "80005": [
+      850108,
+      "btn_aacxxf_a10",
+      1,
+      1,
+      "Chậu Hoa Nghi Thức",
+      "Chậu hoa chuẩn bị cho nghi thức bị nứt rồi, Tiểu Chủ tranh thủ sửa lại ngay đi.",
+      5,
+      17,
+      [
+        [
+          17,
+          780701,
+          26
+        ]
+      ],
+      12300,
+      0,
+      0,
+      5
+    ],
+    "80006": [
+      850108,
+      "btn_aacxxf_a10",
+      1,
+      1,
+      "Đóa Hoa Kỳ Diệu",
+      "Lam Nhan đặc biệt tìm cho Tiểu Chủ loài hoa dành dành bảy sắc ghi trong bí phương độc nhất, mau đi xem nào!",
+      20,
+      34,
+      [
+        [
+          17,
+          780701,
+          30
+        ]
+      ],
+      11100,
+      0,
+      0,
+      6
+    ],
+    "80007": [
+      850108,
+      "btn_aacxxf_a11",
+      1,
+      1,
+      "Công Việc Bộn Bề",
+      "Nghi thức có quá nhiều việc phức tạp, Tiểu Chủ cần cử tùy tùng hỗ trợ để hoàn thành nhanh.",
+      25,
+      74,
+      [
+        [
+          17,
+          780701,
+          15
+        ]
+      ],
+      11200,
+      0,
+      0,
+      7
+    ],
+    "80008": [
+      850108,
+      "btn_aacxxf_a9",
+      1,
+      1,
+      "Chăm Sóc Tỉ Mỉ",
+      "Luyện mật hoa dành dành cần rất cẩn thận, Tiểu Chủ nhớ đốc thúc tùy tùng làm kỹ nhé.",
+      150,
+      98,
+      [
+        [
+          17,
+          780701,
+          20
+        ]
+      ],
+      11700,
+      0,
+      0,
+      8
+    ],
+    "80009": [
+      850108,
+      "btn_aacxxf_a11",
+      1,
+      1,
+      "Xử Lý Công Việc",
+      "Nghi thức sắp bắt đầu rồi, Tiểu Chủ mau đi giải quyết nốt công việc còn lại kẻo xảy ra sai sót.",
+      120,
+      4,
+      [
+        [
+          17,
+          780701,
+          15
+        ]
+      ],
+      10300,
+      0,
+      0,
+      9
+    ],
+    "80010": [
+      850108,
+      "btn_aacxxf_a10",
+      1,
+      1,
+      "Thu Hoạch Hoàn Hảo",
+      "Để có được mật hoa dành dành hoàn hảo trước Valentine, Tiểu Chủ cần chăm sóc khóm hoa thật kỹ.",
+      120,
+      2,
+      [
+        [
+          17,
+          780701,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "80101": [
+      850108,
+      "btn_aacxxf_a10",
+      1,
+      2,
+      "Hoa Thần Tình Yêu",
+      "Bí phương ghi chép hoa dành dành là loài hoa thần tình yêu thích nhất, dùng trong nghi thức tượng trưng hạnh phúc, Tiểu Chủ mau chuẩn bị đi!",
+      199,
+      174,
+      [
+        [
+          17,
+          780701,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "80102": [
+      850108,
+      "btn_aacxxf_a11",
+      1,
+      2,
+      "Tiếp Đãi Khách",
+      "Bánh hoa tiếp khách trong nghi thức ngọt ngào không đủ rồi, Tiểu Chủ mau mua thêm đi!",
+      299,
+      174,
+      [
+        [
+          17,
+          780701,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "80103": [
+      850108,
+      "btn_aacxxf_a10",
+      1,
+      2,
+      "Trà Dành Dành",
+      "Trà làm từ hoa dành dành thơm ngát, rất ngon, Tiểu Chủ có thể mua đồ trà về pha.",
+      499,
+      174,
+      [
+        [
+          17,
+          780701,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "80104": [
+      850108,
+      "btn_aacxxf_a9",
+      1,
+      2,
+      "Mật Hoa Hạnh Phúc",
+      "Bí phương độc nhất ghi rõ, màu hoa là yếu tố then chốt của mật hoa hạnh phúc, Tiểu Chủ nên chuẩn bị nhiều hạt giống đa dạng màu sắc.",
+      999,
+      174,
+      [
+        [
+          17,
+          780701,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "80105": [
+      850108,
+      "btn_aacxxf_a10",
+      1,
+      2,
+      "Trang Sức Dành Dành",
+      "Hương dành dành nồng nàn thanh khiết, rất thích hợp làm đồ trang sức, Tiểu Chủ có thể mua vài món.",
+      999,
+      174,
+      [
+        [
+          17,
+          780701,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "80106": [
+      850108,
+      "btn_aacxxf_a9",
+      1,
+      2,
+      "Hộp Quà Lưu Niệm",
+      "Chiếc hộp quà nhỏ xinh xắn này rất thích hợp làm quà tặng trong nghi thức, Tiểu Chủ có thể chuẩn bị vài cái.",
+      999,
+      174,
+      [
+        [
+          17,
+          780701,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "80107": [
+      850108,
+      "btn_aacxxf_a10",
+      1,
+      2,
+      "Kỷ Niệm Lãng Mạn",
+      "Hai nhân vật trong quả cầu pha lê tựa vào nhau ngọt ngào, độc đáo lãng mạn, Tiểu Chủ có thể mua về làm kỷ niệm.",
+      1999,
+      174,
+      [
+        [
+          17,
+          780701,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "80108": [
+      850108,
+      "btn_aacxxf_a9",
+      1,
+      2,
+      "Trang Phục Giữ Ấm",
+      "Nghi thức có thể kéo dài đến đêm, gió lớn dễ bị cảm lạnh, Tiểu Chủ nhớ mua thêm quần áo giữ ấm!",
+      50073,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780701,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "80109": [
+      850108,
+      "btn_aacxxf_a11",
+      1,
+      2,
+      "Dây Buộc Xinh Đẹp",
+      "Bó hoa không chỉ cần đẹp mà còn phải dễ cầm, Tiểu Chủ có thể mua dây buộc đẹp về trang trí.",
+      50075,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780701,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "80110": [
+      850108,
+      "btn_aacxxf_a10",
+      1,
+      2,
+      "Thiệp Mời Thơm",
+      "Những tờ giấy này thấm đẫm hương dành dành, rất thích hợp làm thiệp mời, Tiểu Chủ mau mua về đi!",
+      50076,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780701,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "80201": [
+      850108,
+      "btn_aacxxf_a13",
+      2,
+      1,
+      "Ngắm Hoa Đêm Trăng",
+      "Ánh trăng lạnh lẽo, ngắm hoa cũng cần giữ ấm, Tiểu Chủ nhớ chuẩn bị thêm áo ấm!",
+      10,
+      132,
+      [
+        [
+          17,
+          780702,
+          35
+        ]
+      ],
+      11000,
+      0,
+      0,
+      1
+    ],
+    "80202": [
+      850108,
+      "btn_aacxxf_a14",
+      2,
+      1,
+      "Bánh Hoa Thơm Ngon",
+      "Bí phương độc nhất còn có công thức làm bánh hoa ngon tuyệt, Tiểu Chủ thử làm theo xem sao!",
+      60,
+      100,
+      [
+        [
+          17,
+          780702,
+          15
+        ]
+      ],
+      13200,
+      0,
+      0,
+      2
+    ],
+    "80203": [
+      850108,
+      "btn_aacxxf_a13",
+      2,
+      1,
+      "Lan Tím Cao Quý",
+      "Hoa lan hồ điệp màu tím, cao quý trang nhã, Tiểu Chủ có thể hái làm phấn son.",
+      40,
+      99,
+      [
+        [
+          17,
+          780702,
+          15
+        ]
+      ],
+      13100,
+      0,
+      0,
+      3
+    ],
+    "80204": [
+      850108,
+      "btn_aacxxf_a14",
+      2,
+      1,
+      "Cùng Ngắm Hoa Thơm",
+      "Bình minh tắm ánh nắng, lan hồ điệp nở tỏa hương ngàn dặm, Lam Nhan mời Tiểu Chủ cùng thưởng thức, mau đi nhé!",
+      60,
+      97,
+      [
+        [
+          17,
+          780702,
+          30
+        ]
+      ],
+      11101,
+      0,
+      0,
+      4
+    ],
+    "80205": [
+      850108,
+      "btn_aacxxf_a13",
+      2,
+      1,
+      "Hoa Nở Trong Nắng",
+      "Hôm nay nắng đẹp lung linh, đúng lúc hoa nở rộ, Tiểu Chủ mau đi khám phá đi!",
+      360,
+      128,
+      [
+        [
+          17,
+          780702,
+          16
+        ]
+      ],
+      13300,
+      0,
+      0,
+      5
+    ],
+    "80206": [
+      850108,
+      "btn_aacxxf_a12",
+      2,
+      1,
+      "Đại Hội Thi Hoa",
+      "Xuân về rực rỡ, trăm hoa đua nở, đại hội đấu hoa sắp bắt đầu, Tiểu Chủ mau chuẩn bị đón thử thách đi!",
+      20,
+      154,
+      [
+        [
+          17,
+          780702,
+          24
+        ]
+      ],
+      18200,
+      0,
+      0,
+      6
+    ],
+    "80207": [
+      850108,
+      "btn_aacxxf_a14",
+      2,
+      1,
+      "Hoa Bay Tặng Quà",
+      "Hoa bay khắp trời, thanh nhã dễ chịu, Tiểu Chủ hãy dùng những cánh hoa này làm quà tặng Lam Nhan bày tỏ tấm lòng.",
+      180,
+      41,
+      [
+        [
+          17,
+          780702,
+          20
+        ]
+      ],
+      11100,
+      0,
+      0,
+      7
+    ],
+    "80208": [
+      850108,
+      "btn_aacxxf_a13",
+      2,
+      1,
+      "Đánh Cắp Bí Phương",
+      "Có kẻ lẻn vào vườn hoa định ăn cắp bí phương quan trọng, Tiểu Chủ phải dạy hắn một bài học thích đáng!",
+      300,
+      7,
+      [
+        [
+          17,
+          780702,
+          15
+        ]
+      ],
+      10600,
+      0,
+      0,
+      8
+    ],
+    "80209": [
+      850108,
+      "btn_aacxxf_a12",
+      2,
+      1,
+      "Tặng Vật Tư",
+      "Trên đường tìm hoa gặp gia đình khốn khó, Tiểu Chủ hãy tặng họ chút vật phẩm đi.",
+      120,
+      1,
+      [
+        [
+          17,
+          780702,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      9
+    ],
+    "80210": [
+      850108,
+      "btn_aacxxf_a14",
+      2,
+      1,
+      "Vất Vả Luyện Mật",
+      "Quá trình luyện mật hoa rất vất vả, Tiểu Chủ hãy ăn chút yến sào bồi bổ đi.",
+      120,
+      3,
+      [
+        [
+          17,
+          780702,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "80301": [
+      850108,
+      "btn_aacxxf_a12",
+      2,
+      2,
+      "Lò Gốm Thần Kỳ",
+      "Nghe nói trong thành có bán lò sứ thần kỳ, dùng luyện mật hoa rất hiệu quả, Tiểu Chủ mau đi xem!",
+      199,
+      174,
+      [
+        [
+          17,
+          780702,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "80302": [
+      850108,
+      "btn_aacxxf_a14",
+      2,
+      2,
+      "Vất Vả Tìm Hoa",
+      "Luyện hoa cực khổ, rất hao tổn năng lượng, Tiểu Chủ mau mua đồ ăn bổ sung thể lực đi!",
+      299,
+      174,
+      [
+        [
+          17,
+          780702,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "80303": [
+      850108,
+      "btn_aacxxf_a12",
+      2,
+      2,
+      "Nguyên Liệu Hiếm",
+      "Nguyên liệu trong bí phương cực kỳ khó kiếm, Tiểu Chủ nên chuẩn bị lương thô rồi lên đường tìm kiếm.",
+      499,
+      174,
+      [
+        [
+          17,
+          780702,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "80304": [
+      850108,
+      "btn_aacxxf_a13",
+      2,
+      2,
+      "Dị Ứng Phấn Hoa",
+      "Phấn hoa dễ gây dị ứng, Tiểu Chủ cần chuẩn bị đồ bảo hộ.",
+      999,
+      174,
+      [
+        [
+          17,
+          780702,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "80305": [
+      850108,
+      "btn_aacxxf_a14",
+      2,
+      2,
+      "Nguyên Liệu Quý",
+      "Lan hồ điệp quan trọng nhất trong bí phương vẫn chưa đủ, Tiểu Chủ mau đi mua thêm đi!",
+      999,
+      174,
+      [
+        [
+          17,
+          780702,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "80306": [
+      850108,
+      "btn_aacxxf_a13",
+      2,
+      2,
+      "Bình Hoa Lưu Ly",
+      "Đằng kia bán bình hoa lưu ly đẹp lắm, cắm hoa rất hợp, Tiểu Chủ mau mua vài chiếc đi!",
+      999,
+      174,
+      [
+        [
+          17,
+          780702,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "80307": [
+      850108,
+      "btn_aacxxf_a12",
+      2,
+      2,
+      "Trang Trí Hợp Cảnh",
+      "Trang trí nhà bằng lan hồ điệp rực rỡ ngày Valentine rất hợp và đẹp, Tiểu Chủ nên chuẩn bị nhiều nhiều!",
+      1999,
+      174,
+      [
+        [
+          17,
+          780702,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "80308": [
+      850108,
+      "btn_aacxxf_a13",
+      2,
+      2,
+      "Quần Áo Thoải Mái",
+      "Ngắm hoa phải mặc đồ vừa đẹp vừa thoải mái, Tiểu Chủ mau đi mua vài bộ đi!",
+      50074,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780702,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "80309": [
+      850108,
+      "btn_aacxxf_a14",
+      2,
+      2,
+      "Dụng Cụ Luyện Hoa",
+      "Dụng cụ luyện mật hoa sắp hết rồi, Tiểu Chủ mau đi mua thêm đi!",
+      50077,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780702,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "80310": [
+      850108,
+      "btn_aacxxf_a12",
+      2,
+      2,
+      "Giấy Dễ Rách",
+      "Giấy ghi bí phương độc nhất mỏng manh dễ rách, để tránh hư hỏng, Tiểu Chủ nên mua hộp đen về cất giữ.",
+      50078,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780702,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "90001": [
+      850109,
+      "btn_aiadg_a9",
+      1,
+      1,
+      "Bảo Vệ Đêm Vắng",
+      "Đêm tịch mịch dài đằng đẵng, trong bóng tối ẩn chứa nguy hiểm, Tiểu Chủ nên sắp xếp tùy tùng túc trực, canh giữ nơi này.",
+      20,
+      16,
+      [
+        [
+          17,
+          780801,
+          16
+        ]
+      ],
+      11300,
+      0,
+      0,
+      1
+    ],
+    "90002": [
+      850109,
+      "btn_aiadg_a11",
+      1,
+      1,
+      "Gai Bóng Tối",
+      "Dây ma ở Vườn Vực Sâu mọc đầy gai độc, Tiểu Chủ nhớ đeo vòng bảo vệ cho thú cưng nhé.",
+      500,
+      113,
+      [
+        [
+          17,
+          780801,
+          20
+        ]
+      ],
+      13400,
+      0,
+      0,
+      2
+    ],
+    "90003": [
+      850109,
+      "btn_aiadg_a9",
+      1,
+      1,
+      "Trang Phục Dạo Đêm",
+      "Tham dự Tiệc Đêm Vĩnh Cửu sao có thể không có trang phục mới? Tiểu Chủ nên đến tiệm may đặt bộ bóng tối hoa lệ.",
+      100,
+      71,
+      [
+        [
+          17,
+          780801,
+          28
+        ]
+      ],
+      11000,
+      0,
+      0,
+      3
+    ],
+    "90004": [
+      850109,
+      "btn_aiadg_a11",
+      1,
+      1,
+      "Lễ Vật Cấm Kỵ",
+      "Lam Nhan lén chuẩn bị điển tịch ma thuật cổ xưa làm lễ vật, Tiểu Chủ hãy nhanh đến phòng bí mật khám phá đi!",
+      120,
+      14,
+      [
+        [
+          17,
+          780801,
+          15
+        ]
+      ],
+      11100,
+      0,
+      0,
+      4
+    ],
+    "90005": [
+      850109,
+      "btn_aiadg_a10",
+      1,
+      1,
+      "Bảo Khí Vỡ Vụn",
+      "Hộp pha lê đen đựng lễ vật xuất hiện vết nứt, Tiểu Chủ phải nhanh dùng bạc đen để hàn gắn.",
+      5,
+      17,
+      [
+        [
+          17,
+          780801,
+          26
+        ]
+      ],
+      12300,
+      0,
+      0,
+      5
+    ],
+    "90006": [
+      850109,
+      "btn_aiadg_a10",
+      1,
+      1,
+      "Kỳ Quan Trăng Máu",
+      "Trăng máu treo cao, Tiểu Chủ không ngừng bước chân, cùng Lam Nhan ngắm nhìn cảnh tượng hiếm có này.",
+      20,
+      34,
+      [
+        [
+          17,
+          780801,
+          30
+        ]
+      ],
+      11100,
+      0,
+      0,
+      6
+    ],
+    "90007": [
+      850109,
+      "btn_aiadg_a11",
+      1,
+      1,
+      "Thì Thầm Đêm Vắng",
+      "Dưới sự che chở của Đêm Vắng, Tiểu Chủ có thể chia sẻ một số kế hoạch bí mật với các tùy tùng, để đối phó với cuộc phiêu lưu sắp tới.",
+      25,
+      74,
+      [
+        [
+          17,
+          780801,
+          15
+        ]
+      ],
+      11200,
+      0,
+      0,
+      7
+    ],
+    "90008": [
+      850109,
+      "btn_aiadg_a9",
+      1,
+      1,
+      "Tùy Tùng Bồn Chồn",
+      "Năng lượng Vực Sâu khiến các tùy tùng trở nên hưng phấn khác thường, Tiểu Chủ phải quản thúc nghiêm khắc mới được.",
+      150,
+      98,
+      [
+        [
+          17,
+          780801,
+          20
+        ]
+      ],
+      11700,
+      0,
+      0,
+      8
+    ],
+    "90009": [
+      850109,
+      "btn_aiadg_a11",
+      1,
+      1,
+      "Chuẩn Bị Yến Tiệc",
+      "Lễ hội Đêm Vĩnh Cửu sắp đến, công việc chất đống rất nhiều, Tiểu Chủ nên dành thời gian giải quyết từng thứ một.",
+      120,
+      4,
+      [
+        [
+          17,
+          780801,
+          15
+        ]
+      ],
+      10300,
+      0,
+      0,
+      9
+    ],
+    "90010": [
+      850109,
+      "btn_aiadg_a10",
+      1,
+      1,
+      "Nuôi Dưỡng Ma Thực",
+      "Mạn đà la Vực Sâu cần tưới bằng máu tươi, Tiểu Chủ nhớ chăm sóc mỗi ngày nhé.",
+      120,
+      2,
+      [
+        [
+          17,
+          780801,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "90101": [
+      850109,
+      "btn_aiadg_a10",
+      1,
+      2,
+      "Vật Tế Quý Giá",
+      "Chợ đen vừa có một lô nhộng bướm bóng tối quý hiếm, vừa đúng lúc dùng để hiến tế, Tiểu Chủ hãy nhanh đi mua lại!",
+      199,
+      174,
+      [
+        [
+          17,
+          780801,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "90102": [
+      850109,
+      "btn_aiadg_a11",
+      1,
+      2,
+      "Nhạc Phổ Đêm Tối",
+      "Các nhạc công linh hồn cần những bản nhạc mới, Tiểu Chủ hãy nhanh đi thu thập vài bản nhạc cấm đi!",
+      299,
+      174,
+      [
+        [
+          17,
+          780801,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "90103": [
+      850109,
+      "btn_aiadg_a10",
+      1,
+      2,
+      "Dự Trữ Rượu Ma",
+      "Rượu vang ma cà rồng trong hầm không đủ, Tiểu Chủ hãy nhanh liên hệ đội thương nhân đêm để bổ sung!",
+      499,
+      174,
+      [
+        [
+          17,
+          780801,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "90104": [
+      850109,
+      "btn_aiadg_a9",
+      1,
+      2,
+      "Trang Trí Vĩnh Cửu",
+      "Hoa hồng đêm được bảo quản bằng phép thuật không bao giờ tàn, Tiểu Chủ hãy mua nhiều một chút để trang trí hành lang yến tiệc!",
+      999,
+      174,
+      [
+        [
+          17,
+          780801,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "90105": [
+      850109,
+      "btn_aiadg_a10",
+      1,
+      2,
+      "Chân Đèn Xương",
+      "Chân đèn bị nguyền rủa mới về làm từ xương thú Vực Sâu, Tiểu Chủ không ngại mua sắm để sử dụng cho nghi thức!",
+      999,
+      174,
+      [
+        [
+          17,
+          780801,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "90106": [
+      850109,
+      "btn_aiadg_a9",
+      1,
+      2,
+      "Trải Bàn Tơ Nhện",
+      "Khăn trải bàn tơ nhện dưới ánh trăng sẽ hiện ra vân ánh bạc đang được bán giới hạn, Tiểu Chủ hãy nhanh đi mua đi!",
+      999,
+      174,
+      [
+        [
+          17,
+          780801,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "90107": [
+      850109,
+      "btn_aiadg_a10",
+      1,
+      2,
+      "Vẽ Họa Tiết Ma",
+      "Họa tiết ma đêm mới nhận được cần mực đặc biệt, Tiểu Chủ hãy nhanh đi mua!",
+      1999,
+      174,
+      [
+        [
+          17,
+          780801,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "90108": [
+      850109,
+      "btn_aiadg_a9",
+      1,
+      2,
+      "Chỉnh Sửa Lễ Phục",
+      "Tà áo choàng bóng tối này quá dài, dễ vấp, phải sửa ngắn lại.",
+      50073,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780801,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "90109": [
+      850109,
+      "btn_aiadg_a11",
+      1,
+      2,
+      "Ly Rượu Lam U",
+      "Ly rượu làm từ lưu ly dạ quang có thể tỏa ra ánh sáng mờ trong bóng tối, Tiểu Chủ hãy nhanh đặt mua một bộ để chiêu đãi khách quý!",
+      50075,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780801,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "90110": [
+      850109,
+      "btn_aiadg_a10",
+      1,
+      2,
+      "Thảm Ảnh Vũ",
+      "Mặt sàn đại sảnh cần trải thảm mới, Tiểu Chủ hãy nhanh chọn mua tấm thảm ma thuật sẽ hiện ra gợn sóng bóng tối theo bước chân!",
+      50076,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780801,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "90201": [
+      850109,
+      "btn_aiadg_a13",
+      2,
+      1,
+      "Lễ Cầu Nguyện Đêm",
+      "Ánh trăng như nước, cầu nguyện đêm ở Thánh đường cần trang nghiêm đoan trang, Tiểu Chủ hãy nhanh thay áo choàng lễ phù hợp đi!",
+      10,
+      132,
+      [
+        [
+          17,
+          780802,
+          35
+        ]
+      ],
+      11000,
+      0,
+      0,
+      1
+    ],
+    "90202": [
+      850109,
+      "btn_aiadg_a14",
+      2,
+      1,
+      "Chế Biến Thánh Thực",
+      "Trong thực đơn Thiên Quốc có một món bánh thần thánh, Tiểu Chủ không ngại thử làm theo công thức bí mật nhé!",
+      60,
+      100,
+      [
+        [
+          17,
+          780802,
+          15
+        ]
+      ],
+      13200,
+      0,
+      0,
+      2
+    ],
+    "90203": [
+      850109,
+      "btn_aiadg_a13",
+      2,
+      1,
+      "Lông Vũ Thánh Trắng",
+      "Lông của thiên sứ trắng muốt tinh khôi, Tiểu Chủ có thể thu thập một ít, làm thành bùa hộ mệnh ban phước.",
+      40,
+      99,
+      [
+        [
+          17,
+          780802,
+          15
+        ]
+      ],
+      13100,
+      0,
+      0,
+      3
+    ],
+    "90204": [
+      850109,
+      "btn_aiadg_a14",
+      2,
+      1,
+      "Cùng Đến Thánh Điện",
+      "Bình minh rực rỡ, tiếng chuông Thánh Điện ngân vang, đại thiên sứ mời bạn cùng đến cầu nguyện, Tiểu Chủ hãy nhanh chóng đến đi!",
+      60,
+      97,
+      [
+        [
+          17,
+          780802,
+          30
+        ]
+      ],
+      11101,
+      0,
+      0,
+      4
+    ],
+    "90205": [
+      850109,
+      "btn_aiadg_a13",
+      2,
+      1,
+      "Thánh Quang Đầu Tiên",
+      "Hôm nay cổng Thiên Quốc hé mở, thánh quang rơi xuống nhân gian, Tiểu Chủ hãy nhanh đi tắm mình trong ân điển thần thánh này đi!",
+      360,
+      128,
+      [
+        [
+          17,
+          780802,
+          16
+        ]
+      ],
+      13300,
+      0,
+      0,
+      5
+    ],
+    "90206": [
+      850109,
+      "btn_aiadg_a12",
+      2,
+      1,
+      "Thử Thách Thánh Chiến",
+      "Thử thách Thiên giới sắp bắt đầu, Tiểu Chủ cần chuẩn bị sẵn giáp chiến thánh quang, nghênh đón thử thách!",
+      20,
+      154,
+      [
+        [
+          17,
+          780802,
+          24
+        ]
+      ],
+      18200,
+      0,
+      0,
+      6
+    ],
+    "90207": [
+      850109,
+      "btn_aiadg_a14",
+      2,
+      1,
+      "Dâng Tặng Thánh Ca",
+      "Tiếng hát của thiên sứ vang vọng tầng mây, Tiểu Chủ sao không ghi lại âm thanh thánh thiện này thành khúc nhạc, tặng cho người sùng tín?",
+      180,
+      41,
+      [
+        [
+          17,
+          780802,
+          20
+        ]
+      ],
+      11100,
+      0,
+      0,
+      7
+    ],
+    "90208": [
+      850109,
+      "btn_aiadg_a13",
+      2,
+      1,
+      "Trừng Phạt Dị Đoan",
+      "Có tà ma lẻn vào Thánh Điện, toan tính làm ô uế thánh vật, Tiểu Chủ, nhất định phải trừng phạt nghiêm khắc!",
+      300,
+      7,
+      [
+        [
+          17,
+          780802,
+          15
+        ]
+      ],
+      10600,
+      0,
+      0,
+      8
+    ],
+    "90209": [
+      850109,
+      "btn_aiadg_a12",
+      2,
+      1,
+      "Ban Phát Ân Trạch",
+      "Đi qua vùng đất khổ nạn, Tiểu Chủ không ngại ban tặng nước thánh và bánh mì, gieo rắc tình yêu Thiên Quốc.",
+      120,
+      1,
+      [
+        [
+          17,
+          780802,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      9
+    ],
+    "90210": [
+      850109,
+      "btn_aiadg_a14",
+      2,
+      1,
+      "Tiêu Hao Thánh Lực",
+      "Triển khai thuật thánh quang cực kỳ hao tổn tâm lực, Tiểu Chủ hãy nhanh uống cam lộ suối thánh để hồi phục sinh lực nhé!",
+      120,
+      3,
+      [
+        [
+          17,
+          780802,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "90301": [
+      850109,
+      "btn_aiadg_a12",
+      2,
+      2,
+      "Lò Rèn Thần Thánh",
+      "Nghe đồn Thánh Điện mới đúc một lò rèn thần thánh, có thể rèn đúc thánh khí, Tiểu Chủ hãy nhanh đi xem nào!",
+      199,
+      174,
+      [
+        [
+          17,
+          780802,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "90302": [
+      850109,
+      "btn_aiadg_a14",
+      2,
+      2,
+      "Hành Trình Thánh Địa",
+      "Đường tìm thánh di vật dài đằng đẵng, Tiểu Chủ hãy nhanh chuẩn bị lương khô và đèn lồng thánh quang rồi hãy lên đường.",
+      299,
+      174,
+      [
+        [
+          17,
+          780802,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "90303": [
+      850109,
+      "btn_aiadg_a12",
+      2,
+      2,
+      "Trang Thánh Điển Rách",
+      "Trang sách rách của Thánh Điển thất lạc rải rác khắp nơi, Tiểu Chủ cần lập tức lên đường, tìm lại chúng!",
+      499,
+      174,
+      [
+        [
+          17,
+          780802,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "90304": [
+      850109,
+      "btn_aiadg_a13",
+      2,
+      2,
+      "Thánh Quang Hộ Thể",
+      "Tà khí tràn lan, dễ dàng xâm nhập tâm thần, Tiểu Chủ hãy nhanh đeo bùa hộ mệnh thánh quang để chống lại bóng tối!",
+      999,
+      174,
+      [
+        [
+          17,
+          780802,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "90305": [
+      850109,
+      "btn_aiadg_a14",
+      2,
+      2,
+      "Khan Hiếm Thánh Tinh",
+      "Thủy tinh Thiên Quốc cần cho nghi thức vẫn chưa đủ, Tiểu Chủ hãy nhanh đến chợ Thánh địa mua sắm đi!",
+      999,
+      174,
+      [
+        [
+          17,
+          780802,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "90306": [
+      850109,
+      "btn_aiadg_a13",
+      2,
+      2,
+      "Chén Thánh Lưu Ly",
+      "Chén thánh lưu ly mới chế tác của Thánh Điện vô cùng lộng lẫy, Tiểu Chủ không ngại mua một bộ để sử dụng cho cầu nguyện.",
+      999,
+      174,
+      [
+        [
+          17,
+          780802,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "90307": [
+      850109,
+      "btn_aiadg_a12",
+      2,
+      2,
+      "Trang Trí Lễ Thánh",
+      "Lễ Thánh Giáng sắp đến, hãy dùng chỉ bạc và lông trắng để trang hoàng Thánh đường, Tiểu Chủ hãy nhanh đi chuẩn bị đi!",
+      1999,
+      174,
+      [
+        [
+          17,
+          780802,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "90308": [
+      850109,
+      "btn_aiadg_a13",
+      2,
+      2,
+      "Áo Choàng Lễ Thánh",
+      "Tham dự thánh điển cần mặc áo choàng lễ thánh thiện, Tiểu Chủ hãy nhanh đến tiệm may đặt may một chiếc đi!",
+      50074,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780802,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "90309": [
+      850109,
+      "btn_aiadg_a14",
+      2,
+      2,
+      "Thiếu Thánh Khí",
+      "Chén thánh và gậy thánh cần cho nghi thức ban phúc sắp hết, Tiểu Chủ hãy nhanh đi bổ sung!",
+      50077,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780802,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "90310": [
+      850109,
+      "btn_aiadg_a12",
+      2,
+      2,
+      "Thánh Quyển Mong Manh",
+      "Giấy da của thánh quyển cổ xưa đã ngả vàng và giòn, dễ vỡ, Tiểu Chủ hãy nhanh tìm hộp thánh để bảo quản thích hợp.",
+      50078,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780802,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "100001": [
+      850110,
+      "btn_aiadg_a9",
+      1,
+      1,
+      "Vận May Liên Tiếp",
+      "Vận khí Đào Nguyên bao quanh người, Tiểu Chủ hôm nay vận đỏ, có thể nhận được niềm vui bất ngờ.",
+      10,
+      132,
+      [
+        [
+          17,
+          780901,
+          35
+        ]
+      ],
+      11000,
+      0,
+      0,
+      1
+    ],
+    "100002": [
+      850110,
+      "btn_aiadg_a11",
+      1,
+      1,
+      "Trà Bánh Tiên Phẩm",
+      "Sương tiên thích hợp nhất để nấu trà hoa, Tiểu Chủ hãy thử nấu nhiều món trà điểm tiên phẩm, chiêu đãi tiên nữ.",
+      60,
+      100,
+      [
+        [
+          17,
+          780901,
+          15
+        ]
+      ],
+      13200,
+      0,
+      0,
+      2
+    ],
+    "100003": [
+      850110,
+      "btn_aiadg_a9",
+      1,
+      1,
+      "Ươm Trồng Linh Thực",
+      "Hạt giống hoa mang về từ Đào Nguyên rất quý giá, Tiểu Chủ nhớ trồng cẩn thận trong trang viên, lặng chờ ngày hoa linh nở.",
+      40,
+      99,
+      [
+        [
+          17,
+          780901,
+          15
+        ]
+      ],
+      13100,
+      0,
+      0,
+      3
+    ],
+    "100004": [
+      850110,
+      "btn_aiadg_a11",
+      1,
+      1,
+      "Hẹn Ước Mật Ngọt",
+      "Nơi sâu thẳm rừng đào, bày tiệc trà, Tiểu Chủ hãy mời tri kỷ đến hẹn hò, cùng thưởng thức phong cảnh tuyệt vời này.",
+      60,
+      97,
+      [
+        [
+          17,
+          780901,
+          30
+        ]
+      ],
+      11101,
+      0,
+      0,
+      4
+    ],
+    "100005": [
+      850110,
+      "btn_aiadg_a10",
+      1,
+      1,
+      "Đào Nguyên Hiện Ra",
+      "Cửa vào Đào Nguyên hiện ra trong mây mù, Tiểu Chủ hãy mau bước vào chốn bí cảnh này, tìm dấu vết của tiên nữ áo hồng!",
+      360,
+      128,
+      [
+        [
+          17,
+          780901,
+          16
+        ]
+      ],
+      13300,
+      0,
+      0,
+      5
+    ],
+    "100006": [
+      850110,
+      "btn_aiadg_a10",
+      1,
+      1,
+      "Thử Thách Linh Hầu",
+      "Hầu Vương chắn đường, muốn qua phải hoàn thành thử thách của nó, Tiểu Chủ hãy thể hiện trí tuệ và sự thành ý của mình nhé!",
+      20,
+      154,
+      [
+        [
+          17,
+          780901,
+          24
+        ]
+      ],
+      18200,
+      0,
+      0,
+      6
+    ],
+    "100007": [
+      850110,
+      "btn_aiadg_a11",
+      1,
+      1,
+      "Thưởng Thức Quả Tiên",
+      "Đào tiên trong thung lũng ngọt thanh mọng nước, Tiểu Chủ hãy hái vài quả, cùng Lam Nhan chia sẻ món quà của thiên nhiên.",
+      180,
+      41,
+      [
+        [
+          17,
+          780901,
+          20
+        ]
+      ],
+      11100,
+      0,
+      0,
+      7
+    ],
+    "100008": [
+      850110,
+      "btn_aiadg_a9",
+      1,
+      1,
+      "Dùng Trí Phá Trận",
+      "Trong trận mê hoa đào thỉnh thoảng có kẻ tiểu nhân quấy phá, Tiểu Chủ hãy cẩn thận ứng phó, đừng chủ quan.",
+      300,
+      7,
+      [
+        [
+          17,
+          780901,
+          15
+        ]
+      ],
+      10600,
+      0,
+      0,
+      8
+    ],
+    "100009": [
+      850110,
+      "btn_aiadg_a11",
+      1,
+      1,
+      "Tích Lũy Phúc Duyên",
+      "Xin Tiểu Chủ hãy bố thí những bảo vật có được ở Đào Nguyên cho những người cần, tích lũy một phần phúc duyên cho thung lũng.",
+      120,
+      1,
+      [
+        [
+          17,
+          780901,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      9
+    ],
+    "100010": [
+      850110,
+      "btn_aiadg_a10",
+      1,
+      1,
+      "Đào Tiên Bổ Khí",
+      "Đào tiên kết hợp với huyết yến, rất bổ nguyên khí, Tiểu Chủ nhớ dùng hàng ngày, giữ gìn tinh lực dồi dào.",
+      120,
+      3,
+      [
+        [
+          17,
+          780901,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "100101": [
+      850110,
+      "btn_aiadg_a10",
+      1,
+      2,
+      "Hành Lý Bách Bảo",
+      "Trước khi thám hiểm cần chuẩn bị đầy đủ, Tiểu Chủ hãy nhanh kiểm tra túi hành lý, điểm lại các công cụ cần thiết như lương khô, dây thừng và đèn chiếu sáng.",
+      199,
+      174,
+      [
+        [
+          17,
+          780901,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "100102": [
+      850110,
+      "btn_aiadg_a11",
+      1,
+      2,
+      "Mua Lụa Làm Quà",
+      "Muốn chuẩn bị quà cho tiên nữ? Tiểu Chủ hãy nhanh đến cửa hàng lụa, chọn tấm vân cẩm màu hồng mềm mại nhất làm quà tặng.",
+      299,
+      174,
+      [
+        [
+          17,
+          780901,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "100103": [
+      850110,
+      "btn_aiadg_a10",
+      1,
+      2,
+      "Mật Ong Trăm Hoa",
+      "Đào tiên tuy ngọt, nhưng để thưởng trà cần thêm mật ong ngon, Tiểu Chủ hãy nhanh đến chợ tìm người nuôi ong, mua được loại mật ong trăm hoa tươi ngon nhất.",
+      499,
+      174,
+      [
+        [
+          17,
+          780901,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "100104": [
+      850110,
+      "btn_aiadg_a9",
+      1,
+      2,
+      "Ấm Trà Tao Nhã",
+      "Uống trà cùng tiên nữ sao thể thiếu bộ ấm tốt? Tiểu Chủ hãy nhanh đến tiệm gốm chọn một bộ ấm trà vẽ hoa đào thanh lịch.",
+      999,
+      174,
+      [
+        [
+          17,
+          780901,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "100105": [
+      850110,
+      "btn_aiadg_a10",
+      1,
+      2,
+      "Giấy Đào Gửi Tin",
+      "Để viết lời nhắn dễ thương, cần giấy đặc biệt, Tiểu Chủ hãy nhanh đến cửa hàng văn phòng phẩm tìm giấy viết thư họa tiết hoa đào.",
+      999,
+      174,
+      [
+        [
+          17,
+          780901,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "100106": [
+      850110,
+      "btn_aiadg_a9",
+      1,
+      2,
+      "Lõi Bí Cảnh",
+      "Họa tiết cổ xưa trên cánh cửa dường như cần tín vật đặc biệt mới có thể mở, Tiểu Chủ hãy tìm kiếm cẩn thận.",
+      999,
+      174,
+      [
+        [
+          17,
+          780901,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "100107": [
+      850110,
+      "btn_aiadg_a10",
+      1,
+      2,
+      "Dự Trữ Sương Tiên",
+      "Nước suối Đào Nguyên cũng cần vật chứa để đựng, Tiểu Chủ hãy nhanh mua một chiếc bình ngọc, lấy chút sương tiên mang về làm kỷ niệm.",
+      1999,
+      174,
+      [
+        [
+          17,
+          780901,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "100108": [
+      850110,
+      "btn_aiadg_a9",
+      1,
+      2,
+      "La Bàn Dẫn Lối",
+      "Sương mù dễ làm mờ mắt, Tiểu Chủ có thể tìm một chiếc la bàn ở cửa hàng đồ cổ, giúp định hướng khi thám hiểm.",
+      50074,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780901,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "100109": [
+      850110,
+      "btn_aiadg_a11",
+      1,
+      2,
+      "Dự Trữ Linh Dược",
+      "Thung lũng ẩm ướt, Tiểu Chủ nhớ pha chế ít thảo dược xua hàn an thần, đảm bảo tinh thần sảng khoái khi khám phá.",
+      50077,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780901,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "100110": [
+      850110,
+      "btn_aiadg_a10",
+      1,
+      2,
+      "Lễ Nghênh Đón",
+      "Lần đầu ghé thăm, lễ nghi không thể thiếu, Tiểu Chủ hãy nhanh chuẩn bị một món quà gặp mặt.",
+      50078,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780901,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ],
+    "100201": [
+      850110,
+      "btn_aiadg_a13",
+      2,
+      1,
+      "Bảo Vệ Rừng Trúc",
+      "Nghe nói có thương nhân muốn chặt phá rừng trúc, Tiểu Chủ cần tìm cách bảo vệ vùng đất thanh tịnh này, đảm bảo an toàn của gấu trúc.",
+      20,
+      16,
+      [
+        [
+          17,
+          780902,
+          16
+        ]
+      ],
+      11300,
+      0,
+      0,
+      1
+    ],
+    "100202": [
+      850110,
+      "btn_aiadg_a14",
+      2,
+      1,
+      "Gấu Con Đón Khách",
+      "Một chú gấu trúc con tròn trịa ngồi ngay trước nhà, như đang đón chờ, Tiểu Chủ hãy dùng măng tươi để chào hỏi nó.",
+      500,
+      113,
+      [
+        [
+          17,
+          780902,
+          20
+        ]
+      ],
+      13400,
+      0,
+      0,
+      2
+    ],
+    "100203": [
+      850110,
+      "btn_aiadg_a13",
+      2,
+      1,
+      "Áo Mới Nghịch Ngợm",
+      "Khi nghịch ngợm cùng gấu trúc, móng vuốt dính bùn làm bẩn quần áo của bạn, Tiểu Chủ hãy nhanh thay một bộ quần áo mới.",
+      100,
+      71,
+      [
+        [
+          17,
+          780902,
+          28
+        ]
+      ],
+      11000,
+      0,
+      0,
+      3
+    ],
+    "100204": [
+      850110,
+      "btn_aiadg_a14",
+      2,
+      1,
+      "Duyên Chung Một Lòng",
+      "Nghe nói người c duyên mới có thể đào được 'măng đồng tâm' ẩn trong rừng trúc, Tiểu Chủ hãy mau thử xem hôm nay duyên phận thế nào?",
+      120,
+      14,
+      [
+        [
+          17,
+          780902,
+          15
+        ]
+      ],
+      11100,
+      0,
+      0,
+      4
+    ],
+    "100205": [
+      850110,
+      "btn_aiadg_a13",
+      2,
+      1,
+      "Dụng Cụ Khéo Léo",
+      "Sửa sang nhà trúc cần dụng cụ vừa tay, Tiểu Chủ nhớ chọn một bộ hộp dụng cụ ở tạp hóa.",
+      5,
+      17,
+      [
+        [
+          17,
+          780902,
+          26
+        ]
+      ],
+      12300,
+      0,
+      0,
+      5
+    ],
+    "100206": [
+      850110,
+      "btn_aiadg_a12",
+      2,
+      1,
+      "Lời Trúc Thì Thầm",
+      "Gió lướt qua ngọn trúc phát ra tiếng xào xạc như lời thì thầm của thiên nhiên, Tiểu Chủ có thể mời người tình cùng lặng lòng lắng nghe.",
+      20,
+      34,
+      [
+        [
+          17,
+          780902,
+          30
+        ]
+      ],
+      11100,
+      0,
+      0,
+      6
+    ],
+    "100207": [
+      850110,
+      "btn_aiadg_a14",
+      2,
+      1,
+      "Măng Xuân Nhú Đất",
+      "Một trận mưa xuân, vô số măng xuân nhú lên khỏi mặt đất, Tiểu Chủ hãy nhanh cử tùy tùng đi giúp thu hoạch.",
+      25,
+      74,
+      [
+        [
+          17,
+          780902,
+          15
+        ]
+      ],
+      11200,
+      0,
+      0,
+      7
+    ],
+    "100208": [
+      850110,
+      "btn_aiadg_a13",
+      2,
+      1,
+      "Rèn Luyện Tay Bếp",
+      "Muốn giữ chân gấu trúc? Tiểu Chủ cần trau dồi kỹ năng nấu nướng của tùy tùng, chế biến nguyên liệu đã mua.",
+      150,
+      98,
+      [
+        [
+          17,
+          780902,
+          20
+        ]
+      ],
+      11700,
+      0,
+      0,
+      8
+    ],
+    "100209": [
+      850110,
+      "btn_aiadg_a12",
+      2,
+      1,
+      "Dọn Dẹp Nhà Trúc",
+      "Quét dọn hằng ngày và sắp xếp vật dụng đều là việc cần làm, Tiểu Chủ hãy kịp thời dọn dẹp, giữ nhà luôn gọn gàng.",
+      120,
+      4,
+      [
+        [
+          17,
+          780902,
+          15
+        ]
+      ],
+      10300,
+      0,
+      0,
+      9
+    ],
+    "100210": [
+      850110,
+      "btn_aiadg_a14",
+      2,
+      1,
+      "Trồng Trúc Bên Nhà",
+      "Những khóm trúc mới trồng bên nhà cần chăm sóc mỗi ngày, Tiểu Chủ hãy nhanh tưới nước bón phân, đảm bảo chúng phát triển mạnh mẽ.",
+      120,
+      2,
+      [
+        [
+          17,
+          780902,
+          15
+        ]
+      ],
+      10200,
+      0,
+      0,
+      10
+    ],
+    "100301": [
+      850110,
+      "btn_aiadg_a12",
+      2,
+      2,
+      "Đồ Mây Tre Đan",
+      "Trên chợ mới có một lô đồ mây tre đan tinh xảo, Tiểu Chủ hãy mang chúng về nhà trúc.",
+      199,
+      174,
+      [
+        [
+          17,
+          780902,
+          24
+        ]
+      ],
+      12000,
+      0,
+      2,
+      10
+    ],
+    "100302": [
+      850110,
+      "btn_aiadg_a14",
+      2,
+      2,
+      "Thuốc Men Dự Phòng",
+      "Đề phòng va đập trên đường núi hoặc bị cành trúc làm xước, Tiểu Chủ nhớ chuẩn bị đầy đủ các loại thuốc mỡ trị thương và băng gạc.",
+      299,
+      174,
+      [
+        [
+          17,
+          780902,
+          36
+        ]
+      ],
+      12000,
+      0,
+      2,
+      9
+    ],
+    "100303": [
+      850110,
+      "btn_aiadg_a12",
+      2,
+      2,
+      "Chuẩn Bị Đồ Vẽ",
+      "Cảnh đẹp trước mắt khơi dậy ý muốn sáng tác, Tiểu Chủ hãy nhanh chuẩn bị đầy đủ giấy tuyên, bút mực, vẽ rừng trúc lên giấy.",
+      499,
+      174,
+      [
+        [
+          17,
+          780902,
+          60
+        ]
+      ],
+      12000,
+      0,
+      2,
+      8
+    ],
+    "100304": [
+      850110,
+      "btn_aiadg_a13",
+      2,
+      2,
+      "Sổ Tay Ghi Chép",
+      "Những điều mắt thấy tai nghe cần được ghi chép kịp thời, Tiểu Chủ hãy mau chọn một cuốn sổ tay thanh lịch để viết những điều đã thấy.",
+      999,
+      174,
+      [
+        [
+          17,
+          780902,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      7
+    ],
+    "100305": [
+      850110,
+      "btn_aiadg_a14",
+      2,
+      2,
+      "Túi Thơm Đuổi Côn Trùng",
+      "Rừng trúc ẩm thấp nhiều côn trùng, Tiểu Chủ nhớ mua ít thảo dược, tự làm túi thơm đuổi côn trùng, đảm bảo cuộc sống thoải mái.",
+      999,
+      174,
+      [
+        [
+          17,
+          780902,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      6
+    ],
+    "100306": [
+      850110,
+      "btn_aiadg_a13",
+      2,
+      2,
+      "Giỏ Đeo Đựng Đồ",
+      "Tiểu Chủ hãy mua một chiếc giỏ tre đeo lưng, vừa có thể đựng đồ linh tinh, lại cũng hợp với rừng trúc.",
+      999,
+      174,
+      [
+        [
+          17,
+          780902,
+          120
+        ]
+      ],
+      12000,
+      0,
+      2,
+      5
+    ],
+    "100307": [
+      850110,
+      "btn_aiadg_a12",
+      2,
+      2,
+      "Chiếu Tre",
+      "Nếu muốn ngắm biển trúc và bầu trời sao vào ban đêm, Tiểu Chủ cần chuẩn bị một chiếc chiếu tre, để có thể ngồi dưới đất, tĩnh lặng tận hưởng màn đêm.",
+      1999,
+      174,
+      [
+        [
+          17,
+          780902,
+          240
+        ]
+      ],
+      12000,
+      0,
+      2,
+      4
+    ],
+    "100308": [
+      850110,
+      "btn_aiadg_a13",
+      2,
+      2,
+      "Mua Sắm Măng Tươi",
+      "Khi giao tiếp với gấu trúc, 'măng' là thứ quan trọng. Tiểu Chủ nhất định phải chọn mua măng xuân tươi ngon nhất, giòn nhất, càng nhiều càng tốt.",
+      50073,
+      175,
+      [
+        [
+          2,
+          8,
+          80
+        ],
+        [
+          17,
+          780902,
+          36
+        ],
+        [
+          13,
+          25106,
+          11
+        ]
+      ],
+      12000,
+      1,
+      1,
+      3
+    ],
+    "100309": [
+      850110,
+      "btn_aiadg_a14",
+      2,
+      2,
+      "Áo Choàng Chống Nước",
+      "Rừng trúc sương sớm dày đặc, rất dễ làm ướt quần áo, Tiểu Chủ nhớ sắm thêm một chiếc áo choàng chống nước.",
+      50075,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780902,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      2
+    ],
+    "100310": [
+      850110,
+      "btn_aiadg_a12",
+      2,
+      2,
+      "Điểm Xuyết Dễ Thương",
+      "Đã bầu bạn cùng gấu trúc, Tiểu Chủ hãy mua một món đồ trang sức hình gấu trúc, điểm xuyết giữa tà váy, càng thêm phần dễ thương.",
+      50076,
+      175,
+      [
+        [
+          2,
+          8,
+          400
+        ],
+        [
+          17,
+          780902,
+          180
+        ],
+        [
+          13,
+          25106,
+          99
+        ]
+      ],
+      12000,
+      1,
+      1,
+      1
+    ]
+  }
+}

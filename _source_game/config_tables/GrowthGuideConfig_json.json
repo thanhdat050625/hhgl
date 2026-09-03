@@ -1,0 +1,172 @@
+{
+  "colMap": [
+    "name",
+    "description",
+    "type",
+    "star",
+    "icon",
+    "patch"
+  ],
+  "list": {
+    "10001": [
+      "Sắp Xếp Nội Vụ",
+      "Mau nhận bạc, dược thảo, nguyên khí",
+      1,
+      5,
+      280001,
+      10200
+    ],
+    "10002": [
+      "Tùy Tùng",
+      "Tăng cấp, tư chất, bồi dưỡng thuộc tính Tùy Tùng",
+      1,
+      5,
+      280002,
+      11700
+    ],
+    "10003": [
+      "Kỹ năng A Lý Cổn",
+      "Tăng cấp kỹ năng, thuộc tính Tâm Kế của tùy tùng sẽ nhanh chóng trưởng thành",
+      1,
+      5,
+      280005,
+      11108
+    ],
+    "10004": [
+      "Kỹ năng Hoằng Lịch ",
+      "Tăng kỹ năng, Tùy Tùng thuộc tính giao tiếp trưởng thành nhanh chóng",
+      1,
+      3,
+      280004,
+      11109
+    ],
+    "10005": [
+      "Kỹ năng Alendi",
+      "Tăng kỹ năng, sẽ tăng T.Tính Tài Hoa",
+      1,
+      2,
+      280006,
+      11110
+    ],
+    "10006": [
+      "Kỹ năng Tề Mặc",
+      "Nâng cao kỹ năng, Tuỳ Tùng thuộc tính ngoại hình nhanh chóng trưởng thành",
+      1,
+      2,
+      280007,
+      11111
+    ],
+    "10007": [
+      "Sủng",
+      "Nuôi Sủng Vật, nhận Buff Thế Lực",
+      1,
+      5,
+      280003,
+      13400
+    ],
+    "10008": [
+      "Cốt truyện chính",
+      "Vượt ải nhận trang phục miễn phí",
+      2,
+      5,
+      280008,
+      10100
+    ],
+    "10009": [
+      "Cây Cầu Nguyện",
+      "Cầu nguyện cây thần, giúp có được trang phục cao cấp",
+      2,
+      5,
+      280010,
+      11000
+    ],
+    "10010": [
+      "Tiệm Phục Sức",
+      "Trang sức tinh tế nhiều phong cách",
+      2,
+      4,
+      280009,
+      12400
+    ],
+    "10011": [
+      "Nữ Hoàng Hóa Trang",
+      "Tham gia bình chọn, Hoa Dung Thiếp đổi trang phục miễn phí",
+      2,
+      3,
+      280021,
+      17900
+    ],
+    "10012": [
+      "Lưu Ly Phường ",
+      "Phục sức cực kì giới hạn, không thể bỏ qua",
+      2,
+      2,
+      280012,
+      12814
+    ],
+    "10013": [
+      "Hoa Trang Lục",
+      "Bảo giám phục sức, thu thập bộ trang bị nhận thưởng",
+      2,
+      2,
+      280013,
+      13900
+    ],
+    "10014": [
+      "Việc Vui Nhàn Nhã ",
+      "Nhận Điểm Yêu Thích, tăng kỹ năng cho chàng",
+      3,
+      5,
+      280014,
+      11100
+    ],
+    "10015": [
+      "A Lý Cổn",
+      "Bảo vệ ngươi là chuyện ta phải làm!",
+      3,
+      4,
+      280016,
+      11104
+    ],
+    "10016": [
+      "Hoằng Lịch",
+      "Không có sự cho phép của trẫm, không được rời đi!",
+      3,
+      4,
+      280015,
+      11105
+    ],
+    "10017": [
+      "Alendi",
+      "Uyển Đậu tiểu thư, không gặp không về!",
+      3,
+      4,
+      280017,
+      11106
+    ],
+    "10018": [
+      "Tề Mặc",
+      "Chỉ cần ngươi ở bên cạnh ta là được rồi!",
+      3,
+      4,
+      280018,
+      11107
+    ],
+    "10019": [
+      "Du Ngoạn",
+      "Miễn phí nhận được vải, Lam Nhan đổi trang phục mới",
+      3,
+      3,
+      280019,
+      11101
+    ],
+    "10020": [
+      "Gặp gỡ",
+      "Ngay khắc gặp được nàng, chính là kì tích",
+      3,
+      3,
+      280020,
+      14100
+    ]
+  }
+}

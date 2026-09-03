@@ -1,0 +1,409 @@
+{
+  "colMap": [
+    "activityId",
+    "type",
+    "words"
+  ],
+  "list": {
+    "10001": [
+      820101,
+      1,
+      "Tiểu cô nương, ngươi không phải là đối thủ của ta!"
+    ],
+    "10002": [
+      820101,
+      1,
+      "Thì ra thực lực của ngươi chỉ có như vậy, cố lên nha~"
+    ],
+    "10003": [
+      820101,
+      1,
+      "Niên Thú đại nhân đến, mau ra đón tiếp~"
+    ],
+    "10004": [
+      820101,
+      2,
+      "Ta chỉ là Niên Thú đáng yêu~"
+    ],
+    "10005": [
+      820101,
+      2,
+      "Người ta chỉ muốn ăn bánh trôi thôi mà."
+    ],
+    "10006": [
+      820101,
+      2,
+      "Ngươi đánh ta đau quá, muốn thổi một lát!"
+    ],
+    "10007": [
+      820101,
+      3,
+      "Ta nhận thua, ngươi mới là lợi hại nhất."
+    ],
+    "10008": [
+      820101,
+      3,
+      "Hoàn toàn chịu thua, sang năm ta sẽ lại đến!"
+    ],
+    "10009": [
+      820101,
+      3,
+      "Chỉ cần chạy thật nhanh, ngươi sẽ không đánh được ta!"
+    ],
+    "10010": [
+      820101,
+      3,
+      "Hu hu hu, ta nhận thua"
+    ],
+    "20001": [
+      820102,
+      1,
+      "Tiểu cô nương, ngươi không phải là đối thủ của ta!"
+    ],
+    "20002": [
+      820102,
+      1,
+      "Thì ra thực lực của ngươi chỉ có như vậy, cố lên nha~"
+    ],
+    "20003": [
+      820102,
+      1,
+      "Manh Hổ đại nhân giá lâm, mau đến đón tiếp~"
+    ],
+    "20004": [
+      820102,
+      2,
+      "Ta chỉ là một con Manh Hổ đáng yêu~"
+    ],
+    "20005": [
+      820102,
+      2,
+      "Người ta chỉ muốn ăn một miếng thịt nhỏ thôi mà."
+    ],
+    "20006": [
+      820102,
+      2,
+      "Chơi cùng ta đi mà~"
+    ],
+    "20007": [
+      820102,
+      3,
+      "Ta nhận thua, ngươi mới là lợi hại nhất."
+    ],
+    "20008": [
+      820102,
+      3,
+      "Hoàn toàn chịu thua, ta nhất định sẽ quay lại!"
+    ],
+    "20009": [
+      820102,
+      3,
+      "Chỉ cần chạy thật nhanh, ngươi sẽ không đánh được ta!"
+    ],
+    "20010": [
+      820102,
+      3,
+      "Hu hu hu, ta nhận thua"
+    ],
+    "30001": [
+      820103,
+      1,
+      "Tiểu cô nương, ngươi không phải là đối thủ của ta!"
+    ],
+    "30002": [
+      820103,
+      1,
+      "Thì ra thực lực của ngươi chỉ có như vậy, cố lên nha~"
+    ],
+    "30003": [
+      820103,
+      1,
+      "Niên Thú đại nhân đến, mau ra đón tiếp~"
+    ],
+    "30004": [
+      820103,
+      2,
+      "Ta chỉ là Niên Thú đáng yêu~"
+    ],
+    "30005": [
+      820103,
+      2,
+      "Người ta chỉ muốn ăn bánh trôi thôi mà."
+    ],
+    "30006": [
+      820103,
+      2,
+      "Ngươi đánh ta đau quá, muốn thổi một lát!"
+    ],
+    "30007": [
+      820103,
+      3,
+      "Ta nhận thua, ngươi mới là lợi hại nhất."
+    ],
+    "30008": [
+      820103,
+      3,
+      "Hoàn toàn chịu thua, sang năm ta sẽ lại đến!"
+    ],
+    "30009": [
+      820103,
+      3,
+      "Chỉ cần chạy thật nhanh, ngươi sẽ không đánh được ta!"
+    ],
+    "30010": [
+      820103,
+      3,
+      "Hu hu hu, ta nhận thua"
+    ],
+    "40001": [
+      820104,
+      1,
+      "Tiểu cô nương, ngươi không phải là đối thủ của ta!"
+    ],
+    "40002": [
+      820104,
+      1,
+      "Thì ra thực lực của ngươi chỉ có như vậy, cố lên nha~"
+    ],
+    "40003": [
+      820104,
+      1,
+      "Manh Thỏ đại nhân đến rồi, nhanh tiếp đón nào~"
+    ],
+    "40004": [
+      820104,
+      2,
+      "Ta chỉ là chú thỏ dễ thương mà thôi~"
+    ],
+    "40005": [
+      820104,
+      2,
+      "Người ta chỉ muốn ăn một nhúm rau sạch thôi mà."
+    ],
+    "40006": [
+      820104,
+      2,
+      "Chơi cùng ta đi mà~"
+    ],
+    "40007": [
+      820104,
+      3,
+      "Ta nhận thua, ngươi mới là lợi hại nhất."
+    ],
+    "40008": [
+      820104,
+      3,
+      "Hoàn toàn chịu thua, ta nhất định sẽ quay lại!"
+    ],
+    "40009": [
+      820104,
+      3,
+      "Chỉ cần chạy thật nhanh, ngươi sẽ không đánh được ta!"
+    ],
+    "40010": [
+      820104,
+      3,
+      "Hu hu hu, ta nhận thua"
+    ],
+    "50001": [
+      820105,
+      1,
+      "Tiểu cô nương, ngươi không phải là đối thủ của ta!"
+    ],
+    "50002": [
+      820105,
+      1,
+      "Thì ra thực lực của ngươi chỉ có như vậy, cố lên nha~"
+    ],
+    "50003": [
+      820105,
+      1,
+      "Niên Thú đại nhân đến, mau ra đón tiếp~"
+    ],
+    "50004": [
+      820105,
+      2,
+      "Ta chỉ là Niên Thú đáng yêu~"
+    ],
+    "50005": [
+      820105,
+      2,
+      "Người ta chỉ muốn ăn bánh trôi thôi mà."
+    ],
+    "50006": [
+      820105,
+      2,
+      "Ngươi đánh ta đau quá, muốn thổi một lát!"
+    ],
+    "50007": [
+      820105,
+      3,
+      "Ta nhận thua, ngươi mới là lợi hại nhất."
+    ],
+    "50008": [
+      820105,
+      3,
+      "Hoàn toàn chịu thua, sang năm ta sẽ lại đến!"
+    ],
+    "50009": [
+      820105,
+      3,
+      "Chỉ cần chạy thật nhanh, ngươi sẽ không đánh được ta!"
+    ],
+    "50010": [
+      820105,
+      3,
+      "Hu hu hu, ta nhận thua"
+    ],
+    "60001": [
+      820106,
+      1,
+      "Tiểu cô nương, ngươi không phải là đối thủ của ta!"
+    ],
+    "60002": [
+      820106,
+      1,
+      "Thì ra thực lực của ngươi chỉ có như vậy, cố lên nha~"
+    ],
+    "60003": [
+      820106,
+      1,
+      "Du Long đại nhân giá lâm, mau đến đón tiếp~"
+    ],
+    "60004": [
+      820106,
+      2,
+      "Ta chỉ là Du Long đang yêu thôi~"
+    ],
+    "60005": [
+      820106,
+      2,
+      "Người ta chỉ muốn ăn một miếng thịt nhỏ thôi mà."
+    ],
+    "60006": [
+      820106,
+      2,
+      "Chơi cùng ta đi mà~"
+    ],
+    "60007": [
+      820106,
+      3,
+      "Ta nhận thua, ngươi mới là lợi hại nhất."
+    ],
+    "60008": [
+      820106,
+      3,
+      "Hoàn toàn chịu thua, ta nhất định sẽ quay lại!"
+    ],
+    "60009": [
+      820106,
+      3,
+      "Chỉ cần chạy thật nhanh, ngươi sẽ không đánh được ta!"
+    ],
+    "60010": [
+      820106,
+      3,
+      "Hu hu hu, ta nhận thua"
+    ],
+    "70001": [
+      820107,
+      1,
+      "Tiểu cô nương, ngươi không phải là đối thủ của ta!"
+    ],
+    "70002": [
+      820107,
+      1,
+      "Thì ra thực lực của ngươi chỉ có như vậy, cố lên nha~"
+    ],
+    "70003": [
+      820107,
+      1,
+      "Niên Thú đại nhân đến, mau ra đón tiếp~"
+    ],
+    "70004": [
+      820107,
+      2,
+      "Ta chỉ là Niên Thú đáng yêu~"
+    ],
+    "70005": [
+      820107,
+      2,
+      "Người ta chỉ muốn ăn bánh trôi thôi mà."
+    ],
+    "70006": [
+      820107,
+      2,
+      "Ngươi đánh ta đau quá, muốn thổi một lát!"
+    ],
+    "70007": [
+      820107,
+      3,
+      "Ta nhận thua, ngươi mới là lợi hại nhất."
+    ],
+    "70008": [
+      820107,
+      3,
+      "Hoàn toàn chịu thua, sang năm ta sẽ lại đến!"
+    ],
+    "70009": [
+      820107,
+      3,
+      "Chỉ cần chạy thật nhanh, ngươi sẽ không đánh được ta!"
+    ],
+    "70010": [
+      820107,
+      3,
+      "Hu hu hu, ta nhận thua"
+    ],
+    "80001": [
+      820108,
+      1,
+      "Tiểu cô nương, ngươi không phải là đối thủ của ta!"
+    ],
+    "80002": [
+      820108,
+      1,
+      "Thì ra thực lực của ngươi chỉ có như vậy, cố lên nha~"
+    ],
+    "80003": [
+      820108,
+      1,
+      "Kiêu Xà đại nhân giá lâm, mau nghênh đón đi nào~"
+    ],
+    "80004": [
+      820108,
+      2,
+      "Ta chỉ là Kiêu Xà đáng yêu thôi mà~"
+    ],
+    "80005": [
+      820108,
+      2,
+      "Người ta chỉ muốn ăn một miếng thịt nhỏ thôi mà."
+    ],
+    "80006": [
+      820108,
+      2,
+      "Chơi cùng ta đi mà~"
+    ],
+    "80007": [
+      820108,
+      3,
+      "Ta nhận thua, ngươi mới là lợi hại nhất."
+    ],
+    "80008": [
+      820108,
+      3,
+      "Hoàn toàn chịu thua, ta nhất định sẽ quay lại!"
+    ],
+    "80009": [
+      820108,
+      3,
+      "Chỉ cần chạy thật nhanh, ngươi sẽ không đánh được ta!"
+    ],
+    "80010": [
+      820108,
+      3,
+      "Hu hu hu, ta nhận thua"
+    ]
+  }
+}

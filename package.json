@@ -1,0 +1,14 @@
+{
+  "name": "hhgl-bot",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/index.js",
+    "sync-proto": "node src/tools/syncProto.js",
+    "download-source": "node src/tools/downloadFullGameSource.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "protobufjs": "^8.8.0",
+    "ws": "^8.21.3"
+  }
+}

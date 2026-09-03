@@ -1,0 +1,23 @@
+{
+  "colMap": [
+    "activityId",
+    "gridNum",
+    "activityTime",
+    "longestTime",
+    "maxNum",
+    "firstPrizeId"
+  ],
+  "list": {
+    "10001": [
+      570101,
+      100,
+      "10:00,21:00",
+      1800,
+      [
+        20,
+        20
+      ],
+      10010
+    ]
+  }
+}

@@ -1,0 +1,435 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <title>-</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no" />
+    <meta HTTP-EQUIV="pragma" CONTENT="no-cache">
+    <meta HTTP-EQUIV="Cache-Control" CONTENT="no-cache, must-revalidate">
+    <meta HTTP-EQUIV="expires" CONTENT="0">
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+
+    <meta name="full-screen" content="true" />
+    <meta name="screen-orientation" content="portrait" />
+    <meta name="full-screen" content="yes">
+    <meta name="x5-orientation" content="portrait" />
+    <meta name="x5-fullscreen" content="true" />
+    <meta name="360-fullscreen" content="true" />
+    <meta name="referrer" content="always" />
+    <link href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQAQMAAAAlPW0iAAAABlBMVEUAAAD/nLANavu4AAAAAXRSTlMAQObYZgAAAClJREFUCNdjgAD7AyBkcIDBDIwMbjDYgxGDBAPjDwbGXwwMTAwMfECFAAX+Ci3rHRySAAAAAElFTkSuQmCC" rel="shortcut icon" type="image/png" />
+    <style>
+        html,body{ height:100%;width:100%;margin: 0;padding: 0;}
+        #box{ background-size: 100% 100%; background-color: #e9e5f3 }
+        #loadingUi,#loginUI,#bg{width:100%;height:100%;position:absolute; overflow:hidden;}
+        #loadBox,#loginBg{background-repeat:no-repeat; background-position: center center;margin:0 auto; position: relative;background-size:100% auto;}
+        .loadingContainer{ width: 100%; position: absolute; bottom: 40px;  }
+        .loadingContainer p{display: block;width: 100%;text-align: center; margin: 0; color: #f8f0e7; font-style: 24px; font-weight: 600;} 
+        .loadingContainer .orange{color:#f3cc95}
+        .loadingContainer .loading-progress{width: 80%;margin:0 auto; height:0.6em;background:rgb(51,50,51);
+            border-radius:0.6em;
+           -webkit-border-radius:0.6em;
+           -moz-border-radius:0.6em;}
+        .loadingContainer .loading-progress-bar{width:99%;height:0.3em;margin:0 auto;margin-left:0em;}
+        .loadingContainer .loading-progress-finish{width:98%;height:0.6em;background:rgb(229,195,25);margin-top:0.02em;
+            border-radius:0.6em;
+           -webkit-border-radius:0.6em;
+           -moz-border-radius:0.6em;
+        }
+    </style>
+<script>
+    window.maxProportion = 20 / 9;
+    window.minProportion = 16 / 9;
+
+    function getParam(url, name) {
+        var reg = new RegExp("(^|\\?|&)" + name + "=([^&]*)(\\s|&|$)", "i");
+        if (reg.test(url)) return unescape(RegExp.$2.replace(/\+/g, " "));
+        return "";
+    }
+    var origin = window.location.href;
+    var hostname = window.location.hostname;
+
+    //判断是否是玩吧平台，重写url地址
+    if (hostname.indexOf("urlshare.cn") > 0) {
+        origin = document.getElementsByTagName("base")[0].href;
+        window.maxProportion = getParam(origin, "adaptive_max") / 9;
+        window.minProportion = getParam(origin, "adaptive_min") / 9;
+    }
+    window['param'] = origin;
+    // var isNative = getParam(origin, "n") == "1";
+    // if(!isNative){
+        var platform = getParam(origin, "p");
+        if (platform == "gk") {
+            document.write('<script src="https://static.public.sdk.guangkatf.com/h5_sdk/guangkaH5SDK.js?' + new Date().getTime() + '"><\/script>')
+        } else if(platform == "hw") {
+            document.write('<script src="https://static.hk-public.sdk.guangkatf.com/h5_sdk/guangkaH5SDKHK.js?' + new Date().getTime() + '"><\/script>')
+        } else {
+            document.write('<script src="https://static1.public.sdk.guangkatf.com/h5_sdk/gkH5SDK.js?' + new Date().getTime() + '"><\/script>')
+        }
+    // }
+</script>
+</head>
+
+<body id="box">
+    <div id="bg">
+        <div id="bgLeft" style="height: 100%; float: left; background-size: auto 100%; background-position-x: left; background-repeat: no-repeat;transform: scale(-1,1); "></div>
+<div id="bgRight" style="height: 100%; width: auto; float: right;background-size: auto 100%; background-position-x: left;background-repeat: no-repeat  "></div>
+</div>
+<div id="loadingUi" style="display: none">
+<div id="loadBox">
+    <div class="loadingContainer">
+        <p class="loadText"></p>
+        <div class="loading-progress">
+            <div class="loading-progress-bar">
+                <div class="loading-progress-finish" id='loadingBar'></div>
+            </div>
+        </div>
+        <p class="tipText"></p>
+    </div>
+</div>
+</div>
+<div id="loginUI">
+    <div id="loginBg" style="display: none;"/></div>
+</div>
+<img id="loginImg" style=" display: none" />
+<div style="margin: auto;width: 100%;height: 100%;" class="egret-player" data-entry-class="game.Main" data-orientation="auto" data-scale-mode="fixedWidth" data-resolution-mode="retina"
+data-frame-rate="30" data-content-width="640" data-content-height="1136" data-show-paint-rect="false" data-multi-fingered="2"
+data-show-fps="false" data-show-log="false" data-show-fps-style="x:2,y:2,size:16,textColor:0xffffff,bgAlpha:0.9">
+</div>
+<script>
+    if (/Android/gi.test(navigator.userAgent)) {
+        // 检测userAgent是否为Android
+        window.addEventListener('resize', function () {
+            if (document.activeElement.tagName == 'INPUT' || document.activeElement.tagName == 'TEXTAREA') {
+                // 判断当前active的元素是否为input/ textarea
+                window.setTimeout(function () {
+                    document.activeElement.scrollIntoViewIfNeeded()
+                    // 原生方法，滚动至需要显示的位置
+                }, 0)
+            }
+        });
+    }
+
+    var bgWidth = 640;
+    var bgHeight = 1800;
+    var loaded = 0;
+    var total = 0;
+    var isNativePackage = getParam(origin, "np") == "1";
+    var isZip = /[A-Za-z]/.test(window.location.hostname) || isNativePackage;
+    var channel = getParam(origin, "c");
+    var isNative = getParam(origin, "n") == "1";
+    var inner = getParam(origin, "i");
+    var isH5Sdk = isZip && !isNative && inner == "";
+    var channelData = null;
+    window["isZip"] = isZip;
+    window["cdnResData"] = null; //CDN资源
+
+    window["isLogin"] = false;
+    window["loginInfo"] = {
+        "ip": "", //ip
+        "networkType": "", //网络类型
+        "openId": "", //用户ID
+        "brand": "", //用户机型
+        "id": new Date().getTime(), //开始时间
+        "initSdk": 0, //SDK
+        "initChanel": 0, //chanel
+        "loadSubpackage": 0, // 分包
+        "loadJson": 0, // 加载配置表
+        "loadRES": 0, // 加载登录资源
+        "connectGate": 0,//连接网关
+        "connectServer": 0, //连接服务器
+        "errorContent": [] //登录过程中错误信息
+    }
+
+    if (isNative) {
+        window.minProportion = 14.9 / 9; //兼容到16:9的安卓机但是有导航条
+    }
+    if (isH5Sdk) {
+        loadH5Sdk();
+    } else {
+        recordLoginInfo("initSdk")
+        recordLoginInfo("initChanel")
+        var v = getParam(origin, "v");
+        if (v != "") {
+            if (origin.indexOf('?') >= 0) {
+                origin += '&v=' + v;
+            } else {
+                origin += '?v=' + v;
+            }
+        }
+        openJson(v, openGame);
+    }
+    window.onerror = function (errorMessage, scriptURI, lineNumber, columnNumber, errorObj) {
+        if (game && game.ErrorManager) {
+            game.ErrorManager.inst.addError("window.onerror", errorMessage, errorObj);
+        }
+        recordLoginInfo("errorContent", errorObj)
+    }
+    function setLoadView() {
+        var sW = document.body.clientWidth;
+        var sH = document.body.clientHeight;
+        var marginTop = 0;
+        var clientProportion = sH / sW;
+        if (clientProportion >= window.maxProportion) {
+            sH = window.maxProportion * sW;
+            marginTop = (document.body.clientHeight - sH) / 2;
+        } else if (clientProportion <= window.minProportion) {
+            sW = sH / window.minProportion;
+        }
+        if (document.getElementById("loadBox")) {
+            document.getElementById("loadBox").style.width = sW + "px";
+            document.getElementById("loadBox").style.height = sH + "px";
+            if (bgHeight / bgWidth <= sH / sW) {
+                document.getElementById("loadBox").style.backgroundSize = "100% 100%";
+            }
+            document.getElementById("loadBox").style.marginTop = marginTop + "px";
+        }
+        if (document.getElementById("loginBg")) {
+            document.getElementById("loginBg").style.width = sW + "px";
+            document.getElementById("loginBg").style.height = sH + "px";
+            if (bgHeight / bgWidth <= sH / sW) {
+                document.getElementById("loginBg").style.backgroundSize = "100% 100%";
+            }
+            document.getElementById("loginBg").style.marginTop = marginTop + "px";
+        }
+        document.getElementById("bgLeft").style.width = (document.body.clientWidth - sW) / 2 + "px"
+        document.getElementById("bgRight").style.width = (document.body.clientWidth - sW) / 2 + "px"
+    }
+    function openJson(v, callback) {
+        if (v == "") {
+            callback();
+        } else {
+            var xhr = new XMLHttpRequest();
+            var url = origin.split("index")[0] + v + "/";
+            if(isNativePackage){
+                url = getParam(origin, "cdn") + "/" + v + "/";
+            }
+            xhr.open('GET', url + v + '.json?v=' + Math.random(), true);
+            xhr.addEventListener("load", function () {
+                window["cdnResData"] = JSON.parse(xhr.response);
+                callback();
+            });
+            xhr.send(null);
+        }
+    }
+    function openGame() {
+        console.warn("openGame:" + Date.now());
+        var bgImg = "https://yxgl-cdn-art.guangka.com/art/cm/bg_login.jpg";
+        var loginBg = bgImg;
+        document.getElementById("bgLeft").style.backgroundImage = "url(https://yxgl-cdn-art.guangka.com/art/cm/bg_2.jpg)";
+        document.getElementById("bgRight").style.backgroundImage = "url(https://yxgl-cdn-art.guangka.com/art/cm/bg_2.jpg)";
+        setLoadView();
+        if (channelData && channelData.res_url) {
+            var resData = JSON.parse(channelData.res_url);
+            bgImg = resData.loading || bgImg;
+            loginBg = resData.login || loginBg;
+        }
+
+        window.onresize = setLoadView;
+        document.getElementById("loadingUi").style.display = "block";
+        document.getElementsByClassName("loadText")[0].innerHTML = "Lần đầu tải sẽ hơi lâu, mong bạn kiên nhẫn chờ đợi...";
+        document.getElementsByClassName("tipText")[0].innerHTML = '<span class="orange">Mở hiệu ứng âm thanh</span> <span>sẽ mang đến trải nghiệm tốt hơn</span>';
+        if (isNative) {
+            document.getElementById("loadBox").style.display = "none";
+        } else {
+            document.getElementById("loadBox").style.backgroundImage = "url(" + bgImg + ")";
+            document.getElementById("loginBg").style.backgroundImage = "url(" + loginBg + ")";
+        }
+
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', './manifest.json?v=' + Math.random(), true);
+        xhr.addEventListener("load", function () {
+            var manifest = JSON.parse(xhr.response);
+            var list = manifest.initial.concat(manifest.game);
+            total = list.length;
+            loadScript(list, function () {
+                recordLoginInfo("loadSubpackage")
+                var dqScreenAdapter = new ScreenAdapter();
+                egret.runEgret({ renderMode: "webgl", audioType: 2, screenAdapter: dqScreenAdapter });
+            });
+        });
+        xhr.send(null);
+    }
+    function loadScript(list, callback) {
+        var jsList = [];
+        var zipList = [];
+        for (i = 0; i < list.length; i++) {
+            var fileName = list[i];
+            if (!isZip || fileName == "js/zip.min.js") {
+                jsList.push(getFileUrl(fileName));
+            } else {
+                zipList.push(fileName.split("/").pop());
+            }
+        }
+        loadSingleScript(jsList, 0, function () {
+            if (zipList.length <= 0) { callback(); return; }
+            new unZip().onStart(getFileUrl("resource/zip/js.zip"), zipList, function () {
+                showLoadingBar();
+            }, function () {
+                callback();
+            });
+        });
+    };
+    function getFileUrl(key) {
+        var resList = window["cdnResData"];
+        if (resList === null || isNativePackage) {
+            return key;
+        } else {
+            return resList[key] + "/" + key;
+        }
+    }
+    function showLoadingBar() {
+        loaded++;
+        Math.min(loaded, total);
+        var loadingBarDom = document.getElementById("loadingBar");
+        if (loadingBarDom) {
+            loadingBarDom.style.width = Math.ceil((loaded / total) * 102) + "%"
+        }
+    }
+    function loadSingleScript(list, index, callback) {
+        if (list.length <= index) { callback(); return; }
+        var s = document.createElement('script');
+        var src = list[index];
+        s.async = false;
+
+        var origin = window.location.href;
+        var isCache = true;
+        if (origin.indexOf("cache=0") >= 0)
+            isCache = false
+        if (isCache) {
+            s.src = src;
+        } else {
+            s.src = src + '?' + new Date().getTime();
+        }
+        var _index = index + 1;
+        s.addEventListener('load', function () {
+            s.parentNode.removeChild(s);
+            s.removeEventListener('load', arguments.callee, false);
+            showLoadingBar();
+            loadSingleScript(list, _index, callback);
+        }, false);
+        document.body.appendChild(s);
+    };
+    function getParam(url, name) {
+        var reg = new RegExp("(^|\\?|&)" + name + "=([^&]*)(\\s|&|$)", "i");
+        if (reg.test(url)) return unescape(RegExp.$2.replace(/\+/g, " "));
+        return "";
+    };
+
+    function loadH5Sdk() {
+        var youaiH5SDK = window["youaiH5SDK"];
+        var callback = function (code, msg) {
+            switch (code) {
+                case youaiH5SDK.code.INIT_SUCCESS:
+                    recordLoginInfo("initSdk")
+                    // youaiH5SDK.getParamValueByKey("custom");
+                    channel = youaiH5SDK.getParamValueByKey("channelId");
+                    var url = youaiH5SDK.getParamValueByKey("channelParameter1");
+                    window["channel"] = channel;
+                    requestInitData(url, channel, null);
+                    break;
+                case youaiH5SDK.code.LOGIN_SUCCESS:
+                    var params = {
+                        userType: msg.userType,
+                        openId: msg.openId,
+                        timestamp: msg.timestamp,
+                        serverSign: msg.serverSign,
+                        channel: youaiH5SDK.getParamValueByKey("channelId")
+                    }
+                    game.JSBridge.loginResult(params);
+                    /**拓展接口
+                     *  has_micro_client:0,//是否有微端 0:没有,1:有,2已经在微端中
+                        is_share:0,//是否有分享接口 0:没有,1:有
+                        is_focus:0,//是否有关注  0:没,1:有,2:已经关注
+                        is_apple_pay:0,//是否开启苹果支付 0:不开启  1:开启
+                        is_desktop:0,//是否有保存桌面 0:没有  1:有
+                        is_switch_account:0,//是否有切换账号 0:没有  1有
+                        is_realverify:0,//是否有实名认证 0:没有 1:有 2:已认证
+                        is_super_kefu:0,//是否有超级客服 0:没  1:有
+                        is_backtogame:0,//是否有返回按钮 0:没有，1:有
+                        is_lock:0,//是否竖屏  0:研发默认样式  1:强制竖屏
+                        is_focus_gift:0,//关注有礼 0:关闭  1:开启
+                        is_bindphone:0//绑定手机  0:关闭  1:开启  2:已绑定手机
+                        is_msgseccheck: 0, //违规内容判断接口 0：没有，1：有
+                        is_checkbalance: 0,//是否有查询  0：没有，1：有
+                        is_showad: 0,//是否有广告接口  0:没有，1:有
+                        is_kefu: 0,//是否有客服  0:没有，1:有(调用对应的客服类型接口(kefu))
+                        is_score: 0,//是否有评分接口  0:没有，1:有(调用对应的评分类型接口(score))
+                        is_query_products_info: 0,//是否有查询商品信息接口  0,没有  1:有(调用对应的查询商品信息接口(queryProductsInfo))
+                        is_event_track: 0// 0:没有  1：有 是否有事件上报接口
+                    */
+                    youaiH5SDK.expansionInterface(youaiH5SDK.expansion_type.gameSetting, "", function (result) {
+                        console.log("gameSetting:", result);
+                        if (result.code == 0) {
+                            game.ParamManager.inst.setSettingData(result.data);
+                        }
+                    });
+                    break;
+                case youaiH5SDK.code.LOGOUT_SUCCESS:
+                    break;
+                case youaiH5SDK.code.SWITCH_SUCCESS:
+                    break;
+                case youaiH5SDK.code.PAY_SUCCESS:
+                    break;
+                case youaiH5SDK.code.EXIT_SUCCESS:
+                    break;
+            }
+        }
+        youaiH5SDK.init(callback);
+    }
+
+    // 请求初始化数据
+    function requestInitData(url, channel, cb) {
+        var staticUrl = url + "/server/" + channel + "/channel.json?" + new Date().getTime();
+        console.log("initSuccess... origin:", origin, "url:", url, "channel:", channel);
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', staticUrl, false);
+        xhr.addEventListener("load", function () {
+            recordLoginInfo("initChanel")
+            var data = xhr.response;
+            channelData = JSON.parse(data);
+            window["initData"] = data;
+            window["version"] = channelData.version;
+            cb && cb(channelData);
+            openJson(channelData.version, openGame);
+        });
+        xhr.send(null);
+    }
+
+    /** 游戏登录过程打点
+     *  "id": new Date().getTime(),
+         "initSdk": 0, //SDK
+        "initChanel": 0, //chanel
+        "loadSubpackage": 0, // 分包
+        "loadJson": 0, // 加载配置表
+        "loadRES": 0, // 加载登录资源
+        "connectGate": 0,//连接网关
+        "connectServer": 0, //连接服务器
+        "errorContent": [] //登录过程中错误信息
+    */
+    function recordLoginInfo(key, value) {
+        try {
+            if (window["isLogin"]) return;
+            if (value === void 0) { value = new Date().getTime() }
+            if (key != "errorContent") {
+                window["loginInfo"][key] = value;
+            } else {
+                window["loginInfo"][key].push(value);
+            }
+            var loginInfo = localStorage.getItem("loginInfo");
+            var loginInfoArr = !loginInfo ? [] : JSON.parse(loginInfo);
+            if (loginInfoArr.length >= 10) return; //超过10条就不存了
+            if (key == "initSdk") {
+                loginInfoArr.push(window["loginInfo"]);
+            } else {
+                if (loginInfoArr.length <= 0) return;
+                loginInfoArr[loginInfoArr.length - 1] = window["loginInfo"]
+            }
+            localStorage.setItem("loginInfo", JSON.stringify(loginInfoArr));
+        } catch (error) {
+        }
+    }
+</script>
+</body>
+
+</html>

@@ -1,0 +1,538 @@
+{
+  "colMap": [
+    "needLv",
+    "name",
+    "icon",
+    "content",
+    "nextId",
+    "target",
+    "award"
+  ],
+  "list": {
+    "10001": [
+      2,
+      "Đáp Ứng",
+      0,
+      "Nhập cung tuyển tú, không ngờ trúng tuyển. Trong thâm cung hậu viện này, thân cô thế cô, thiếu chủ có thể mượn thế lực người khác, có chỗ đứng trong hậu cung.",
+      10002,
+      "10101,10102,10103",
+      [
+        [
+          2,
+          2,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10002": [
+      3,
+      "Thường Tại",
+      0,
+      "Đúng hay sai, sai hay đúng, người có quyền lực hay nhầm lẫn giữa đúng sai. Hẹn thử xem, thời đến vận chuyển, chắc không phụ dự tính ban đầu.",
+      10003,
+      "10201,10202,10203",
+      [
+        [
+          2,
+          3,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10003": [
+      4,
+      "Quý Nhân",
+      0,
+      "Đường đi khó khăn, hay là Thiếu Chủ cầu nguyện tại Cây Thần? Chỉ cần thành tâm thì ước gì được nấy!",
+      10004,
+      "10301,10302,10303",
+      [
+        [
+          2,
+          4,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10004": [
+      5,
+      "Thứ Tần",
+      0,
+      "Hậu cung sóng gió, thận trọng tới đâu cũng không thể mang tới bình yên mà ngươi muốn. Ngươi hiểu chỉ có tăng tước vị, thế lực lớn mạnh mới có thể bảo vệ mình.",
+      10005,
+      "10401,10402,10403",
+      [
+        [
+          2,
+          2,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10005": [
+      6,
+      "Trắc Tần",
+      0,
+      "Uỷ phái Tuỳ Tùng giải quyết sự vụ trong cung nhận được nhiều ban thưởng! Có ít thứ Lam Nhan thích từ lâu, thiếu chủ nhanh giao họ tặng.",
+      10006,
+      "10501,10502,10503",
+      [
+        [
+          2,
+          3,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10006": [
+      7,
+      "Chủ Tần",
+      0,
+      "Hậu cung nữ tử vô số, thiên tư tuyệt sắc. Thiếu chủ chớ bỏ qua vẻ bề ngoài, mặt hoa da phấn, lụa là gấm vóc sẽ tôn thêm giá trị của thiếu chủ.",
+      10007,
+      "10601,10602,10603",
+      [
+        [
+          2,
+          4,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10007": [
+      8,
+      "Thứ Quý Tần",
+      0,
+      "Trong thâm cung hậu viện, làm theo ý mình khó mà thành sự, thiếu chủ nhất định phải chịu khó tạo dựng thế lực, lớn mạnh bản thân, hành trình tầm bảo nhất định sẽ thuận lợi hơn nhiều. ",
+      10008,
+      "10701,10702,10703",
+      [
+        [
+          2,
+          2,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10008": [
+      9,
+      "Trắc Quý Tần",
+      0,
+      "Hậu cung thêu thùa đều là cao thủ, khi tìm Bạch Sơn Tú Quyển, đừng bỏ qua quần áo. Thu thập cẩm y hoa quan trong tay, 3 nghìn hậu cung mặt đều biến sắc. ",
+      10009,
+      "10801,10802,10803",
+      [
+        [
+          2,
+          3,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10009": [
+      10,
+      "Chủ Quý Tần",
+      0,
+      "Lúc nhàn rỗi, du sơn ngoạn thuỷ. Phong cảnh như vậy, đáng tiếc chưa thể cùng chàng tận hưởng. May mà đem về ít trân bảo, mau mang tới cho họ bất ngờ đi. ",
+      10010,
+      "10901,10902,10903",
+      [
+        [
+          2,
+          4,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10010": [
+      11,
+      "Thứ Phi",
+      0,
+      "Thời gian qua nhanh, từ tú nữ đạt đến thân phận hôm nay, con đường tìm kho báu khó khăn trùng trùng.",
+      10011,
+      "11001,11002,11003",
+      [
+        [
+          2,
+          2,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10011": [
+      12,
+      "Trắc Phi",
+      0,
+      "Cuộc sống ở Tử Cấm Thành, khó mà tự lo cho bản thân. Đến cái cây còn hơn người bị thất sủng, được Lam Nhan giúp sức sẽ thuận lợi hơn, sớm ngày tìm ra thêu phẩm. ",
+      10012,
+      "11101,11102,11103",
+      [
+        [
+          2,
+          3,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10012": [
+      13,
+      "Chủ Phi",
+      0,
+      "Lễ Vạn Thọ sắp đến, là chủ của một cung, mau sắp xếp biểu diễn và trang phục đẹp, thể hiện tài nghệ trước mặt hoàng thượng.",
+      10013,
+      "11201,11202,11203",
+      [
+        [
+          2,
+          4,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10013": [
+      14,
+      "Thứ Quý Phi",
+      0,
+      "Tìm Bạch Sơn Tú Quyển bị âm thầm cản trở, sự trợ giúp của người nịnh nọt trong cung không chừng sẽ có thu hoạch ngoài ý muốn, mau chóng nhắc nhở thế lực, làm bản thân lớn mạnh đi.",
+      10014,
+      "11301,11302,11303",
+      [
+        [
+          2,
+          2,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10014": [
+      15,
+      "Trắc Quý Phi",
+      0,
+      "Nhiệm vụ Bạch Sơn Tú Quyển đơn thuần đã tới lúc tranh chấp thế lực ngầm, sau này trong cung, e là đều khó khăn, khổ sở bên trong, chỉ có thể nói được với chàng. ",
+      10015,
+      "11401,11402,11403",
+      [
+        [
+          2,
+          3,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10015": [
+      16,
+      "Chủ Quý Phi",
+      0,
+      "Hậu cung nguy hiểm, con đường săn kho báu khó khăn trùng trùng, thiếu chủ có thể song hành cùng Lam Nhan, họ sẽ giúp một tay.",
+      10016,
+      "11501,11502,11503",
+      [
+        [
+          2,
+          4,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10016": [
+      17,
+      "Hoàng Quý Phi",
+      0,
+      " Tước vị cao, những vật quý hiến, gấm vóc nhung lụa chẳng thiếu gì cả, hay là thiếu chủ hãy gọi phòng thêu làm bộ trang phục đo ni đóng giày để xứng với dáng vẻ tuyệt đẹp này của thiếu chủ.",
+      10017,
+      "11601,11602,11603",
+      [
+        [
+          2,
+          2,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10017": [
+      18,
+      "Hoàng Hậu",
+      0,
+      "Hậu cung hơn 3000 giai nhân, nhưng chỉ sủng ái một người. Đứng đầu lục cung nhưng cũng không nên lơ là những người đứng sau, hãy không ngừng nuôi dưỡng thế lực của mình.",
+      10018,
+      "11701,11702,11703",
+      [
+        [
+          2,
+          3,
+          100000
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10018": [
+      19,
+      "Hiền Hoàng Hậu",
+      0,
+      "Thừa thiên trí thuận, hiền danh vang xa. Thanh danh của Tiểu Chủ đã lưu truyền trong dân gian, nhưng núi cao còn có núi cao hơn, không nên coi thường, hướng đến vị trí cao hơn!",
+      10019,
+      "11801,11802,11803",
+      [
+        [
+          1,
+          10035,
+          1
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10019": [
+      20,
+      "Tôn Hoàng Hậu",
+      0,
+      "Chiêu diễn tôn danh, thanh quý vô song. Tiểu Chủ được vạn người tôn kính, không bằng nhân cơ hội tốt, đề bại một vài nhân tài.",
+      10020,
+      "11901,11902,11903",
+      [
+        [
+          1,
+          21006,
+          1
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10020": [
+      21,
+      "Thánh Hậu",
+      0,
+      "Thượng khung thánh hữu, hoàng linh tụy chỉ. Tiểu Chủ thanh danh vang, mọi hành động đều được chú ý, không bằng may vài bộ trang phục lộng lẫy, dùng vàng ngọc điểm xuyết, càng lộ vẻ tôn quý.",
+      10021,
+      "12001,12002,12003",
+      [
+        [
+          1,
+          10039,
+          1
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ],
+    "10021": [
+      22,
+      "Thiên Hậu",
+      0,
+      "Nuôi dưỡng vạn năm, sức mạnh của tiểu chủ rất lớn, hào quang rực rỡ như nhật nguyệt, trong tối có người đang trộm nhìn, nhất định không được lười biếng.",
+      0,
+      "12101,12102,12103",
+      [
+        [
+          1,
+          10035,
+          1
+        ],
+        [
+          1,
+          10001,
+          1
+        ],
+        [
+          1,
+          10002,
+          1
+        ]
+      ]
+    ]
+  }
+}

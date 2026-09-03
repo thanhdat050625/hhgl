@@ -1,0 +1,58 @@
+{
+  "colMap": [
+    "name",
+    "textResource",
+    "level",
+    "maleResource",
+    "femaleResource",
+    "maleHead",
+    "femaleHead"
+  ],
+  "list": {
+    "1": [
+      "Vụng về",
+      "hk_27",
+      10,
+      "hk0101",
+      "hk0102",
+      "hk10101",
+      "hk10102"
+    ],
+    "2": [
+      "Tầm thường",
+      "hk_26",
+      20,
+      "hk0201",
+      "hk0202",
+      "hk10201",
+      "hk10202"
+    ],
+    "3": [
+      "Nhanh nhạy",
+      "hk_25",
+      30,
+      "hk0301",
+      "hk0302",
+      "hk10301",
+      "hk10302"
+    ],
+    "4": [
+      "Linh Tính",
+      "hk_24",
+      40,
+      "hk0401",
+      "hk0402",
+      "hk10401",
+      "hk10402"
+    ],
+    "5": [
+      "Tường Thụy",
+      "hk_23",
+      50,
+      "hk0501",
+      "hk0502",
+      "hk10501",
+      "hk10502"
+    ]
+  }
+}

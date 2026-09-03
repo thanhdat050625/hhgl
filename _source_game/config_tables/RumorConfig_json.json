@@ -1,0 +1,178 @@
+{
+  "colMap": [
+    "content1",
+    "content2",
+    "content4",
+    "type"
+  ],
+  "list": {
+    "10001": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn trèo lên mái nhà ngâm thơ ngắm trăng, cuối cùng lại tự té xuống. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> trèo lên mái nhà ngâm thơ ngắm trăng, cuối cùng lại tự té xuống. ",
+      "<font color=0xc8a35d>[$[0]]</font> trèo lên mái nhà ngâm thơ ngắm trăng, cuối cùng lại tự té xuống. ",
+      1
+    ],
+    "10002": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn tục khí tham tiền, hận không thể đội vàng bạc châu báu lên đầu. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> tục khí tham tiền, hận không thể đội vàng bạc châu báu lên đầu.",
+      "<font color=0xc8a35d>[$[0]]</font> tục khí tham tiền, hận không thể đội vàng bạc châu báu lên đầu.",
+      1
+    ],
+    "10003": [
+      "<font color=0xc8a35d>【$[0]】</font> trêu nói ngươi luôn cầm chiếc gương trang điểm, không để ý bị rơi xuống mương. Bị mọi người chê cười, danh dự tuột dốc.|【Điểm Bạc Mệnh+$[1]】",
+      "Nghe nói gần đây <font color=0xc8a35d>【$[0]】</font> luôn cầm chiếc gương trang điểm, không để ý bị rơi xuống mương, trong trăm dặm ngửi thấy mùi thối.",
+      "<font color=0xc8a35d>【$[0]】</font> luôn cầm chiếc gương trang điểm, không để ý bị rơi xuống mương.",
+      1
+    ],
+    "10004": [
+      "<font color=0xc8a35d>【$[0]】</font> trêu ngươi tham ăn tham uống, mập đến nỗi không lọt nổi cửa cung.Bị mọi người chê cười, danh dự tuột dốc..|【Điểm Bạc Mệnh+$[1]】",
+      "Nghe nói gần đây <font color=0xc8a35d>【$[0]】</font>tham ăn tham uống, mập đến nỗi không lọt nổi cửa cung, phải 2 tấm phản mới đủ ngủ.",
+      "<font color=0xc8a35d>【$[0]】</font>tham ăn tham uống, mập đến nỗi không lọt nổi cửa cung.",
+      1
+    ],
+    "10005": [
+      "<font color=0xc8a35d>【$[0]】</font> trêu ngươi  tặng canh bổ cho hoàng thượng, hoàng thượng từ chối, lúc về không cẩn thận ngã xuống sông. Bị mọi người chê cười, danh dự tuột dốc..|【Điểm Bạc Mệnh+$[1]】",
+      "Nghe nói gần đây <font color=0xc8a35d>【$[0]】</font> tặng canh bổ cho hoàng thượng, hoàng thượng từ chối, lúc về không cẩn thận ngã xuống sông.",
+      "<font color=0xc8a35d>【$[0]】</font> tặng canh bổ cho hoàng thượng, hoàng thượng từ chối, lúc về không cẩn thận ngã xuống sông.",
+      1
+    ],
+    "10006": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng mỗi lần bạn mở miệng đều có mùi lạ, mọi người đều nín thở mỗi khi bạn nói chuyện. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> mỗi lần mở miệng đều có mùi lạ, mọi người đều nín thở mỗi khi bạn nói chuyện.",
+      "<font color=0xc8a35d>[$[0]]</font> mỗi lần mở miệng đều có mùi lạ, mọi người đều nín thở mỗi khi nói chuyện.",
+      1
+    ],
+    "10007": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn luộc bắp cải mỗi ngày, nhưng vóc dáng không giảm, lại khiến mặt mày xanh xao. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> luộc bắp cải mỗi ngày, nhưng vóc dáng không giảm, lại khiến mặt mày xanh xao.",
+      "<font color=0xc8a35d>[$[0]]</font> luộc bắp cải mỗi ngày, nhưng vóc dáng không giảm, lại khiến mặt mày xanh xao.",
+      1
+    ],
+    "10008": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn ngay cả khi uống canh táo tàu cũng phải làm bộ làm tịch, ra vẻ ta đây. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> ngay cả khi uống canh táo tàu cũng phải làm bộ làm tịch, ra vẻ ta đây.",
+      "<font color=0xc8a35d>[$[0]]</font> ngay cả khi uống canh táo tàu cũng phải làm bộ làm tịch, ra vẻ ta đây.",
+      1
+    ],
+    "10009": [
+      "<font color=0xc8a35d>[$[0]]</font> nói ngươi mỗi ngày đều ngồi xổm dưỡng tâm ở cửa điện, chờ được Hoàng Thượng liếc nhìn một cái. Ngươi bị mọi người chế nhạo, danh dự xuống dốc không phanh.|[Điểm Bạc Mệnh+$[1]]",
+      "Nghe nói gần đây <font color=0xc8a35d>【$[0]】</font> hàng ngày đều ngồi ở cửa Dưỡng Tâm Điện, đợi được Hoàng Thượng để mắt tới.",
+      "<font color=0xc8a35d>【$[0]】</font> hàng ngày đều ngồi ở cửa Dưỡng Tâm Điện, đợi được Hoàng Thượng để mắt tới.",
+      1
+    ],
+    "10010": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn mặc trang phục cung nữ, muốn cho hoàng thượng một bất ngờ, cuối cùng thực sự bị xem thành cung nữ để sai khiến. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> mặc trang phục cung nữ, muốn cho hoàng thượng một bất ngờ, cuối cùng thực sự bị xem thành cung nữ để sai khiến. ",
+      "<font color=0xc8a35d>[$[0]]</font> mặc trang phục cung nữ, muốn cho hoàng thượng một bất ngờ, cuối cùng thực sự bị xem thành cung nữ để sai khiến. ",
+      1
+    ],
+    "10011": [
+      "<font color=0xc8a35d>[$[0]]</font> nói ngươi là nữ nhi nhưng có tấm lòng nam nhi, trong phòng đều là quần áo hỗn độn. Ngươi bị mọi người chế nhạo, danh dự xuống dốc không phanh.|[Điểm Bạc Mệnh+$[1]]",
+      "Nghe nói gần đây <font color=0xc8a35d>【$[0]】</font> thân nữ nhi tâm nam tử, quần áo vứt khắp nơi trong phòng.",
+      "<font color=0xc8a35d>【$[0]】</font> thân nữ nhi tâm nam tử, quần áo vứt khắp nơi trong phòng.",
+      1
+    ],
+    "10012": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn giả vờ bị thương, muốn hoàng thượng đến thăm, cuối cùng ngự y đến rồi. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> giả vờ bị thương, muốn hoàng thượng đến thăm, cuối cùng ngự y đến rồi.",
+      "<font color=0xc8a35d>[$[0]]</font> giả vờ bị thương, muốn hoàng thượng đến thăm, cuối cùng ngự y đến rồi.",
+      1
+    ],
+    "10013": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn mỗi lần ngang qua nơi có thể soi bóng mình đều dừng lại một chút, vô cùng tự luyến. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> mỗi lần ngang qua nơi có thể soi bóng mình đều dừng lại một chút, vô cùng tự luyến.",
+      "<font color=0xc8a35d>[$[0]]</font> mỗi lần ngang qua nơi có thể soi bóng mình đều dừng lại một chút, vô cùng tự luyến.",
+      1
+    ],
+    "10014": [
+      "<font color=0xc8a35d>【$[0]】</font> trêu ngươi toàn thân phát sởi, mặt đỏ, dung mạo khó coi. Bị mọi người chê cười, danh dự tuột dốc..|【Điểm Bạc Mệnh+$[1]】",
+      "Nghe nói gần đây <font color=0xc8a35d>【$[0]】</font> toàn thân phát sởi, mặt đỏ, dung mạo khó coi.",
+      "<font color=0xc8a35d>【$[0]】</font> toàn thân phát sởi, mặt đỏ, dung mạo khó coi.",
+      1
+    ],
+    "10015": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn ngoài mặt quan hệ tốt với bạn bè, nhưng lại hay nói xấu sau lưng nên khó gần gũi với mọi người. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> ngoài mặt quan hệ tốt với bạn bè, nhưng lại hay nói xấu sau lưng nên khó gần gũi với mọi người.",
+      "<font color=0xc8a35d>[$[0]]</font> ngoài mặt quan hệ tốt với bạn bè, nhưng lại hay nói xấu sau lưng nên khó gần gũi với mọi người.",
+      1
+    ],
+    "10016": [
+      "<font color=0xc8a35d>【$[0]】</font> trêu ngươi thích ăn tỏi để trừ tà ma. Bị mọi người chê cười, danh dự tuột dốc..|【Điểm Bạc Mệnh+$[1]】",
+      "Nghe nói gần đây <font color=0xc8a35d>【$[0]】</font> thích ăn tỏi để trừ tà ma.",
+      "<font color=0xc8a35d>【$[0]】</font> thích ăn tỏi để trừ tà ma.",
+      1
+    ],
+    "10017": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn không chỉ ngủ ngáy, mà còn chảy nước miếng, bị hoàng thượng ghét bỏ. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> không chỉ ngủ ngáy, mà còn chảy nước miếng, bị hoàng thượng ghét bỏ.",
+      "<font color=0xc8a35d>[$[0]]</font> không chỉ ngủ ngáy, mà còn chảy nước miếng, bị hoàng thượng ghét bỏ.",
+      1
+    ],
+    "10018": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn ăn quá nhiều, nửa đêm đè sập giường, còn bị té xuống. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> ăn quá nhiều, nửa đêm đè sập giường, còn bị té xuống.",
+      "<font color=0xc8a35d>[$[0]]</font> ăn quá nhiều, nửa đêm đè sập giường, còn bị té xuống.",
+      1
+    ],
+    "10019": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng tư thế khom lưng của bạn quá kém, bị lính canh chặn lại như bị khách không mời. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói tư thế khom lưng của <font color=0xc8a35d>[$[0]]</font> quá kém, bị lính canh chặn lại như bị khách không mời.",
+      "Tư thế khom lưng của <font color=0xc8a35d>$[0]]</font> quá kém, bị lính canh chặn lại như bị khách không mời.",
+      1
+    ],
+    "10020": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn thường phải dựa vào phấn nước, son môi, trang sức, thực ra bạn quá lười chăm sóc da, da dẻ vàng vọt. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> thường phải dựa vào phấn nước, son môi, trang sức, thực ra quá lười chăm sóc da, da dẻ vàng vọt.",
+      "<font color=0xc8a35d>[$[0]]</font> thường phải dựa vào phấn nước, son môi, trang sức, thực ra quá lười chăm sóc da, da dẻ vàng vọt.",
+      1
+    ],
+    "10021": [
+      "<font color=0xc8a35d>【$[0]】</font> trêu ngươi hôm qua lúc đi vệ sinh ngươi xem truyện, trượt chân ngã vào hố. Bị mọi người chê cười, danh dự tuột dốc..|【Điểm Bạc Mệnh+$[1]】",
+      "Nghe nói gần đây <font color=0xc8a35d>【$[0]】</font> hôm qua lúc đi vệ sinh ngươi xem truyện, trượt chân ngã vào hố.",
+      "<font color=0xc8a35d>【$[0]】</font> hôm qua lúc đi vệ sinh ngươi xem truyện, trượt chân ngã vào hố.",
+      1
+    ],
+    "10022": [
+      "<font color=0xc8a35d>[$[0]]</font> nói bạn vì muốn Hoàng Thượng chú ý, nửa đêm đến Ngự Hoa Viên nhảy múa, kết quả bị Hoàng Thượng làm lơ. Bạn bị mọi người cười nhạo, danh tiếng giảm mạnh.|[Điểm Bạc Mệnh +$[1]]",
+      "Nghe nói <font color=0xc8a35d>[$[0]]</font> vì muốn Hoàng Thượng chú ý, nửa đêm đến Ngự Hoa Viên nhảy múa, kết quả bị Hoàng Thượng làm lơ.",
+      "<font color=0xc8a35d>[$[0]]</font> vì muốn Hoàng Thượng chú ý, nửa đêm đến Ngự Hoa Viên nhảy múa, kết quả bị Hoàng Thượng làm lơ.",
+      1
+    ],
+    "10023": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn ngoài mặt hiền thục dịu dàng, nhưng sau lưng lại hay cáu kỉnh, mọi người đều phải cẩn thận từng lời khi nói chuyện với bạn. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> ngoài mặt hiền thục dịu dàng, nhưng sau lưng lại hay cáu kỉnh, mọi người đều phải cẩn thận từng lời khi nói chuyện cùng.",
+      "<font color=0xc8a35d>[$[0]]</font> ngoài mặt hiền thục dịu dàng, nhưng sau lưng lại hay cáu kỉnh, mọi người đều phải cẩn thận từng lời khi nói chuyện cùng.",
+      1
+    ],
+    "10024": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn tự xưng là người đẹp nhất thế gian, còn lệnh cho tỳ nữ nghĩ cách khen mình. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> tự xưng là người đẹp nhất thế gian, còn lệnh cho tỳ nữ nghĩ cách khen mình.",
+      "<font color=0xc8a35d>[$[0]]</font> tự xưng là người đẹp nhất thế gian, còn lệnh cho tỳ nữ nghĩ cách khen mình.",
+      1
+    ],
+    "10025": [
+      "<font color=0xc8a35d>[$[0]]</font> đồn rằng bạn trang điểm quá dày, khi cười từng lớp phấn rơi lả tả. Bạn bị mọi người cười chế giễu, danh tiếng xuống dốc không phanh.|[Điểm Bạc Mệnh +$[1]]",
+      "Gần đây nghe nói <font color=0xc8a35d>[$[0]]</font> trang điểm quá dày, khi cười từng lớp phấn rơi lả tả.",
+      "<font color=0xc8a35d>[$[0]]</font> trang điểm quá dày, khi cười từng lớp phấn rơi lả tả.",
+      1
+    ],
+    "10026": [
+      "<font color=0xc8a35d>【$[0]】</font> vẽ mặt xấu cho ngươi, nhìn chẳng ra bộ dạng lúc đầu.|【Điểm Bạc Mệnh+$[1]】",
+      "<font color=0xc8a35d>【$[0]】</font> bị <font color=0xc8a35d>【$[1]】</font> vẽ mặt xấu $[2] lần, không nhìn rõ dung mạo nữa.",
+      "",
+      2
+    ],
+    "10027": [
+      "Thiếu chủ <font color=0xc8a35d>【$[0]】</font> không giận mà uy, dọa ngươi cứng lưỡi, nói lắp bắp.|【Điểm Bạc Mệnh+$[1]】",
+      "<font color=0xc8a35d>【$[1]】</font> không giận mà uy, <font color=0xc8a35d>【$[0]】</font> gặp mặt liền căng thẳng, nói năng lộn xộn, không thể giao tiếp bình thường.",
+      "",
+      3
+    ],
+    "10028": [
+      "<font color=0xc8a35d>【$[0]】</font> lén quậy phá ngươi,【$[2]】 bị biến thành 【$[3]】|【Điểm Bạc Mệnh+$[1]】",
+      "<font color=0xc8a35d>【$[0]】</font> bị <font color=0xc8a35d>【$[1]】</font> quậy phá, 【$[2]】 biến thành 【$[3]】.",
+      "",
+      4
+    ]
+  }
+}

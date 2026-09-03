@@ -1,0 +1,78 @@
+{
+  "colMap": [
+    "name",
+    "icon",
+    "type",
+    "goldPrice",
+    "propPrice",
+    "description",
+    "expAward",
+    "wealthAward",
+    "contributionAward"
+  ],
+  "list": {
+    "10001": [
+      "Đặt thêm cây xanh",
+      "100191",
+      1,
+      10,
+      [],
+      "EXP Bang+10. Tài Phú Bang+10. Cống Hiến Cá Nhân+10",
+      10,
+      10,
+      10
+    ],
+    "10002": [
+      "Thêm đồ trang trí",
+      "100192",
+      1,
+      50,
+      [],
+      "EXP Bang+50, Tài Phú Bang+50, Cống Hiến Cá Nhân+50",
+      50,
+      50,
+      50
+    ],
+    "10003": [
+      "Thêm đồ dùng",
+      "100193",
+      1,
+      200,
+      [],
+      "EXP Bang+200, Tài Phú Bang+200, Cống Hiến Cá Nhân+200",
+      200,
+      200,
+      200
+    ],
+    "10004": [
+      "Tân trang chỗ ở",
+      "100194",
+      2,
+      0,
+      [
+        1,
+        10026,
+        1
+      ],
+      "EXP Bang+400, Tài Phú Bang+400, Cống Hiến Cá Nhân+400",
+      400,
+      400,
+      400
+    ],
+    "10005": [
+      "Xây lại phòng ở",
+      "100195",
+      2,
+      0,
+      [
+        1,
+        10027,
+        1
+      ],
+      "EXP Bang+1200, Tài Phú Bang+1200, Cống Hiến Cá Nhân+1200",
+      1200,
+      1200,
+      1200
+    ]
+  }
+}

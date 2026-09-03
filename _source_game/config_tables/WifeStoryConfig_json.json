@@ -1,0 +1,399 @@
+{
+  "colMap": [
+    "frontStory",
+    "titleStory",
+    "chooseId",
+    "chooseBgId"
+  ],
+  "list": {
+    "101": [
+      [
+        21010001,
+        21010002
+      ],
+      "Ngươi nhìn thấy A Lý Cổn đang thi bắn cung với vài người thị vệ, hãy cổ vũ cho anh ấy đi.",
+      "21011,21012",
+      "0"
+    ],
+    "102": [
+      [
+        21020001,
+        21020002,
+        21020003
+      ],
+      "A Lý Cổn đang chọn trâm cài tóc cho ai sao?",
+      "21021,21022",
+      "0"
+    ],
+    "103": [
+      [
+        21030001,
+        21030002,
+        21030003
+      ],
+      "Đối diện a ca đang khóc, A Lý Cổn dường như luống cuống, đi giúp nó đi.",
+      "21031,21032",
+      "0"
+    ],
+    "104": [
+      [
+        21040001,
+        21040002
+      ],
+      "A Lý Cổn hình như ngủ rất say, có cần gọi hắn dậy không?",
+      "21041,21042",
+      "0"
+    ],
+    "105": [
+      [
+        21050001,
+        21050002,
+        21050003
+      ],
+      "A Lí Cổn có vẻ vừa khát vừa nóng, có cần đi hạ nhiệt cho y không?",
+      "21051,21052",
+      "0"
+    ],
+    "106": [
+      [
+        21060001,
+        21060002,
+        21060003
+      ],
+      " A Lý Cổn đang suy nghĩ câu đố đèn, nói chuyện với anh ấy thì có làm phiền anh ấy không nhỉ.",
+      "21061,21062",
+      "0"
+    ],
+    "107": [
+      [
+        21070001,
+        21070002,
+        21070003
+      ],
+      "A Lý Cổn đã đóng cửa nghỉ ngơi nhiều ngày. Đi thăm hắn trước hay đi tìm thái y hỏi tình hình?",
+      "21071,21072",
+      "0"
+    ],
+    "108": [
+      [
+        21080001,
+        21080002
+      ],
+      "A Lý Cổn thấy ngươi tới, hắn dừng ngựa, hỏi ngươi muốn cưỡi chung không.",
+      "21081,21082",
+      "0"
+    ],
+    "109": [
+      [
+        21090001,
+        21090002
+      ],
+      "A Lý Cổn hình như đang uống rượu một mình. Có cần uống cùng hắn không?",
+      "21091,21092",
+      "0"
+    ],
+    "110": [
+      [
+        21100001,
+        21100002,
+        21100003
+      ],
+      "Có nên giúp A Lý Cổn giải vây không? Nhưng dù sao cũng là việc riêng của hắn…",
+      "21101,21102",
+      "0"
+    ],
+    "201": [
+      [
+        22010001,
+        22010002
+      ],
+      "Alendi đang giới thiệu bức tranh, đến xem không?",
+      "22011,22012",
+      "0"
+    ],
+    "202": [
+      [
+        22020001,
+        22020002,
+        22020003
+      ],
+      "Alendi vẽ rất nghiêm túc... Khó tới một chuyến, cứ đi như vậy không hay lắm.",
+      "22021,22022",
+      "0"
+    ],
+    "203": [
+      [
+        22030001,
+        22030002,
+        22030003
+      ],
+      "Bọn họ chơi vui thật, muốn chơi chung không?",
+      "22031,22032",
+      "0"
+    ],
+    "204": [
+      [
+        22040001,
+        22040002,
+        22040003
+      ],
+      "Hiếm khi thấy Alendi im lặng như vậy, tới chọc hắn không?",
+      "22041,22042",
+      "0"
+    ],
+    "205": [
+      [
+        22050001,
+        22050002
+      ],
+      "Ngươi chưa thấy rõ mặt, hắn đã xông về phía ngươi! Phải làm sao?",
+      "22051,22052",
+      "0"
+    ],
+    "206": [
+      [
+        22060001,
+        22060002
+      ],
+      "Xung quanh biển người, nhìn một vòng cũng không tìm được bóng dáng Alendi. Hắn rút cuộc đi đâu rồi?",
+      "22061,22062",
+      "0"
+    ],
+    "207": [
+      [
+        22070001,
+        22070002,
+        22070003
+      ],
+      "Alendi giấu gì đằng sau lưng, nếu có liên quan đến Trần Uyển Quân hoặc Tú Quyển thì không hay lắm.",
+      "22071,22072",
+      "0"
+    ],
+    "208": [
+      [
+        22080001,
+        22080002
+      ],
+      "Có lẽ nên cầm cho Alendi phán đoán. Trước khi giao cho hắn có cần dọn dẹp trước 1 cái không?",
+      "22081,22082",
+      "0"
+    ],
+    "209": [
+      [
+        22090001,
+        22090002,
+        22090003
+      ],
+      "Alendi chưa từng uống rượu trước mặt ngươi, ngươi cảm thấy hơi bất ngờ. ",
+      "22091,22092",
+      "0"
+    ],
+    "210": [
+      [
+        22100001,
+        22100002
+      ],
+      "Trước tiệm Alendi vừa hay không có người. Có cần đi nịnh bợ hắn không?",
+      "22101,22102",
+      "0"
+    ],
+    "301": [
+      [
+        23010001,
+        23010002,
+        23010003
+      ],
+      "Chè nguội rồi sẽ không ngon nữa……nhưng ngươi cũng không tiện vào làm phiền, nên làm thế nào?",
+      "23011,23012",
+      "0"
+    ],
+    "302": [
+      [
+        23020001,
+        23020002,
+        23020003
+      ],
+      "Hoàng Thượng đang chọn trang sức, còn nên đi góp ý không? Có làm phiền không?",
+      "23021,23022",
+      "0"
+    ],
+    "303": [
+      [
+        23030001,
+        23030002,
+        23030003
+      ],
+      "Không khí thật nghiêm túc, có nên qua đó không?",
+      "23031,23032",
+      "0"
+    ],
+    "304": [
+      [
+        23040001,
+        23040002,
+        23040003
+      ],
+      "Hoàng Thượng ngủ vùi trên vai ngươi, dường như rất mệt mỏi. Có gọi người dậy không?",
+      "23041,23042",
+      "0"
+    ],
+    "305": [
+      [
+        23050001,
+        23050002,
+        23050003
+      ],
+      "Làm cách nào để Hoàng Thượng không đóng dấu lên tranh đây?",
+      "23051,23052",
+      "0"
+    ],
+    "306": [
+      [
+        23060001,
+        23060002,
+        23060003
+      ],
+      "Hình như đoán câu đố đèn rất thú vị, thả đèn trên bầu trời cũng rất vui. Muốn chơi cái nào?",
+      "23061,23062",
+      "0"
+    ],
+    "307": [
+      [
+        23070001,
+        23070002,
+        23070003
+      ],
+      "Vốn tưởng rằng Hoàng Thượng không đến được giờ đã đến rồi… Thức ăn đã nguội, nhưng Hoàng Thượng vẫn ăn.",
+      "23071,23072",
+      "0"
+    ],
+    "308": [
+      [
+        23080001,
+        23080002
+      ],
+      "Ta có chút hiếu kì và chi tiết Hoàng Thượng nam tuần. Có cần hỏi Hoàng Thượng về việc nam tuần không?",
+      "23081,23082",
+      "0"
+    ],
+    "309": [
+      [
+        23090001,
+        23090002,
+        23090003
+      ],
+      "Ngươi nhìn thấy Hoàng Thượng cùng thị vệ, đang chuẩn bị ra ngoài.",
+      "23091,23092",
+      "0"
+    ],
+    "310": [
+      [
+        23100001,
+        23100002,
+        23100003
+      ],
+      "Ngươi thắc mắc tiến về trước đọc thơ của Hoàng Thượng. Quả nhiên như sử sách ghi chép, văn phong ngại ngùng...",
+      "23101,23102",
+      "0"
+    ],
+    "401": [
+      [
+        24010001,
+        24010002,
+        24010003
+      ],
+      "Ngươi thấy thư tịch tán loạn đầy đất, do dự có nên gián đoạn Tề Mặc nghiện cứu.",
+      "24011,24012",
+      "0"
+    ],
+    "402": [
+      [
+        24020001,
+        24020002,
+        24020003
+      ],
+      "Tề Mặccó vẻ rất phiền não. Nếu đột nhiên tỉnh lại bắt chuyện có dọa được hắn không?",
+      "24021,24022",
+      "0"
+    ],
+    "403": [
+      [
+        24030001,
+        24030002,
+        24030003
+      ],
+      "Tề Mặc bận sửa chữa, lại bận chăm bọn nhỏ, rất mệt mỏi. Muốn nhờ hắn sửa cây trâm sao?",
+      "24031,24032",
+      "0"
+    ],
+    "404": [
+      [
+        24040001,
+        24040002,
+        24040003
+      ],
+      "Tề Mặc trông có vẻ mệt mỏi, đành để hắn nghỉ ngơi một chút.",
+      "24041,24042",
+      "0"
+    ],
+    "405": [
+      [
+        24050001,
+        24050002
+      ],
+      "Hình như Tề Mặc đang tập trung thí nghiệm, có làm phiền hắn không?",
+      "24051,24052",
+      "0"
+    ],
+    "406": [
+      [
+        24060001,
+        24060002,
+        24060003,
+        24060004
+      ],
+      "Nhìn bóng dáng quen thuộc, dường như có chút giống Tề Mặc...? Có muốn đến xác nhận lại không?",
+      "24061,24062",
+      "0"
+    ],
+    "407": [
+      [
+        24070001,
+        24070002
+      ],
+      "Tề Mặc dùng kim chỉ vô cùng khéo léo. Nhưng nhìn bộ dạng một mình hắn sửa quần áo, ngươi vẫn là có chút đau lòng. ",
+      "24071,24072",
+      "0"
+    ],
+    "408": [
+      [
+        24080001,
+        24080002,
+        24080003
+      ],
+      "Tề Mặc hỏi ngươi tại sao ở lại quá muộn trong Tàng Thư Các, nên trả lời thế nào?",
+      "24081,24082",
+      "0"
+    ],
+    "409": [
+      [
+        24090001,
+        24090002,
+        24090003
+      ],
+      "Tề Mặc đang bận rộn trong bếp, nhìn hắn có vẻ thành thạo. Có đi giúp không?",
+      "24091,24092",
+      "0"
+    ],
+    "410": [
+      [
+        24100001,
+        24100002,
+        24100003
+      ],
+      "Tề Mặc thấy ngươi, vẫy tay kêu lại, hắn muốn làm gì vậy?",
+      "24101,24102",
+      "0"
+    ]
+  }
+}

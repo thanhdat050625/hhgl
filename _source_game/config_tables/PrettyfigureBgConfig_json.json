@@ -1,0 +1,121 @@
+{
+  "colMap": [
+    "icon",
+    "resource",
+    "quality",
+    "name",
+    "description",
+    "photoId",
+    "unlockType",
+    "unlockData",
+    "getPath",
+    "onTime"
+  ],
+  "list": {
+    "10001": [
+      "pf_un1",
+      [
+        "bg_40001"
+      ],
+      "2",
+      "Phòng Cổ Tao Nhã",
+      "[Thích hợp cho 10 người] Minh hi chiếu nhã thất, đàn hương sinh cổ vận.",
+      [
+        20001
+      ],
+      0,
+      0,
+      [
+        21000
+      ],
+      0
+    ],
+    "10002": [
+      "pf_un2",
+      [
+        "bg_40002"
+      ],
+      "4",
+      "Tòa Thành Cầu Vồng",
+      "[Thích hợp cho 10 người] Hồ nước ở phía trước tòa thành, phản chiếu cầu vồng chúc phúc.",
+      [
+        20001
+      ],
+      3,
+      0,
+      [
+        18861
+      ],
+      0
+    ],
+    "10003": [
+      "pf_un3",
+      [
+        "bg_40003",
+        "bg_40004",
+        "bg_40005"
+      ],
+      "3",
+      "Đào Nguyên Sương Mù",
+      "[Thích hợp trên 10 người] Vụ miểu đào nguyên lộ, viễn sơn bất tri thế.",
+      [
+        20002,
+        20003,
+        20004,
+        20005
+      ],
+      3,
+      0,
+      [
+        18861
+      ],
+      0
+    ],
+    "10004": [
+      "pf_un4",
+      [
+        "bg_40006",
+        "bg_40007",
+        "bg_40008"
+      ],
+      "4",
+      "Hòn Đảo Lãng Mạn",
+      "[Thích hợp trên 10 người] Biển xanh cát trắng, nơi tuyệt vời nhất để nghỉ ngơi.",
+      [
+        20002,
+        20003,
+        20004,
+        20005
+      ],
+      3,
+      0,
+      [
+        18861
+      ],
+      0
+    ],
+    "10005": [
+      "pf_un5",
+      [
+        "bg_40009",
+        "bg_40010",
+        "bg_40011"
+      ],
+      "3",
+      "Vân Ánh Kính Trì",
+      "[Thích hợp trên 10 người] Vu sơn điệp tằng vân, kính trì ánh vạn tượng.",
+      [
+        20002,
+        20003,
+        20004,
+        20005
+      ],
+      3,
+      0,
+      [
+        18861
+      ],
+      0
+    ]
+  }
+}

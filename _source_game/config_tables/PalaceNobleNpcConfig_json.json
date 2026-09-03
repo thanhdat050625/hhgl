@@ -1,0 +1,166 @@
+{
+  "colMap": [
+    "activityID",
+    "name",
+    "full",
+    "half",
+    "halfScale",
+    "halfPos",
+    "bubblePos",
+    "firstBuff",
+    "secondBuff",
+    "thirdBuff",
+    "description",
+    "text",
+    "beRopedInNumber",
+    "beRopedInText",
+    "beAlienateTextNumber",
+    "beAlienateText"
+  ],
+  "list": {
+    "10001": [
+      340101,
+      "Ngự Tiền Tổng Quản",
+      "full70-0101",
+      "rn_a20",
+      110,
+      0,
+      0,
+      [
+        [
+          18,
+          10011,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10012,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10013,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tNam Liên, sinh ra không rõ. \n\t\t\t\t\t\t\t\tLúc nhỏ được cung nhân nuôi dạy, sau đó dựa vào võ nghệ và tài năng trở thành Ngự Tiền Tổng Quản, cai quản các việc lớn nhỏ ở hậu cung. Từ nhỏ biết xem mặt đoán ý, ăn nói ngọt ngào, được nhiều người yêu thích. \n\t\t\t\t\t\t\t\tĐôi khi cảm thấy hắn có bí mật, nhưng lại bình dị gần gũi, diện mạo của hắn có sức hấp dẫn, nhưng không ai thấu hiểu——đây là đánh giá của người làm chung với hắn. \n\t\t\t\t\t\t\t\tSắc bén, kiêu ngạo, cố chấp. Hắn quỷ quyệt, kính đáo, nắng mưa thất thường, lại nắm quyền hậu cung, được nhiều người nhờ vả.",
+      "Thật trùng hợp, ta chỉ thích dùng những người không dám dùng, làm chuyện không dám làm. |Luật lệ, lý lẽ, kỷ cương? Ở chỗ ta không tồn tại, đến đây phải giữ quy tắc của ta.| Mọi chuyện lớn nhỏ trong hậu cung đều phải qua ta, tiền triều nếu có gió thổi lay động, sẽ có tin tức truyền tới ta.| Giang hồ hiểm ác, triều đình phân tranh, hậu cung càng không phải nơi thanh tịnh.| Kẻ cài bẫy, cần vào bẫy trước, tiếp cận hế giới ta rất nguy hiểm, ngươi nghĩ kỹ chưa?",
+      5,
+      "Chuyện gì? Tìm trà, hỏi đạo, luận võ nghệ, cần hợp ý ta.|Giao dịch với ta cần có đồ trao đổi, ngươi nghĩ ra trả giá gì chưa?| Ta hợp tác chỉ có lợi và hại, không nhìn trắng đen.| Ta biết đạo lý giang hồ, hiểu việc triều chính, ngươi muốn biết gì?| Thế gian khó biết thị phi, người và người rất khó đoán, hành sự phải cẩn thận.",
+      5,
+      "Chỉ là bọn kiến nhỏ thôi, chỉ tạm thời đắc ý.| Làm sao “Trừng trị” chúng? Ta có biện pháp.| Dám đặc tội người của Nam Liên, phải cho bọn họ “biết mặt”. |Không cần lo lắng, ở hậu cung không có gì ta không làm được, không có người ta không xử được.| Nếu đã chọn tin ta, bọn đầu trâu mặt ngựa để ta xử lý."
+    ],
+    "10002": [
+      340102,
+      "Cửu Môn Đề Đốc",
+      "full70-0201",
+      "rn_a28",
+      110,
+      0,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tMục Chương, tự Tử Câm, Quách Giai Thị xuất thân Mãn Châu Nạm Lam Kỳ. \n\t\t\t\t\t\t\t\tTừ nhỏ thông minh, 7 tuổi thuộc văn, 9 tuổi múa kiếm. Cha ruột rất vui, mời Quốc Tử Giám làm thầy ủ rượu, truyền văn võ tài nghệ. Lại 3 năm, du xuân hoàng gia đoạt giải đá cầu, lấy được lòng vua, đưa làm chính thống. \n\t\t\t\t\t\t\t\t18 tuổi tiến sĩ, nhậm chức Cát Sĩ, sau 3 năm, làm Hàn Lâm Học Sĩ và Hình Bộ Thị Lang. Nhiều lần đảm nhiệm Hình Bộ Thị Lang, Tả Bộ Ngự Sử, Lý Phiên Viện Thượng Thư, Thủy Vận Tổng Đốc, Quân Cơ Đại Thần. Hiện nhậm chức Cửu Môn Đề Đốc, thống lĩnh cấm quân. \n\t\t\t\t\t\t\t\tNgười này thân hình tuấn tú, tướng mạo đường đường, tính hay đa nghi, bảo thủ, nhưng tâm tư linh hoạt, giỏi về suy đoán lòng vua, rất được sủng ái.",
+      "Làm việc dưới chướng của ta, phải luôn ghi nhớ, ta nói gì ngươi làm gì, đừng hỏi nhiều, không được hai lòng. |Thật trùng hợp, ta thích dùng người thiên hạ không dùng, làm chuyện thiên hạ không làm. |Ta không quan tâm trong bụng ngươi nghĩ gì, ở trước mặt ta hãy cung kính, ta không vui, ngươi cũng không tốt được.| Luật và độ, lẽ thường và kỷ cương? Chỗ ta không tồn tại, ở đây cần theo quy tắc của ta.| Kẻ cài bẫy, cần vào bẫy trước, tiếp cận hế giới ta rất nguy hiểm, ngươi nghĩ kỹ chưa?",
+      5,
+      "Thấy ngươi như vậy, bản quan sẽ giúp ngươi.|Giao dịch với ta cần có đồ trao đổi, ngươi nghĩ ra trả giá gì chưa?| Ta hợp tác chỉ có lợi và hại, không nhìn trắng đen.| Ta biết đạo lý giang hồ, hiểu việc triều chính, ngươi muốn biết gì?| Thế gian khó biết thị phi, người và người rất khó đoán, hành sự phải cẩn thận.",
+      5,
+      "Lâu rồi không ai đắc tội ta, rất thú vị, vậy ta sẽ 'chơi' với họ chút.| Chỉ là bọn kiến nhỏ thôi, chỉ tạm thời đắc ý.| Làm sao “Trừng trị” chúng? Ta có biện pháp.| Nói đi, ai phản bội ta. Ta sẽ để hắn hối hận ra đời.| Nếu đã chọn tin ta, bọn đầu trâu mặt ngựa để ta xử lý."
+    ],
+    "10003": [
+      340103,
+      "Tả Đô Ngự Sử",
+      "full70-0401",
+      "rn_b17",
+      110,
+      0,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tNgụy Lương, tự Chích Tuyết, hiệu Tình Hiên, người Hoài An, Giang Tô, xuất thân hàn vi, thuở nhỏ cuộc sống vất vả nhưng trời sinh thông minh, có tài văn chương, có chí lớn, lại rất tuấn tú nên được xưng là “Tiểu Tống Ngọc”.\n\t\t\t\t\t\t\t\tNăm đó thi đình, cơ trí khéo léo, đối đáp trôi chảy, vốn đủ sức làm trạng nguyên, nhưng vì tướng mạo giống Phan An nên thánh thượng ngự bút phong Thám Hoa lang.  Ngày ấy cưỡi ngựa dạo phố gặp được nữ tử danh môn, kết thành lương duyên, trở thành quý tộc.\n\t\t\t\t\t\t\t\t10 năm ở Đô Sát Viện, bên trong âm thầm chèn ép đối thủ, bên ngoài một mực làm bậc thần tử cương trực, vì thế rất được lòng hoàng đế. Sau được thăng làm Tả Đô Ngự Sử, quản lý Đô Sát Viện, tận lực vì thiên tử, từ đó đi đến đâu cũng được người người săn đón.",
+      "Phải trái đúng sai đều là hư ảo, chỉ có lợi ích nắm trong tay mới đáng tin cậy. |Đời người chẳng qua làm 3 chuyện: Tự gạt mình, gạt người, để người ta gạt mình. Ta không muốn tự gạt mình, càng không muốn bị gạt, chỉ còn cách gạt người. |Chốn quan trường, giả vờ lương thiện để ngụy trang, độc ác tàn nhẫn để bảo vệ mình. Tàn nhẫn với bản thân, càng tàn nhẫn hơn với kẻ khác. |Là bạn hay thù không quan trọng, trên đời này lợi ích mới là vĩnh cửu, chỉ cần có quyền có thế, có thể biến thù thành bạn. |Ta nguyện trở thành nô lệ của dã tâm, chỉ có nó mới giúp ta vượt trên vạn người!",
+      5,
+      "Tự nhiên lại tốt thế. Nói đi, muốn gì đây? |Bổn cung rất thích quà của ngươi tặng.|Bổn cung nhắc ngươi một câu, chốn quan trường làm việc gì cũng phải cẩn trọng, không được lộ sơ hở. |Muốn lôi kéo ta ư? Để xem ngươi có bản lĩnh ấy hay không. |Chỉ cần ngươi vẫn còn đủ giá trị, không ai phá được liên minh giữa hai ta.",
+      5,
+      "Chỉ là bọn nhãi nhép, cứ để chúng huênh hoang đi rồi xem kết cục ra sao! |Bổn quan không bao giờ nhân từ với lũ phản bội. |Cũng đã lâu rồi, chắc chúng đã quên thủ đoạn của ta. |Kẻ nào dám lừa ta, ta sẽ cho chúng nếm mùi thống khổ. |Đám người gió chiều nào theo chiều đó, không trừ khử đi thì giữ lại làm gì?"
+    ],
+    "10004": [
+      340104,
+      "Công Chúa Hòa Huệ ",
+      "full70-0301",
+      "rn_b18",
+      110,
+      0,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tHuyên Hòa, tự là Thanh Thanh, con gái của Cung Thân Vương, cha mong muốn tương lai của con luôn êm ấm và tươi sáng nên đã đặt tên này. Nhưng số mệnh chông gai, cha tử trận sa trường, mẹ đau buồn mà qua đời, con tuổi nhỏ mồ côi.\n\t\t\t\t\t\t\t\tThái hậu xót thương đưa vào cung, phong làm Công Chúa Hòa Huệ.\n\t\t\t\t\t\t\t\tSống trong cung đình, xinh đẹp như hoa, thông minh tài trí. Mười tám đôi mươi, được gả đến biên cương.\n\t\t\t\t\t\t\t\tBiên cương sóng gió, phò mã bất tài. Công chúa tập trung binh lực, bày binh bố trận, chiếm lại biên cương.\n\t\t\t\t\t\t\t\tKhổ tâm lo nghĩ, chỉ muốn hồi cung, mong ước một tương lai tốt đẹp hơn...",
+      "Bổn cung từ nhỏ đã sống trong cung, biết rõ những thủ đoạn lọc lừa. |Bổn cung một đời phiêu dạt, không biết đoàn viên ra sao. |Không ai được phép để thao túng vận mệnh của bổn cung. |Thế gian này chẳng còn ai bảo vệ bổn cung. |Bổn cung cần phải lập kế lâu dài, trở về cung...",
+      5,
+      "Ngươi muốn lôi kéo bổn cung, không phải vì muốn ta nói tốt cho ngươi vài câu sao? |Bổn cung và ngươi lợi dụng lẫn nhau, ngươi đừng quên thân phận của mình. |Làm sao bổn cung biết ngươi thật lòng? Để ta xem bản lĩnh của ngươi. |Nương theo người thì dễ, giữ vững lập trường...mới khó. |Bổn cung rất thích món quà ngươi tặng...",
+      5,
+      "Nhảy nhót làm trò, vẫn không lọt vào mắt bổn cung. |Muốn thắng? Bổn cung cho chúng biết mùi vị thất bại đã. |Dám ức hiếp bổn cung ư, đừng trách ta vô tính. |Lòng người tham lam, luôn muốn nhiều hơn nữa, nhưng chúng không nên qua mặt ta. |Phản bội bổn cung thì phải trả giá gấp trăm lần."
+    ]
+  }
+}

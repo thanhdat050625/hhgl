@@ -1,0 +1,6164 @@
+{
+  "colMap": [
+    "title",
+    "option1",
+    "option2",
+    "option3",
+    "option4"
+  ],
+  "list": {
+    "10001": [
+      "Cho 1=5, 2=10, 3=15, 4=20, thì 5=? ",
+      "1",
+      "25",
+      "20",
+      "22"
+    ],
+    "10002": [
+      "Một cái bàn hình vuông bị cắt 1 góc còn lại bao nhiêu góc?",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "10003": [
+      "7 con thỏ chơi trốn tìm, 3 con đã bị bắt, hỏi còn lại mấy con chưa tìm được? (Đoán số)",
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "10004": [
+      "1 con ốc sên rơi vào giếng sâu 10m. Ban ngày bò lên 4m, ban đêm rơi xuống 3m, hỏi mấy ngày thì nó leo được khỏi miệng giếng?",
+      "7 ngày",
+      "6 ngày",
+      "5 ngày",
+      "4 ngày"
+    ],
+    "10005": [
+      "Trong tứ đại mỹ nhân, ai sống vào thời Đường?",
+      "Dương Ngọc Hoàn",
+      "Tây Thi",
+      "Điêu Thuyền",
+      "Vương Chiêu Quân"
+    ],
+    "10006": [
+      "Thìn trong 12 con giáp là con?",
+      "Rồng",
+      "Rắn",
+      "Hổ",
+      "Lân"
+    ],
+    "10007": [
+      "Ngọn núi cao nhất thế giới là?",
+      "Himalayas",
+      "Andes",
+      "Alps",
+      "Bà Đen"
+    ],
+    "10008": [
+      "Nga trải dài qua 2 châu lục nào?",
+      "Châu Á, Châu Âu",
+      "Châu Á, Châu Phi",
+      "Châu Á, Châu Mỹ",
+      "Châu Phi, Châu Âu"
+    ],
+    "10009": [
+      "Thủ đô Australia là?",
+      "Canberra",
+      "Melbourne",
+      "Sydney",
+      "Brisbane"
+    ],
+    "10010": [
+      "Sông có lưu vực dài nhất thế giới là?",
+      "Nile",
+      "Amazon",
+      "Rhine",
+      "Hoàng Hà"
+    ],
+    "10011": [
+      "Trong các nhân vật sau đây, ai là người không sử dụng Tịch Tà Kiếm Phổ và Quỳ Hoa Bảo Điển",
+      "Nhậm Ngã Hành",
+      " Đông Phương Bất Bại",
+      "Nhạc Bất Quần",
+      "Lệnh Hồ Xung"
+    ],
+    "10012": [
+      "Ai là con của Đoàn Chính Thuần?",
+      "Cả 3 đều sai",
+      "Đoàn Chính Minh",
+      "Đoàn Thiên Đức",
+      "Đoàn "
+    ],
+    "10013": [
+      "Quách Tĩnh là chồng của ai trong tiểu thuyết Kim Dung?",
+      "Hoàng Dung",
+      "Tiểu Long Nữ",
+      "Nhậm Doanh Doanh",
+      "Quách Tương"
+    ],
+    "10014": [
+      "Ai là người giỏi về võ công Cửu Âm Chân Kinh nhất trong số những người sau: ",
+      "Chu Chỉ Nhược",
+      "Mai Siêu Phong",
+      "Trương Vô Kỵ",
+      "Tạ Tốn"
+    ],
+    "10015": [
+      "Ăn ... mặc bền.",
+      "Chắc",
+      "No",
+      "Ngon",
+      "Đói"
+    ],
+    "10016": [
+      "Con trâu xếp thứ mấy trong 12 con giáp?",
+      "2",
+      "3",
+      "5",
+      "7"
+    ],
+    "10017": [
+      "Đồ ăn nào sau đây có vị ngọt?",
+      "Mật ong",
+      "Hủ tiếu",
+      "Mỳ ống",
+      "Cơm"
+    ],
+    "10018": [
+      " Bệnh còi xương là do thiếu vitamin gì?",
+      "Vitamin D",
+      "VitaminC",
+      "Vitamin AB",
+      "Vitamin E"
+    ],
+    "10019": [
+      "Cái gì lạnh nhất sau đây?",
+      "Kem",
+      "Nước mưa",
+      "Nước lọc",
+      "Nước Ngọt"
+    ],
+    "10020": [
+      "Người nào thích thêm mắm thêm muối nhất?",
+      "Đầu bếp",
+      "Thám tử",
+      "Vợ lẽ",
+      "Tiểu Nhân"
+    ],
+    "10021": [
+      "Châm cứu là dùng cây kim đâm vào nơi nào trên cơ thể người?",
+      "Huyệt đạo",
+      "Tay",
+      "Cổ",
+      "Chân"
+    ],
+    "10022": [
+      "Ngày thành lập đoàn?",
+      "26-03",
+      "25-03",
+      "24-03",
+      "22-12"
+    ],
+    "10023": [
+      "Con chó xếp thứ mấy trong 12 con giáp?",
+      "11",
+      "3",
+      "5",
+      "6"
+    ],
+    "10024": [
+      "Con khỉ xếp thứ mấy trong 12 con giáp?",
+      "9",
+      "3",
+      "5",
+      "12"
+    ],
+    "10025": [
+      "Trong vũ trụ cái gì có thể hút cả ánh sáng?",
+      "Hố đen",
+      "Thiên hà ",
+      "Trái đất",
+      "Mặt trời"
+    ],
+    "10026": [
+      "Một giọt máu ... hơn ao nước lã.",
+      "Đào",
+      "Hồng",
+      "người",
+      "mũ"
+    ],
+    "10027": [
+      "1 Byte gồm bao nhiêu Bit?",
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "10028": [
+      "CapsLock trên bàn phím máy tính để làm gì?",
+      "Chữ in hoa",
+      "Chữ nghiêng",
+      "Chữ gạch dưới",
+      "Chữ Nổi"
+    ],
+    "10029": [
+      "Con ngựa xếp thứ mấy trong 12 con giáp?",
+      "7",
+      "3",
+      "5",
+      "6"
+    ],
+    "10030": [
+      "Làm gì khi phải nhắm 1 mắt mở 1 mắt?",
+      "Chụp hình",
+      "Ngủ",
+      "Ăn cơm",
+      "Ngáp"
+    ],
+    "10031": [
+      "Trong 1 trận bóng đá trên sân có bao nhiêu người?",
+      "23",
+      "22",
+      "24",
+      "21"
+    ],
+    "10032": [
+      "Kim loại duy nhất ở thể lỏng?",
+      "Thủy Ngân",
+      "Sắt",
+      "Thép",
+      "Ni Tơ"
+    ],
+    "10033": [
+      "Con cọp xếp thứ mấy trong 12 con giáp?",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "10034": [
+      "Kéo sợi là lấy gì từ con tằm?",
+      "Sợi tơ",
+      "Sợi chỉ",
+      "Sợi bông",
+      "Sợi Dây"
+    ],
+    "10035": [
+      "Lệnh của nhà vua được gọi là gì?",
+      "Thánh chỉ",
+      "Long chỉ",
+      "Chỉ lệnh",
+      "Thánh Ân"
+    ],
+    "10036": [
+      "Loại quả nào sau đây có nhiều hạt nhất?",
+      "Thanh long",
+      "Nhãn",
+      "Na",
+      "Chuối"
+    ],
+    "10037": [
+      "Mồng một tết cha, mồng hai tết mẹ, mồng ba tết ....",
+      "Thầy",
+      "Cô",
+      "Cậu",
+      "Chú"
+    ],
+    "10038": [
+      "Ở loài chó, tuyến mồ hôi tập trung ở đâu?",
+      "Lưỡi",
+      "Đầu",
+      "Mắt",
+      "Môi"
+    ],
+    "10039": [
+      "Thầy trò Đường Tăng phải trải qua bao nhiêu kiếp nạn?",
+      "81",
+      "79",
+      "89",
+      "99"
+    ],
+    "10040": [
+      "Từ nào sau đây không chỉ một loại nhạc cụ?",
+      "Kính",
+      "Trống",
+      "Kèn",
+      "Đàn"
+    ],
+    "10041": [
+      "1 con ốc sên rơi vào giếng sâu 10m. Ban ngày bò lên 4m, ban đêm rơi xuống 3m, hỏi mấy ngày thì nó leo được khỏi miệng giếng?",
+      "7 ngày",
+      "10 ngày",
+      "6 ngày",
+      "5 ngày"
+    ],
+    "10042": [
+      "Trong phim Trường Học Uy Long, cảnh sát do Châu Tinh Trì đóng mang số hiệu là?",
+      "PC9527",
+      "PC3310",
+      "SB007",
+      "PC1459"
+    ],
+    "10043": [
+      "Điền vào ( ) theo quy luật:  2, 3, 5, 7, （）, 13, 17",
+      "11",
+      "12",
+      "9",
+      "13"
+    ],
+    "10044": [
+      "Cái gì đảo ngược lại thì tăng thêm 1 nửa (Đoán số)?",
+      "6",
+      "8",
+      "2",
+      "1"
+    ],
+    "10045": [
+      "Điền vào quy luật:  1 1 2 3 5 ___ 13 21 34",
+      "8",
+      "7",
+      "6",
+      "5"
+    ],
+    "10046": [
+      "Ai là người hỏa thiêu Lưu Bị 700 dặm?",
+      "Lục Tốn",
+      "Lục Cơ",
+      "Lục Du",
+      "Lục Lăng"
+    ],
+    "10047": [
+      "Olympic mùa hè mấy năm diễn ra 1 lần? (Trả lời bằng số)",
+      "4",
+      "2",
+      "6",
+      "8"
+    ],
+    "10048": [
+      "1 số điện có thể thắp sáng bóng đèn 50W bao nhiêu giờ?",
+      "20",
+      "10",
+      "40",
+      "50"
+    ],
+    "10049": [
+      "Mực nước biển thấp nhất thế giới nằm ở?",
+      "Rãnh Mariana",
+      "Hang Honduras",
+      "Eo biển Malacca",
+      "Biển Đông"
+    ],
+    "10050": [
+      "Ánh sáng Mặt Trăng là phản xạ từ?",
+      "Mặt Trời",
+      "Ngôi sao",
+      "Hành tinh",
+      "Khí Quyển"
+    ],
+    "10051": [
+      "Động vật có nhiều răng nhất là?",
+      "Ốc sên",
+      "Cá mập",
+      "Sư tử",
+      "Báo"
+    ],
+    "10052": [
+      "Thần tiên tỷ tỷ là cách gọi ám chỉ ai sau đây?",
+      "Vương Ngữ Yên",
+      "Quách Tương",
+      "Nhậm Doanh Doanh",
+      "Quách Phù"
+    ],
+    "10053": [
+      " Ai là người nắm giữ bí mật của ỷ thiên kiếm và đồ long đao?",
+      "Chu Chỉ Nhược",
+      "Tạ Tốn",
+      "Trương Vô Kỵ",
+      "Diệt Tuyệt"
+    ],
+    "10054": [
+      "Tiêu Phong là nhân vật của cuốn tiểu thuyết nào của Kim Dung?",
+      "Thiên Long Bát Bộ",
+      "Anh Hùng Xạ Điêu",
+      "Tiếu Ngạo Giang Hồ",
+      "Lộc Đỉnh Ký"
+    ],
+    "10055": [
+      "Truyện Kiều được viết theo thể loại truyện gì?",
+      "Truyện thơ",
+      "Truyện lịch sử",
+      "Truyện kiếm hiệp",
+      "Truyện Cười"
+    ],
+    "10056": [
+      "Nhẫn cưới thường đeo ở ngón nào?",
+      "Ngón áp út",
+      "Ngón giữa",
+      "Ngón trỏ",
+      "Ngón Cái"
+    ],
+    "10057": [
+      "Áo truyền thống của Hàn Quốc?",
+      "Han Bok",
+      "Kimono",
+      "Áo dài",
+      "Áo Thun"
+    ],
+    "10058": [
+      "Tên gọi khác của trái khổ qua?",
+      "Mướp đắng",
+      "Mướp",
+      "Bí",
+      "Bầu"
+    ],
+    "10059": [
+      "Nơi nào số người ra nhiều hơn số người vô?",
+      "Nhà hộ sinh",
+      "Ngân hàng",
+      "Phòng tắm hơi",
+      "Nhà Nghỉ"
+    ],
+    "10060": [
+      "Cá gì nếu bỏ một dấu thì sẽ thành trò chơi?",
+      "Cá rô",
+      "Cá độ",
+      "Cá tháng tư",
+      "Cá Chim"
+    ],
+    "10061": [
+      "Viết tắt của hệ thống định vị toàn cầu?",
+      "GPS",
+      "GDP",
+      "GSP",
+      "GCP"
+    ],
+    "10062": [
+      "Há miệng mắc ....",
+      "Quai",
+      "Dây",
+      "Cười",
+      "Nghẹn"
+    ],
+    "10063": [
+      "Cây nào chỉ có một lá duy nhất?",
+      "Cây cờ",
+      "Cây còn",
+      "Cây trắc bách diệp",
+      "Cây Gậy"
+    ],
+    "10064": [
+      "Ngành công nghiệp nào được gọi là ngành công nghiệp không khói?",
+      "Du lịch",
+      "Đóng tàu",
+      "S.x ô tô",
+      "S.X Thép"
+    ],
+    "10065": [
+      "Thứ gì leo lên nhanh, nhưng tụt xuống lại rất chậm?",
+      "Giá cả",
+      "Con mèo",
+      "Người dơi",
+      "Xăng"
+    ],
+    "10066": [
+      "Gái một con trông ... con mắt.",
+      "Mòn",
+      "Lác",
+      "Lé",
+      "Lòi"
+    ],
+    "10067": [
+      "Ve sầu phát ra tiếng kêu từ đâu?",
+      "Cánh",
+      "Bụng",
+      "Cổ",
+      "Cẳng"
+    ],
+    "10068": [
+      "Ngạc ngư là tên gọi khác của con vật này? ",
+      "Cá Sấu",
+      "Cá Chuồn",
+      "Cá Voi xanh",
+      "Cá Chép"
+    ],
+    "10069": [
+      "Thứ gì có thể giúp chúng ta giải tất cả các câu đố?",
+      "Câu trả lời",
+      "Gương thần",
+      "Sách tham khảo",
+      "Google"
+    ],
+    "10070": [
+      "Bạn làm gì đầu tiên khi ngủ dậy?",
+      "Mở mắt",
+      "Đánh răng",
+      "Rửa mặt",
+      "Ngáp"
+    ],
+    "10071": [
+      "Người ta phân biệt cua đực cua cái bằng gì?",
+      "Yếm",
+      "Chân",
+      "Càng",
+      "Mai"
+    ],
+    "10072": [
+      "Loại xôi nào sau đây có màu vàng?",
+      "Xôi vò",
+      "Xôi đậu đen",
+      "Xôi đậu phộng",
+      "Xôi Nếp"
+    ],
+    "10073": [
+      "Loại nào sau đây không phải hải sản?",
+      "Vịt",
+      "Cua",
+      "Cá",
+      "Chim"
+    ],
+    "10074": [
+      "Tim người gồm bao nhiêu ngăn? ",
+      "4",
+      "2",
+      "5",
+      "6"
+    ],
+    "10075": [
+      "Máy tính sẽ không hoạt động nếu thiếu các linh kiện nào sau đây?",
+      "Ram",
+      "Đĩa cứng",
+      "Đĩa mềm",
+      "Chuột"
+    ],
+    "10076": [
+      "Thúy Kiều mang họ gì?",
+      "Vương",
+      "Dương",
+      "Nguyễn",
+      "Ngô"
+    ],
+    "10077": [
+      "Bộ phim Tây Du Ký, nguyên tác của ai?",
+      "Ngô Thừa Ân",
+      "Mạc Ngôn",
+      "Kim Dung",
+      "Lý Bạch"
+    ],
+    "10078": [
+      "Hành tinh nào gây nên thủy triều trên mặt đất?",
+      "Mặt trăng",
+      "Sao Hỏa",
+      "Mặt trời",
+      "Sao Mộc"
+    ],
+    "10079": [
+      "Con rắn xếp thứ mấy trong 12 con giáp?",
+      "6",
+      "3",
+      "5",
+      "2"
+    ],
+    "10080": [
+      "Tuổi tứ tuần là bao nhiêu tuổi?",
+      "40",
+      "30",
+      "50",
+      "60"
+    ],
+    "10081": [
+      "Kế 36 trong Tam Thập Lục Kế là?",
+      "Tẩu Vi Thượng Sách",
+      "Vô Trung Sinh Hữu",
+      "Phản Khách Vi Chủ",
+      "Kim Thiền Thoát Xác"
+    ],
+    "10082": [
+      "Thành phố nổi trên sông của Italia là?",
+      "Venice",
+      "Bordeaux",
+      "Picardo",
+      "Vatican"
+    ],
+    "10083": [
+      "Rừng rậm nhiệt đới lớn nhất thế giới là?",
+      "Amazon",
+      "Congo Rainforest",
+      "Rừng Đông Nam Á",
+      " Grand Canyon"
+    ],
+    "10084": [
+      "Đất nước có diện tích nhỏ nhất là?",
+      "Vatican",
+      "Maldives",
+      "Nauru",
+      "Venice"
+    ],
+    "10085": [
+      "Tác giả của Thiên Long Bát Bộ là",
+      "Kim Dung",
+      "Nghê Cương",
+      "Wesley",
+      "La Quán Trung"
+    ],
+    "10086": [
+      "Ngoại hiệu của Tạ Tốn trong Ỷ Thiên ĐỒ Long Ký là?",
+      "Kim Mao Sư Vương",
+      "Thanh Dực Bức Vương",
+      "Tử Sam Long Vương",
+      "Quang Minh Sứ"
+    ],
+    "10087": [
+      "5 con gà 5 ngày đẻ 5 trứng. Bao nhiêu con gà để  100 ngày đẻ được 100 trứng?",
+      "5",
+      "6",
+      "7",
+      "2"
+    ],
+    "10088": [
+      "Điền vào quy luật:  3 6 12 ___ 48 96",
+      "24",
+      "20",
+      "26",
+      "22"
+    ],
+    "10089": [
+      "Trong cuộc chạy đua, bạn chạy hơn người thứ 2, bạn xếp thứ mấy?",
+      "2",
+      "1",
+      "3",
+      "6"
+    ],
+    "10090": [
+      "3 người 3 ngày uống 3 bình nước, 9 người 9 ngày uống bao nhiêu bình?",
+      "27",
+      "26",
+      "25",
+      "28"
+    ],
+    "10091": [
+      "Thủy Kính Tiên Sinh' trong Tam Quốc là ai?",
+      "Tư Mã Huy",
+      "Tư Mã Tĩnh",
+      "Tư Mã Quang",
+      "Tư Mã Ý"
+    ],
+    "10092": [
+      "Bàng Thống mất mạng ở đâu?",
+      "Lạc Phụng Ba",
+      "Trường Bản",
+      "Giao Nha Cốc",
+      "Lạc Dương"
+    ],
+    "10093": [
+      "Ai đề cử Gia Cát Lượng cho Lưu Bị?",
+      "Thuỷ Kính",
+      "Lưu Biểu",
+      "Hứa Ưu",
+      "Lưu Chương"
+    ],
+    "10094": [
+      "Gian Tuyệt trong Tam Tuyệt của Tam Quốc là ai?",
+      "Tào Tháo",
+      "Tào Nhân",
+      "Tào Hồng",
+      "Tào Thực"
+    ],
+    "10095": [
+      "Tác giả của Tam Quốc Diễn Nghĩa?",
+      "La Quán Trung",
+      "Hoàng Quán Trung",
+      "Phạm Xung Yên",
+      "Lý Bạch"
+    ],
+    "10096": [
+      "Nước nào tổ chức Olympic mùa hè nhiều nhất?",
+      "Mỹ",
+      "Pháp",
+      "Đức",
+      "Nhật"
+    ],
+    "10097": [
+      "Mercedes là hãng xe của nước nào?",
+      "Đức",
+      "Pháp",
+      "Italia",
+      "Mỹ"
+    ],
+    "10098": [
+      "Nước nào có sản lượng trà lớn nhất thế giới?",
+      "Ấn Độ",
+      "Trung Quốc",
+      "Mỹ",
+      "Việt Nam"
+    ],
+    "10099": [
+      "Khải Hoàn Môn Paris để tưởng nhớ ai?",
+      "Napoleon",
+      "Coloumbo",
+      "Mozarts",
+      "Molière"
+    ],
+    "10100": [
+      "Trong tổ ong, Ong Chúa và Ong Thợ lần lượt là:",
+      "Ong Cái, Ong Cái",
+      "Ong Cái, Ong Đực",
+      "Ong Đực, Ong Cái",
+      "Ong Mật"
+    ],
+    "10101": [
+      "Thuyết Tương Đối do ai tìm ra?",
+      "Einstein",
+      "William Hawking",
+      "Macbeth",
+      "Vangor"
+    ],
+    "10102": [
+      "Đất nước thấp nhất thế giới?",
+      "Hà Lan",
+      "Lesotho",
+      "Lhasa",
+      "Bỉ"
+    ],
+    "10103": [
+      "Nhập gia... thì phải làm sao?",
+      "Tùy tục",
+      "Tùy người",
+      "Tùy tâm",
+      "Tuỳ Tùng"
+    ],
+    "10104": [
+      "Truyện Thủy Hử có bao nhiêu anh hùng hảo hán?",
+      "108",
+      "106",
+      "107",
+      "109"
+    ],
+    "10105": [
+      "An cư lạc...",
+      "Nghiệp",
+      "Nghề",
+      "Nhà",
+      "Đường"
+    ],
+    "10106": [
+      "Bờm đổi quạt mo cho phú ông để lấy thứ gì?",
+      "Nắm xôi",
+      "Gỗ Lim",
+      "Ao cá",
+      "Vàng"
+    ],
+    "10107": [
+      "Có mấy loại nốt cơ bản trong âm nhạc?",
+      "7",
+      "6",
+      "8",
+      "5"
+    ],
+    "10108": [
+      "Trang web tìm kiếm được nhiều người truy cập nhất hiện nay?",
+      "Google",
+      "Yahoo",
+      "VnExpress",
+      "Bing"
+    ],
+    "10109": [
+      "Cơ thể thiếu gì sẽ dễ gây thiếu máu?",
+      "Sắt",
+      "I-ốt",
+      "Lân",
+      "Kẽm"
+    ],
+    "10110": [
+      "Điền vào từ còn thiếu: Ăn cháo đá.....",
+      "Bát",
+      "Tô",
+      "Chén",
+      "Nồi"
+    ],
+    "10111": [
+      "Áo truyền thống của Nhật Bản?",
+      "Kimono",
+      "Áo dài",
+      "Áo bà ba",
+      "Kimochi"
+    ],
+    "10112": [
+      "Điền vào từ còn thiếu: Nhìn gà hóa....",
+      "Cuốc",
+      "Chim",
+      "Bánh",
+      "Lợn"
+    ],
+    "10113": [
+      "Bộ phận gì của hươu, nai hàng năm có thể rụng đi, mọc lại, còn ở trâu thì tồn tại vĩnh viễn? ",
+      "Sừng",
+      "Răng",
+      "Móng",
+      "Guốc"
+    ],
+    "10114": [
+      "Tục mừng nhà mới được gọi là gì?",
+      "Tân gia",
+      "Tân niên gia",
+      "Gia tân",
+      "Tân Môn"
+    ],
+    "10115": [
+      "Thời xa xưa người ta đưa thư bằng gì?",
+      "Bồ Câu",
+      "Thiên Nga",
+      "Chim én",
+      "Ngựa"
+    ],
+    "10116": [
+      "Thẻ rút tiền tự động gọi tắt là gì?",
+      "ATM",
+      "MTA",
+      "ABM",
+      "ADM"
+    ],
+    "10117": [
+      "Thiết bị xử lý văn bản vận hành bằng tay?",
+      "Bút",
+      "Thước đo",
+      "Giấy",
+      "Máy In"
+    ],
+    "10118": [
+      "Ngày 23/12 âm lịch là ngày đưa ai về trời?",
+      "Ông Táo",
+      "Ông Thọ",
+      "Ông Lộc",
+      "Ông Địa"
+    ],
+    "10119": [
+      "Mục đồng là một cách gọi khác của?",
+      "Trẻ chăn trâu",
+      "Nông dân",
+      "Thợ săn",
+      "Thợ Gỗ"
+    ],
+    "10120": [
+      "Động vật lớn nhất thế giới hiện nay?",
+      "Cá Voi xanh",
+      "Cá mập",
+      "Sư tử",
+      "Cá Heo"
+    ],
+    "10121": [
+      "Khách sạn 7 sao đầu tiên trên thế giới nằm ở?",
+      "Dubai",
+      "New York",
+      "Sydney",
+      "London"
+    ],
+    "10122": [
+      "Châu lục có diện tích lớn nhất là?",
+      "Châu Á",
+      "Châu Phi",
+      "Châu Âu",
+      "Châu Úc"
+    ],
+    "10123": [
+      "Kinh tuyến 0 độ nằm ở quốc gia nào?",
+      "Anh",
+      "Mỹ",
+      "Hà Lan",
+      "Mỹ"
+    ],
+    "10124": [
+      "Tôn Sách di ngôn cho Tôn Quyền 'Nội sự hỏi Trương Chiêu, ngoại sự hỏi ai?",
+      "Chu Du",
+      "Lục Tốn",
+      "Lữ Mông",
+      "Từ Vinh"
+    ],
+    "10125": [
+      "Trong các cô vợ của Vi Tiểu Bảo, ai là người đẹp nhất?",
+      "A Kha",
+      " Phương Di",
+      "Song Nhi",
+      "Tăng Nhu"
+    ],
+    "10126": [
+      "Ai là người đã truyền toàn bộ nội lực 70 năm của mình cho Hư Trúc?",
+      "Vô Nhai Tử",
+      "Thiên Sơn Đồng Lão",
+      "Huyền Bi Đại Sư",
+      "A Tử"
+    ],
+    "10127": [
+      "Nguyên nhân sâu xa nhất dẫn tới việc A Châu chết thay cho cha là?",
+      "Để xóa thù hận",
+      "Không thể xin tha cho cha",
+      "Để Tiêu Phong chăm sóc A Tử",
+      "Để Hết Bệnh"
+    ],
+    "10128": [
+      "Trong Anh Hùng Xạ Điêu, ai là người được mặc chiếc Nhuyễn Vị Giáp?",
+      "Hoàng Dung",
+      "Quách Tĩnh",
+      "Quách Phù",
+      "Dương Qúa"
+    ],
+    "10129": [
+      "Đào hoa đảo là nơi ở của ai?",
+      "Hoàng Dược Sư",
+      "Âu Dương Phong",
+      "Giang Nam Thất Quái",
+      "Vô Danh Thần Tăng"
+    ],
+    "10130": [
+      "Con chuột xếp thứ mấy trong 12 con giáp?",
+      "1",
+      "3",
+      "5",
+      "2"
+    ],
+    "10131": [
+      "Kỳ quan duy nhất trong 7 kỳ quan cổ đại còn tồn tại đến ngày nay là gì?",
+      "Kim Tự Tháp",
+      "Vườn treo Babylon",
+      "Đền Artemis",
+      "Azure Window"
+    ],
+    "10132": [
+      "Con heo xếp thứ mấy trong 12 con giáp?",
+      "12",
+      "3",
+      "5",
+      "7"
+    ],
+    "10133": [
+      "Cầu gì cong cong, dẫu bắt qua sông, không ai sang được?",
+      "Cầu vồng",
+      "Cầu khỉ",
+      "Cầu mây",
+      "Cầu Tuột"
+    ],
+    "10134": [
+      "Đứa bé bị gì mà đưa đến bác sĩ nào cũng đều bảo là bó tay?",
+      "Gãy tay",
+      "Bệnh hiểm nghèo",
+      "Loãng xương",
+      "Bệnh Tim"
+    ],
+    "10135": [
+      "Con dê xếp thứ mấy trong 12 con giáp?",
+      "8",
+      "3",
+      "5",
+      "6"
+    ],
+    "10136": [
+      "Con gì có răng nhưng chẳng nhai hay cắn ai?",
+      "Con tem",
+      "Con nít",
+      "Con rắn",
+      "Con Dấu"
+    ],
+    "10137": [
+      "Đàn thập lục còn gọi là đàn gì?",
+      "Đàn Tranh",
+      "Đàn Tì bà",
+      "Đàn bầu",
+      "Đàn Điện"
+    ],
+    "10138": [
+      "Bộ phận nào trên cơ thể thằn lằn có khả năng mọc lại?",
+      "Đuôi",
+      "Chân",
+      "Lông",
+      "Đầu"
+    ],
+    "10139": [
+      "Chữ viết tắt của màn hình tinh thể lỏng?",
+      "LCD",
+      "TCL",
+      "LPC",
+      "DCL"
+    ],
+    "10140": [
+      "Hồ Xuân Hương được mệnh danh là gì?",
+      "Bà chúa thơ Nôm",
+      "Bà nhiều chuyện",
+      "Bà chúa sắc đẹp",
+      "Bà Tiên"
+    ],
+    "10141": [
+      "Người đẹp vì lụa, lúa tốt vì ....",
+      "Phân",
+      "Giống",
+      "Chăm",
+      "Mưa"
+    ],
+    "10142": [
+      "Quả nào sau đây không có múi?",
+      "Quả chanh dây",
+      "Quả bưởi",
+      "Quả cam",
+      "Quả Lê"
+    ],
+    "10143": [
+      "Con rồng xếp thứ mấy trong 12 con giáp?",
+      "5",
+      "3",
+      "4",
+      "7"
+    ],
+    "10144": [
+      "Môn bóng đá mỗi đội có mấy cầu thủ trên sân?",
+      "11",
+      "6",
+      "5",
+      "9"
+    ],
+    "10145": [
+      "Cờ Olympic có mấy vòng tròn?",
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "10146": [
+      "Con chuồn chuồn đạp nước để làm gì?",
+      "Đẻ trứng",
+      "Đạp nước",
+      "Bắt côn trùng",
+      "Tắm"
+    ],
+    "10147": [
+      "Con mèo xếp thứ mấy trong 12 con giáp?",
+      "4",
+      "3",
+      "5",
+      "7"
+    ],
+    "10148": [
+      "Khí sinh ra trong hang động đá vôi là gì?",
+      "CO2",
+      "CO",
+      "N2",
+      "CH3"
+    ],
+    "10149": [
+      "Lễ Tình Nhân là ngày nào? ",
+      "14 tháng 2",
+      "8 tháng 3",
+      "20 tháng 10",
+      "11 tháng 11"
+    ],
+    "10150": [
+      "Loài nào sau đây không thuộc loài chim?",
+      "Dơi",
+      "Chim ruồi",
+      "Chim quyên",
+      "Qụa"
+    ],
+    "10151": [
+      "Phương tiện nào được sử dụng trong bài hát '12 giờ'?",
+      "Xe đạp",
+      "Xe máy",
+      "Xe hơi",
+      "Xe hoa"
+    ],
+    "10152": [
+      "Xe nào không bao giờ giảm đi?",
+      "xe tăng",
+      "Xe máy",
+      "Xe lửa",
+      "Xe tải"
+    ],
+    "10153": [
+      "Môn thể thao nào mà người ta chỉ đi bộ, ít khi chạy trên cỏ?",
+      "Đánh golf.",
+      "Bóng đá",
+      "Bóng chuyền",
+      "Đánh cờ"
+    ],
+    "10154": [
+      "Con gì biết đi nhưng người ta vẫn nói nó không biết đi?",
+      "Con bò.",
+      "Con heo",
+      "Con chó",
+      "Con ngựa"
+    ],
+    "10155": [
+      "Khu vực Đông Nam Á gồm có bao nhiêu nước?",
+      "11 nước.",
+      "13 nước",
+      "15 nước",
+      "10 nước"
+    ],
+    "10156": [
+      "Rượu vang được lên men từ loại quả nào là chủ yếu?",
+      "Quả nho",
+      "Quả lê",
+      "Quả cam",
+      "Quả chuối"
+    ],
+    "10157": [
+      "Sông gì có nước mắt?",
+      "Nhật Lệ.",
+      "Tô Lịch",
+      "Sông Hồng",
+      "Sông Đáy"
+    ],
+    "10158": [
+      "Con gì ăn lửa với than?",
+      "tàu lửa.",
+      "Con cá",
+      "Con sông",
+      "Con quay"
+    ],
+    "10159": [
+      "Cây gì không có lá?",
+      "Cột điện",
+      "Cây tre",
+      "Cây mít",
+      "Cây dừa"
+    ],
+    "10160": [
+      "Nữ rapper Việt nào từng được tổng thống Obama yêu cầu đọc rap?",
+      "Suboi",
+      "Sushi",
+      "Chipu",
+      "Amee"
+    ],
+    "10161": [
+      "Trong lúc Suboi đọc rap, tổng thống Obama đã làm gì",
+      "Ngồi nghe",
+      "Rap cùng",
+      "Đứng cười",
+      "Khóc"
+    ],
+    "10162": [
+      "Ca sĩ Trịnh Thăng Bình từng là thanh viên nhóm nhạc nào?",
+      "La Thăng",
+      "La si do",
+      "1088",
+      "3 con mèo"
+    ],
+    "10163": [
+      "Robinhood băn gì giỏi nhất?",
+      "Bắn Cung",
+      "Bắn Rap",
+      "Bắn Điện",
+      "Bắn Súng"
+    ],
+    "10164": [
+      "Loại quả nào ôm nỗi buồn 1 mình?",
+      "Sầu riêng",
+      "Quả mít",
+      "Quả báo",
+      "Qủa Dừa"
+    ],
+    "10165": [
+      "Trong bài hát 'Hà Nội 12 mùa hoa', hoa loa kèn gắn với tháng nào?",
+      "Tháng 4",
+      "Tháng 12",
+      "Tháng 11",
+      "Tháng 6"
+    ],
+    "10166": [
+      "Tỉnh nào nước ta có tên nghe nửa ruộng nửa rừng",
+      "Lâm Đồng",
+      "Đồng Nai",
+      "Cao Bằng",
+      "Plâyku"
+    ],
+    "10167": [
+      "Loại bánh gì không ăn được?",
+      "Bánh xe",
+      "Bánh tráng",
+      "Bánh quy",
+      "Bánh kem"
+    ],
+    "10168": [
+      "Tác giả của 'Người Lái Đò Sông Đà' là ai?",
+      "Nguyễn Tuân",
+      "Nguyễn Kiệm",
+      "Nguyễn Kim",
+      "Nguyễn Văn Đừng"
+    ],
+    "10169": [
+      "Động vật lớn nhất hiện nay là con gì?",
+      "Cá voi xanh.",
+      "Voi",
+      "Con người",
+      "Lợn"
+    ],
+    "10170": [
+      "Nỗi sợ lớn nhất của mèo máy Doremon là gì?",
+      "Chuột",
+      "Bánh rán",
+      "Nobita",
+      "Chaien"
+    ],
+    "10171": [
+      "Sa mạc nào có diện tích lớn nhất Thế Giới?",
+      "Sahara.",
+      "Kalahari",
+      "Namib",
+      "Atacama"
+    ],
+    "10172": [
+      "Ăn gì không no nhưng ai cũng thích?",
+      "Ăn tiền.",
+      "Ăn Cơm",
+      "Ăn hàng",
+      "Ăn tiệc"
+    ],
+    "10173": [
+      "Quan âm Thị Kính' là vở diễn nổi tiếng của loại hình nghệ thuật nào?",
+      "Chèo",
+      "Cải Lương",
+      "Hát bội",
+      "Ca trù"
+    ],
+    "10174": [
+      "Mạo hiểm lao đầu, không màng tính mạng đố là con gì?",
+      "Thiêu thân",
+      "Con cá",
+      "Con chó",
+      "Con heo"
+    ],
+    "10175": [
+      "Chổi nào biết bay?",
+      "Chổi thần",
+      "Chổi xể",
+      "Chổi chà",
+      "Chổi nhựa"
+    ],
+    "10176": [
+      "Hoa gì luôn ở phía sau?",
+      "Hoa hậu.",
+      "Hoa cúc",
+      "Hoa huệ",
+      "Hoa hồng"
+    ],
+    "10177": [
+      "Hệ thống giao thông nước ta gồm bao nhiêu loại đường?",
+      "4",
+      "3",
+      "5",
+      "2"
+    ],
+    "10178": [
+      "Con gì không mắt, không tai, có đầu có cuối ai ai cũng nhờ?",
+      "Con đường",
+      "Con sông",
+      "Con kênh",
+      "Con sâu"
+    ],
+    "10179": [
+      "Hoa gì đủ màu đủ sắc, lấy tên đồ dùng của học sinh",
+      "Hoa giấy.",
+      "Hoa cúc",
+      "Hoa hồng",
+      "Hoa Lan"
+    ],
+    "10180": [
+      "Hà Nội có mấy cửa?",
+      "5 cửa",
+      "4 cửa",
+      "3 cửa",
+      "2 cửa"
+    ],
+    "10181": [
+      "Trong bài hát “Nhạc Rừng”, con gì kêu liên miên?",
+      "con ve",
+      "Con sáo",
+      "Con chim",
+      "Con khỉ"
+    ],
+    "10182": [
+      "“Nắng mưa dầu tôi đâu bỏ bạn. Tắt lửa tối đèn sao bạn bỏ tôi”",
+      "Cái ô",
+      "Cái xe",
+      "Cái xoong",
+      "Cái giường"
+    ],
+    "10183": [
+      "Thương yêu cần hành động, vậy thương gì cần nói nhiều?",
+      "thương thảo",
+      "Thương nhau",
+      "Thương thầm",
+      "Thương yêu"
+    ],
+    "10184": [
+      "Trong MV bài hát “Thương em là điều anh không thể ngờ” Noo Phước Thịnh ăn gì?",
+      "ăn tát",
+      "Ăn cơm",
+      "Ăn bún",
+      "Ăn phở"
+    ],
+    "10185": [
+      "Cái gì cầm càng nhiều càng dễ mất?",
+      "Cầm đồ",
+      "Cầm tay",
+      "Cầm tiền",
+      "Cầm cây"
+    ],
+    "10186": [
+      "Nơi để người Ê đê sinh hoạt tập thể trong buôn làng gọi là gì?",
+      "Nhà Rông.",
+      "Nhà văn hoá",
+      "Nhà sàn",
+      "Nhà riêng"
+    ],
+    "10187": [
+      "Cá gì biết làm toán",
+      "Cá tính",
+      "Cá heo",
+      "Cá Voi",
+      "Cá trê"
+    ],
+    "10188": [
+      "Tảo gì bị cấm?",
+      "Tảo hôn.",
+      "Tảo biển",
+      "Tảo xanh",
+      "Tảo đỏ"
+    ],
+    "10189": [
+      "Trong các họ Việt Nam, họ nào chiếm tỉ lệ nhiều nhất?",
+      "Họ Nguyễn.",
+      "Họ Lê",
+      "Họ Trần",
+      "Họ Lý"
+    ],
+    "10190": [
+      "Ở Châu Phi, chim cánh cụt sống ở nước nào?",
+      "Nam Phi",
+      "Thuỵ Sĩ",
+      "Anh",
+      "Nga"
+    ],
+    "10191": [
+      "Đỏ hoe là tính từ mô tả cái gì?",
+      "Con mắt.",
+      "Môi",
+      "Móng tay",
+      "Mũi"
+    ],
+    "10192": [
+      "Khi nào thêm vào thì nhẹ, bớt đi thì nặng?",
+      "Thêm tiền.",
+      "Thêm Đồ",
+      "Thêm Việc",
+      "Thêm Người"
+    ],
+    "10193": [
+      "Con nào không thuộc bộ cua?",
+      "Cua đinh",
+      "Cua đá",
+      "cáy",
+      "Cua đồng"
+    ],
+    "10194": [
+      "Cánh gì mà chẳng biết bay, chim hay sà xuống nơi đây kiếm mồi?",
+      "Cánh đồng",
+      "Cánh Chim",
+      "Cánh Diều",
+      "Cánh Quạt"
+    ],
+    "10195": [
+      "Cái gì luôn đi đến mà không bao giờ đến nơi?",
+      "Chân trời.",
+      "Nhà",
+      "Công Ty",
+      "Cánh Đồng"
+    ],
+    "10196": [
+      "Con đường nào mềm mại nhất thế giới?",
+      "Con đường tơ lụa.",
+      "Đường Quê",
+      "Đường Mía",
+      "Đường phố"
+    ],
+    "10197": [
+      "Quả bóng bowling có bao nhiêu lỗ tròn trên bề mặt?",
+      "3 lỗ",
+      "4 lỗ",
+      "2 Lỗ",
+      "5 lỗ"
+    ],
+    "10198": [
+      "Loài chim nào không bao giờ bay, không bao giờ đi?",
+      "Chim đồ chơi",
+      "Chim cánh cụt",
+      "Chim Cú",
+      "Chim Sáo"
+    ],
+    "10199": [
+      "Đường thốt nốt là đặc sản của tỉnh nào?",
+      "An Giang.",
+      "Hà Giang",
+      "Bắc Giang",
+      "Bạc Liêu"
+    ],
+    "10200": [
+      "“Hoàng tử mưa” là biệt danh của ca sĩ nào?",
+      "Sơn Tùng MTP.",
+      "Quang Vinh",
+      "Bảo Thy",
+      "Thuỳ Chi"
+    ],
+    "10201": [
+      "“Công chúa bong bóng” là biệt danh của ai?",
+      "Bảo Thy.",
+      "Amee",
+      "Thanh Thảo",
+      "Phương Thanh"
+    ],
+    "10202": [
+      "Cái gì của con chim mà lại có trên cơ thể con người?",
+      "chân chim.",
+      "Đầu chim",
+      "Cánh Chim",
+      "Con Chim"
+    ],
+    "10203": [
+      "Tên đại dương tiếp giáp với phần đất liền của nước ta?",
+      "Biển Đông.",
+      "Biển Đen",
+      "Thái Bình Dương",
+      "Biển Đỏ"
+    ],
+    "10204": [
+      "Dãy núi nào là sự phân chia khí hậu giữa hai miền Bắc và Nam?",
+      "Bạch Mã.",
+      "Núi Chứa Chan",
+      "Núi Chúa",
+      "Núi Bà Đen"
+    ],
+    "10205": [
+      "Trong bài hát “tiếng hát chim đa đa” cô gái bao nhiêu tuổi?",
+      "15",
+      "14",
+      "16",
+      "18"
+    ],
+    "10206": [
+      "Hoa gì không phải hôm nay.",
+      "Hoa mai.",
+      "Hoa Đào",
+      "Hoa Hướng Dương",
+      "Hoa Lan"
+    ],
+    "10207": [
+      "Lão hạc trong tác phẩm “Lão hạc” tự tử bằng cách nào?",
+      "Ăn bả chó",
+      "Ăn Cơm",
+      "Uống thuốc ngủ",
+      "Thắt cổ"
+    ],
+    "10208": [
+      "Con công bị chết thì gọi là gì.(Đố chữ)? ",
+      "Công tử.",
+      "Chim chết",
+      "Công Mất",
+      "Công Chết"
+    ],
+    "10209": [
+      "Quả gì không ai muốn ăn?",
+      "Quả báo.",
+      "Quả khế",
+      "Quả táo",
+      "Qủa Dừa"
+    ],
+    "10210": [
+      "Công nào không có lông. (Đố chữ)?",
+      "Công lý.",
+      "Công Trụi",
+      "Công Công",
+      "Công Ty"
+    ],
+    "10211": [
+      "Công nào không biết múa mà lại biết đá bóng?",
+      "Công Phượng.",
+      "Công Đực",
+      "Công Cái",
+      "Công Cán"
+    ],
+    "10212": [
+      "Con gì đầu chuột, đuôi heo?",
+      "Con giáp.",
+      "Con tê tê",
+      "con cáo",
+      "con khỉ"
+    ],
+    "10213": [
+      "Năm 2016, tổng thống Obama đã thưởng thức đặc sản gì ở Hà Nội?",
+      "Bún chả.",
+      "Bún Ngan",
+      "Nem rán",
+      "Phở"
+    ],
+    "10214": [
+      "Nước nào nóng nhất?",
+      "Nước sôi.",
+      "Nước mưa",
+      "Nước suối",
+      "Nước Đá"
+    ],
+    "10215": [
+      "Người trưởng thành sẽ có bao nhiêu cái răng?",
+      "32 ",
+      "28",
+      "12",
+      "24"
+    ],
+    "10216": [
+      "Tranh nào không vẽ bằng bút hay màu?",
+      "Tranh cử",
+      "Tranh Dầu",
+      "Tranh Anime",
+      "Tranh ảnh"
+    ],
+    "10217": [
+      "Hồng gì không ăn được nhưng ai cũng thích. (Đố chữ)?",
+      "Hồng Nhan.",
+      "Hồng Khô",
+      "Hồng giòn",
+      "Hồng Chín"
+    ],
+    "10218": [
+      "Quả gì càng nặng càng dễ khóc. (Đố chữ)?",
+      "Quả lê.",
+      "Quả Cân",
+      "Qủa Mít",
+      "Qủa Banh"
+    ],
+    "10219": [
+      "Cây nhang càng đốt càng ngắn, vậy cây gì càng đốt nhiều thì càng dài?",
+      "Cây tre",
+      "Cây đu đủ",
+      "Cây Cau",
+      "Cây Nhãn"
+    ],
+    "10220": [
+      "Đám cưới kim cương là dịp để kỉ niệm vợ chồng đã chung sống với nhau được bao nhiêu năm?",
+      "60",
+      "70",
+      "80",
+      "90"
+    ],
+    "10221": [
+      "Đám cưới vàng là đám cưới kỉ niệm bao nhiêu năm?",
+      "50",
+      "40",
+      "30",
+      "20"
+    ],
+    "10222": [
+      "Thủ môn Bùi Tiến Dũng mang áo số mấy trong đội tuyển U23 Việt Nam?",
+      "Số 1.",
+      "Số 2",
+      "Số 4",
+      "Số 8"
+    ],
+    "10223": [
+      "Tuyển thủ U23 Việt Nam trước khi ra sân đá bóng còn mải mê bán son là ai?",
+      "Hồng Duy.",
+      "Công Phượng",
+      "Tiến Dũng",
+      "Văn Lâm"
+    ],
+    "10224": [
+      "MV “Nơi này có anh” của Sơn Tùng MTP được quay ở đâu?",
+      "Hàn Quốc.",
+      "Trung Quốc",
+      "Mỹ",
+      "Việt Nam"
+    ],
+    "10225": [
+      "Cái gì có càng nhiều thì càng khó thấy nó?",
+      "Bóng tối.",
+      "Qủa Bóng",
+      "Tiền",
+      "Nước"
+    ],
+    "10226": [
+      "Phúc bất trùng lai . Họa vô đơn…?",
+      "Chí",
+      "Côi",
+      "Độc",
+      "Vị"
+    ],
+    "10227": [
+      "Nước nào được mệnh danh là 'Vương quốc bia hơi' hiện nay trên Thế Giới?",
+      "Đức",
+      "Việt Nam",
+      "Mỹ",
+      "CuBa"
+    ],
+    "10228": [
+      "Mê gì khó mà thoát ra được?",
+      "Mê cung.",
+      "Mê Nhau",
+      "Mê Tiền",
+      "Mê Trai"
+    ],
+    "10229": [
+      "Loài cúc nào không bao giờ nở?",
+      "Cúc áo.",
+      "Cúc hoạ mi",
+      "Cúc đồng tiền",
+      "Cúc Vạn Thọ"
+    ],
+    "10230": [
+      "Loài cúc nào sống lâu nhất mà không phải cúc áo? (đố chữ)",
+      "Cúc vạn thọ.",
+      "Cúc hoạ mi",
+      "Cúc đồng tiền",
+      "Cúc Bách Nhật"
+    ],
+    "10231": [
+      "Đồ vật được đan bằng mây hay tre dùng để đặt nồi, niêu hay chảo lên gọi là gì?",
+      "Cái dế.",
+      "Cái đan",
+      "Cái rá",
+      "Cái vung"
+    ],
+    "10232": [
+      "Năm 2019 là năm hợi (con heo) thì 29 năm nữa là năm con gì?",
+      "Năm Thìn.",
+      "Năm Tí",
+      "Năm Ngọ",
+      "Năm Sửu"
+    ],
+    "10233": [
+      "Tên gọi của 1 loài hoa đi khắp thế giới là gì?",
+      "Hoa hậu",
+      "Hoa giấy",
+      "Hoa cúc",
+      "Hoa phượng"
+    ],
+    "10234": [
+      "Rau gì không trồng không tưới, muôn hình muôn vẻ miệng cười khen ngon (đố chữ)?",
+      "Rau câu.",
+      "Rau muống",
+      "Rau cải",
+      "Rau thơm"
+    ],
+    "10235": [
+      "Cây gì có hai cái càng?",
+      "Cây kéo.",
+      "Cây Dao",
+      "Cây kẹp",
+      "Cây Cuốc"
+    ],
+    "10236": [
+      "Thứ gì xuất khẩu thì được, nhập khẩu thì không?",
+      "Lời nói.",
+      "Đường",
+      "Gạo",
+      "Dầu"
+    ],
+    "10237": [
+      "Thành phố nào ở miền Tây Nam Bộ được mệnh danh là 'Tây Đô'?",
+      "Cần Thơ.",
+      "Bến Tre",
+      "Sài Gòn",
+      "Cà Mau"
+    ],
+    "10238": [
+      "Trong các loại lò, lò gì không dùng để nấu?",
+      "lò xo.",
+      "Lò gas",
+      "Lò than",
+      "Lò điện"
+    ],
+    "10239": [
+      "Chồng của chị dâu mình thì là gì của mình?",
+      "Anh ruột.",
+      "Anh rể",
+      "Anh cột chèo",
+      "Anh Họ"
+    ],
+    "10240": [
+      "Phụ nữ khi ra chợ thường hay mặc gì?",
+      "Mặc cả.",
+      "Mặc váy",
+      "Mặc đồ ngủ",
+      "Mặc Kệ"
+    ],
+    "10241": [
+      "Con gì sinh ra đã ồn ào?",
+      "Con La.",
+      "Con Lừa",
+      "Con Bò",
+      "Con Ngựa"
+    ],
+    "10242": [
+      "Mặt trời, mặt trăng, trái đất có vị trí như thế nào thì dao động của thủy triều lớn nhất?",
+      "Thẳng hàng.",
+      "Nằm ngang",
+      "Đổi diện",
+      "ở Gần nhau"
+    ],
+    "10243": [
+      "Bán đảo Đông Dương gồm có mấy nước?",
+      "3 nước",
+      "4 nước",
+      "5 nước",
+      "13 nước"
+    ],
+    "10244": [
+      "Áo vua mặc gọi là gì?",
+      "Hoàng bào.",
+      "Aó Quan",
+      "Hoàng ân",
+      "Hoàng Gia"
+    ],
+    "10245": [
+      "Quạ tắm thì ráo, sáo tắm thì...?'",
+      "Mưa.",
+      "Nắng",
+      "Sông",
+      "Rửa"
+    ],
+    "10246": [
+      "Mai gì không bao giờ thấy nở?",
+      "Mai mốt.",
+      "Mai anh đào",
+      "Mai chiếu thuỷ",
+      "Mai tứ quý"
+    ],
+    "10247": [
+      "Cái gì có cánh mà không biết bay?",
+      "Cái quạt",
+      "Con chim",
+      "Con sáo",
+      "con cò"
+    ],
+    "10248": [
+      "Làm gì mà không phát ra tiếng?",
+      "Làm thinh.",
+      "Làm việc",
+      "Làm thủ công",
+      "Làm móng"
+    ],
+    "10249": [
+      "Đầu của tôi màu đổ, khi chà mạnh vào đầu của tôi thì chuyển sang màu đen. Tôi là gì?",
+      "Que diêm.",
+      "Que củi",
+      "Que kem",
+      "Que tăm"
+    ],
+    "10250": [
+      "Cái gì mà máy tính bàn không thể làm được như laptop?",
+      "Gập lại.",
+      "Xem phim",
+      "Làm việc",
+      "Tắt máy"
+    ],
+    "10251": [
+      "Cá gì chỉ sống được 1 ngày?",
+      "Cá tháng 4.",
+      "Cá giấy",
+      "Cá đồ chơi",
+      "Cá con"
+    ],
+    "10252": [
+      "Hollywood nằm ở bang nào của nước Mỹ?",
+      "Canifornia.",
+      "Washington",
+      "Florida",
+      "Georgia"
+    ],
+    "10253": [
+      "Lòng lang dạ thú', lang ở đây là con gì?",
+      "con sói.",
+      "Con chó",
+      "Con cáo",
+      "Con la"
+    ],
+    "10254": [
+      "Theo phong tục dân gian, con đầu lòng gọi là con gì?",
+      "Con so.",
+      "Con rơi",
+      "Con mới đẻ",
+      "Con một"
+    ],
+    "10255": [
+      "Theo phong tục dân gian, con thứ 2 là con gì?",
+      "Con dạ.",
+      "Con sò",
+      "Con thứ",
+      "Con gái"
+    ],
+    "10256": [
+      "Thành phố nào có diện tích tự nhiên lớn nhất Việt Nam? ",
+      "Hà Nội.",
+      "Tp.Hồ Chí Minh",
+      "Đà Nẵng",
+      "Hải Phòng"
+    ],
+    "10257": [
+      "Quanh mình tua tủa hạt gai, chín lại đỏ rực như than trong lò. Đó là quả gì?",
+      "Quả gấc.",
+      "Qủa mít",
+      "Qủa Sầu Riêng",
+      "Qủa Pháo"
+    ],
+    "10258": [
+      "Người nước nào thiết kế nên tượng nữ thần tự do (Mỹ)?",
+      "Nước Pháp.",
+      "Nước Ý",
+      "Nước Đức",
+      "Nước Nga"
+    ],
+    "10259": [
+      "Thợ nề là tên gọi khác của cộng việc gì?",
+      "Thợ hồ.",
+      "Thợ điện",
+      "Thợ săn",
+      "Thợ Rèn"
+    ],
+    "10260": [
+      "Hậu duệ của khủng long thời nay phần lớn là cá, chim, thằn lằn hay rắn?",
+      "Chim.",
+      "Thằn lằn",
+      "Cá",
+      "Rắn"
+    ],
+    "10261": [
+      "Tam Kì, Đã Nẵng, Huế, Vinh, đâu là thành phố có diện tích lớn nhất miền Trung nước ta hiện nay?",
+      "Đà Nẵng.",
+      "Huế",
+      "Vinh",
+      "Tam kì"
+    ],
+    "10262": [
+      "“Buôn có bạn, bán có…” ",
+      "Phường.",
+      "Bè",
+      "Hàng",
+      "Lời"
+    ],
+    "10263": [
+      "Cái gì càng to càng dễ vỡ?",
+      "Quả bóng bay.",
+      "Qủa mít",
+      "Quả báo",
+      "Quả bom"
+    ],
+    "10264": [
+      "Độc gì có trúng cũng không chết?",
+      "Độc đắc.",
+      "Độc dược",
+      "Độc thuỷ ngân",
+      "Độc rắn"
+    ],
+    "10265": [
+      "Trên ngực của Captain America có hình gì?",
+      "ngôi sao.",
+      "Con nhện",
+      "Tam giác",
+      "Người yêu"
+    ],
+    "10266": [
+      "Tên thật của Wonder Woman là gì? ",
+      "Diana.",
+      "Siana",
+      "Kiara",
+      "Camila"
+    ],
+    "10267": [
+      "Bản gốc của phim 'Tháng năm rực rỡ' tên gì?",
+      "Sunny.",
+      "Năm ấy",
+      "My love",
+      "The Lover"
+    ],
+    "10268": [
+      "Cái gì càng trắng càng bẩn?",
+      "Cái bảng.",
+      "Cái bàn",
+      "Cái áo",
+      "Cái nồi"
+    ],
+    "10269": [
+      "Natri Clorua có tên gọi thông thường là gì?",
+      "Muối ăn.",
+      "Đường cát",
+      "Xà phòng",
+      "Dấm"
+    ],
+    "10270": [
+      "Chỉ nào mà ai cũng thích và muốn có?",
+      "Chỉ Vàng.",
+      "Chỉ may",
+      "Chỉ tay",
+      "Chỉ chỏ"
+    ],
+    "10271": [
+      "Cá nào biết bay?",
+      "Cá chuồn.",
+      "Cá ngựa",
+      "Cá mập",
+      "Cá chim"
+    ],
+    "10272": [
+      "Loài heo nào không có cả thịt lẫn mỡ?",
+      "Heo đất.",
+      "Heo Rừng",
+      "Heo Quay",
+      "Heo Con"
+    ],
+    "10273": [
+      "Bông nào biết nói?",
+      "Bông Hậu.",
+      "Bông ăn thịt",
+      "Bông Sen",
+      "Bông Gòn"
+    ],
+    "10274": [
+      "Bán cái gì chỉ cần 4 bên đại diện?",
+      "Bán kết.",
+      "Bán tạp hoá",
+      "Bán xăng",
+      "Bán Nhà"
+    ],
+    "10275": [
+      "Khi nhắc đến cối xay gió, người ta thường nghĩ đến đất nước nào?",
+      "Hà Lan.",
+      "Úc",
+      "Mỹ",
+      "Pháp"
+    ],
+    "10276": [
+      "Con người có bao nhiêu ngón tay có 3 đốt?",
+      "8 ",
+      "7",
+      "6",
+      "5"
+    ],
+    "10277": [
+      "Có 4 đội bóng đá thi vòng tròn 1 lượt. Vậy sẽ có tổng cộng bao nhiêu trận?",
+      "6 ",
+      "5",
+      "4",
+      "3"
+    ],
+    "10278": [
+      "Loài thú duy nhất nào biết đẻ trứng?",
+      " Thú mỏ vịt.",
+      "Cọp",
+      "Báo",
+      "Heo"
+    ],
+    "10279": [
+      "Trong phi Tây Du Kí, thầy trò Đường Tăng phải trải qua bao nhiêu kiếp nạn?",
+      "81 ",
+      "79",
+      "53",
+      "49"
+    ],
+    "10280": [
+      "Đường Tăng đặt tên cho Tôn Ngộ Không là gì?",
+      "Tôn Hành Giả.",
+      "Tôn Gỉa",
+      "Tề Thiên",
+      "con khỉ"
+    ],
+    "10281": [
+      "Xoài tặng, xoài cát, xoài mút, xoài keo, xoài lắc từ nào khác với tư còn lại?",
+      " Xoài mút ",
+      "Xoài tặng",
+      "Xoài cát",
+      "Xoài keo"
+    ],
+    "10282": [
+      "Lâm Đồng, Bình Thuận, Ninh Thuận, Tây Ninh tỉnh nào có thành phố mang tên dài nhất Việt Nam?",
+      "Ninh Thuận",
+      "Lâm Đồng",
+      "Bình Thuận",
+      "Tây Ninh"
+    ],
+    "10283": [
+      "Độc huyền cầm là tên gọi khác của loại đàn nào?",
+      "Đàn bầu.",
+      "Đàn Tì bà",
+      "Đàn piano",
+      "Đàn Bà"
+    ],
+    "10284": [
+      " Đài nào không phát hình cũng chẳng phát tiếng?",
+      "đài tưởng niệm",
+      "Đài truyền hình",
+      "Đài radio",
+      "Đài thông tin"
+    ],
+    "10285": [
+      "Con gì thân to như người, thêm huyền bỏ nặng đất cây ươm trồng (đố chữ)?",
+      "Vượn.",
+      "Sói",
+      "Lợn",
+      "Gà"
+    ],
+    "10286": [
+      "Bánh gì nghe rất vui tai, tên nghe rất giống để nhai hàng ngày. (đố chữ)?",
+      "Bánh răng.",
+      "Bánh tráng",
+      "Bánh quy",
+      "Bánh kem"
+    ],
+    "10287": [
+      "Lá gì bay xa nhất?",
+      "Lá thư.",
+      "Lá khô",
+      "Lá cây",
+      "Lá cờ"
+    ],
+    "10288": [
+      "Dịch hạch, dịch vị, dịch vụ, dịch tễ đâu là chỉ một loại bệnh?",
+      "Dịch hạch",
+      "Dịch vị",
+      "Dịch vụ",
+      "Dịch tễ"
+    ],
+    "10289": [
+      "Cái gì tuy nhẹ mà vẫn phải nặng. (đố chữ)?",
+      "nhẹ",
+      "Nặng",
+      "To",
+      "Dài"
+    ],
+    "10290": [
+      "Loại mối nào đáng sợ nhất. (đố chữ)?",
+      "Mối hận.",
+      "Mối chúa",
+      "Mối thợ",
+      "Mối tình"
+    ],
+    "10291": [
+      "Cây gì bông mà ở trong trái?",
+      "Cây gòn.",
+      "Cây cột",
+      "Cây ổi",
+      "Cây số"
+    ],
+    "10292": [
+      "Cá gì chưa già mà đã có râu?",
+      "Cá trê.",
+      "cá độ",
+      "cá hộp",
+      "Cá sấu"
+    ],
+    "10293": [
+      "Con rắn màu trắng gọi là gì?",
+      "Bạch xà.",
+      "Bạch tạng",
+      "Bạch công tử",
+      "Bạch ma nữ"
+    ],
+    "10294": [
+      "Con rắn màu xanh gọi là gì?",
+      "Thanh Xà.",
+      "Thanh Hà",
+      "Thanh Lọc",
+      "Thanh Thiên"
+    ],
+    "10295": [
+      "Cây gì trồng lấy nước uống mà không lấy quả?",
+      "Cây mía.",
+      "Cây dừa",
+      "Cây Cam",
+      "Cây Chanh"
+    ],
+    "10296": [
+      "Loài động vật nào có khả năng phóng điện?",
+      "Cá chình.",
+      "Sứa",
+      "Chim",
+      "Báo"
+    ],
+    "10297": [
+      "Món ăn hình tròn, đựng trong hộp vuông nhưng thường ăn theo hình tam giác là gì? ",
+      "Pizza.",
+      "Bánh kẹp",
+      "Taco",
+      "Bánh mì"
+    ],
+    "10298": [
+      "Cái gì không có miệng, không lưỡi mà có răng?",
+      "Con tem",
+      "Cây dù",
+      "Cái ghế",
+      "Cái bàn"
+    ],
+    "10299": [
+      "Cái gì không có răng, không miệng mà có lưỡi?",
+      "Con dao",
+      "Cái thớt",
+      "Cây chổi",
+      "Cái bình"
+    ],
+    "10300": [
+      "Làm sao để ngủ mà lưng không chạm giường?",
+      "nằm sấp.",
+      "Nằm ngửa",
+      "Nằm dưới đất",
+      "Nằm trên ghế"
+    ],
+    "10301": [
+      "Thủ đô Singapore là gì?",
+      "Singapore.",
+      "Jurong",
+      "Nee Soon",
+      "Woodlands"
+    ],
+    "10302": [
+      "Cau gì không ăn được?",
+      "Cau có.",
+      "Cau Trầu",
+      "Cau Non",
+      "Cau Trái"
+    ],
+    "10303": [
+      "Công nhân, công lí, công tâm, công bằng trong các từ trên từ nào không cùng nhóm?",
+      "Công nhân.",
+      "Công lí",
+      "Công tâm",
+      "Công bằng"
+    ],
+    "10304": [
+      "Nhóm 1088 có mấy thành viên?",
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "10305": [
+      "Trong bóng đá hiện nay, bộ trang phục dành cho trọng tài được công nhận có bao nhiêu màu?",
+      "5 ",
+      "4",
+      "3",
+      "2"
+    ],
+    "10306": [
+      "Đồi nào không trồng cây được. (đố chữ)?",
+      "đồi mồi.",
+      "Đồi thông",
+      "Đồi cỏ",
+      "Đồi núi"
+    ],
+    "10307": [
+      "Dừa nào nghe tên đã thấy nóng?",
+      "Dừa lửa.",
+      "Dừa nước",
+      "Dừa xiêm",
+      "Dừa đóng lon"
+    ],
+    "10308": [
+      "Mật nào không ăn được. (đố chữ)?",
+      "Mật mã.",
+      "Mật ong",
+      "Mật gấu",
+      "Mật đường"
+    ],
+    "10309": [
+      "Hành gì không dùng để ăn?",
+      "Hành hạ.",
+      "Hành lá",
+      "Hành tây",
+      "Hành tím"
+    ],
+    "10310": [
+      "Trẻ con khi móc ngoéo với nhau thường sử dụng ngón tay nào?",
+      "Ngón út.",
+      "Ngón cái",
+      "Ngón trỏ",
+      "Ngón giữa"
+    ],
+    "10311": [
+      "Cây cầu lớn nhất dưới lòng đất nằm ở đâu trên Thế giới?",
+      "Không có.",
+      "Mỹ",
+      "Nhật ",
+      "Pháp"
+    ],
+    "10312": [
+      "Túi thần kì của Doremon có màu gì?",
+      "Màu trắng.",
+      "Màu xanh dương",
+      "Màu đỏ",
+      "Màu vàng"
+    ],
+    "10313": [
+      "Đuôi của Doremon trong phim hoạt hình có màu gì?",
+      "Màu đỏ.",
+      "Màu đen",
+      "Màu trắng",
+      "Màu xanh dương"
+    ],
+    "10314": [
+      "Hãy kể tên con vật mà đầu dưới nước đuôi trên rừng?",
+      "Cá Voi.",
+      "Cá sấu",
+      "Cá mè",
+      "Cá trắm"
+    ],
+    "10315": [
+      "Cây gì nghe tên như đã hết. Nhưng thực tế thì nó vẫn sống và ra hoa kết trái? ",
+      "Cây tiêu.",
+      "Cây gỗ",
+      "Cây thông",
+      "Cây trúc"
+    ],
+    "10316": [
+      "Hạt gì không hái không khều mà nó tự rơi? ",
+      "Hạt mưa.",
+      "Hạt điều",
+      "Hạt tiêu",
+      "Hạt dưa"
+    ],
+    "10317": [
+      "Nhắm mắt ném phi tiêu một cách vội vàng thì gọi là gì?",
+      "Phóng đại.",
+      "Nhắm phóng",
+      "Ném tiêu",
+      "Phi đao"
+    ],
+    "10318": [
+      "Người 2 mặt có bao nhiêu mặt?",
+      "1 ",
+      "2",
+      "3",
+      "4"
+    ],
+    "10319": [
+      "Con nhện có bao nhiêu chân?",
+      "8 ",
+      "6",
+      "4",
+      "10"
+    ],
+    "10320": [
+      "Điểm gì ăn được?",
+      "Điểm tâm.",
+      "Điểm số",
+      "Điểm xạ",
+      "Điểm ngắm"
+    ],
+    "10321": [
+      "Rắn gì không bò được? (đố chữ)",
+      "Rắn rỏi",
+      "Rắn lục",
+      "Rắn mối",
+      "Rắn độc"
+    ],
+    "10322": [
+      "Người nhện có khả năng đặc biệt sau khi bị con gì cắn?",
+      "Con nhện.",
+      "Con muỗi",
+      "Con ruồi",
+      "Con ve"
+    ],
+    "10323": [
+      "Trộn mà đỏ với màu xanh nước biển ra màu gì?",
+      "Màu tím.",
+      "Màu đỏ",
+      "Màu xanh",
+      "Màu đen"
+    ],
+    "10324": [
+      "Trong tiếng Việt có bao nhiêu thanh điệu?",
+      "6 ",
+      "7",
+      "8",
+      "9"
+    ],
+    "10325": [
+      "Làm lưới đánh cá dởm không bán được thì gọi là gì? (đố chữ)",
+      "Lỗ to.",
+      "Lưới hư",
+      "Lưới dở",
+      "Lưới bỏ"
+    ],
+    "10326": [
+      "Trong các loài vật, con nào nhìn giống con heo nhất?",
+      "Con lợn",
+      "Con Bò",
+      "Con Dê ",
+      "Con La"
+    ],
+    "10327": [
+      "Sông gì nghe tên là thấy giàu rồi?",
+      "Sông Tiền",
+      "Sông Hồng",
+      "Sông Đồng Nai",
+      "Sông Đáy"
+    ],
+    "10328": [
+      "Tôn Ngộ Không là con gì?",
+      "khỉ",
+      "Heo",
+      "Trâu",
+      "Chuột"
+    ],
+    "10329": [
+      "Làng Vũ đại của Nam Cao ở ngoài đời thực thuộc tỉnh nào? ",
+      "Hà Nam",
+      "Hà Giang",
+      "Nam Định",
+      "Làm Sen"
+    ],
+    "10330": [
+      "Màn gì có nhiều màu sắc nhất?",
+      "Màn ảnh",
+      "Màn Thầu",
+      "Màn bạt",
+      "Màn Mùng"
+    ],
+    "10331": [
+      "Màn gì không che được mà có thể ăn được?",
+      "Màn thầu",
+      "Màn Cửa",
+      "Màn Hình",
+      "Màn Ảnh"
+    ],
+    "10332": [
+      "Màn gì che được tất cả mọi vật trên đời?",
+      "Màn đêm",
+      "Màn Hình",
+      "Màn Ảnh",
+      "Màn Cửa"
+    ],
+    "10333": [
+      "Bông gì không bao giờ nở?",
+      "Bông băng",
+      "Bông Hoa",
+      "Bông Sen",
+      "Bông Gòn"
+    ],
+    "10334": [
+      "Cái gì càng to càng nhỏ?",
+      "Con cua",
+      "Cái Ô",
+      "Cái Bánh",
+      "Con Cóc"
+    ],
+    "10335": [
+      "Trái gì không thể sút vào lưới được?",
+      "Trái đất",
+      "Trái Banh",
+      "Traí cam",
+      "Trái Dừa"
+    ],
+    "10336": [
+      "Sát thủ đã phải lòng người khách đã thuê mình? (đố chữ)",
+      "Thích khách",
+      "Thích Cậu",
+      "Thích Nhậu",
+      "Thích chơi"
+    ],
+    "10337": [
+      "Trong truyện 'Vợ chồng A Phủ' của Tô Hoài, vợ của A Phủ tên gì?",
+      "Mị",
+      "Mẹo",
+      "Mụ",
+      "Méo"
+    ],
+    "10338": [
+      " Loại nhẫn nào đàn ông nên có khi đi cưa cẩm phụ nữ? ",
+      "Nhẫn Nại",
+      "Nhẫn thần",
+      "Nhẫn Vàng",
+      "Nhẫn Bạc"
+    ],
+    "10339": [
+      "Loại nhẫn nào mà các ông chồng nên có khi vợ mình đang tức giận?",
+      "Nhẫn nhịn",
+      "Nhẫn Vàng",
+      "Nhẫn Kim Cương",
+      "Nhẫn Bạc"
+    ],
+    "10340": [
+      "Lông gì đá được?",
+      "Lông mày",
+      "Lông Chân",
+      "Lông Nách",
+      "Lông Heo"
+    ],
+    "10341": [
+      "Hai con Hổ lớn từ từ thì gọi là gì? (đố chữ)",
+      "Dần dần",
+      "Hổ Con",
+      "Hổ Lớn",
+      "Hổ Thẹn"
+    ],
+    "10342": [
+      "Để nguyên, thăm thẳm màn đêm, khi huyền kết bạn, bỗng nhiên sáng bừng' là chữ gì?",
+      "Đen",
+      "Tối",
+      "Sáng",
+      "Rạng"
+    ],
+    "10343": [
+      "Một chú lợn rất quyến rũ, đi đến đâu là mọi người nhìn theo đến đó thì gọi là gì? (đố chữ)",
+      "Heo hút",
+      "Heo Cute",
+      "Heo Con",
+      "Heo Héo"
+    ],
+    "10344": [
+      "Giường nào tuy đắt đỏ nhưng không ai muốn nằm?",
+      "Giường bệnh",
+      "Giường ngủ",
+      "Giường khách sạn",
+      "Giường Nệm"
+    ],
+    "10345": [
+      "Con cọp không đẹp thì gọi là gì?",
+      "Xấu hổ",
+      "Cọp xấu",
+      "Cọp không đẹp",
+      "Cọp cái"
+    ],
+    "10346": [
+      "Cái gì thường đi theo mình suốt đời?",
+      "Cái bóng",
+      "Cái áo",
+      "Cái quần",
+      "Cái xe"
+    ],
+    "10347": [
+      "Tôi luôn mang giày đi ngủ. Tôi là ai?",
+      "Con ngựa",
+      "Con gái",
+      "Con chim",
+      "Con trai"
+    ],
+    "10348": [
+      "Có bao nhiêu chữ C trong câu 'Con cua cua con còng, con còng cưới con kiến, con kiến cưỡi con cua'?",
+      "13 ",
+      "12",
+      "10",
+      "9"
+    ],
+    "10349": [
+      "Chữ gì họ một đế vương, thêm gờ vào cuối, nhà hướng lên cao?",
+      "Tần",
+      "Vương",
+      "Cao",
+      "Điền"
+    ],
+    "10350": [
+      "Quê hương điện thoại Nokia nằm ở nước nào?",
+      "Phần Lan.",
+      "Hà Lan",
+      "Trung Quốc",
+      "Mỹ"
+    ],
+    "10351": [
+      "Đỉnh núi Olympus được nhắc đến trong thần thoại nước nào?",
+      "Hy Lạp.",
+      "Nga",
+      "Pháp",
+      "Ailen"
+    ],
+    "10352": [
+      "Vé đi đến nơi nào mà dù bạn bỏ bao nhiêu tiền cũng không mua được?",
+      "Thiên đường.",
+      "Du Lịch",
+      "Công Tác",
+      "Máy Bay"
+    ],
+    "10353": [
+      "Dấu gì dành cho những người thất tình?",
+      "Dấu Mưa",
+      "Dấu Tình",
+      "Dấu Hỏi",
+      "Dấu mặt"
+    ],
+    "10354": [
+      "Heo gì lúc nào cũng chóng mặt?",
+      "Heo quay.",
+      "Heo bệnh",
+      "Heo Sữa",
+      "Heo Nái"
+    ],
+    "10355": [
+      "Heo gì không cần ăn một tuần vẫn sống?",
+      "Heo đất.",
+      "Heo con",
+      "Heo Cha",
+      "Heo Mẹ"
+    ],
+    "10356": [
+      "Trong 12 con giáp, con heo đứng sau con gì?",
+      "Con chó",
+      "Con Gà",
+      "Con Chuột",
+      "Con Ngựa"
+    ],
+    "10357": [
+      "Mạng nào bạn phải có thì mới tồn tại được?",
+      "Mạng sống",
+      "Mạng Wifi",
+      "Mạng Điện Thoại",
+      "Mạng Nhện"
+    ],
+    "10358": [
+      "Con gì ăn được con voi, không nhai không nuốt chẳng cần thớt dao?",
+      "Con cờ.",
+      "Con Kiến",
+      "Con người",
+      "Con Sư Tử"
+    ],
+    "10359": [
+      "Cắn gì không cần dùng đến răng?",
+      "Lương tâm.",
+      "kem",
+      "kẹo",
+      "chuối"
+    ],
+    "10360": [
+      "Tỉnh nào giáp với Lào và Trung Quốc?",
+      "Điện Biên.",
+      "Thái Bình",
+      "Lạng Sơn",
+      "Cao Bằng"
+    ],
+    "10361": [
+      "Điều gì không dậy ta trở thành người tốt mà chỉ làm ta thoải mái hơn?",
+      "Điều hòa.",
+      "điều tốt",
+      "điều Hay",
+      "điều Răn"
+    ],
+    "10362": [
+      "Giải thưởng trao cho những thành tựu xuất sắc trong điện ảnh Mỹ là gì?",
+      "Oscar",
+      "Cánh Diều Vàng",
+      "cành cọ vàng",
+      "quả cầu vàng"
+    ],
+    "10363": [
+      "2 nhân 4 bằng mấy?",
+      "8",
+      "6",
+      "9",
+      "12"
+    ],
+    "10364": [
+      "Hoa gì có giờ?",
+      "Hoa 10 giờ",
+      "Hoa Hòe",
+      "Hoa Hậu",
+      "Hoa Ly"
+    ],
+    "10365": [
+      "Cỏ nào trượng trưng cho may mắn?",
+      "Cỏ 4 lá",
+      "Nhánh Cỏ ven đường",
+      "Cỏ Sân Banh",
+      "Cỏ bờ rào"
+    ],
+    "10366": [
+      "Trong phim Trường Học Uy Long, cảnh sát do Châu Tinh Trì đóng mang số hiệu là?",
+      "PC9527",
+      "PC1996",
+      "PS6226",
+      "PT2006"
+    ],
+    "10367": [
+      "Kế 36 trong Tam Thập Lục Kế là?",
+      "Tẩu Vi Thượng Sách",
+      "Kim thiền thoát xác",
+      "Lăng Ba Vi Bộ",
+      "Thủy Thượng Phiêu"
+    ],
+    "10368": [
+      "Thành phố nổi trên sông của Italia là?",
+      "Venice",
+      "Vencenten",
+      "Đồng Tháp",
+      "Los Angeles"
+    ],
+    "10369": [
+      "Rừng rậm nhiệt đới lớn nhất thế giới là?",
+      "Amazon",
+      "Daintree ",
+      "Kinabalu ",
+      "Tongass "
+    ],
+    "10370": [
+      "Đất nước có diện tích nhỏ nhất là?",
+      "Vatican",
+      "Cameron",
+      "Nepan",
+      "Đông timo"
+    ],
+    "10371": [
+      "Tác giả của Thiên Long Bát Bộ là",
+      "Kim Dung",
+      "Kim Chi",
+      "Quỳnh Dao",
+      "Lý Bạch"
+    ],
+    "10372": [
+      "Ngoại hiệu của Tạ Tốn trong Ỷ Thiên ĐỒ Long Ký là?",
+      "Kim Mao Sư Vương",
+      "Tạ Vương",
+      "Tốn Vương",
+      "Kim Vương"
+    ],
+    "10373": [
+      "Điền vào ( ) theo quy luật:  2, 3, 5, 7, （）, 13, 17",
+      "11",
+      "10",
+      "9",
+      "8"
+    ],
+    "10374": [
+      "Một cái bàn hình vuông bị cắt 1 góc còn lại bao nhiêu góc?",
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "10375": [
+      "Cái gì đảo ngược lại thì tăng thêm 1 nửa (Đoán số)?",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "10376": [
+      "5 con gà 5 ngày đẻ 5 trứng. Bao nhiêu con gà để  100 ngày đẻ được 100 trứng?",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "10377": [
+      "Điền vào quy luật:  1 1 2 3 5 ___ 13 21 34",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "10378": [
+      "Điền vào quy luật:  3 6 12 ___ 48 96",
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "10379": [
+      "Trong cuộc chạy đua, bạn chạy hơn người thứ 2, bạn xếp thứ mấy?",
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "10380": [
+      "3 người 3 ngày uống 3 bình nước, 9 người 9 ngày uống bao nhiêu bình?",
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "10381": [
+      "7 con thỏ chơi trốn tìm, 3 con đã bị bắt, hỏi còn lại mấy con chưa tìm được? (Đoán số)",
+      "3",
+      "4",
+      "5",
+      "2"
+    ],
+    "10382": [
+      "Trận Quan Độ ai đầu hàng Tào Tháo giúp Tào Tháo chiến thắng.",
+      "Hứa Ưu",
+      "Hứa Hẹn",
+      "Hứa Chơi",
+      "Hứa Thôi"
+    ],
+    "10383": [
+      "Thủy Kính Tiên Sinh' trong Tam Quốc là ai?",
+      "Tư Mã Huy",
+      "Thuỷ Thủ",
+      "Tiên Sinh",
+      "Thuỷ Tiên"
+    ],
+    "10384": [
+      "Bàng Thống mất mạng ở đâu?",
+      "Lạc Phụng Ba",
+      "Lạc Dương",
+      "Nhà",
+      "Quán rượu"
+    ],
+    "10385": [
+      "Ai đề cử Gia Cát Lượng cho Lưu Bị?",
+      "Tù Già",
+      "Tào Tháo",
+      "Đổng Trác",
+      "Tôn Quyền"
+    ],
+    "10386": [
+      "Ai là người hỏa thiêu Lưu Bị 700 dặm?",
+      "Lục Tốn",
+      "Lục Trà",
+      "Lục Đồ",
+      "Lục Đục"
+    ],
+    "10387": [
+      "Gian Tuyệt trong Tam Tuyệt của Tam Quốc là ai?",
+      "Tào Tháo",
+      "Tào Lao",
+      "Điêu Thuyền",
+      "Lưu Bị"
+    ],
+    "10388": [
+      "Tác giả của Tam Quốc Diễn Nghĩa?",
+      "La Quán Trung",
+      "La Qúa",
+      "La Thành",
+      "La Lối"
+    ],
+    "10389": [
+      "Nước nào tổ chức Olympic mùa hè nhiều nhất?",
+      "Mỹ",
+      "Nhật",
+      "Anh",
+      "Pháp"
+    ],
+    "10390": [
+      "Olympic mùa hè mấy năm diễn ra 1 lần? (Trả lời bằng số)",
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "10391": [
+      "Trong tứ đại mỹ nhân, ai sống vào thời Đường?",
+      "Dương Ngọc Hoàn",
+      "Điêu Thuyền",
+      "Tây Thi",
+      "Vương Chiêu Quân"
+    ],
+    "10392": [
+      "Thìn trong 12 con giáp là con?",
+      "Rồng",
+      "Rắn",
+      "Chuột",
+      "Hổ"
+    ],
+    "10393": [
+      "Mercedes là hãng xe của nước nào?",
+      "Đức",
+      "Pháp",
+      "Ý",
+      "Nhật"
+    ],
+    "10394": [
+      "Nước nào có sản lượng trà lớn nhất thế giới?",
+      "Ấn Độ",
+      "Trung QUốc",
+      "Việt Nam",
+      "Thái Lan"
+    ],
+    "10395": [
+      "Khải Hoàn Môn Paris để tưởng nhớ ai?",
+      "Napoleon",
+      "Moza",
+      "Shakespeare",
+      "Elizabeth"
+    ],
+    "10396": [
+      "Kiến gì không bao giờ ngủ?",
+      "Kiến Thức",
+      "Kiến càng",
+      "Kiến Chúa",
+      "Kiến con"
+    ],
+    "10397": [
+      "1 số điện có thể thắp sáng bóng đèn 50W bao nhiêu giờ?",
+      "20",
+      "15",
+      "10",
+      "5"
+    ],
+    "10398": [
+      "Thuyết Tương Đối do ai tìm ra?",
+      "Einstein",
+      "Tim Cock",
+      "Isaac Newton",
+      "Galilei"
+    ],
+    "10399": [
+      "Ngọn núi cao nhất thế giới là?",
+      "Himalayas",
+      "Bà Đen",
+      "Fanxipang",
+      "Phú Sĩ"
+    ],
+    "10400": [
+      "Đất nước thấp nhất thế giới?",
+      "Hà Lan",
+      "Mỹ",
+      "Đông Timo",
+      "Ailen"
+    ],
+    "10401": [
+      "Mực nước biển thấp nhất thế giới nằm ở?",
+      "Rãnh Mariana",
+      "Biến Đông",
+      "Biển Chết",
+      "Vịnh Thái Lan"
+    ],
+    "10402": [
+      "Nga trải dài qua 2 châu lục nào?",
+      "Châu Á, Châu Âu",
+      "Châu Á, Châu Phi",
+      "Châu Mỹ, Châu Âu",
+      "Châu Á, Châu úc"
+    ],
+    "10403": [
+      "Thủ đô Australia là?",
+      "Canberra",
+      "Sydney",
+      "Melbourne",
+      "Hải Phòng"
+    ],
+    "10404": [
+      "Sông có lưu vực dài nhất thế giới là?",
+      "Nile",
+      "Hoàng Hà",
+      "Mekong",
+      "Cửu Long"
+    ],
+    "10405": [
+      "Khách sạn 7 sao đầu tiên trên thế giới nằm ở?",
+      "Dubai",
+      "Việt Nam",
+      "Trung Quốc",
+      "Anh"
+    ],
+    "10406": [
+      "Châu lục có diện tích lớn nhất là?",
+      "Châu Á",
+      "Châu Âu",
+      "Châu Mỹ",
+      "Châu Úc"
+    ],
+    "10407": [
+      "Ánh sáng Mặt Trăng là phản xạ từ?",
+      "Mặt Trời",
+      "Mặt Trăng",
+      "Mặt Nước",
+      "Thiên Hà"
+    ],
+    "10408": [
+      "Kinh tuyến 0 độ nằm ở quốc gia nào?",
+      "Anh",
+      "Pháp ",
+      "Ý ",
+      "Đức"
+    ],
+    "10409": [
+      "Động vật có nhiều răng nhất là?",
+      "Ốc sên",
+      "Người",
+      "Chó",
+      "Hổ"
+    ],
+    "10410": [
+      "Tôn Sách di ngôn cho Tôn Quyền 'Nội sự hỏi Trương Chiêu, ngoại sự hỏi ai?",
+      "Chu Du",
+      "Trương Chiêu",
+      "Tôn Quyền",
+      "Tôn Sách"
+    ],
+    "10411": [
+      "Thần tiên tỷ tỷ là cách gọi ám chỉ ai sau đây?",
+      "Vương Ngữ Yên",
+      "Vương Trùng Dương",
+      "Vương Doãn",
+      "Vương Phi"
+    ],
+    "10412": [
+      "Trong các nhân vật sau đây, ai là người không sử dụng Tịch Tà Kiếm Phổ và Quỳ Hoa Bảo Điển",
+      "Nhậm Ngã Hành",
+      "Nhậm Doanh Doanh",
+      "Lâm Bình Chi",
+      "Nhạc Linh San"
+    ],
+    "10413": [
+      "Trong các cô vợ của Vi Tiểu Bảo, ai là người đẹp nhất?",
+      "A Kha",
+      "A Tiếu",
+      "A Hoa",
+      "A Cúc"
+    ],
+    "10414": [
+      " Ai là người nắm giữ bí mật của ỷ thiên kiếm và đồ long đao?",
+      "Chu Chỉ Nhược",
+      "Chu Ngang Ngược",
+      "Diệp Tuyệt",
+      "Vô Danh Thần Tăng"
+    ],
+    "10415": [
+      "Ai là người đã truyền toàn bộ nội lực 70 năm của mình cho Hư Trúc?",
+      "Vô Nhai Tử",
+      "Hư Trúc",
+      "Kiều Phong",
+      "Kim Dung"
+    ],
+    "10416": [
+      "Ai là con của Đoàn Chính Thuần?",
+      "Cả 3 đều sai",
+      "Đoàn Phúc",
+      "Đoàn Ca",
+      "Đoàn Bảo"
+    ],
+    "10417": [
+      "Nguyên nhân sâu xa nhất dẫn tới việc A Châu chết thay cho cha là?",
+      "Để xóa thù hận",
+      "Tại thích",
+      "Trượt Chân",
+      "Bị Xô"
+    ],
+    "10418": [
+      "Tiêu Phong là nhân vật của cuốn tiểu thuyết nào của Kim Dung?",
+      "Thiên Long Bát Bộ",
+      "Lộc Đỉnh Ký",
+      "Anh hùng xạ điêu.",
+      "Tuyết sơn phi hồ"
+    ],
+    "10419": [
+      "Quách Tĩnh là chồng của ai trong tiểu thuyết Kim Dung?",
+      "Hoàng Dung",
+      "Hoàng Hạc",
+      "Cô Long",
+      "Dương Qúa"
+    ],
+    "10420": [
+      "Trong Anh Hùng Xạ Điêu, ai là người được mặc chiếc Nhuyễn Vị Giáp?",
+      "Hoàng Dung",
+      "Dương Qúa",
+      "Quách Tĩnh",
+      "Quách Phù"
+    ],
+    "10421": [
+      "Đào hoa đảo là nơi ở của ai?",
+      "Hoàng Dược Sư",
+      "Cô Đào",
+      "Cô Hoa",
+      "Cô Long"
+    ],
+    "10422": [
+      "Ai là người giỏi về võ công Cửu Âm Chân Kinh nhất trong số những người sau: ",
+      "Chu Chỉ Nhược",
+      "Bạch Cốt Tinh",
+      "Kiều Phong",
+      "Vi Tiểu Bảo"
+    ],
+    "10423": [
+      "Truyện Kiều được viết theo thể loại truyện gì?",
+      "Truyện thơ",
+      "Truyện Ma",
+      "Truyện Phiêu Lưu",
+      "Truyện cổ tích"
+    ],
+    "10424": [
+      "Con chuột xếp thứ mấy trong 12 con giáp?",
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "10425": [
+      "Nhập gia... thì phải làm sao?",
+      "Tùy tục",
+      "Tùy người",
+      "Tuỳ Nhà",
+      "Tuỳ Tiện"
+    ],
+    "10426": [
+      "Truyện Thủy Hử có bao nhiêu anh hùng hảo hán?",
+      "108",
+      "500",
+      "100",
+      "1000"
+    ],
+    "10427": [
+      "Ăn ... mặc bền.",
+      "Chắc",
+      "Sáng",
+      "Uống",
+      "Chơi"
+    ],
+    "10428": [
+      "An cư lạc...",
+      "Nghiệp",
+      "Đường",
+      "Lối",
+      "Rang"
+    ],
+    "10429": [
+      "Bờm đổi quạt mo cho phú ông để lấy thứ gì?",
+      "Nắm xôi",
+      "điếu cày",
+      "Hộp Cơm",
+      "Cục vàng"
+    ],
+    "10430": [
+      "Có mấy loại nốt cơ bản trong âm nhạc?",
+      "7",
+      "8",
+      "9",
+      "4"
+    ],
+    "10431": [
+      "Trang web tìm kiếm được nhiều người truy cập nhất hiện nay?",
+      "Google",
+      "Facebook",
+      "Intagram",
+      "VnExpress"
+    ],
+    "10432": [
+      "Nhẫn cưới thường đeo ở ngón nào?",
+      "Ngón áp út",
+      "Ngón Chân Cái",
+      "Ngón trỏ",
+      "Ngón giữa"
+    ],
+    "10433": [
+      "Con trâu xếp thứ mấy trong 12 con giáp?",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "10434": [
+      "Cơ thể thiếu gì sẽ dễ gây thiếu máu?",
+      "Sắt",
+      "Tiền",
+      "Nước",
+      "Người yêu"
+    ],
+    "10435": [
+      "Đồ ăn nào sau đây có vị ngọt?",
+      "Mật ong",
+      "Chanh",
+      "Dấm",
+      "Mướp Đắng"
+    ],
+    "10436": [
+      "Áo truyền thống của Hàn Quốc?",
+      "Han Bok",
+      "Tobokki",
+      "Kimono",
+      "Pijama"
+    ],
+    "10437": [
+      "Áo truyền thống của Nhật Bản?",
+      "Kimono",
+      "Sườn Xám",
+      "Bikini",
+      "Pijama"
+    ],
+    "10438": [
+      "Điền vào từ còn thiếu: Nhìn gà hóa....",
+      "Cuốc",
+      "Vịt",
+      "Cú",
+      "Heo"
+    ],
+    "10439": [
+      "Tên gọi khác của trái khổ qua?",
+      "Mướp đắng",
+      "Khố Qúa",
+      "Mướp Hương",
+      "Bí"
+    ],
+    "10440": [
+      "Điền vào từ còn thiếu: Ăn cháo đá.....",
+      "Bát",
+      "Bô",
+      "đít",
+      "dĩa"
+    ],
+    "10441": [
+      " Bệnh còi xương là do thiếu vitamin gì?",
+      "Vitamin D",
+      "Vitamin C",
+      "Vitamin A",
+      "Vitamin E"
+    ],
+    "10442": [
+      "Bộ phận gì của hươu, nai hàng năm có thể rụng đi, mọc lại, còn ở trâu thì tồn tại vĩnh viễn? ",
+      "Sừng",
+      "đuôi",
+      "Chân",
+      "Răng"
+    ],
+    "10443": [
+      "Tuổi tứ tuần là bao nhiêu tuổi?",
+      "40",
+      "45",
+      "50",
+      "35"
+    ],
+    "10444": [
+      "Tục mừng nhà mới được gọi là gì?",
+      "Tân gia",
+      "Tân Niên",
+      "Tân Hôn ",
+      "Tân Bình"
+    ],
+    "10445": [
+      "Từ nào sau đây không chỉ một loại nhạc cụ?",
+      "Kính",
+      "Piano",
+      "Violong",
+      "Đàn Tranh"
+    ],
+    "10446": [
+      "Thời xa xưa người ta đưa thư bằng gì?",
+      "Bồ Câu",
+      "Máy Bay",
+      "Grab",
+      "Email"
+    ],
+    "10447": [
+      "Thầy trò Đường Tăng phải trải qua bao nhiêu kiếp nạn?",
+      "81",
+      "79",
+      "72",
+      "68"
+    ],
+    "10448": [
+      "Thẻ rút tiền tự động gọi tắt là gì?",
+      "ATM",
+      "PTM",
+      "MTP",
+      "MTV"
+    ],
+    "10449": [
+      "Thiết bị xử lý văn bản vận hành bằng tay?",
+      "Bút",
+      "Máy In",
+      "Máy Tính",
+      "Máy Tính Bảng"
+    ],
+    "10450": [
+      "Người ta phân biệt cua đực cua cái bằng gì?",
+      "Yếm",
+      "Mai",
+      "Chân",
+      "Càng"
+    ],
+    "10451": [
+      "Ngày 23/12 âm lịch là ngày đưa ai về trời?",
+      "Ông Táo",
+      "Người yêu",
+      "Ông địa",
+      "Chị Hằng"
+    ],
+    "10452": [
+      "Mục đồng là một cách gọi khác của?",
+      "Trẻ chăn trâu",
+      "Thợ Săn",
+      "Thợ Hồ",
+      "Nông Dân"
+    ],
+    "10453": [
+      "Ở loài chó, tuyến mồ hôi tập trung ở đâu?",
+      "Lưỡi",
+      "Nách",
+      "Đầu ",
+      "Chân"
+    ],
+    "10454": [
+      "Động vật lớn nhất thế giới hiện nay?",
+      "Cá Voi xanh",
+      "Voi",
+      "Tê Gíac",
+      "Sư Tử"
+    ],
+    "10455": [
+      "Mồng một tết cha, mồng hai tết mẹ, mồng ba tết ....",
+      "Thầy",
+      "Ta",
+      "Tây",
+      "Luôn"
+    ],
+    "10456": [
+      "Loại xôi nào sau đây có màu vàng?",
+      "Xôi vò",
+      "Xôi Gấc",
+      "Xôi Đậu đen",
+      "Xôi Nếp Than"
+    ],
+    "10457": [
+      "Loại quả nào sau đây có nhiều hạt nhất?",
+      "Thanh long",
+      "Sầu Riêng",
+      "Mít",
+      "chuối"
+    ],
+    "10458": [
+      "Loài nào sau đây không thuộc loài chim?",
+      "Dơi",
+      "Cò",
+      "Sáo",
+      "Chích Choè"
+    ],
+    "10459": [
+      "Lệnh của nhà vua được gọi là gì?",
+      "Thánh chỉ",
+      "Tin nhắn",
+      "Lệnh Chỉ",
+      "Nghị Định"
+    ],
+    "10460": [
+      "Lễ Tình Nhân là ngày nào? ",
+      "14 tháng 2",
+      "11 tháng 11",
+      "12 tháng 4",
+      "31 tháng 12"
+    ],
+    "10461": [
+      "Loại nào sau đây không phải hải sản?",
+      "Vịt",
+      "Cua",
+      "sò điệp",
+      "nghêu"
+    ],
+    "10462": [
+      "Khí sinh ra trong hang động đá vôi là gì?",
+      "CO2",
+      "SO2",
+      "O2",
+      "Ni tơ"
+    ],
+    "10463": [
+      "Kéo sợi là lấy gì từ con tằm?",
+      "Sợi tơ",
+      "Nước dãi",
+      "Phân",
+      "Thịt"
+    ],
+    "10464": [
+      "Con mèo xếp thứ mấy trong 12 con giáp?",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "10465": [
+      "Con cọp xếp thứ mấy trong 12 con giáp?",
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "10466": [
+      "Tim người gồm bao nhiêu ngăn? ",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "10467": [
+      "Con chuồn chuồn đạp nước để làm gì?",
+      "Đẻ trứng",
+      "Chơi",
+      "Rửa Chân",
+      "Bơi"
+    ],
+    "10468": [
+      "Kim loại duy nhất ở thể lỏng?",
+      "Thủy Ngân",
+      "Nước",
+      "Kẽm",
+      "Sắt"
+    ],
+    "10469": [
+      "Máy tính sẽ không hoạt động nếu thiếu các linh kiện nào sau đây?",
+      "Ram",
+      "bàn phím",
+      "màn hình",
+      "Case"
+    ],
+    "10470": [
+      "Cờ Olympic có mấy vòng tròn?",
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "10471": [
+      "Môn bóng đá mỗi đội có mấy cầu thủ trên sân?",
+      "11",
+      "12",
+      "13",
+      "10"
+    ],
+    "10472": [
+      "Trong 1 trận bóng đá trên sân có bao nhiêu người?",
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "10473": [
+      "Thúy Kiều mang họ gì?",
+      "Vương",
+      "Đoàn",
+      "Nguyễn",
+      "Thuý"
+    ],
+    "10474": [
+      "Bộ phim Tây Du Ký, nguyên tác của ai?",
+      "Ngô Thừa Ân",
+      "Kim Dung",
+      "Tố Hữu",
+      "Xuân Diệu"
+    ],
+    "10475": [
+      "Con rồng xếp thứ mấy trong 12 con giáp?",
+      "5",
+      "6",
+      "7",
+      "8"
+    ],
+    "10476": [
+      "Quả nào sau đây không có múi?",
+      "Quả chanh dây",
+      "Cam",
+      "Quýt",
+      "Bưởi"
+    ],
+    "10477": [
+      "Hành tinh nào gây nên thủy triều trên mặt đất?",
+      "Mặt trăng",
+      "Mặt Trời",
+      "Sao Hoả",
+      "Sao Thổ"
+    ],
+    "10478": [
+      "Người đẹp vì lụa, lúa tốt vì ....",
+      "Phân",
+      "Mưa",
+      "Thuốc",
+      "Người"
+    ],
+    "10479": [
+      "Làm gì khi phải nhắm 1 mắt mở 1 mắt?",
+      "Chụp hình",
+      "Nhìn",
+      "Ngủ",
+      "Khóc"
+    ],
+    "10480": [
+      "Con rắn xếp thứ mấy trong 12 con giáp?",
+      "6",
+      "4",
+      "10",
+      "2"
+    ],
+    "10481": [
+      "Con ngựa xếp thứ mấy trong 12 con giáp?",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "10482": [
+      "Viết tắt của hệ thống định vị toàn cầu?",
+      "GPS",
+      "PSG",
+      "VGS",
+      "ABS"
+    ],
+    "10483": [
+      "Chữ viết tắt của màn hình tinh thể lỏng?",
+      "LCD",
+      "LEP",
+      "LED",
+      "CDL"
+    ],
+    "10484": [
+      "Hồ Xuân Hương được mệnh danh là gì?",
+      "Bà chúa thơ Nôm",
+      "Bà Trôi Nước",
+      "Bà chúa sắc đẹp",
+      "Bà Nhiều Chuyện"
+    ],
+    "10485": [
+      "CapsLock trên bàn phím máy tính để làm gì?",
+      "Chữ in hoa",
+      "Bỏ dấu",
+      "Tắt máy",
+      "Chụp ảnh"
+    ],
+    "10486": [
+      "Bộ phận nào trên cơ thể thằn lằn có khả năng mọc lại?",
+      "Đuôi",
+      "Đầu",
+      "Chân",
+      "Lưỡi"
+    ],
+    "10487": [
+      "1 Byte gồm bao nhiêu Bit?",
+      "8",
+      "10",
+      "12",
+      "16"
+    ],
+    "10488": [
+      "Há miệng mắc ....",
+      "Quai",
+      "Nghẹn",
+      "Nói",
+      "Cười"
+    ],
+    "10489": [
+      "Trong vũ trụ cái gì có thể hút cả ánh sáng?",
+      "Hố đen",
+      "Mặt trời",
+      "Trái Đất",
+      "Crush"
+    ],
+    "10490": [
+      "Một giọt máu ... hơn ao nước lã.",
+      "Đào",
+      "Tươi",
+      "Mũ",
+      "Đỏ"
+    ],
+    "10491": [
+      "Cây nào chỉ có một lá duy nhất?",
+      "Cây cờ",
+      "Me",
+      "Cuốc",
+      "Tre"
+    ],
+    "10492": [
+      "Con dê xếp thứ mấy trong 12 con giáp?",
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "10493": [
+      "Con gì có răng nhưng chẳng nhai hay cắn ai?",
+      "Con tem",
+      "Con Heo",
+      "Con Chuột",
+      "Con Crush"
+    ],
+    "10494": [
+      "Đàn thập lục còn gọi là đàn gì?",
+      "Đàn Tranh",
+      "Đàn 16",
+      "Đàn piano",
+      "Đàn Đúm"
+    ],
+    "10495": [
+      "Con khỉ xếp thứ mấy trong 12 con giáp?",
+      "9",
+      "10",
+      "11",
+      "12"
+    ],
+    "10496": [
+      "Đứa bé bị gì mà đưa đến bác sĩ nào cũng đều bảo là bó tay?",
+      "Gãy tay",
+      "Ngất",
+      "Bệnh Nan Y",
+      "Đói"
+    ],
+    "10497": [
+      "Ngành công nghiệp nào được gọi là ngành công nghiệp không khói?",
+      "Du lịch",
+      "Luyện Kim",
+      "Nhiệt Điện",
+      "sản xuất oto"
+    ],
+    "10498": [
+      "Thứ gì leo lên nhanh, nhưng tụt xuống lại rất chậm?",
+      "Giá cả",
+      "Con khỉ",
+      "Con Chuột",
+      "Chiếc Xe"
+    ],
+    "10499": [
+      "Gái một con trông ... con mắt.",
+      "Mòn",
+      "Mù",
+      "Lòi",
+      "Đã"
+    ],
+    "10500": [
+      "Ve sầu phát ra tiếng kêu từ đâu?",
+      "Cánh",
+      "Miệng",
+      "Bụng",
+      "Chân"
+    ],
+    "10501": [
+      "Châm cứu là dùng cây kim đâm vào nơi nào trên cơ thể người?",
+      "Huyệt đạo",
+      "Da",
+      "Thịt",
+      "Mạch máu"
+    ],
+    "10502": [
+      "Ngày thành lập đoàn?",
+      "26-03",
+      "24-03",
+      "23-06",
+      "44350"
+    ],
+    "10503": [
+      "Ngạc ngư là tên gọi khác của con vật này? ",
+      "Cá Sấu",
+      "Cá Ngát",
+      "Cá Thác Lác",
+      "Cá Voi"
+    ],
+    "10504": [
+      "Thứ gì có thể giúp chúng ta giải tất cả các câu đố?",
+      "Câu trả lời",
+      "Tiên Tri",
+      "Thầy giáo",
+      "Bạn"
+    ],
+    "10505": [
+      "Bạn làm gì đầu tiên khi ngủ dậy?",
+      "Mở mắt",
+      "Đánh răng",
+      "Ăn sáng",
+      "Tắm"
+    ],
+    "10506": [
+      "Con gà xếp thứ mấy trong 12 con giáp?",
+      "10",
+      "9",
+      "8",
+      "7"
+    ],
+    "10507": [
+      "Con chó xếp thứ mấy trong 12 con giáp?",
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "10508": [
+      "Kỳ quan duy nhất trong 7 kỳ quan cổ đại còn tồn tại đến ngày nay là gì?",
+      "Kim Tự Tháp",
+      "Babylon",
+      "Đền Artemis",
+      "Tượng thần Zeus"
+    ],
+    "10509": [
+      "Con heo xếp thứ mấy trong 12 con giáp?",
+      "12",
+      "1",
+      "2",
+      "3"
+    ],
+    "10510": [
+      "Cá gì nếu bỏ một dấu thì sẽ thành trò chơi?",
+      "Cá rô",
+      "Cá Cược",
+      "Cá Ngựa",
+      "Cá Trê"
+    ],
+    "10511": [
+      "Cầu gì không đi được?",
+      "Cầu Cơ",
+      "Cầu Khỉ",
+      "Cầu Cá",
+      "Cầu Tre"
+    ],
+    "10512": [
+      "Nơi nào số người ra nhiều hơn số người vô?",
+      "Nhà hộ sinh",
+      "Bến Xe",
+      "Sân Vận Động",
+      "Công Viên"
+    ],
+    "10513": [
+      "Cái gì lạnh nhất sau đây?",
+      "Kem",
+      "Nước",
+      "cái bàn",
+      "Bàn Tay"
+    ],
+    "10514": [
+      "Người nào thích thêm mắm thêm muối nhất?",
+      "Đầu bếp",
+      "Hàng Xóm",
+      "Má Vợ",
+      "Bạn"
+    ],
+    "10515": [
+      "Loại quả nào không ăn được?",
+      "Hậu quả",
+      "Táo",
+      "Lê",
+      "chuối"
+    ],
+    "10516": [
+      "Con gì tên thì cứng người thì mềm?",
+      "Rắn",
+      "Qụa",
+      "Cá",
+      "Cáo"
+    ],
+    "10517": [
+      "Bằng một bước mà bước không qua, là gì?",
+      "Cái bóng",
+      "cái bậc cửa",
+      "cái ghế",
+      "Cái bậc thang"
+    ],
+    "10518": [
+      "Trong các loài cá, con cá gì luôn mang theo vũ khí khi bơi?",
+      "Cá kiếm",
+      "Cá Mập",
+      "Cá Chuồn",
+      "Cá Sấu"
+    ],
+    "10519": [
+      "Mario là sản phẩm của công ty nào?",
+      "Nistendo",
+      "Sony",
+      "Apple",
+      "SamSung"
+    ],
+    "10520": [
+      "Người đàn ông duy nhất trên thế giới có sữa?",
+      "Ông Thọ",
+      "Ông Phúc",
+      "Ông Tiên ",
+      "Ông Lộc"
+    ],
+    "10521": [
+      "Trong 12 con giáp, tí là con gì?",
+      "Chuột",
+      "Mèo",
+      "Khỉ ",
+      "Chó"
+    ],
+    "10522": [
+      "Trong cơ thể người Phốt pho được tập trung chủ yếu ở đâu?",
+      "Xương",
+      "Răng",
+      "Não",
+      "Mắt"
+    ],
+    "10523": [
+      "Công cụ nào sau đây dùng để gặt lúa?",
+      "Liềm",
+      "Cuốc",
+      "Xẻng",
+      "Cào"
+    ],
+    "10524": [
+      "Trong 12 con giáp, sửu là con gì?",
+      "Trâu",
+      "Chó",
+      "Mèo",
+      "Gà"
+    ],
+    "10525": [
+      "Con vật nào không có trong 12 con giáp?",
+      "Nhím",
+      "Chó ",
+      "Heo",
+      "Ngựa"
+    ],
+    "10526": [
+      "Casino là chỉ nơi nào?",
+      "Sòng bạc",
+      "Nhà Hàng",
+      "Khách Sạn",
+      "Công Viên"
+    ],
+    "10527": [
+      "Bụng làm dạ …",
+      "Chịu",
+      "Đẻ",
+      "Đau",
+      "Khóc"
+    ],
+    "10528": [
+      "Trong 12 con giáp, dần là con gì?",
+      "Cọp",
+      "Trâu",
+      "Bò",
+      "Lợn"
+    ],
+    "10529": [
+      "Chắc như ... đóng cột",
+      "Đinh",
+      "Dùi Cui",
+      "Xiên Que",
+      "Xa Beng"
+    ],
+    "10530": [
+      "… ơi thương lấy bí cùng.",
+      "Bầu",
+      "Khổ Qua",
+      "Me",
+      "Xoài"
+    ],
+    "10531": [
+      "Ai làm nghề chữa bệnh cho mọi người?",
+      "Thầy lang",
+      "Thầy Đồ",
+      "Thầy Huấn",
+      "Sư thầy"
+    ],
+    "10532": [
+      "Bệnh sốt xuất huyết do động vật nào lây truyền? ",
+      "Muỗi",
+      "Ruồi Trâu",
+      "Ong",
+      "Nhện"
+    ],
+    "10533": [
+      "Bệnh dịch hạch chủ yếu do động vật nào lan truyền?",
+      "Chuột",
+      "Ngựa",
+      "Mèo",
+      "Cá Tra"
+    ],
+    "10534": [
+      "Liên đoàn bóng đá thế giới viết tắt là gì? ",
+      "FiFa",
+      "Mu",
+      "Liverpool",
+      "Arsenal"
+    ],
+    "10535": [
+      "Có chí thì …",
+      "Nên",
+      "Làm",
+      "Quất",
+      "Phang"
+    ],
+    "10536": [
+      "Tim Berners Less phát minh ra World Wide Web vào năm nào?",
+      "1991",
+      "1990",
+      "2000",
+      "2020"
+    ],
+    "10537": [
+      "Có câu: Ngựa quen đường ......... gì ?",
+      "Cũ",
+      "Xưa",
+      "Giữa",
+      "Rừng"
+    ],
+    "10538": [
+      "Ai bị sói ăn vào bụng mà vẫn còn sống?",
+      "Cô bé quàng khăn đỏ",
+      "Uyển Đậu",
+      "Hoàng Hậu",
+      "MaMa"
+    ],
+    "10539": [
+      "Đội bóng nào được mệnh danh là cơn lốc màu da cam?",
+      "Hà Lan",
+      "Tây Ban Nha",
+      "Brazil",
+      "Việt Nam"
+    ],
+    "10540": [
+      "Loại trái cây nào ăn nhiều sẽ bị nóng?",
+      "Vải",
+      "Táo",
+      "Vãi",
+      "Nghiệp Quả"
+    ],
+    "10541": [
+      "WWW tên đầy đủ là gì?",
+      "Word Wide Web",
+      "World We Warcraft",
+      "We Were Waiting",
+      "Weather Words Worksheet"
+    ],
+    "10542": [
+      "Ảo ảnh ở sa mạc xuất hiện là do hiện tượng gì?",
+      "Phản xạ toàn phần",
+      "Phản xạ tùm lum",
+      "Ảo Giác",
+      "Ảo Mộng"
+    ],
+    "10543": [
+      "Nhà thơ Hàn Mặc Tử đã từng rao bán thứ gì trong thơ của mình",
+      "Trăng",
+      "Chuối",
+      "Sao Hoả",
+      "Nhà"
+    ],
+    "10544": [
+      "Rắn thuộc loài nào?",
+      "Bò sát",
+      "Bò Hở",
+      "Anh Em Sư Tử",
+      "Độc Mồn Độc Miệng"
+    ],
+    "10545": [
+      "Động vật ngủ đông lâu nhất?",
+      "Gấu",
+      "Heo",
+      "Còn Gái",
+      "Hà Mã"
+    ],
+    "10546": [
+      "Lịch nào dài nhất?",
+      "Lịch Sử",
+      "Lịch Nợ",
+      "Hoằng Lịch",
+      "Lịch Ngủ"
+    ],
+    "10547": [
+      "Xã đông nhất là xã nào?",
+      "Xã hội",
+      "Xã Nước",
+      "Xả Xui",
+      "Xã Hội Đen"
+    ],
+    "10548": [
+      "Quần rộng nhất là quần gì?",
+      "Quần đảo",
+      "Quần Đùi",
+      "Quần Của Mình",
+      "Quần Mới Mua"
+    ],
+    "10549": [
+      "Cái gì mà đi thì nằm, đứng cũng nằm mà nằm thì lại đứng?",
+      "Bàn chân",
+      "Ly",
+      "Con Bạn",
+      "Bàn Tay"
+    ],
+    "10550": [
+      "Cây xương rồng thường sống ở đâu?",
+      "Sa mạc",
+      "Trong Mắt",
+      "Dưới Nước",
+      "Đất Phù Sa"
+    ],
+    "10551": [
+      "Cánh máy bay có tác dụng gì?",
+      "Tăng lực nâng",
+      "Bay Lượn Vòng",
+      "Chém Gió",
+      "Xoay Đều"
+    ],
+    "10552": [
+      "Sinh vật nào sản sinh ra nhiều oxi nhất ở đại dương?",
+      "San hô",
+      "Rong Biển",
+      "Cá Bạc Má",
+      "Cá Chà Bặc"
+    ],
+    "10553": [
+      "Cây nào không nằm trong 'tứ quân tử”?",
+      "Đào",
+      "Mai",
+      "Cúc",
+      "Trúc"
+    ],
+    "10554": [
+      "Ngưu Lang Chức Nữ là ngày bao nhiêu âm lịch?",
+      "7 tháng 7",
+      "8 tháng 7",
+      "17 tháng 7",
+      "ngày nào đó tháng 7"
+    ],
+    "10555": [
+      "Loài chim nào có khả năng bay lùi?",
+      "Chim ruồi",
+      "Chim Sẻ",
+      "Chim Bồ Câu",
+      "Chim gõ kiến"
+    ],
+    "10556": [
+      "Đậu hủ được làm từ?",
+      "Đậu nành",
+      "Tây Thi",
+      "Đậu Đen",
+      "TP.HCM"
+    ],
+    "10557": [
+      "WorlCup 2010 tổ chức ở đâu?",
+      "Nam Phi",
+      "Bắc Mỹ",
+      "Hoàng Cung",
+      "Nam Cực"
+    ],
+    "10558": [
+      "Trong Ỷ Thiên Đồ Long Ký, cuối cùng Trương Vô Kỵ quy ẩn cùng ai?",
+      "Triệu Mẫn",
+      "Dương Quý Phi",
+      "Uyển Đậu",
+      "A Lý Cổn"
+    ],
+    "10559": [
+      "Trong Thiên Long Bát Bộ, Đoàn Dự ăn gì mà bách độc bất xâm?",
+      "Mãng Cổ Chu Cáp",
+      "Thuốc Trừ Sâu",
+      "Rượu Bầu Đá",
+      "Hãm Luân Xà"
+    ],
+    "10560": [
+      "Trong Anh Hùng Xạ Điêu, tên của Nhất Đăng Đại Sư là gì?",
+      "Đoàn Trí Hưng",
+      "Đoàn Văn Nhân",
+      "Ngô Thiên Tiếu",
+      "Tề Mặc"
+    ],
+    "10561": [
+      "Trong Anh Hùng Xạ Điêu, ai đặt tên cho Quách Tĩnh?",
+      "Khưu Xứ Cơ",
+      "Hồng Thất Công",
+      "Bạch Công Công",
+      "Huỳnh Lập"
+    ],
+    "10562": [
+      "Trong Anh Hùng Xạ Điêu, Cô Ngốc của Ngưu Gia Thôn là con gái của ai?",
+      "Khúc Linh Phong",
+      "Tiểu Lý Phi Đao",
+      "Tiểu Lộ Tử",
+      "Cung Nữ X"
+    ],
+    "10563": [
+      "Trong Tiếu Ngạo Giang Hồ, Tả Lãnh Thiền bị ai tiêu diệt?",
+      "Lệnh Hồ Xung",
+      "Nhạc Bất Quần",
+      "Doãn Chí Bình",
+      "Dương Qúa"
+    ],
+    "10564": [
+      "Mộ Dung Phục là hậu duệ của nước nào?",
+      "Yên",
+      "Yến",
+      "Yêu",
+      "Nam"
+    ],
+    "10565": [
+      "Vương Ngữ Yên và Đoàn Dự có quan hệ gì?",
+      "Vợ chồng",
+      "Em Gái Mưa",
+      "Bà Con Xa",
+      "Anh Em Họ"
+    ],
+    "10566": [
+      "Trong 12 con giáp, mẹo là con gì?",
+      "Mèo",
+      "Cọp",
+      "Cá",
+      "Rồng"
+    ],
+    "10567": [
+      "Vô địch giải bóng đá thế giới năm 2002 thuộc về nước nào?",
+      "Brazil",
+      "Trung QUốc",
+      "Tây Ban Nha",
+      "Mỹ"
+    ],
+    "10568": [
+      "Con cá thở bằng gì?",
+      "Mang",
+      "Vảy",
+      "Đuôi",
+      "Mắt"
+    ],
+    "10569": [
+      "Trong 12 con giáp, thìn là con gì?",
+      "Rồng",
+      "Chó",
+      "Mèo",
+      "Thỏ"
+    ],
+    "10570": [
+      "Trong 12 con giáp, tị là con gì?",
+      "Rắn",
+      "Dế",
+      "Sư Tử",
+      "Heo"
+    ],
+    "10571": [
+      "Trong 12 con giáp, ngọ là con gì?",
+      "Ngựa",
+      "Trâu",
+      "Linh Dương",
+      "Cá Mập"
+    ],
+    "10572": [
+      "Trong 12 con giáp, mùi là con gì?",
+      "Dê",
+      "Chuột",
+      "Dế",
+      "Khủng Long"
+    ],
+    "10573": [
+      "Loài chim nào sau đây không biết bay?",
+      "Chim cánh cụt",
+      "Đại Bàng",
+      "Rồng",
+      "Hải Âu"
+    ],
+    "10574": [
+      "Biểu tượng của ngành y học?",
+      "Rắn",
+      "Ba Ba",
+      "Phượng Hoàng",
+      "Giun"
+    ],
+    "10575": [
+      "Trong 12 con giáp, thân là con gì?",
+      "Khỉ",
+      "Hổ",
+      "Báo",
+      "Cáo"
+    ],
+    "10576": [
+      "Trong 12 con giáp, dậu là con gì?",
+      "Gà",
+      "Chồn",
+      "Lửng",
+      "Rùa"
+    ],
+    "10577": [
+      "Cơ quan hô hấp của ếch là? ",
+      "Da",
+      "Miệng",
+      "Lưỡi",
+      "Bụng"
+    ],
+    "10578": [
+      "Bàn cờ vua có bao nhiêu ô?",
+      "64",
+      "640",
+      "63",
+      "20"
+    ],
+    "10579": [
+      "Trong 12 con giáp, tuất là con gì?",
+      "Chó",
+      "Sói",
+      "Hải Cẩu",
+      "Mèo"
+    ],
+    "10580": [
+      "Trong 12 con giáp, hợi là con gì?",
+      "Heo",
+      "Cá",
+      "Con Bạn",
+      "Rồng"
+    ],
+    "10581": [
+      "Huyền Vũ là con gì?",
+      "Rùa",
+      "Ba Ba",
+      "Ốc",
+      "Cua"
+    ],
+    "10582": [
+      "Chu Tước là con gì?",
+      "Phụng",
+      "Gà",
+      "Đà Điểu",
+      "Dơi"
+    ],
+    "10583": [
+      "Thanh Long là con gì?",
+      "Rồng",
+      "Rắn",
+      "Cá Chép",
+      "Gấu"
+    ],
+    "10584": [
+      "Kỳ trong Cầm Kỳ Thi Họa là chỉ?",
+      "Cờ",
+      "Kỳ Lạ",
+      "Kỳ Cục",
+      "Vẽ"
+    ],
+    "10585": [
+      "Thi trong Cầm Kỳ Thi Họa là chỉ?",
+      "Thơ",
+      "Thi Cử",
+      "Thi Thố",
+      "Ngây Thơ"
+    ],
+    "10586": [
+      "Cầm trong Cầm Kỳ Thi Họa là chỉ?",
+      "Đàn",
+      "Đàng Ông",
+      "Đàn gà",
+      "Cờ"
+    ],
+    "10587": [
+      "Họa trong Cầm Kỳ Thi Họa là chỉ?",
+      "Vẽ",
+      "Tai Họa",
+      "Họa Bì",
+      "Thơ"
+    ],
+    "10588": [
+      "Giống kẹo nhưng không phải kẹo cũng không thể ăn?",
+      "Cục gôm",
+      "Táo",
+      "Cục Nước Đá",
+      "Cục Thịt"
+    ],
+    "10589": [
+      "Một con trai cộng một con gái sẽ thành con gì?",
+      "2 con người",
+      "Con Bê",
+      "Con Công",
+      "Con Ma"
+    ],
+    "10590": [
+      "Cái gì không thể mua được?",
+      "Di chúc",
+      "Trái Thận",
+      "Tôi",
+      "Con Cọp"
+    ],
+    "10591": [
+      "Tham gia thi cử, điều quan trọng hơn cả việc chuẩn bị kiến thức là gì?",
+      "Phải đi thi",
+      "Phải Học Bài",
+      "Phải Xin Tiền",
+      "Phải Ăn Nhiều"
+    ],
+    "10592": [
+      "Một vật nhìn giống cây đèn, nhưng sao nó không sáng, đó là gì?",
+      "Đèn hư",
+      "Quần Đùi",
+      "Mặt Trăng",
+      "Mặt Trời"
+    ],
+    "10593": [
+      "Có một trang mạng, ai lên mạng đều phải vào đó trước, đó là mạng gì?",
+      "Internet",
+      "Mạng ViNa",
+      "Mạng Nhện",
+      "Enternet"
+    ],
+    "10594": [
+      "Có một cuộc thi, hai người ngồi cùng 1 bàn nộp bài y chang nhau. Nhưng giáo viên cho rằng họ không quay cóp, tại sao?",
+      "Họ nộp giấy trắng",
+      "Ghi Nhầm Tên",
+      "Nộp trước sau",
+      "Nộp Cây Son"
+    ],
+    "10595": [
+      "Cái gì gặp nóng sẽ đông lại?",
+      "Trứng gà",
+      "Nước",
+      "Máy Giặt",
+      "Nhựa"
+    ],
+    "10596": [
+      "Cái nào không phải là Nước uống được?",
+      "Nước Đi",
+      "Nước Bình",
+      "Nước Canh",
+      "Nước Ngọt"
+    ],
+    "10597": [
+      "Món gì mọi người không ngừng ăn, nhưng không bao giờ no?",
+      "Không khí",
+      "Phô Mai",
+      "Gà Rán",
+      "Nghiệp Quả"
+    ],
+    "10598": [
+      "Cái gì có thể tăng không thể giảm?",
+      "Tuổi",
+      "Tiền",
+      "Cân Nặng",
+      "Đồ Ăn"
+    ],
+    "10599": [
+      "Chim sợ bị bệnh gì sẽ gì nhất?",
+      "Sợ độ cao",
+      "Ho",
+      "Sốt Rét",
+      "Lười"
+    ],
+    "10600": [
+      "Hai nơi nào trên trái đất, hôm qua là hôm nay, hôm nay là hôm sau?",
+      "Nam cực và bắc cực",
+      "Nhà Giam",
+      "Phòng Ngủ",
+      "Trường Học"
+    ],
+    "10601": [
+      "Tại sao bạn ăn mì bò mà không thấy thịt bò?",
+      "Ăn mì gói bò",
+      "Bò Chưa Mổ",
+      "Bò Chưa Tới",
+      "Hết Tiền"
+    ],
+    "10602": [
+      "Loài động vật gì kích cỡ giống mèo, hình dạng giống hổ?",
+      "Hổ con",
+      "Con Vợ",
+      "Con Sói",
+      "Con Heo Mặt Mèo"
+    ],
+    "10603": [
+      "Sâu rượu là người thế nào?",
+      "Người luôn say rượu",
+      "Người Bán Sâu",
+      "Người Bán Rượu",
+      "Người không biết uống rượu"
+    ],
+    "10604": [
+      "Nếu trái đất nổ tung, nơi nào an toàn nhất?",
+      "Thiên đường và địa ngục",
+      "Hoàng Cung",
+      "Phòng Ngủ",
+      "Hầm Chống Boom"
+    ],
+    "10605": [
+      "Cái gì không có giá tiền?",
+      "Tình cảm",
+      "Trái Bơ",
+      "Quần Áo",
+      "Cái Bồn"
+    ],
+    "10606": [
+      "Một người không biết bơi rơi xuống nước, tại sao không bị chìm?",
+      "Mặc áo phao",
+      "Gặp Kỳ Ngộ",
+      "Uống nước nhiều",
+      "Quá Mập"
+    ],
+    "10607": [
+      "Nhà nọ có nuôi gà nhưng tại sao không đẻ trứng?",
+      "gà Trống",
+      "Gà mái",
+      "Gà cao su",
+      "Gà Ác"
+    ],
+    "10608": [
+      "Việc gì ai cũng làm được nhưng không thể cùng thực hiện?",
+      "Nằm mơ",
+      "Hẹn Bạn đi chơi",
+      "Nấu ăn với chồng",
+      "Ăn Cơm"
+    ],
+    "10609": [
+      "Tại sao một người chui vào lồng sư tử mà vẫn bình an vô sự?",
+      "Lồng trống không",
+      "Sư Tử Đang No",
+      "Sư Tử Cái",
+      "Sư Tử Đực"
+    ],
+    "10610": [
+      "Cách gì giúp một người không bị rụng tóc nữa?",
+      "Cạo trọc",
+      "Giải Nghiệp",
+      "Gội Đầu",
+      "Hấp Dầu"
+    ],
+    "10611": [
+      "Bước Tượng Người Suy Tư Của Ai làm ra?",
+      "Rodin",
+      "Ronaninho",
+      "Robin",
+      "Tô Sanh"
+    ],
+    "10612": [
+      "Cái gì bị nứt rồi vẫn không thể tìm thấy vết nứt?",
+      "Tình cảm",
+      "Cái Bình",
+      "Heo Đất",
+      "Nhà"
+    ],
+    "10613": [
+      "Cách khiến ngôi nhà bừa bãi sạch trong nháy mắt?",
+      "Nhắm mắt lại",
+      "Dọn Dẹp",
+      "Bật Hack",
+      "Nhờ Người Dọn"
+    ],
+    "10614": [
+      "Vì sao ngựa nhà ông A có thể ăn mất voi nhà ông B?",
+      "Chơi cờ tướng",
+      "Bị Chôm",
+      "Bắt Cho Con Khác Ăn",
+      "Ngựa Chạy Nhanh Hơn"
+    ],
+    "10615": [
+      "Tại sao một người đạp xe suốt 11 km nhưng cảnh vật xung quanh không thay đổi?",
+      "Xe thể dục trong nhà",
+      "Đạp Chậm",
+      "Đạp Nhanh",
+      "Vì Mệt"
+    ],
+    "10616": [
+      "Bút xanh có viết chữ đỏ được không?",
+      "Viết chữ đỏ là được",
+      "Không Được",
+      "đổi Bút Đỏ",
+      "Pha Màu"
+    ],
+    "10617": [
+      "Làm gì sẽ khiến người ta khó chịu?",
+      "Làm phiền",
+      "Làm Việc",
+      "Ăn",
+      "Uống"
+    ],
+    "10618": [
+      "Khi nào có người gõ cửa mà không thể nói mời vào?",
+      "Trong toilet",
+      "Nhà",
+      "Phòng Ngủ",
+      "Nhà Bạn"
+    ],
+    "10619": [
+      "Ngựa gì không chạy?",
+      "Ngựa gỗ",
+      "Ngựa Trời",
+      "Ngựa Giống",
+      "Ngựa Trắng"
+    ],
+    "10620": [
+      "Trời đang nắng chói chang, tại sao Tèo lại bị ướt?",
+      "Tèo đang bơi",
+      "Tèo Đang Ăn",
+      "Tèo Đi Chơi",
+      "Tèo Leo Cây"
+    ],
+    "10621": [
+      "Ngoài tài xế, thì ai có thể đi xe buýt mỗi ngày mà không tốn tiền?",
+      "Người soát vé",
+      "Sinh Viên",
+      "Con Bạn",
+      "Người Già"
+    ],
+    "10622": [
+      "Nơi nào mà giá bán càng cao thì khách hàng càng thích?",
+      "Tiệm cầm đồ",
+      "Tiệm Sửa Xe",
+      "Tiệm Bán Cá",
+      "GS25"
+    ],
+    "10623": [
+      "Trường Hợp nào sau đây phạm luật giao thông?",
+      "Vượt đèn đỏ",
+      "Vượt Đèn Xanh",
+      "Vượt Đèn Vàng",
+      "Vượt CSGT"
+    ],
+    "10624": [
+      "Vật gì càng chùi càng nhỏ?",
+      "Cục tẩy",
+      "Tiền",
+      "Khăn Tay",
+      "Khăn ướt"
+    ],
+    "10625": [
+      "Nấu 1 quả trứng mất 4 phút, nấu 8 quả mất bao lâu?",
+      "4 phút",
+      "5 phút",
+      "1 phút 30 giây",
+      "80 phút"
+    ],
+    "10626": [
+      "Cái gì không sợ bao, chỉ sợ búa?",
+      "Kéo",
+      "Cái Chìa Khóa",
+      "Cục Tẩy",
+      "Cục Kẹo"
+    ],
+    "10627": [
+      "Bệnh gì bác sĩ bó tay?",
+      "Bệnh gãy tay",
+      "Bệnh gãy chân",
+      "Bệnh Tiểu Đường",
+      "Bệnh Tăng Cân"
+    ],
+    "10628": [
+      "Lúc đi trần truồng, lúc về mặc áo, là cái gì?",
+      "Giá treo áo",
+      "Cái Bàn",
+      "Cái Ghế",
+      "Cái Tô"
+    ],
+    "10629": [
+      "Cái gì mỗi ngày mọc hướng đông, lặn hướng tây?",
+      "Mặt trời",
+      "Cái Cây",
+      "Cái Chuông",
+      "Cái Ly"
+    ],
+    "10630": [
+      "Trời tối sáng 1 lần là 1 ngày, nhưng khi trời tối 2 lần mà cũng chỉ là 1 ngày, thì tại sao?",
+      "Nhật thực toàn phần",
+      "Tắt đèn 2 lần 1 ngày",
+      "ngủ 2 lần 1 ngày",
+      "Tại trời không sáng"
+    ],
+    "10631": [
+      "Trên đồi có 3 con hồ li, thợ săn bắn trúng 1 con, hỏi trên đồi còn mấy con?",
+      "1 con",
+      "2 con",
+      "500 con",
+      "3 con"
+    ],
+    "10632": [
+      "1 quả bóng da và 1 quả bóng sắt rơi xuống lầu, quả bóng nào rơi xuống đất trước?",
+      "Quả bóng sắt",
+      "Bóng Bàn",
+      "Bóng Da",
+      "Bóng Nhôm"
+    ],
+    "10633": [
+      "Con gì ăn lửa với nước than?",
+      "Con Tàu",
+      "Con Công",
+      "Con Cá",
+      "Con Hưu"
+    ],
+    "10634": [
+      "Một ông lão có thể vừa huýt sáo vừa đánh răng, bạn đoán xem ông ấy làm thế nào?",
+      "Đánh răng giả",
+      "Huýt sáo",
+      "Đánh răng",
+      "Bắn Cung"
+    ],
+    "10635": [
+      "Trên nhấp dưới giật là đang làm gì?",
+      "Câu Cá",
+      "Đánh Bida",
+      "Bán Cá",
+      "Đeo Khẩu Trang"
+    ],
+    "10636": [
+      "Rừng gì mà không thấy chim bay chỉ thấy có đàn cá bơi tung tăng?",
+      "Rừng san hô",
+      "Rừng Tràm",
+      "Rừng Trúc",
+      "Rừng Thông"
+    ],
+    "10637": [
+      "Cái gì trong trắng ngoài xanh trồng đậu trồng hành rồi thả heo vào?",
+      "Bánh Chưng",
+      "Bánh gai",
+      "Bánh Đa",
+      "Bánh Phồng Tôm"
+    ],
+    "10638": [
+      "Trái gì khó chịu nhất?",
+      "Trái tai",
+      "Trái Dâu",
+      "Trái Đất",
+      "Trái Dưa"
+    ],
+    "10639": [
+      "Gai gì người ta ghét nhất?",
+      "Gai mắt",
+      "Gai Nhọn",
+      "Gái Cá Nóc",
+      "Gái Xương Rồng"
+    ],
+    "10640": [
+      "Cầu Nào là cầu đi được?",
+      "Cầu Dừa",
+      "Cầu Vồng",
+      "Cầu Cơ",
+      "Cầu Tre"
+    ],
+    "10641": [
+      "Cá gì có 4 màu?",
+      "Cá ngựa",
+      "Cá Mập",
+      "Cá Sấu",
+      "Cá Trê"
+    ],
+    "10642": [
+      "Cá gì có tên gắn liền với một loại ngũ cốc?",
+      "Cá cơm",
+      "Cá Dừa",
+      "Cá Thác Lác",
+      "Cá Basa"
+    ],
+    "10643": [
+      "Cá gì khi xuất hiện là lá rơi?",
+      "Cá thu",
+      "Cá Hồi",
+      "Cá Kiếm",
+      "Cá Răng Cưa"
+    ],
+    "10644": [
+      "3 con mèo ăn hết 3 con chuột trong vòng 3 phút. 111 con mèo ăn 111 con chuột trong bao lâu?",
+      "3 phút",
+      "333 phút",
+      "10 phút",
+      "5 phút"
+    ],
+    "10645": [
+      "Khi bạn vào một căn phòng tối có nến, đèn dầu và lò sưởi, bạn sẽ đốt cái gì trước?",
+      "Lửa",
+      "Nến",
+      "Đèn dầu",
+      "Lò Sưởi"
+    ],
+    "10646": [
+      "Hoa gì nhìn choáng váng đầu?",
+      "Hoa mắt",
+      "Hoa Hồng",
+      "Hoa cứt lợn",
+      "Hoa Ly"
+    ],
+    "10647": [
+      "Con gì nhỏ nhất?",
+      "Con virus",
+      "Con Gà",
+      "Con Gấu",
+      "Con nhà người ta"
+    ],
+    "10648": [
+      "Xe gì có bốn bánh, không có động cơ nhưng có khói?",
+      "Xe mì gõ",
+      "Xe Ô-tô",
+      "Xe Máy",
+      "Xe Lửa"
+    ],
+    "10649": [
+      "Trong 1 căn phòng có 4 con mèo. Trước mặt mỗi con có 3 con mèo khác. Vậy tổng cộng có mấy con mèo?",
+      "4",
+      "7 con",
+      "1 con",
+      "0"
+    ],
+    "10650": [
+      "Một đàn nai hăm hở chạy vào rừng. Sụp xuống hầm chông chết mất 7 con. Hỏi đàn nai còn lại mấy con?",
+      "45",
+      "0",
+      "35",
+      "3"
+    ],
+    "10651": [
+      "Tưởng tượng bạn có 6 quả táo, bạn ăn hết 1 quả, cho ba 3 quả, cho mẹ 1 quả, vậy bạn có mấy quả táo?",
+      "0",
+      "1",
+      "6",
+      "12"
+    ],
+    "10652": [
+      "Con trai có gì quý nhất?",
+      "Ngọc trai",
+      "Tiền",
+      "Nhà",
+      "Đẹp Trai"
+    ],
+    "10653": [
+      "Cái gì yếu đến nỗi chỉ cần kêu một tiếng là nó vỡ ngay lập tức?",
+      "Im lặng",
+      "Ly",
+      "Ca",
+      "Chén"
+    ],
+    "10654": [
+      "Cái gì Adam có hai mà Eva chỉ có một?",
+      "Chữ A",
+      "Cánh Tay",
+      "Chữ d",
+      "Xương"
+    ],
+    "10655": [
+      "Có một dòng sông nước chảy rất xiết, không có tàu bè nào qua lại. Làm sao để qua được bờ bên kia đây các bạn?",
+      "Qua cầu",
+      "Nhờ Hà Bá",
+      "Bơi",
+      "Nhảy"
+    ],
+    "10656": [
+      "Có một con vịt đi trước một con vịt, một con vịt đi trước hai con vịt. Đếm xem có mấy con vịt?",
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "10657": [
+      "Chị em phụ nữ muốn giữ đôi bàn tay búp măng ngòi viết được mềm mại mịn màng thì nên làm gì để có hiệu quả nhất?",
+      "Làm biếng",
+      "Làm Cơm",
+      "Làm Canh",
+      "May Đồ"
+    ],
+    "10658": [
+      "Cà phê đắng em bỏ thêm đường ngọt. Tình đắng rồi em biết bỏ gì đây?",
+      "Bỏ anh",
+      "Bỏ Muối",
+      "Bỏ Chanh",
+      "Dừa Bướm"
+    ],
+    "10659": [
+      "Trong các loài lưỡng cư sau đây, loài nào không có giống cái?",
+      "Cóc tía",
+      "Rắn",
+      "Thạch Sùng",
+      "Tắc Kè"
+    ],
+    "10660": [
+      "Con gì chín mắt, chín đuôi, chín đầu?",
+      "Tôm nướng",
+      "Con Gà",
+      "Con Ngựa",
+      "Con Voi"
+    ],
+    "10661": [
+      "Phải dùng cái gì để có thể biến chàng trai thành ông lão một cách mau chóng?",
+      "Photoshop",
+      "Bị Bồ Bỏ",
+      "Rớt Tiền",
+      "Cá Độ Thua"
+    ],
+    "10662": [
+      "Lỗ rốn của con thằn lằn nằm ở đâu?",
+      "Không có",
+      "Dưới Đuôi",
+      "Trong Mắt",
+      "Dưới Nách"
+    ],
+    "10663": [
+      "Cái gì khi mua về người ta phải đập cho bể thì mới có thể dùng được?",
+      "Trứng gà",
+      "Cái Tô",
+      "Trái Táo",
+      "Trái Dừa"
+    ],
+    "10664": [
+      "Thứ gì mặc dù biết là lỗ nhiều mà người ta vẫn cứ bán?",
+      "Rổ",
+      "Cổ Phiếu",
+      "Vàng",
+      "Đô la"
+    ],
+    "10665": [
+      "Con gì uống mà không ăn?",
+      "Con muỗi",
+      "Con Cá",
+      "Con Rùa",
+      "Con Vịt"
+    ],
+    "10666": [
+      "Cái gì càng tối lại càng sáng, bạn có biết không?",
+      "Lân tinh",
+      "Suy Nghĩ",
+      "Hamburger",
+      "Chả Lụa"
+    ],
+    "10667": [
+      "Cái gì càng cất thì lại càng làm người ta nhìn thấy vậy?",
+      "Nhà",
+      "Tiền",
+      "Vàng",
+      "Hột Xoàn"
+    ],
+    "10668": [
+      " Làm sao để cái cân tự cân chính nó?",
+      "Lật nó lại",
+      "Đập nó",
+      "Đem cục đá lên cân",
+      "Bán nó"
+    ],
+    "10669": [
+      "Đâu là một loại hình chợ tạm tự phát thường xuất hiện trong các khu dân cư?",
+      "Chợ Cóc",
+      "Chợ Phạm Văn Hai",
+      "Chợ Bến Thành",
+      "Chợ Lớn"
+    ],
+    "10670": [
+      "Khu vực Đông Nam Á gồm có bao nhiêu nước?",
+      "11 nước.",
+      "12 nước",
+      "15 nước",
+      "10 nước"
+    ],
+    "10671": [
+      "Rượu Vang được lên men từ loại quả nào là chủ yếu?",
+      "Quả nho",
+      "Quả Táo",
+      "Quả Lê",
+      "Quả Cà"
+    ],
+    "10672": [
+      "Sông gì có nước mắt?",
+      "Nhật Lệ.",
+      "Vàm Cỏ",
+      "Sông Hồng ",
+      "Sông Cửu Long"
+    ],
+    "10673": [
+      "Có một hồ nước lớn, bên cạnh hồ nước có 1 viên gạch. Vậy ném viên gạch xuống hồ có nổi không?",
+      "Ném nổi",
+      "Không",
+      "Chìm",
+      "Ném qua bên kia"
+    ],
+    "10674": [
+      "Con gì chuyên ăn thịt?",
+      "Con Sư Tử",
+      "Con dê",
+      "Con Ngựa",
+      "Vitamin C"
+    ],
+    "10675": [
+      "Cây gì không có lá?",
+      "Cột điện",
+      "Cây Mai",
+      "Cây Lan",
+      "Cây cúc"
+    ],
+    "10676": [
+      "Nữ rapper Việt nào từng được tổng thống Obama yêu cầu đọc rap?",
+      "Suboi",
+      "The Queen",
+      "Pháo",
+      "Hoàng Thùy Linh"
+    ],
+    "10677": [
+      "Trong lúc Suboi đọc rap, tổng thống Obama đã làm gì?",
+      "Đứng nghe",
+      "Ngồi Nghe",
+      "Nói gì đó",
+      "Không biết"
+    ],
+    "10678": [
+      "Ca sĩ Trịnh Thăng Bình từng là thành viên nhóm nhạc nào?",
+      "La Thăng",
+      "Si Thăng",
+      "Đô Thăng",
+      "Đô la"
+    ],
+    "10679": [
+      "Độc gì càng trúng càng thích?",
+      "Độc đắc",
+      "Nọc Độc",
+      "Độc Dịch",
+      "Độc Địa"
+    ],
+    "10680": [
+      "Loại quả nào ôm nỗi buồn 1 mình?",
+      "Sầu riêng",
+      "Mít thái",
+      "Dâu Tây",
+      "Táo tàu"
+    ],
+    "10681": [
+      "Trong bài hát 'Hà Nội 12 mùa hoa', hoa loa kèn gắn với tháng nào?",
+      "Tháng 4",
+      "Tháng 8",
+      "Tháng 12",
+      "Tháng 2"
+    ],
+    "10682": [
+      "Tỉnh nào nước ta có tên nghe nửa ruộng nửa rừng",
+      "Lâm Đồng",
+      "Đồng Nai",
+      "Đồng Tháp",
+      "Đồng Đoàn"
+    ],
+    "10683": [
+      "Loại bánh gì không ăn được?",
+      "Bánh xe",
+      "Bánh gato",
+      "Bánh pía",
+      "Bánh Bao"
+    ],
+    "10684": [
+      "Tác giả của 'Bình ngô đại cáo' là ai?",
+      "Nguyễn Trãi",
+      "Nguyễn Huệ",
+      "Nguyễn Kiệm",
+      "Nguyễn Văn Đừng"
+    ],
+    "10685": [
+      "Người ta thường gọi quốc gia nào là đất nước mặt trời mọc?",
+      "Nhật",
+      "Trung QUốc",
+      "Hàn Quốc",
+      "Việt Nam"
+    ],
+    "10686": [
+      "Đây là hoạt động người dân bắc bộ làm để ngăn lũ lụt",
+      "Đắp đê",
+      "Đào Tường",
+      "Trốn lên núi",
+      "Chèo xuồng"
+    ],
+    "10687": [
+      "Vị thần coi giữ đất đai của một khu vực được dân gian gọi là gì?",
+      "Thổ công",
+      "Thổ Công Công",
+      "Thái Công",
+      "Hoành Công"
+    ],
+    "10688": [
+      "Mưa chẳng qua... gió chẳng qua mùi",
+      "Ngọ",
+      "Đường",
+      "Tới",
+      "Chuyện nhỏ"
+    ],
+    "10689": [
+      "Bên trên là ngói, bên dưới là hang là gì?",
+      "Miệng",
+      "Nồi Cơm",
+      "Cái Rổ",
+      "Cái Tô"
+    ],
+    "10690": [
+      "Người Việt Nam đầu tiên bay vào vũ trụ",
+      "Phạm Tuân",
+      "Phạm Trưởng",
+      "Phạm Ngũ Lão",
+      "Na Phạm"
+    ],
+    "10691": [
+      "Ngọn núi nào cao nhất Nhật Bản",
+      "Phú Sĩ",
+      "Trường Sơn Đông",
+      "Trường Sơn Tây",
+      "Himalaya"
+    ],
+    "10692": [
+      "Chị em dâu như bầu...",
+      "Nước lã",
+      "Nước Sôi",
+      "Nước Lọc",
+      "Nước nguội"
+    ],
+    "10693": [
+      "Ao... nước đọng ",
+      "Tù",
+      "Sâu",
+      "Cá",
+      "Hà Bá"
+    ],
+    "10694": [
+      "Loài động vật nào có 3 tim, 8 chi và máu màu xanh",
+      "Bạch tuộc",
+      "Cá Tra",
+      "Cá Đuối",
+      "Cá Chim"
+    ],
+    "10695": [
+      "Liên đoàn bóng đá Úc thuộc liên đoàn bóng đá nào?",
+      "Châu Á",
+      "Châu Âu",
+      "Châu Mỹ ",
+      "Châu Đại Dương"
+    ],
+    "10696": [
+      "Không... thì dưa có giòi",
+      "Ưa",
+      "Ở",
+      "Ăn",
+      "Ngủ"
+    ],
+    "10697": [
+      "Thăng Long Hà Nội 1000 tuổi vào năm nào?",
+      "2010",
+      "2020",
+      "2000",
+      "2021"
+    ],
+    "10698": [
+      "Nước lã mà... nên hồ",
+      "Vã",
+      "Vảy",
+      "Vỗ",
+      "Vứt"
+    ],
+    "10699": [
+      "Người dựng nên nước Âu Lạc là ai?",
+      "Thục Phán",
+      "Phán Quan",
+      "Hùng Vương",
+      "Hồ Chí Minh"
+    ],
+    "10700": [
+      "Tim người gồm bao nhiêu ngăn?",
+      "4 ngăn",
+      "8 ngăn ",
+      "vô số ngăn",
+      "12 ngăn"
+    ],
+    "10701": [
+      "Chùa Đồng lớn nhất Việt Nam ở đâu?",
+      "Yên Tử",
+      "Yên Bái",
+      "Đồng Nai",
+      "Tây Ninh"
+    ],
+    "10702": [
+      "Trên lông dưới lông, ở giữa không lông, phồng lên để ngắm, là con gì?",
+      "Con mắt",
+      "Con Gái",
+      "Con Bướm",
+      "Con Sâu"
+    ],
+    "10703": [
+      "Không ăn... bỏ cho người",
+      "Gắp",
+      "Bán",
+      "Chia",
+      "Lấy"
+    ],
+    "10704": [
+      "Thượng điền tích thủy, hạ điền...",
+      "Khan",
+      "Phang",
+      "Quốc",
+      "Đi"
+    ],
+    "10705": [
+      "Sau chiến tranh thế giới 2, phong trào giải phóng dân tộc nổi lên mạnh nhất ở đâu?",
+      "Châu Phi",
+      "Châu Mỹ",
+      "Châu Nam Cực",
+      "Châu Chấu"
+    ],
+    "10706": [
+      "Biển có nồng độ muối lớn nhất thế giới?",
+      "Biển chết",
+      "Biên Báo",
+      "Biển Đông",
+      "Biển Người"
+    ],
+    "10707": [
+      "Có 1 đàn chuột điếc đi ngang qua, hỏi có mấy con?",
+      "24 con",
+      "15 con",
+      "10 con",
+      "6 con"
+    ],
+    "10708": [
+      "Trong sở thú con nào đông nhất?",
+      "Con người",
+      "Con Voi",
+      "Con Dê ",
+      "Con Gấu"
+    ],
+    "10709": [
+      "Mỗi năm có 7 tháng 31 ngày. Đố bạn có bao nhiêu tháng có 28 ngày mỗi năm?",
+      "12 tháng",
+      "1 tháng",
+      "2 tháng",
+      "11 tháng"
+    ],
+    "10710": [
+      "Một ly thuỷ tinh đựng đầy nước, làm thế nào để lấy nước dưới đáy ly mà không đổ nước ra ngoài ?",
+      "Ống hút",
+      "Uống",
+      "Đổ ra",
+      "Đục đáy ly"
+    ],
+    "10711": [
+      "Cái gì người mua biết, người bán biết, người xài không bao giờ biết?",
+      "Quan tài",
+      "Cây Mai",
+      "Cây Lan",
+      "Cây kéo"
+    ],
+    "10712": [
+      "Bạn đang ở trong một cuộc đua và bạn vừa vượt qua người thứ nhì . Vậy bây giờ bạn đang ở vị trí nào trong đoàn đua ấy?",
+      "Thứ nhì",
+      "Thứ nhất",
+      "thứ 3",
+      "thứ 5"
+    ],
+    "10713": [
+      "Ông nào không phải trong Tam Đa?",
+      "Ông Địa",
+      "Ông Phúc",
+      "Ông Lộc",
+      "Ông Thọ"
+    ],
+    "10714": [
+      "Làm thế nào để con cua được chín chân?",
+      "Luộc",
+      "Ăn Chân",
+      "Gắn chân giả",
+      "Lấy càng làm chân"
+    ],
+    "10715": [
+      "Có ba quả táo trên bàn và bạn lấy đi hai quả. Hỏi bạn còn bao nhiêu quả táo?",
+      "2 ",
+      "1",
+      "3",
+      "5"
+    ],
+    "10716": [
+      "Bố mẹ có sáu người con trai, mỗi người con trai có một em gái. Hỏi gia đình đó có bao nhiêu người?",
+      "9",
+      "8",
+      "16",
+      "20"
+    ],
+    "10717": [
+      "Cái gì đen khi bạn mua nó, đỏ khi dùng nó và xám xịt khi vứt nó đi?",
+      "Than",
+      "Sáp",
+      "Đồ Chơi",
+      "Nhang"
+    ],
+    "10718": [
+      "Câu đố mẹo có đáp án: Toà nhà lớn nhất thế giới?",
+      "Nhà nước.",
+      "Bitexco",
+      "Lakhta",
+      "Greenland Vũ Hán"
+    ],
+    "10719": [
+      "Tháng nào ngắn nhất trong năm?",
+      "Ba;Tư",
+      "Sáu",
+      "Bảy",
+      "Tám"
+    ],
+    "10720": [
+      "Có cổ nhưng không có miệng là gì?",
+      "Cái áo;Áo",
+      "Quần",
+      "Phao",
+      "Kiếm"
+    ],
+    "10721": [
+      "Tôi có 4 cái chân, 1 cái lưng, nhưng không có cơ thể. Tôi là ai?",
+      "ghế",
+      "Bàn",
+      "Bàn Chải",
+      "Cà Rốt"
+    ],
+    "10722": [
+      "Điều gì luôn đến, nhưng không bao giờ đến",
+      "Ngày mai",
+      "Tiền",
+      "Gấu",
+      "Vàng Trời Ban"
+    ],
+    "10723": [
+      "Cái gì sống nếu được cho ăn và chết nếu được cho uống",
+      "Ngọn lửa",
+      "CÁ",
+      "Heo",
+      "Sen"
+    ],
+    "10724": [
+      "Cái gì mà bạn có, khi bạn chia sẻ với tôi, nhưng khi bạn chia sẻ bạn sẽ không có nó?",
+      "Bí mật",
+      "Đồ Ăn",
+      "Trà Sữa",
+      "Quần áo"
+    ],
+    "10725": [
+      "Cái gì chặt không đứt, bứt không rời, phơi không khô, đốt không cháy?",
+      "Nước",
+      "Da Mặt",
+      "Sắt",
+      "Hoa Hồng"
+    ],
+    "10726": [
+      "Cổ nào già nhất?",
+      "Cổ xưa",
+      "Cổ Hủ",
+      "Cổ Phiếu",
+      "Cổ Nọng"
+    ],
+    "10727": [
+      "Cái gì không ai đào mà sâu?",
+      "Biển",
+      "Đào Mộ",
+      "Túi",
+      "Rương"
+    ],
+    "10728": [
+      "Xã nào không đo được?",
+      "Xã Hội Đen",
+      "Xã Thạnh Lợi",
+      "Xã Láng Lớn",
+      "Xã Thới Tam Thôn"
+    ],
+    "10729": [
+      "Đố bạn chuột nào đi bằng 2 chân?",
+      "Chuột Mickey",
+      "Chuột Đồng ",
+      "Chuột Bạch",
+      "Chuột Lang"
+    ],
+    "10730": [
+      "Con đường dài nhất là đường nào?",
+      "Đường đời.",
+      "Đường Xa Lộ",
+      "Đường Vượt Biên",
+      "Đường đi chơi"
+    ],
+    "10731": [
+      "Bạn làm việc gì đầu tiên mỗi buổi sáng?",
+      "Mở Mắt",
+      "Lấy Điện Thoại",
+      "Ôm Chồng",
+      "Ăn Cơm"
+    ],
+    "10732": [
+      "Cái gì của chồng mà vợ thích cầm nhất (không nghĩ lung tung)?",
+      "Tiền",
+      "Điện Thoại",
+      "Giày",
+      "Áo"
+    ],
+    "10733": [
+      "Con gì không gáy ò ó o mà người ta vẫn gọi là gà?",
+      "Gà Con, Gà mái",
+      "Công",
+      "Chim Điêu",
+      "Con Cú"
+    ],
+    "10734": [
+      "Núi nào mà bị chặt ra từng khúc?",
+      "Thái Sơn.",
+      "Hỏa Diệm Sơn",
+      "Băng Sơn",
+      "Thục Sơn"
+    ],
+    "10735": [
+      "Môn gì càng thắng càng thua?",
+      "Xe Đạp Chậm",
+      "Chạy bộ",
+      "Đua xe",
+      "Câu Cá"
+    ],
+    "10736": [
+      "Con gì đầu dê mình ốc?",
+      "Con dốc.",
+      "Con Cờ",
+      "Con Cua",
+      "Con Dê"
+    ],
+    "10737": [
+      "Con gì đập thì sống, không đập thì chết?",
+      "Con tim.",
+      "Con Báo",
+      "Con Cá",
+      "Con Sen"
+    ],
+    "10738": [
+      "30 chia 1/2, và cộng thêm 10, bằng bao nhiêu?",
+      "70",
+      "69",
+      "96",
+      "60"
+    ],
+    "10739": [
+      "Khi Beckham thực hiện quả đá phạt đền, anh ta sẽ sút vào quả gì?",
+      "Quả bóng.",
+      "Quả Cà",
+      "Quả Táo",
+      "Quả Xoài"
+    ],
+    "10740": [
+      "Cái gì tay trái cầm được còn tay phải cầm không được?",
+      "Tay phải.",
+      "Chân Phải",
+      "Lổ tai",
+      "Lổ Mũi"
+    ],
+    "10741": [
+      "Từ gì mà 100% nguời dân Việt Nam đều phát âm sai?",
+      "sai",
+      "Trái",
+      "Gà",
+      "Trai"
+    ],
+    "10742": [
+      "Cái gì đánh bố, đánh mẹ, đánh anh, đánh chị, đánh em?",
+      "Bàn chải",
+      "bàn phím",
+      "Bàn Chân",
+      "Bàn Là"
+    ],
+    "10743": [
+      "Cá Nào Không Ăn Được?",
+      "Cá Cược",
+      "Cá Mập",
+      "Cá Voi",
+      "Cá Sấu"
+    ],
+    "10744": [
+      "Cái gì của người con gái lúc nào cũng ẩm ướt?",
+      "Cái lưỡi.",
+      "Cái Mũi",
+      "Cái Tai",
+      "Cái tay"
+    ],
+    "10745": [
+      "Cái gì dài như trái chuối, cầm 1 lúc thì nó chảy nước ra?",
+      "Que kem.",
+      "Trái Cam",
+      "Trái Trứng ",
+      "Cây que"
+    ],
+    "10746": [
+      "Càng chơi càng ra nuớc?",
+      "Chơi cờ.",
+      "Chơi bida",
+      "Chơi bài",
+      "Chơi đấu kiếm"
+    ],
+    "10747": [
+      "Cái gì bằng cái vung, vùng xuống ao. Đào chẳng thấy, lấy chẳng được?",
+      "mặt trăng!",
+      "Mặt Trời",
+      "Cái Ca",
+      "Cá Áo"
+    ],
+    "10748": [
+      "Cái gì trong trắng ngoài xanh trồng đậu trồng hành rồi thả heo vào?",
+      "Bánh chưng",
+      "Bánh Hỏi",
+      "Bánh gai",
+      "Bánh giò"
+    ],
+    "10749": [
+      "Hoa gì biết ăn, biết nói, biết hát ...?",
+      "Hoa hậu.",
+      "Hoa Hồng",
+      "Hoa Ly",
+      "Hoa Cúc"
+    ],
+    "10750": [
+      "Vua gọi hoàng hậu bằng gì?",
+      "miệng.",
+      "Tay",
+      "Bút",
+      "Chén"
+    ],
+    "10751": [
+      "Cái gì luôn ở phía trước bạn, mà bạn không bao giờ nhìn thấy?",
+      "Tương lai",
+      "Tiền",
+      "Gấu",
+      "Giày"
+    ],
+    "10752": [
+      "Cái gì bạn không mượn mà trả?",
+      "Lời cám ơn",
+      "Bạn Trai",
+      "Cuốn Truyện",
+      "Nghiệp"
+    ],
+    "10753": [
+      "Cái gì chứa nhiều nước nhất mà không ướt?",
+      "Bản đồ",
+      "Cái Tô",
+      "Cái ly",
+      "Cái Dĩa"
+    ],
+    "10754": [
+      "Người da đen tắm biển đen. Vậy hỏi họ bị gì?",
+      "Bị ướt",
+      "Đen Da",
+      "Rám Nắng",
+      "Trắng ra"
+    ],
+    "10755": [
+      "1 kg bông gòn và 1 kg sắt, kg nào nặng hơn?",
+      "Bằng nhau",
+      "Sắt",
+      "Bông Gòn",
+      "Đồng"
+    ],
+    "10756": [
+      "Mặt gì tròn trịa trên cao\nToả ra những ánh nắng đào đẹp thay?",
+      "Mặt trời",
+      "Mặt Bàn",
+      "Mặt Nạ",
+      "Bóng Đèn"
+    ],
+    "10757": [
+      "Mặt gì mát dịu đêm nay,\nCây đa, chú cuội, đứng đây rõ ràng?",
+      "Mặt trăng",
+      "Mặt Mâm",
+      "Mặt Bư",
+      "Mặt Mẹt"
+    ],
+    "10758": [
+      "Mặt gì bằng phặng thênh thang,\nNgười đi muôn lối dọc ngang phố phường?",
+      "Mặt đất",
+      "Mặt Mộc",
+      "Mặt Nước",
+      "Mặt Căng"
+    ],
+    "10759": [
+      "Mặt gì làm bãi chiến trường,\nLàm cho đổ máu, tan xương, cháy nhà?",
+      "Mặt trận",
+      "Mặt Trời",
+      "Mặt Biển",
+      "Mặt Mụn"
+    ],
+    "10760": [
+      "Mặt gì để doạ người ta,\nĐeo vào trẻ sợ như ma hiện hồn?",
+      "Mặt nạ",
+      "Mặt Bạn",
+      "Mặt Cá",
+      "Mặt Khỉ"
+    ],
+    "10761": [
+      "Mặt gì xoa động luôn luôn,\nThuyền bè qua lại bán buôn hàng ngày?",
+      "Mặt biển",
+      "Mặt đất",
+      "Mặt nạ",
+      "Mặt Trận"
+    ],
+    "10762": [
+      "Quả gì có đủ năm châu?",
+      "Quả đất",
+      "Quả Châu",
+      "Quả Quýt",
+      "Quả Mận"
+    ],
+    "10763": [
+      "Quả gì lắc nhẹ, đâu đâu cũng rền?",
+      "Quả chuông",
+      "Quả Đào",
+      "Quả Táo",
+      "Quả Đu Đủ"
+    ],
+    "10764": [
+      "Quả gì gang sắt đúc nên,Hễ nghe tiếng rú người liền núp mau?",
+      "Quả boom",
+      "Quả Cà",
+      "Quả Chuối",
+      "Quả Cam"
+    ],
+    "10765": [
+      "Cày trên đồng ruộng trắng phau, Khát xuống uốmg nước giếng sâu đen ngòm?",
+      "bút mực",
+      "Phi Tiêu",
+      "Phi Đao",
+      "Bánh xe"
+    ],
+    "10766": [
+      "Bằng cái hạt cây\nBa gian nhà đầy còn tràn ra sân?",
+      "Đèn dầu",
+      "Đèn Pin",
+      "Đèn Lồng",
+      "Cá vàng"
+    ],
+    "10767": [
+      "Có một trang mạng, ai lên mạng đều phải vào đó trước, đó là mạng gì?",
+      "Internet",
+      "Google",
+      "Firefox",
+      "Cốc Cốc"
+    ],
+    "10768": [
+      "Có một cuộc thi, hai người ngồi cùng 1 bàn nộp bài y chang nhau. Nhưng giáo viên cho rằng họ không quay cóp, tại sao?",
+      "Họ nộp giấy trắng",
+      "Nộp Cùng Ngày",
+      "Nộp trước sau",
+      "2 người không quen nhau"
+    ],
+    "10769": [
+      "Cái gì gặp nóng sẽ đông lại?",
+      "Trứng gà",
+      "Cá",
+      "Heo",
+      "Thịt"
+    ],
+    "10770": [
+      "Nước gì dùng ghi nói chuyện?",
+      "Nước bọt",
+      "Nước đá",
+      "Nước Sôi",
+      "Nước lọc"
+    ],
+    "10771": [
+      "Món gì mọi người không ngừng ăn, nhưng không bao giờ no?",
+      "Không khí",
+      "Phô Mai",
+      "Kem",
+      "Chè"
+    ],
+    "10772": [
+      "Cái gì có thể tăng không thể giảm?",
+      "Tuổi",
+      "Nợ",
+      "Phao",
+      "Cua"
+    ],
+    "10773": [
+      "Con Hưu Cao Cổ sợ bệnh gì nhất?",
+      "Sợ ói",
+      "Sợ Ma",
+      "Sợ Cọp",
+      "Sợ Chuột"
+    ],
+    "10774": [
+      "Hai nơi nào trên trái đất, hôm qua là hôm nay, hôm nay là hôm sau?",
+      "Nam cực và bắc cực",
+      "Đông Và Tây",
+      "Đức và Tây Ban Nha",
+      "Việt Nam và Lào"
+    ],
+    "10775": [
+      "Tại sao bạn ăn mì bò mà không thấy thịt bò?",
+      "Ăn mì gói bò",
+      "Không có thịt bò",
+      "Không mua bò",
+      "Bò chưa cắt thịt"
+    ],
+    "10776": [
+      "Loài động vật gì kích cỡ giống mèo, hình dạng giống hổ?",
+      "Hổ con",
+      "Chó",
+      "Sói",
+      "Báo"
+    ],
+    "10777": [
+      "Sâu rượu là người thế nào?",
+      "Người luôn say rượu",
+      "Người Bán cá",
+      "Người bán vải",
+      "Người bán điện thoại"
+    ],
+    "10778": [
+      "Nếu trái đất nổ tung, nơi nào an toàn nhất?",
+      "Thiên đường và địa ngục",
+      "Rừng Tràm",
+      "Dưới Biển",
+      "Trên Núi"
+    ],
+    "10779": [
+      "Cái gì không có giá tiền?",
+      "Tình cảm",
+      "Túi xách",
+      "Dép",
+      "Nón"
+    ],
+    "10780": [
+      "Một người không biết bơi rơi xuống nước, tại sao không bị chìm?",
+      "Mặc áo phao",
+      "Tại mập",
+      "Uống nước nhiều",
+      "Ăn cá nhiều"
+    ],
+    "10781": [
+      "Nhà nọ có nuôi bầy gà nhưng tại sao trời sáng chúng không gáy sáng?",
+      "Bầy gà mái",
+      "Bận đá nhau",
+      "Gà mũ",
+      "Gà mỹ"
+    ],
+    "10782": [
+      "Việc gì ai cũng làm được nhưng không thể cùng thực hiện?",
+      "Nằm mơ",
+      "Chơi game",
+      "Bán hàng online",
+      "Bán báo"
+    ],
+    "10783": [
+      "Thượng điền tích thủy, hạ điền...",
+      "Khan",
+      "Khâng",
+      "Khỏe",
+      "Khóc"
+    ],
+    "10784": [
+      "Sau chiến tranh thế giới 2, phong trào giải phóng dân tộc nổi lên mạnh nhất ở đâu?",
+      "Châu Phi",
+      "Pháp",
+      "Anh",
+      "Mỹ"
+    ],
+    "10785": [
+      "Biển có nồng độ muối lớn nhất thế giới?",
+      "Biển chết",
+      "Biển Đen",
+      "Biển Tây",
+      "Biển Bắc"
+    ],
+    "10786": [
+      "Trên nhấp dưới giật là đang làm gì?",
+      "câu cá",
+      "Hút thuốc",
+      "Ăn Cơm",
+      "Ăn Cháo"
+    ],
+    "10787": [
+      "Sở thú bị cháy ,đố bạn con gì chạy ra đầu tiên?",
+      "Con người",
+      "Con Gà ",
+      "Con Voi",
+      "Con Báo"
+    ],
+    "10788": [
+      "Có 4 đội bóng đá thi vòng tròn 1 lượt. Vậy sẽ có tổng cộng bao nhiêu trận?",
+      "6 ",
+      "8",
+      "10",
+      "12"
+    ],
+    "10789": [
+      "Loài thú duy nhất nào biết đẻ trứng?",
+      " Thú mỏ vịt.",
+      "Lưỡng Cư",
+      "Hà Mã",
+      "Thỏ"
+    ],
+    "10790": [
+      "Trong phi Tây Du Kí, thầy trò Đường Tăng phải trải qua bao nhiêu kiếp nạn?",
+      "81 ",
+      "666",
+      "999",
+      "71"
+    ],
+    "10791": [
+      "Đường Tăng đặt tên cho Tôn Ngộ Không là gì?",
+      "Tôn Hành Giả.",
+      "Đại Thánh",
+      "Khỉ Mắc Dịch",
+      "Khỉ Khô"
+    ],
+    "10792": [
+      "Xoài tặng, xoài cát, xoài mút, xoài kẹo, xoài lắc từ nào khác với tư còn lại?",
+      " Xoài mút ",
+      "Xoài",
+      "Xoài Thái",
+      "Xoài Kem"
+    ],
+    "10793": [
+      "Lâm Đồng, Bình Thuận, Ninh Thuận tỉnh nào có thành phố mang tên dài nhất Việt Nam?",
+      "Ninh Thuận",
+      "Lâm Đồng",
+      "Bình thuận",
+      "Vũng Tàu"
+    ],
+    "10794": [
+      "Độc huyền cầm là tên gọi khác của loại đàn nào?",
+      "Đàn bầu.",
+      "Đàn Tranh",
+      "Đàn Ghita",
+      "Đàn Piano"
+    ],
+    "10795": [
+      " Đài nào không phát hình cũng chẳng phát tiếng?",
+      "Đài sen;đài tưởng niệm;đài hoa",
+      "Đài 1800",
+      "Đài Xổ Số",
+      "Đài 92Hz"
+    ],
+    "10796": [
+      "Con gì thân to như người, thêm huyền bỏ nặng đất cây ươm trồng (đố chữ)?",
+      "Vượn.",
+      "Báo",
+      "Rồng",
+      "Rắn"
+    ],
+    "10797": [
+      "Bánh gì nghe rất vui tai, tên nghe rất giống để nhai hàng ngày. (đố chữ)?",
+      "Bánh răng.",
+      "Bánh Đa",
+      "Bánh Dẻo",
+      "Bánh Ngọt"
+    ],
+    "10798": [
+      "Lá gì bay xa nhất?",
+      "Lá thư.",
+      "Lá Phong",
+      "Lá Liễu",
+      "Lá Bàng"
+    ],
+    "10799": [
+      "Dịch hạch, dịch vị, dịch tễ đâu là chỉ một loại bệnh?",
+      "Dịch hạch",
+      "dịch vị",
+      "Dịch Tễ",
+      "Dịch dung"
+    ],
+    "10800": [
+      "Cái gì tuy nhẹ mà vẫn phải nặng?",
+      "Lời Nói",
+      "Bông gòn",
+      "Sắt ",
+      "Đá"
+    ],
+    "10801": [
+      "Loại mối nào đáng sợ nhất. (đố chữ)?",
+      "Mối hận.",
+      "Mối ăn gỗ",
+      "Mối ăn sắt",
+      "Mối chúa"
+    ],
+    "10802": [
+      "Cây gì bông mà ở trong trái?",
+      "Cây bông gòn;Cây gòn.",
+      "Trai Bóng",
+      "Cây Táo",
+      "Cây Sung"
+    ],
+    "10803": [
+      "Cá gì chưa già mà đã có râu?",
+      "Cá trê.",
+      "Cá Hú",
+      "Cá Chỉ Vàng",
+      "Cá Hồi"
+    ],
+    "10804": [
+      "Con rắn màu trắng gọi là gì?",
+      "Bạch xà.",
+      "Hãm XÀ",
+      "Hổ Mang",
+      "Đuôi Chuông"
+    ],
+    "10805": [
+      "Con rắn màu xanh gọi là gì?",
+      "Thanh Xà.",
+      "Hồng Xà",
+      "Vũ Xà",
+      "San hô"
+    ],
+    "10806": [
+      "Cây gì trồng lấy nước uống mà không lấy quả?",
+      "Cây mía.",
+      "Cây Dừa",
+      "Cây Táo",
+      "Cây sung"
+    ],
+    "10807": [
+      "Kể tên một loài động vật có khả năng phóng điện?",
+      "Cá chình.",
+      "Cá Ngựa",
+      "Cá Mập ",
+      "Cá Kiếm"
+    ],
+    "10808": [
+      "Cầu gì ngồi được không đi được?",
+      "Bồn Cầu",
+      "Cầu Khỉ",
+      "Cầu Tre",
+      "Cầu Dừa"
+    ],
+    "10809": [
+      "Cá gì có 4 màu?",
+      "Cá ngựa",
+      "Cá Phi lê",
+      "Cá sam",
+      "Cá Voi"
+    ],
+    "10810": [
+      "Cá gì có tên gắn liền với tên 1 dòng sông?",
+      "Cá Diêu Hồng",
+      "Cá Ngựa",
+      "Cá Trê",
+      "Cá Cơm"
+    ],
+    "10811": [
+      "Cá gì khi xuất hiện là lá rơi?",
+      "Cá thu",
+      "Cá Đông",
+      "Cá Ngựa",
+      "Cá hú"
+    ],
+    "10812": [
+      "3 con mèo ăn hết 3 con chuột trong vòng 3 phút. 111 con mèo ăn 111 con chuột trong bao lâu?",
+      "3 phút",
+      "4 phút",
+      "5 phút",
+      "6 phút"
+    ],
+    "10813": [
+      "Nếu bạn có điều kiện để đốt lửa, khi bạn vào một căn phòng tối có nến, đèn dầu và lò sưởi, bạn sẽ đốt cái gì trước?",
+      "Lửa",
+      "Lò sưởi",
+      "Nến",
+      "Đèn dầu"
+    ],
+    "10814": [
+      "Hoa gì nhìn choáng váng đầu?",
+      "Hoa mắt",
+      "Hoa Tai",
+      "Hoa Hậu",
+      "Hoa Sen"
+    ],
+    "10815": [
+      "Con gì nhỏ nhất?",
+      "Con virus",
+      "Con Bò",
+      "Con chuột",
+      "Con Dế"
+    ],
+    "10816": [
+      "Xe gì có bốn bánh, không có động cơ nhưng có khói?",
+      "Xe mì gõ",
+      "Xe Ô-tô",
+      "Xe Mô tô",
+      "Xe đạp điện"
+    ],
+    "10817": [
+      "Trong 1 căn phòng có 4 con mèo. Trước mặt mỗi con có 3 con mèo khác. Vậy tổng cộng có mấy con mèo?",
+      "4",
+      "2",
+      "5",
+      "7"
+    ],
+    "10818": [
+      "Một đàn nai hăm hở chạy vào rừng. Sụp xuống hầm chông chết mất 7 con. Hỏi đàn nai còn lại mấy con?",
+      "45",
+      "37",
+      "3",
+      "12"
+    ],
+    "10819": [
+      "Tưởng tượng bạn có 6 quả táo, bạn ăn hết 1 quả, cho ba 3 quả, cho mẹ 1 quả, vậy bạn có mấy quả táo?",
+      "0",
+      "1",
+      "6",
+      "9"
+    ],
+    "10820": [
+      "Vì sao người ta gọi cái nhà có khuôn viên xung quanh và có rất nhiều phòng... là biệt thự?",
+      "Nhà lớn",
+      "Nhà Nhỏ",
+      "Nhà Giam",
+      "Nhà Bạn"
+    ],
+    "10821": [
+      "Cái gì yếu đến nỗi chỉ cần kêu một tiếng là nó vỡ ngay lập tức?",
+      "Im lặng",
+      "Cái Bao",
+      "Cái Búa",
+      "Cái Kéo"
+    ],
+    "10822": [
+      "Cái gì Adam có hai mà Eva chỉ có một?",
+      "Chữ A",
+      "Chữ V",
+      "Chữ D",
+      "Chữ E"
+    ],
+    "10823": [
+      "Có một dòng sông nước chảy rất xiết, không có tàu bè nào qua lại. Làm sao để qua được bờ bên kia đây các bạn?",
+      "Qua cầu",
+      "Nhảy qua",
+      "Bước qua",
+      "Phi qua"
+    ],
+    "10824": [
+      "Có một con vịt đi trước một con vịt, một con vịt đi trước hai con vịt. Đếm xem có mấy con vịt?",
+      "3",
+      "6",
+      "9",
+      "12"
+    ],
+    "10825": [
+      "Chị em phụ nữ muốn giữ đôi bàn tay búp măng ngòi viết được mềm mại mịn màng thì nên làm gì để có hiệu quả nhất?",
+      "Làm biếng",
+      "Làm cá",
+      "Làm tàu",
+      "Làm nông"
+    ],
+    "10826": [
+      "Cà phê đắng em bỏ thêm đường ngọt. Tình đắng rồi em biết bỏ gì đây?",
+      "Bỏ anh",
+      "Bỏ Nhậu",
+      "Bỏ Nghiệp",
+      "Bỏ game"
+    ],
+    "10827": [
+      "Trong các loài lưỡng cư sau đây, loài nào không có giống cái?",
+      "Cóc tía",
+      "Rắn",
+      "Sư tử",
+      "Cọp"
+    ],
+    "10828": [
+      "Con gì chín mắt, chín đuôi, chín đầu?",
+      "Tôm nướng",
+      "Tôm Hùm",
+      "Cua",
+      "Cá"
+    ],
+    "10829": [
+      "Phải dùng cái gì để có thể biến chàng trai thành ông lão một cách mau chóng?",
+      "Photoshop",
+      "Mở rương",
+      "Hết Tiền",
+      "Cá Độ Thua"
+    ],
+    "10830": [
+      "Lỗ rốn của con thằn lằn nằm ở đâu?",
+      "Không có",
+      "Dưới bàn chân",
+      "Dưới đuôi",
+      "Trên đầu"
+    ],
+    "10831": [
+      "Cái gì khi mua về người ta phải đập cho bể thì mới có thể dùng được?",
+      "Trứng gà",
+      "Táo ",
+      "Dừa xiêm",
+      "Lê"
+    ],
+    "10832": [
+      "Phương tiện nào được sử dụng trong bài hát '12 giờ'?",
+      "Xe đạp",
+      "Xe Ô-tô",
+      "Xe Mô tô",
+      "Xe đạp điện"
+    ],
+    "10833": [
+      "Xe nào không bao giờ giảm đi?",
+      "xe tăng",
+      "Xe hàng",
+      "Xe tải",
+      "Xe du lịch"
+    ],
+    "10834": [
+      "Môn thể thao nào mà người ta chỉ đi bộ, ít khi chạy trên cỏ?",
+      "Đánh golf.",
+      "Tennis",
+      "Đá banh",
+      "Bóng rổ"
+    ],
+    "10835": [
+      "Con gì biết đi nhưng người ta vẫn nói nó không biết đi?",
+      "Con bò.",
+      "Con Trâu",
+      "Con Ngựa",
+      "Con Vịt"
+    ],
+    "10836": [
+      "Khu vực Đông Nam Á gồm có bao nhiêu nước?",
+      "11 nước.",
+      "10 nước",
+      "8 nước ",
+      "13 nước"
+    ],
+    "10837": [
+      "Rượu vang được lên men từ loại quả nào là chủ yếu?",
+      "Quả nho",
+      "Táo ",
+      "Đào",
+      "Mận"
+    ],
+    "10838": [
+      "Sông gì có nước mắt?",
+      "Nhật Lệ.",
+      "Sông Vàm Cỏ",
+      "Sông Hồng ",
+      "Sông MeKong"
+    ],
+    "10839": [
+      "Có một hồ nước lớn, bên cạnh hồ nước có 1 viên gạch. Vậy ném viên gạch xuống hồ có nổi không?",
+      "Ném nổi",
+      "Không Nổi",
+      "Chìm",
+      "Lặn"
+    ],
+    "10840": [
+      "Con gì chuyên ăn cỏ?",
+      "Con Ngựa",
+      "Con Sư Tử ",
+      "Con Sói",
+      "Con cá mập"
+    ],
+    "10841": [
+      "Cây gì không có lá?",
+      "Cột điện",
+      "Cây dừa",
+      "Cây đa",
+      "Cây đu đủ"
+    ],
+    "10842": [
+      "Nữ rapper Việt nào từng được tổng thống Obama yêu cầu đọc rap?",
+      "Suboi",
+      "Binz",
+      "Đen Vâu",
+      "Huỳnh Lập"
+    ],
+    "10843": [
+      "Trong lúc Suboi đọc rap, tổng thống Obama đã làm gì",
+      "Đứng nghe",
+      "Ngồi Nghe",
+      "Đọc Rap",
+      "Đọc bài"
+    ],
+    "10844": [
+      "Ca sĩ Trịnh Thăng Bình từng là thanh viên nhóm nhạc nào?",
+      "La Thăng",
+      "Phi Thăng",
+      "1080",
+      "Zero 9"
+    ],
+    "10845": [
+      "Siêu Nhân Điện Quang xuất hiện lúc nào? ",
+      "Lúc Quái Vật xuất hiện",
+      "Lúc Buồn",
+      "Lúc Đi chơi",
+      "Lúc nhảy đầm"
+    ],
+    "10846": [
+      "Loại quả nào ôm nỗi buồn 1 mình?",
+      "Sầu riêng",
+      "Xoài",
+      "Mít",
+      "Mận"
+    ],
+    "10847": [
+      "Trong bài hát 'Hà Nội 12 mùa hoa', hoa loa kèn gắn với tháng nào?",
+      "Tháng 4",
+      "Tháng 8",
+      "Tháng 12",
+      "tháng 5"
+    ],
+    "10848": [
+      "Tỉnh nào nước ta có tên nghe nửa ruộng nửa rừng",
+      "Lâm Đồng",
+      "Đồng Nai",
+      "Bình thuận",
+      "Bình Dương"
+    ],
+    "10849": [
+      "Loại bánh gì không ăn được?",
+      "Bánh xe",
+      "Bán Rán",
+      "Bánh Bò",
+      "Bánh Tiêu"
+    ],
+    "10850": [
+      "Tác giả của 'Văn tế nghĩa sĩ Cần Giuộc' là ai?",
+      "Nguyễn Đình Chiểu",
+      "Nguyễn Văn Ba",
+      "Nguyễn Hào",
+      "Nguyễn Khắc Hưng"
+    ],
+    "10851": [
+      "Động vật lớn nhất hiện nay là con gì?",
+      "Cá voi xanh.",
+      "Cá Mập",
+      "Con Bạn",
+      "Con Heo"
+    ],
+    "10852": [
+      "Nỗi sợ lớn nhất của mèo máy Doremon là gì?",
+      "Chuột",
+      "Mèo",
+      "Chó",
+      "Chim"
+    ],
+    "10853": [
+      "Sa mạc nào có diện tích lớn nhất Thế Giới?",
+      "Sahara.",
+      "Sa mạc lời",
+      "Vũng tàu",
+      "Sa Mạc Gobi"
+    ],
+    "10854": [
+      "So với Trái Đất, Mặt trăng lớn hơn hay nhỏ hơn?",
+      "nhỏ hơn.",
+      "Bự Hơn",
+      "Lâu Hơn",
+      "Dài Hơn"
+    ],
+    "10855": [
+      "Ăn gì không no nhưng ai cũng thích?",
+      "Ăn tiền.",
+      "Ăn Cơm",
+      "Ăn Quỵt",
+      "Ăn sang"
+    ],
+    "10856": [
+      "Quan âm Thị Kính' là vở diễn nổi tiếng của loại hình nghệ thuật nào?",
+      "Chèo",
+      "Cải Lương",
+      "Rap",
+      "bolero"
+    ],
+    "10857": [
+      "Dê nào mà các học trò không bao giờ thích?",
+      "Zero ",
+      "Dê Núi",
+      "Dê Đực",
+      "Dê cái"
+    ],
+    "10858": [
+      "Từ nào trong tiếng Việt có 12 chữ Y?",
+      "Y tá",
+      "Y tế",
+      "YY",
+      "Y đức"
+    ],
+    "10859": [
+      "Trong 12 con giáp, tuất là con gì?",
+      "Chó",
+      "Mèo",
+      "Sư Tử",
+      "Bò"
+    ],
+    "10860": [
+      "Trong 12 con giáp, hợi là con gì?",
+      "Heo",
+      "Bò Cạp",
+      "Rắn mối",
+      "Rồng"
+    ],
+    "10861": [
+      "Huyền Vũ là con gì?",
+      "Rùa",
+      "Lân",
+      "Cá",
+      "Rắn"
+    ],
+    "10862": [
+      "Chu Tước là con gì?",
+      "Phụng",
+      "Đà Điểu",
+      "Đại Bàng",
+      "Rồng"
+    ],
+    "10863": [
+      "Thanh Long là con gì?",
+      "Rồng",
+      "Cọp",
+      "Cua",
+      "Dê"
+    ],
+    "10864": [
+      "Kỳ trong Cầm Kỳ Thi Họa là chỉ?",
+      "Cờ",
+      "Hình",
+      "Hoa",
+      "Thơ"
+    ],
+    "10865": [
+      "Thi trong Cầm Kỳ Thi Họa là chỉ?",
+      "Thơ",
+      "Đàn",
+      "Cờ",
+      "Họa"
+    ],
+    "10866": [
+      "Cầm trong Cầm Kỳ Thi Họa là chỉ?",
+      "Đàn",
+      "Bơ ",
+      "Tỏi",
+      "Đậu Hủ"
+    ],
+    "10867": [
+      "Họa trong Cầm Kỳ Thi Họa là chỉ?",
+      "Vẽ",
+      "Thơ",
+      "Hồng",
+      "Phát"
+    ],
+    "10868": [
+      "Giống kẹo nhưng không phải kẹo cũng không thể ăn?",
+      "Cục gôm",
+      "Cây bút",
+      "Giấy",
+      "Tập"
+    ],
+    "10869": [
+      "Một con trai cộng một con gái sẽ thành con gì?",
+      "2 con người",
+      "Con cá",
+      "Con gà",
+      "Cái chợ"
+    ],
+    "10870": [
+      "Cái gì không thể mua được?",
+      "Di chúc",
+      "Xăng",
+      "Vàng",
+      "Kim cương"
+    ],
+    "10871": [
+      "Tham gia thi cử, điều quan trọng hơn cả việc chuẩn bị kiến thức là gì?",
+      "Phải đi thi",
+      "Chuẩn bị bài",
+      "Học bài",
+      "Làm bài tập"
+    ],
+    "10872": [
+      "Một vật nhìn giống cây đèn, nhưng sao nó không sáng, đó là gì?",
+      "Đèn hư",
+      "Mặt trời",
+      "Mặt trăng",
+      "Ngôi sao"
+    ],
+    "10873": [
+      "Phường nào bán đồ mắc nhất?",
+      "Phường Lưu Ly",
+      "Phường ăn cướp",
+      "Phường Thêu",
+      "Phường xã"
+    ],
+    "10874": [
+      "tàu nào chìm vẫn đi được?",
+      "tàu ngầm",
+      "Tàu hỏa",
+      "Tàu thủy",
+      "Tàu lớn"
+    ],
+    "10875": [
+      "Hôn chia tay gọi là gì?",
+      "ly hôn",
+      "Hôn môi xa",
+      "Hôn kiểu pháp",
+      "Hôn đại"
+    ],
+    "10876": [
+      "Ai chỉ làm việc một ngày trong năm nhưng không bao giờ bị sa thải?",
+      "Ông già Noel",
+      "Ông Nội",
+      "Ông Bạn",
+      "Ông Hai"
+    ],
+    "10877": [
+      "Cái gì chỉ thuộc về bạn nhưng lại được người khác sử dụng nhiều hơn bạn.",
+      "Tên Của bạn",
+      "Tiền của bạn",
+      "Người yêu bạn",
+      "Nhân Vật Game"
+    ],
+    "10878": [
+      "Cái gì người có phải đi xin người không có?",
+      "Xin lỗi",
+      "Xin việc",
+      "Xin nước mắm",
+      "Xin muối"
+    ],
+    "10879": [
+      "Nơi nào trên thế giới đàn ông sống vất vả nhất?",
+      "Nam Cực",
+      "Ở Nhà ",
+      "Chổ Làm",
+      "Bắc Cực"
+    ]
+  }
+}

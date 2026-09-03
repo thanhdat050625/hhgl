@@ -1,0 +1,105 @@
+{
+  "colMap": [
+    "planId",
+    "name",
+    "desc",
+    "icon",
+    "itemId",
+    "type",
+    "effect",
+    "maximum",
+    "cost"
+  ],
+  "list": {
+    "10001": [
+      1,
+      "Đạo cụ thời gian",
+      "Trận này tăng 30s",
+      "btn_myth_a9",
+      0,
+      1,
+      30,
+      1,
+      [
+        [
+          2,
+          8,
+          80
+        ]
+      ]
+    ],
+    "10002": [
+      1,
+      "Hỏa Nhãn Kim Tinh",
+      "Nhanh chóng tìm 1 mục tiêu",
+      "btn_myth_a8",
+      0,
+      2,
+      1,
+      3,
+      [
+        [
+          2,
+          8,
+          30
+        ]
+      ]
+    ],
+    "10004": [
+      1,
+      "Đạo cụ thời gian trong trận",
+      "Trận này tăng 10s",
+      "btn_myth_a9",
+      10480,
+      4,
+      10,
+      5,
+      []
+    ],
+    "20001": [
+      2,
+      "Đạo cụ thời gian",
+      "Trận này tăng 30s",
+      "btn_myth_a9",
+      0,
+      1,
+      30,
+      1,
+      [
+        [
+          2,
+          8,
+          80
+        ]
+      ]
+    ],
+    "20002": [
+      2,
+      "Hỏa Nhãn Kim Tinh",
+      "Nhanh chóng tìm 1 mục tiêu",
+      "btn_myth_a8",
+      0,
+      2,
+      1,
+      3,
+      [
+        [
+          2,
+          8,
+          30
+        ]
+      ]
+    ],
+    "20004": [
+      2,
+      "Đạo cụ thời gian trong trận",
+      "Trận này tăng 10s",
+      "btn_myth_a9",
+      10481,
+      4,
+      10,
+      5,
+      []
+    ]
+  }
+}

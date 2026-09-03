@@ -1,0 +1,226 @@
+{
+  "colMap": [
+    "activityId",
+    "suitId",
+    "dialogue",
+    "voiceId"
+  ],
+  "list": {
+    "10001": [
+      1120101,
+      2325,
+      "Con chỉ mong phụ mẫu muội muội được bình an thuận lợi.",
+      "zh0201"
+    ],
+    "10002": [
+      1120101,
+      2325,
+      "Nếu như gió hiểu được ý mai, xin đừng để hoa chóng tàn.",
+      "zh0202"
+    ],
+    "10003": [
+      1120101,
+      2325,
+      "Được một người yêu thương, bạc đầu không xa cách.",
+      "zh0203"
+    ],
+    "10011": [
+      1120101,
+      2339,
+      "Thần thiếp tài hèn sức mọn, khiến Hoàng Thượng chê cười rồi.",
+      "zh0301"
+    ],
+    "10012": [
+      1120101,
+      2339,
+      "Điệu Kinh Hồng Vũ thần thiếp vừa múa, là phỏng theo bản cũ của Mai Phi.",
+      "zh0302"
+    ],
+    "10013": [
+      1120101,
+      2339,
+      "Chỉ là tiểu lưu huỳnh, làm sao dám sánh với ánh nhật nguyệt của tiên Hoàng Hậu.",
+      "zh0303"
+    ],
+    "10021": [
+      1120101,
+      2340,
+      "Đã nhiều năm không gặp muội muội, muội muội vẫn như xưa.",
+      "zh0101"
+    ],
+    "10022": [
+      1120101,
+      2340,
+      "Hoàng Thượng hậu ái, thần thiếp không dám nhận.",
+      "zh0102"
+    ],
+    "10023": [
+      1120101,
+      2340,
+      "Đúng là kỳ hương, khiến cho thần thiếp nhớ đến hương lê đầy sân ở Túy Ngọc Hiên.",
+      "zh0103"
+    ],
+    "10031": [
+      1120101,
+      2331,
+      "Thần thiếp không sai, tại sao phải quỳ.",
+      "zh0401"
+    ],
+    "10032": [
+      1120101,
+      2331,
+      "Sớm biết bị Hoàng Thượng nghi ngờ tới mức này, thà là ban đầu thiếp chịu cô khổ suốt đời ở Lăng Vân Phong còn hơn.",
+      "zh0402"
+    ],
+    "10033": [
+      1120101,
+      2331,
+      "Tấm thân này của thần thiếp từ nay được minh bạch rồi.",
+      "zh0403"
+    ],
+    "10101": [
+      1120102,
+      2554,
+      "Đời người, vốn dĩ cái gì cũng không biết ư?",
+      "cxs0101"
+    ],
+    "10102": [
+      1120102,
+      2554,
+      "Không biết người có tình có thể nên duyên hay không, không biết vợ chồng thương yêu có thể bên nhau đến răng long đầu bạc, thậm chí ngay cả ngày mai, cũng không biết sẽ xảy ra chuyện gì.",
+      "cxs0102"
+    ],
+    "10103": [
+      1120102,
+      2554,
+      "Trong bảy ngày này, không có gì xảy ra là số phận, có chuyện xảy ra cũng là số phận.",
+      "cxs0103"
+    ],
+    "10111": [
+      1120102,
+      2555,
+      "Ta là Hạo Lĩnh Vương Cơ, bọn họ không dám giết ta đâu, hãy tin ta hãy tin ta",
+      "cxs0401"
+    ],
+    "10112": [
+      1120102,
+      2555,
+      "Người thật sự không phải là chàng?",
+      "cxs0402"
+    ],
+    "10113": [
+      1120102,
+      2555,
+      "Uống cạn chén rượu này, tự khắc sẽ biết.",
+      "cxs0403"
+    ],
+    "10121": [
+      1120102,
+      2546,
+      "Người khác căn cứ vào ngoại hình, của cải, biểu hiện bên ngoài để đánh giá ngươi, lẽ nào bản thân ngươi không biết mình là ai ư?",
+      "cxs0301"
+    ],
+    "10122": [
+      1120102,
+      2546,
+      "Quan hệ giữa người với người, luôn cần có người bước ra bước đầu tiên, quan hệ nam nữ cũng vậy, quan hệ cha mẹ với con cái cũng thế.",
+      "cxs0302"
+    ],
+    "10123": [
+      1120102,
+      2546,
+      "Tuy rằng... tuy rằng khả năng rất nhỏ... nhưng ta vẫn sợ, chỉ hơi bất cẩn, người sẽ đi vào trong mộng của ta.",
+      "cxs0303"
+    ],
+    "10131": [
+      1120102,
+      2553,
+      "Đến đi, chẳng phải muốn giết ta ư? Tiếp tục đi, ta xem các người rốt cuộc còn có thể giở trò gì?",
+      "cxs0201"
+    ],
+    "10132": [
+      1120102,
+      2553,
+      "Ngươi và ta chưa từng gặp mặt, ta đã làm chuyện gì khiến ngươi hận ta như vậy?",
+      "cxs0202"
+    ],
+    "10133": [
+      1120102,
+      2553,
+      "Các ngươi giết nhầm người rồi, ta là con gái của Hạo Lĩnh Vương.",
+      "cxs0203"
+    ],
+    "10201": [
+      1120103,
+      2665,
+      "Nếu không quay về, tỷ tỷ ắt sẽ lo lắng.",
+      "bbjx0201"
+    ],
+    "10202": [
+      1120103,
+      2665,
+      "Chuyện lớn đã nghe theo rồi, cần gì phải so đo chuyện nhỏ, để người thân đau lòng, kẻ thù lại hả hê.",
+      "bbjx0202"
+    ],
+    "10203": [
+      1120103,
+      2665,
+      "Vì ngài vui là vui, không vui là không vui. Không giống những người đó, nói mấy câu mà vòng vo mấy vòng. Trong lòng đánh giá, ngoài mặt lại cười.",
+      "bbjx0203"
+    ],
+    "10211": [
+      1120103,
+      2652,
+      "Từ nay về sau, ta và ngài không còn liên quan nữa.",
+      "bbjx0301"
+    ],
+    "10212": [
+      1120103,
+      2652,
+      "Ta muốn làm hoàng hậu.",
+      "bbjx0302"
+    ],
+    "10213": [
+      1120103,
+      2652,
+      "Vậy ngài có thể hứa với ta điều gì?",
+      "bbjx0303"
+    ],
+    "10221": [
+      1120103,
+      2628,
+      "Quay về đi, ta hiểu tấm lòng của ngài rồi.",
+      "bbjx0401"
+    ],
+    "10222": [
+      1120103,
+      2628,
+      "Nước không có nguồn sạch nhất, văn nhân nhã sĩ chuyên trữ nó để pha trà đó.",
+      "bbjx0402"
+    ],
+    "10223": [
+      1120103,
+      2628,
+      "Cho dù là Thập Gia, hay là ngài, ta đều sẽ làm.",
+      "bbjx0403"
+    ],
+    "10231": [
+      1120103,
+      2659,
+      "Ngài phải chăm sóc tốt cho mình.",
+      "bbjx0101"
+    ],
+    "10232": [
+      1120103,
+      2659,
+      "Có thể kiếp này hết duyên gặp lại rồi.",
+      "bbjx0102"
+    ],
+    "10233": [
+      1120103,
+      2659,
+      "Ta không biết nữa, có lúc muốn buông, có lúc lại không thể dứt ra. ",
+      "bbjx0103"
+    ]
+  }
+}

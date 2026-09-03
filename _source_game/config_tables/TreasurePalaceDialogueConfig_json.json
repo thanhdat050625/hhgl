@@ -1,0 +1,442 @@
+{
+  "colMap": [
+    "planId",
+    "belongMan",
+    "dialogueType",
+    "dialogue"
+  ],
+  "list": {
+    "10001": [
+      1,
+      10001,
+      1,
+      "Để ta xem, cái gì rớt rồi? \n<font color=0xfeffa5>$[0]</font>"
+    ],
+    "10011": [
+      2,
+      10001,
+      1,
+      "Để ta xem, cái gì rớt rồi? \n<font color=0xfeffa5>$[0]</font>"
+    ],
+    "12001": [
+      1,
+      10001,
+      2,
+      "Uyển Quân hôm nay rảnh, có thể giúp ta một việc không?"
+    ],
+    "12002": [
+      1,
+      10001,
+      2,
+      "Uyển Quân lúc tìm đồ cũng nên chú ý thân thể của mình."
+    ],
+    "12003": [
+      1,
+      10001,
+      2,
+      "Nếu cần ta giúp đỡ, ta sẽ cố hết sức."
+    ],
+    "12004": [
+      1,
+      10001,
+      2,
+      "Ta tìm giúp ngươi, như vậy ngươi sẽ không mệt mỏi."
+    ],
+    "12005": [
+      1,
+      10001,
+      2,
+      "Lần này không thể tìm được, ta tin Uyển Quân lần sau có thể tìm được."
+    ],
+    "12011": [
+      2,
+      10001,
+      2,
+      "Uyển Quân hôm nay rảnh, có thể giúp ta một việc không?"
+    ],
+    "12012": [
+      2,
+      10001,
+      2,
+      "Uyển Quân lúc tìm đồ cũng nên chú ý thân thể của mình."
+    ],
+    "12013": [
+      2,
+      10001,
+      2,
+      "Uyển Quân, nắm chặt tay ta, Hội Chùa nhiều người, đừng bị lạc..."
+    ],
+    "12014": [
+      2,
+      10001,
+      2,
+      "Đừng lo, ta luôn bên nàng, không đi đâu cả."
+    ],
+    "12015": [
+      2,
+      10001,
+      2,
+      "Uyển Quân, nàng xem ta phát hiện thứ gì?"
+    ],
+    "13001": [
+      1,
+      10001,
+      3,
+      "Tới đây, ta chỉ ngươi cách tìm được nó."
+    ],
+    "13002": [
+      1,
+      10001,
+      3,
+      "Cẩn thận một chút, đừng để bản thân bị thương."
+    ],
+    "13003": [
+      1,
+      10001,
+      3,
+      "Muốn ta dạy cưỡi ngựa bắn cung sao?"
+    ],
+    "13011": [
+      2,
+      10001,
+      3,
+      "Tới đây, ta chỉ ngươi cách tìm được nó."
+    ],
+    "13012": [
+      2,
+      10001,
+      3,
+      "Uyển Quân, tự tin lên, nàng sẽ làm được."
+    ],
+    "13013": [
+      2,
+      10001,
+      3,
+      "Đừng thất vọng, ta sẽ giúp nàng."
+    ],
+    "20001": [
+      1,
+      10002,
+      1,
+      "Đậu Hà Lan tiểu thư, ngươi tìm được cái gì?\n<font color=0xfeffa5>$[0]</font>"
+    ],
+    "20011": [
+      2,
+      10002,
+      1,
+      "Đậu Hà Lan tiểu thư, ngươi tìm được cái gì?\n<font color=0xfeffa5>$[0]</font>"
+    ],
+    "22001": [
+      1,
+      10002,
+      2,
+      "Uyển Đậu tiểu thư, chúng ta tới chơi trò chơi đi!"
+    ],
+    "22002": [
+      1,
+      10002,
+      2,
+      "Nghe nói trong cung có bảo tàng, chúng ta cùng đi tìm xem!"
+    ],
+    "22003": [
+      1,
+      10002,
+      2,
+      "Ơ, có thị vệ tuần tra! Chúng ta chạy mau!"
+    ],
+    "22004": [
+      1,
+      10002,
+      2,
+      "Cái này là bảo tàng chúng ta muốn tìm sao?"
+    ],
+    "22005": [
+      1,
+      10002,
+      2,
+      "Đừng buồn, tuy như vậy cũng rất đẹp, nhưng ta vẫn thích Uyển Đậu tiểu thư vui vẻ."
+    ],
+    "22011": [
+      2,
+      10002,
+      2,
+      "Uyển Đậu tiểu thư, chúng ta tới chơi trò chơi đi!"
+    ],
+    "22012": [
+      2,
+      10002,
+      2,
+      "Cái này là bảo tàng chúng ta muốn tìm sao?"
+    ],
+    "22013": [
+      2,
+      10002,
+      2,
+      "Hội Chùa náo nhiệt, nhưng bảo tàng của chúng ta ở đâu?"
+    ],
+    "22014": [
+      2,
+      10002,
+      2,
+      "Uyển Đậu tiểu thư mau xem thử, đồ chơi này hay lắm!"
+    ],
+    "22015": [
+      2,
+      10002,
+      2,
+      "Uyển Đậu tiểu thư tặng cho ta, ta phải cất cẩn thận!"
+    ],
+    "23001": [
+      1,
+      10002,
+      3,
+      "Cùng Uyển Đậu tiểu thư chơi trò chơi, rất vui!"
+    ],
+    "23002": [
+      1,
+      10002,
+      3,
+      "Ngươi đừng sợ! Ngươi hoảng sợ ta cũng luống cuống."
+    ],
+    "23003": [
+      1,
+      10002,
+      3,
+      "Uyển Đậu tiểu thư, mang thứ đó cho ta."
+    ],
+    "23011": [
+      2,
+      10002,
+      3,
+      "Cùng Uyển Đậu tiểu thư chơi trò chơi, rất vui!"
+    ],
+    "23012": [
+      2,
+      10002,
+      3,
+      "Uyển Đậu tiểu thư, cố lên!"
+    ],
+    "23013": [
+      2,
+      10002,
+      3,
+      "Không tìm thấy không sao, vui vẻ là được!"
+    ],
+    "30001": [
+      1,
+      10003,
+      1,
+      "Cứ yên tâm tìm kiếm, trẫm ở đây, không ai cản nàng. \n<font color=0xfeffa5>$[0]</font>"
+    ],
+    "30011": [
+      2,
+      10003,
+      1,
+      "Cứ yên tâm tìm kiếm, trẫm ở đây, không ai cản nàng. \n<font color=0xfeffa5>$[0]</font>"
+    ],
+    "32001": [
+      1,
+      10003,
+      2,
+      "Nhìn nàng ngày thường cũng thông minh, trẫm giao cho một nhiệm vụ."
+    ],
+    "32002": [
+      1,
+      10003,
+      2,
+      "Hôm nay rảnh, lại đây, trẫm có chuyện tìm nàng."
+    ],
+    "32003": [
+      1,
+      10003,
+      2,
+      "Dùng thông minh của nàng, thứ này rất dễ tìm."
+    ],
+    "32004": [
+      1,
+      10003,
+      2,
+      "Thế nào, không tìm thấy liền khóc với trẫm?"
+    ],
+    "32005": [
+      1,
+      10003,
+      2,
+      "Đồ ngốc, không tìm thấy không biết tìm trẫm sao."
+    ],
+    "32011": [
+      2,
+      10003,
+      2,
+      "Dùng thông minh của nàng, thứ này rất dễ tìm."
+    ],
+    "32012": [
+      2,
+      10003,
+      2,
+      "Đến đây, trẫm có việc tìm nàng."
+    ],
+    "32013": [
+      2,
+      10003,
+      2,
+      "Nàng nhỏ bé như vậy, đừng để bị đám đông cuốn đi."
+    ],
+    "32014": [
+      2,
+      10003,
+      2,
+      "Tìm được rồi sao? Xem ra trẫm dạy rất tốt."
+    ],
+    "32015": [
+      2,
+      10003,
+      2,
+      "Nàng thật là, vì muốn ăn một miếng, mà khiến trẫm suýt nữa không tìm được nàng!"
+    ],
+    "33001": [
+      1,
+      10003,
+      3,
+      "Nói muốn luyện chữ, cuối cùng lại lười biếng?"
+    ],
+    "33002": [
+      1,
+      10003,
+      3,
+      "Đừng lười biếng, ngày mai trẫm sẽ kiểm tra."
+    ],
+    "33003": [
+      1,
+      10003,
+      3,
+      "Nàng ngoan ngoãn, tìm được đồ vật trẫm có thưởng."
+    ],
+    "33011": [
+      2,
+      10003,
+      3,
+      "Nàng ngoan ngoãn, tìm được đồ vật trẫm có thưởng."
+    ],
+    "33012": [
+      2,
+      10003,
+      3,
+      "Dễ dàng bỏ cuộc không giống như tính cách của nàng!"
+    ],
+    "33013": [
+      2,
+      10003,
+      3,
+      "Mệt rồi? Trẫm cho nàng mượn bờ vai."
+    ],
+    "40001": [
+      1,
+      10004,
+      1,
+      "Tập trung chú ý, chúng ta cùng nhau tìm đồ vật. \n<font color=0xfeffa5>$[0]</font>"
+    ],
+    "40011": [
+      2,
+      10004,
+      1,
+      "Tập trung chú ý, chúng ta cùng nhau tìm đồ vật. \n<font color=0xfeffa5>$[0]</font>"
+    ],
+    "42001": [
+      1,
+      10004,
+      2,
+      "Nếu tới rồi, hãy giúp ta tìm một việc."
+    ],
+    "42002": [
+      1,
+      10004,
+      2,
+      "Ách...đây là tinh bàn, không phải la bàn phong thủy."
+    ],
+    "42003": [
+      1,
+      10004,
+      2,
+      "Không tìm được không sao, tìm lại thôi."
+    ],
+    "42004": [
+      1,
+      10004,
+      2,
+      "Lúc tìm đồ cẩn thận chút, đừng làm hỏng nhé."
+    ],
+    "42005": [
+      1,
+      10004,
+      2,
+      "Không sao, tìm từ từ, tìm nhiều lần sẽ thấy."
+    ],
+    "42011": [
+      2,
+      10004,
+      2,
+      "Nếu tới rồi, hãy giúp ta tìm một việc."
+    ],
+    "42012": [
+      2,
+      10004,
+      2,
+      "Không sao, tìm từ từ, tìm nhiều lần sẽ thấy."
+    ],
+    "42013": [
+      2,
+      10004,
+      2,
+      "Ta không thích chỗ đông người...chúng ta đi thôi…"
+    ],
+    "42014": [
+      2,
+      10004,
+      2,
+      "Mấy món đồ chơi nhỏ, nếu nàng thích, ta sẽ làm cho nàng."
+    ],
+    "42015": [
+      2,
+      10004,
+      2,
+      "Nàng đang tìm gì, sao gọi ta vội thế."
+    ],
+    "43001": [
+      1,
+      10004,
+      3,
+      "Chỗ ta có rất nhiều dụng cụ, nàng muốn xem không?"
+    ],
+    "43002": [
+      1,
+      10004,
+      3,
+      "Nàng thích ngắm sao không?"
+    ],
+    "43003": [
+      1,
+      10004,
+      3,
+      "Ngắm sao, đếm giờ, giải mã đều là chuyện thú vị."
+    ],
+    "43011": [
+      2,
+      10004,
+      3,
+      "Nàng phải bình tĩnh, sẽ tìm được thôi."
+    ],
+    "43012": [
+      2,
+      10004,
+      3,
+      "Một chút trở ngại, ta tin nàng sẽ tốt hơn."
+    ],
+    "43013": [
+      2,
+      10004,
+      3,
+      "Đừng khóc nữa, ta cùng tìm với nàng."
+    ]
+  }
+}

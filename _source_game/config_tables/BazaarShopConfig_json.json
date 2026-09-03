@@ -1,0 +1,110 @@
+{
+  "colMap": [
+    "shopId",
+    "name",
+    "icon",
+    "desc",
+    "effect",
+    "limitCount",
+    "limitCount2",
+    "originalPrice"
+  ],
+  "list": {
+    "10001": [
+      1,
+      "Vé Vui Chơi",
+      "100348",
+      "Sau khi mua, thời gian câu cá tăng 10s, duy trì 24h. Trong thời gian hiệu lực, không thể mua tiếp.",
+      86400,
+      -1,
+      1,
+      [
+        [
+          2,
+          8,
+          30
+        ]
+      ]
+    ],
+    "10002": [
+      1,
+      "Bom",
+      "100349",
+      "Mua xong, Bom sẽ xuất hiện dưới nước, cá cắn câu sẽ nổ, tiêu diệt cá diện rộng. Có thể mua nhiều, nhưng sát thương cực lớn, mỗi trận chỉ dùng 1.",
+      0,
+      -1,
+      -1,
+      [
+        [
+          2,
+          8,
+          10
+        ]
+      ]
+    ],
+    "10101": [
+      2,
+      "Kéo",
+      "100354",
+      "Dùng xong, cắt tơ lụa từ 2 đơn vị trở lên cắt thành 1 đơn vị số lượng tương ứng",
+      0,
+      1,
+      -1,
+      [
+        [
+          2,
+          8,
+          40
+        ]
+      ]
+    ],
+    "10102": [
+      2,
+      "Túi Cùng Màu",
+      "100355",
+      "Dùng xong, có thể xóa tơ lụa màu ngẫu nhiên",
+      0,
+      1,
+      -1,
+      [
+        [
+          2,
+          8,
+          10
+        ]
+      ]
+    ],
+    "10201": [
+      3,
+      "Bút Ký Hiệu",
+      "100379",
+      "Dùng xong, liên tiếp 3 lần nhảy, khi tụ lực sẽ xuất hiện đường ký hiệu.",
+      3,
+      1,
+      -1,
+      [
+        [
+          2,
+          8,
+          10
+        ]
+      ]
+    ],
+    "10202": [
+      3,
+      "La Bàn",
+      "100378",
+      "Dùng xong, liên tiếp 3 lần sẽ nhảy vào vị trí chính giữa cọc dù tụ lực nhiều hay ít.",
+      3,
+      1,
+      -1,
+      [
+        [
+          2,
+          8,
+          20
+        ]
+      ]
+    ]
+  }
+}

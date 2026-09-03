@@ -1,0 +1,25 @@
+{
+  "colMap": [
+    "activityId",
+    "des",
+    "targetValue",
+    "extra",
+    "type"
+  ],
+  "list": {
+    "10001": [
+      330101,
+      "Trong thời gian SK, VIP nhận miễn phí.",
+      1,
+      0,
+      1
+    ],
+    "10002": [
+      330101,
+      "Trong sự kiện, tích lũy $[0] ngày, Sôi Nổi mỗi ngày đạt $[1] điểm.",
+      7,
+      140,
+      2
+    ]
+  }
+}

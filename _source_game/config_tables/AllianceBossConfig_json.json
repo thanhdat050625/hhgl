@@ -1,0 +1,442 @@
+{
+  "colMap": [
+    "bossName",
+    "bossRes",
+    "icon",
+    "fightRes",
+    "dialog",
+    "context",
+    "lvLimit",
+    "wealthPrice",
+    "goldPrice",
+    "bossHp",
+    "contributionAward",
+    "expAward",
+    "finishAward",
+    "type",
+    "bossHpNums",
+    "contributionHp",
+    "stateRate",
+    "lvHpFloat"
+  ],
+  "list": {
+    "10001": [
+      "Khuynh thành ca nữ ",
+      "al_a40",
+      "head60-01",
+      "full60-0101",
+      "Dựa vào ngươi mà cũng đòi cản ta? Ngươi có biết sau lưng ta còn có ai không?|Ta chỉ cần mở miệng cũng đủ khiến ngươi vạn kiếp không được đầu thai!|Khắp kinh thành này không ai dám đắc tội với ta!",
+      "Ca nữ đầu bảng nhiều thanh lâu ở Dương Châu, luôn tìm nam tính trẻ tuổi khắp nơi mua vui. Một lần khi đang cùng nữ tử thanh lâu khác đùa giỡn đàn ông, vô tình gặp ngươi đang cải trang mang theo hạ nhân đi tuần, ca nữ động tay động chân với thân tín của ngươi. Ngươi vì ra tay ngăn cản mà kết thù với ả. Ngươi điều tra thấy ả cấu kết với nhiều quan viên phú thương, âm thầm làm hại một cõi. Ngươi có ý tập hợp thân tín, liên hợp loại bỏ ả ta!",
+      1,
+      200,
+      100,
+      400000000,
+      200,
+      100,
+      [
+        [
+          1,
+          13001,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      140000000
+    ],
+    "10002": [
+      "Bạch Liên Giáo Đồ",
+      "al_a41",
+      "head60-02",
+      "full60-0201",
+      "Trên địa bàn của Bạch Liên Giáo ta, không ai dám ngăn cản! |Chỉ dựa vào ngươi, cũng dám ngăn cản tả sao?!Ngươi đã từng nghe đến danh tiếng của Bạch Liên Thánh Giáo của ta chưa! |Cả thành cho dù thường dân hay quý tộc, đều là nô tì của Bạch Liên Thánh Giáo Ta!",
+      "Khi bỏ trốn đã gia nhập Bạch Liên Giáo, tự xưng gặp người nước ngoài trao Mảnh Bảo Đồ, trở thành đầu mục chi bộ Bạch Liên Giáo xưng bá một nơi, khiến cho bá tánh địa phương cảm thấy cay đắng. Trong hành trình đã gặp người này, dự định nhân cơ hội này để tìm dấu vết của Bạch Liên Giáo, tập hợp bạn bè thân thiết và hợp lực để quét sạch tà giáo. Nào ngờ hắn cố tình gây chuyện bắt ngươi đi ...",
+      1,
+      400,
+      200,
+      1000000000,
+      500,
+      200,
+      [
+        [
+          1,
+          13002,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      140000000
+    ],
+    "10003": [
+      "Phú Giả Dược Thương",
+      "al_a42",
+      "head60-03",
+      "full60-0301",
+      "Thuốc giả? Dân thường mà cũng muốn mua Bạch Sơn Kỳ Sâm của ta, buồn cười! | Dân thường không đủ tiền mua thuốc thì sao? Đừng cản trở đường tài chính của ta! | Bản đồ Bạch Sơn Cổ Thành là bí bảo của phái ta, ngươi từ đâu nghe được? | Không nói rõ thì đừng hòng bỏ đi!",
+      "Ban đầu dược sư vào núi bắc quan hái nhân sâm, sau kết hợp với Dược Thương địa phương, lừa người dân tăng giá nhân sâm để kiếm lời, trở thành phú thương. Có ý tặng Trần Phụ nhân sâm để bổ khí, không ngờ mua phải nhân sâm giả. Điều tra người này, không ngờ dược sư từng gặp một di tích thành cổ nữ chân tại Trường Bạch Sơn, thành cổ này rất có thể là nguồn gốc của Bạch Sơn Tàn Quyển! Đằng sau dược sư còn ẩn giấu giáo hội thần bí, ý đồ tranh giành Bạch Sơn Tàn Quyển ...",
+      2,
+      800,
+      400,
+      2400000000,
+      1200,
+      400,
+      [
+        [
+          1,
+          13003,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      380000000
+    ],
+    "10004": [
+      "Thầy Phong Thủy",
+      "al_a43",
+      "head60-04",
+      "full60-0401",
+      "Phong thủy có lợi có hại, nếu dám gây sự, ta sẽ không ta!|Từ cung đình đến dân gian, đâu cũng có tai mắt của xã ta, nữ nhân muốn khiêu chiến quả nực cười!|Thượng cổ bảo đồ? Là bảo vật xã ta, đừng hòng biết bí mật của nó!",
+      "Lãnh đạo của một tổ chức phong thủy dân gian, giỏi thuật phong thủy, làm nghề tìm mộ huyệt. Nghe đồn trong tay có quyển mảnh bản đồ kho báu phong thủy cổ. Ngươi dò la được biết mảnh trong tay Thầy Phong Thủy có liên quan đến chỉ Bạch Sơn, họ lãnh đạo tổ chức phản nghịch ẩn giấu nhiều năm. Ngươi chuẩn bị tập hợp bạn bè thân tín khiêu chiến Thầy Phong Thủy và giáo hội đứng sau ông ta, một công đôi việc!",
+      3,
+      1200,
+      600,
+      4200000000,
+      2100,
+      600,
+      [
+        [
+          1,
+          13001,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      800000000
+    ],
+    "10005": [
+      "Thầy thuốc bịp bợm",
+      "al_a44",
+      "head60-05",
+      "full60-0501",
+      "Giao Mảnh Tàn Quyển ra ta tha cho ngươi một mạng!|Một nữ tử như ngươi thì làm gì được ta!|Dựa vào thế lực yếu ớt của ngươi, cũng muốn lay động thế lực của ta ư, đừng có mơ!",
+      "Từ nhỏ say mê tà thuật, nghe đồn phát hiện kỳ phương dị thuật trong một ngọn núi ở cổng bắc, lén mang bán khắp nơi để kiếm sống. Phương thuốc này hại người vô số, bị quan phủ truy nã khắp nơi, nhưng được hội thần bí bao che, nhiều lần thoát khỏi truy bắt. Trong lần tìm manh mối cuộn chỉ, vô tình bị người này nhìn thấy Mảnh Tú Quyển, từ đó thường xuyên bị quấy rối. Quyết định liên kết với thế lực trong cung, tìm hiểu và tóm gọn thế lực đằng sau người này, diệt họa tận gốc.",
+      4,
+      1600,
+      800,
+      6400000000,
+      3200,
+      800,
+      [
+        [
+          1,
+          13002,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      2880000000
+    ],
+    "10006": [
+      "Kim Tàm Cổ Hậu",
+      "al_a45",
+      "head60-06",
+      "full60-0601",
+      "Mật Lâm Điền Nam là địa bàn của tộc ta, các người đừng hòng bước vào đây nửa bước!|Bí mật trong vật tổ của tộc ta ngươi đừng hòng biết được!|Đợi ta thả Kim Tằm Vương ra, nhất định sẽ khiến cho các người trúng độc đến mức sống không bằng chết!  ",
+      "Sau khi vào Cổ Tộc Vương trong Điền Nam Mật Lâm, kế thừa Kim Tàm Độc Cổ của gia tộc. Dẫn dắt gia tộc chinh phục biên giới Điền Nam, nhiều lần ngăn cản quân Thanh nổi loạn. Ngươi là người hiện đại thông hiểu dược lý cổ đại, được trọng thần triều đình giao phó đến kiểm tra điều trị. Nào ngờ phát hiện hoa văn của Cổ tộc giống hệt hoa văn trên Tú Quyển, Cổ tộc thường sống sau khu vực Điền Nam, liên quan đến thế lực và âm mưu của triều đình...",
+      5,
+      2000,
+      1000,
+      9000000000,
+      4500,
+      1000,
+      [
+        [
+          1,
+          13003,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      7020000000
+    ],
+    "10007": [
+      "Đà chủ nghịch quân",
+      "al_a46",
+      "head60-07",
+      "full60-0701",
+      "Giao bí quyển trong tay ra, ta sẽ tha mạng ngươi!| Quân ta rải rác khắp cả Giang Nam Bắc, các ngươi thế lực yếu, đừng hòng đánh bại quân ta!| Ta là Tổng Đà Chủ, quan phủ cũng không làm gì được ta, ngươi chỉ là một nữ nhân, làm gì được ta chứ! ",
+      "Người đứng đầu của quân tạo phản địa phương, nghe đồn trong tay có bản sao chép của tàng bảo đồ hoàng thất, tại vì bị triều đình và các thế lực dân gian truy bắt, thường giả dạng thành thương nhân du hành bỏ trốn ở khắp nơi trên toàn quốc. khi bạn đang nghỉ ngơi trong hành cung thì tình cờ gặp thuộc hạ của đám quân tạo phản đến trộm Tú Quyển, bạn điều tra được người đứng đầu, nhưng lại chỉ có đơn độc một mình, khó mà bắt được hắn. Bạn quyết định tập họp đồng bọn trong cung, dẫn theo Tùy Tùng thân tín đến khiêu chiến với bọn quân tạo phản.  ",
+      6,
+      2400,
+      1200,
+      12000000000,
+      6000,
+      1200,
+      [
+        [
+          1,
+          13001,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      14160000000
+    ],
+    "10008": [
+      "Chạy trốn",
+      "al_a47",
+      "head60-08",
+      "full60-0801",
+      "Bí mật của lão phu đã bị ngươi phát hiện, nạp mạng đi!|Khắp nơi đều có người của ta, đừng hòng thoát!|Tiểu nữ tử sức yếu, đừng hòng phá hoại đại kế của lão phu!",
+      "Vốn là lão thuần tiền triều quyền khuynh triều dã, trong thời gian tại vị ỷ vào phi tần thân vương đắc thế, sau khi thân vương mất thế mua chuộc quan viên giám trảm, giả chết bỏ trốn. Nghe đồn quanh năm trốn trong thâm sơn cổ thành, lặng lẽ kết giao thế lực, có ý nổi lên. Khi lần theo đầu mối tú quyển tìm vào Trường Bạch Sơn, ngẫu nhiên gặp phải tàn đảng tội thần, bị truy sát, về cung lánh nạn lại phát hiện trong cung vẫn có tàn đảng tội thần. Ngươi tới hành cung triệu tập thân tín hảo hữu trong cung cùng bàn cách giải quyết, thề tróc nã tội thần quy án. ",
+      7,
+      2800,
+      1400,
+      15400000000,
+      7700,
+      1400,
+      [
+        [
+          1,
+          13002,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      25400000000
+    ],
+    "10009": [
+      "Minh Chủ Giang Hồ",
+      "al_a48",
+      "head60-09",
+      "full60-0901",
+      "Ngươi đã phát hiện ra bí mật của Võ Minh, hôm nay ngươi phải vùi thân chốn này, đừng mơ làm hỏng kế lớn của ta! |Võ Minh có nhiều tai mắt, ngươi cũng đừng mơ thoát khỏi bàn tay của ta!",
+      "Võ Quán sau nhiều năm kinh doanh thế lực trải rộng khắp nơi, đổi tên Võ Minh, Minh Chủ ẩn núp giang hồ, thành viên hành sử điêu thấp. Ngươi muốn mượn tình báo của họ tìm kiếm tung tích Mảnh Bạch Sơn Tú, không ngờ lại bị lợi dụng hãm hại. Còn phát hiện Võ Minh cấu kết phiên quốc, ý đồ mưu phản...",
+      8,
+      3200,
+      1600,
+      19200000000,
+      9600,
+      1600,
+      [
+        [
+          1,
+          13003,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      42000000000
+    ],
+    "10010": [
+      "Phiên Vương ngoại quốc",
+      "al_a49",
+      "head60-10",
+      "full60-1001",
+      "Vốn là lãnh thổ phiên quốc ta, bổn vương thề sẽ đoạt lại!|Tiểu nữ tử sức yếu cũng muốn cản bổn vương, nực cười!|Chỉ cần bản vương động tay, ngươi sẽ bỏ mạng!",
+      "Lén thuê nhiều phương sĩ dược sư, mưu toan nghiên cứu chế tạo nên thuốc trường sinh bất lão. Khi nghỉ ngơi trong hành cung, ngẫu nhiên gặp thuộc hạ của Phiên Vương đến cống hiến thuốc, kiểm tra thấy phương thuốc có bất thường, phát hiện Phiên Vương mượn cớ tiến cống thuốc để vào triều, nếu không có chứng cứ, ngươi quyết định triệu tập tùy tùng cư sĩ trong hành cung, kết hợp với thân tín hảo hữu trong cung cùng khiêu chiến Phiên Vương!",
+      9,
+      3600,
+      1800,
+      23400000000,
+      11700,
+      1800,
+      [
+        [
+          1,
+          13001,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      65380000000
+    ],
+    "10011": [
+      "Bí Cảnh Nữ Đế",
+      "al_a50",
+      "head60-11",
+      "full60-1101",
+      "Dựa vào thực lực của ngươi mà cũng muốn thăm dò bí mật cổ thành ư? Nằm mơ đi!|Đồ vô tri, dám mạo nhiên thăm dò tung tích mật quyền!|Giao bí quyển ra đây, ta sẽ tha mạng cho ngươi!",
+      "Nữ đế ẩn tàng trong Cổ Thành, tách biệt với ngoại giới, tuổi tác không rõ. Có quan hệ mật thiết với Tú Quyển.",
+      10,
+      4000,
+      2000,
+      28000000000,
+      14000,
+      2000,
+      [
+        [
+          1,
+          13002,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      97120000000
+    ],
+    "10012": [
+      "Thái Phi Mưu Phản",
+      "al_a51",
+      "head60-12",
+      "full60-1201",
+      "Từ lúc tiên đế băng hà, bổn cung chẳng còn là người năm xưa nữa. | Bổn cung muốn nghìn vạn báu vật, muốn quyền khuynh thiên hạ. |Hậu vị… Bổn cung chẳng quan tâm từ lâu rồi.",
+      "Vốn là sủng phi của tiên đế, từng được sủng ái nhất lục cung, chỉ dưới hoàng hậu mà thôi… Một nước cờ sai mất tất cả, nhưng bà ta không cam tâm, phải đòi lại cả vốn lẫn lời!",
+      11,
+      4400,
+      2200,
+      33000000000,
+      16500,
+      2200,
+      [
+        [
+          1,
+          13003,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      138960000000
+    ],
+    "10013": [
+      "Hộ Quốc Tướng Quân",
+      "al_a52",
+      "head60-13",
+      "full60-1301",
+      "Bổn tướng chinh chiến bao trận, các ngươi hiểu được bao nhiêu! |Đừng trách bổn tướng tàn nhẫn, chỉ trách ngươi biết quá nhiều! |Ngu ngốc, bổn tướng khuyên ngươi đừng vùng vẫy nữa!",
+      "Hộ quốc tướng quân nắm giữ trọng quyền, ỷ vào phó thác của tiên đế, muốn cấu kết cùng thái phi gây nhiễu loạn triều cương, mưu đồ tạo phản. Bạn vô tình phá hoại âm mưu của họ, bị cuốn vào trận chiến mưu quyền…",
+      12,
+      4800,
+      2400,
+      38400000000,
+      19200,
+      2400,
+      [
+        [
+          1,
+          13001,
+          1
+        ]
+      ],
+      1,
+      1,
+      2000000,
+      10000,
+      192800000000
+    ],
+    "20001": [
+      "Nhiếp Chính Vương",
+      "al_a53",
+      "head60-14",
+      "full60-1401",
+      "Thuận ta thì sống, nghịch ta thì chết!|Cái gì gọi lại làm phản chứ? Đây là điều bổn vương nên được!|Non sông như họa này, nên thuộc về bổn vương!",
+      "Đứng trên đỉnh quyền lực quá lâu, là Thân Vương Nhiếp Chính, đắm chìm trong niềm vui 'quyết định tất cả' không thể dứt. Hắn nắm chặt quyền hành, chậm chạp không muốn trả lại triều chính, lại dùng thủ đoạn cay nghiệt uy hiếp triều chính, thậm chí còn bắt tay với các quan lại, muốn ép vua thoái vị, đăng cơ xưng đế.\nBạn tình cờ phát hiện ra thư từ của Nhiếp Chính Vương và thuộc hạ, phá vỡ kế hoạch cướp ngôi đại nghịch bất đạo này. Bạn lập tức triệu tập thân tín, quyết tâm đánh bại âm mưu của Nhiếp Chính Vương...",
+      1,
+      5000,
+      0,
+      -1,
+      -1,
+      0,
+      [],
+      2,
+      1,
+      2000000,
+      5000,
+      0
+    ],
+    "20002": [
+      "Nhiếp Chính Vương",
+      "al_a53",
+      "head60-14",
+      "full60-1401",
+      "Thuận ta thì sống, nghịch ta thì chết!|Cái gì gọi lại làm phản chứ? Đây là điều bổn vương nên được!|Non sông như họa này, nên thuộc về bổn vương!",
+      "Đứng trên đỉnh quyền lực quá lâu, là Thân Vương Nhiếp Chính, đắm chìm trong niềm vui 'quyết định tất cả' không thể dứt. Hắn nắm chặt quyền hành, chậm chạp không muốn trả lại triều chính, lại dùng thủ đoạn cay nghiệt uy hiếp triều chính, thậm chí còn bắt tay với các quan lại, muốn ép vua thoái vị, đăng cơ xưng đế.\nBạn tình cờ phát hiện ra thư từ của Nhiếp Chính Vương và thuộc hạ, phá vỡ kế hoạch cướp ngôi đại nghịch bất đạo này. Bạn lập tức triệu tập thân tín, quyết tâm đánh bại âm mưu của Nhiếp Chính Vương...",
+      1,
+      0,
+      0,
+      -1,
+      -1,
+      0,
+      [],
+      2,
+      1,
+      2500000,
+      4000,
+      0
+    ],
+    "20003": [
+      "Nhiếp Chính Vương",
+      "al_a53",
+      "head60-14",
+      "full60-1401",
+      "Thuận ta thì sống, nghịch ta thì chết!|Cái gì gọi lại làm phản chứ? Đây là điều bổn vương nên được!|Non sông như họa này, nên thuộc về bổn vương!",
+      "Đứng trên đỉnh quyền lực quá lâu, là Thân Vương Nhiếp Chính, đắm chìm trong niềm vui 'quyết định tất cả' không thể dứt. Hắn nắm chặt quyền hành, chậm chạp không muốn trả lại triều chính, lại dùng thủ đoạn cay nghiệt uy hiếp triều chính, thậm chí còn bắt tay với các quan lại, muốn ép vua thoái vị, đăng cơ xưng đế.\nBạn tình cờ phát hiện ra thư từ của Nhiếp Chính Vương và thuộc hạ, phá vỡ kế hoạch cướp ngôi đại nghịch bất đạo này. Bạn lập tức triệu tập thân tín, quyết tâm đánh bại âm mưu của Nhiếp Chính Vương...",
+      1,
+      0,
+      0,
+      -1,
+      -1,
+      0,
+      [],
+      2,
+      1,
+      4000000,
+      3000,
+      0
+    ],
+    "20004": [
+      "Nhiếp Chính Vương",
+      "al_a53",
+      "head60-14",
+      "full60-1401",
+      "Thuận ta thì sống, nghịch ta thì chết!|Cái gì gọi lại làm phản chứ? Đây là điều bổn vương nên được!|Non sông như họa này, nên thuộc về bổn vương!",
+      "Đứng trên đỉnh quyền lực quá lâu, là Thân Vương Nhiếp Chính, đắm chìm trong niềm vui 'quyết định tất cả' không thể dứt. Hắn nắm chặt quyền hành, chậm chạp không muốn trả lại triều chính, lại dùng thủ đoạn cay nghiệt uy hiếp triều chính, thậm chí còn bắt tay với các quan lại, muốn ép vua thoái vị, đăng cơ xưng đế.\nBạn tình cờ phát hiện ra thư từ của Nhiếp Chính Vương và thuộc hạ, phá vỡ kế hoạch cướp ngôi đại nghịch bất đạo này. Bạn lập tức triệu tập thân tín, quyết tâm đánh bại âm mưu của Nhiếp Chính Vương...",
+      1,
+      0,
+      0,
+      -1,
+      -1,
+      0,
+      [],
+      2,
+      1,
+      6000000,
+      2000,
+      0
+    ]
+  }
+}

@@ -1,0 +1,1222 @@
+{
+  "colMap": [
+    "icon",
+    "name",
+    "description",
+    "quality",
+    "helper",
+    "onTime",
+    "whichBranch"
+  ],
+  "list": {
+    "23001": [
+      100156,
+      "Tín vật của Minh Tương",
+      "Trong giao diện Tùy Tùng mở khóa-Minh Tương",
+      4,
+      10001,
+      0,
+      []
+    ],
+    "23002": [
+      100156,
+      "Tín Vật Tiểu Lộ Tử",
+      "Trong giao diện Tùy Tùng mở khóa-Tiểu Lộ Tử",
+      4,
+      10002,
+      0,
+      []
+    ],
+    "23003": [
+      100156,
+      "Tín Vật Tuệ Nương",
+      "Trong giao diện Tùy Tùng mở khóa-Huệ Nương",
+      4,
+      10003,
+      0,
+      []
+    ],
+    "23004": [
+      100156,
+      "Tín vật của Đông Giai",
+      "Trong giao diện Tùy Tùng mở khóa- Đông Giai",
+      4,
+      10004,
+      0,
+      []
+    ],
+    "23005": [
+      100156,
+      "Tín vật của Sóc Vũ",
+      "Trong giao diện Tùy Tùng mở khóa-Sóc Vũ",
+      4,
+      10005,
+      0,
+      []
+    ],
+    "23006": [
+      100156,
+      "Tín vật Mậu Mậu",
+      "Trong giao diện Tùy Tùng mở khóa-Mậu Mậu",
+      4,
+      10006,
+      0,
+      []
+    ],
+    "23007": [
+      100156,
+      "Tín vật của Nhiếp Tiểu Thiện",
+      "Trong giao diện Tùy Tùng mở khóa-Nhiếp Tiểu Thiện",
+      4,
+      10007,
+      0,
+      []
+    ],
+    "23008": [
+      100156,
+      "Tín vật Tư Đồ Hoan",
+      "Trong giao diện Tùy Tùng mở khóa-Tư Đồ Hoan",
+      4,
+      10008,
+      0,
+      []
+    ],
+    "23009": [
+      100156,
+      "Tín vật Lục Vũ Hồng",
+      "Trong giao diện Tùy Tùng mở khóa-Lục Vũ Hồng",
+      4,
+      10009,
+      0,
+      []
+    ],
+    "23010": [
+      100156,
+      "Tín vật của Chương Hiểu Phàm",
+      "Trong giao diện Tùy Tùng mở khóa-Chương Hiểu Phàm",
+      4,
+      10010,
+      0,
+      []
+    ],
+    "23011": [
+      100156,
+      "Tín vật Lâm Âm",
+      "Trong giao diện Tùy Tùng mở khóa-Lâm Âm",
+      4,
+      10011,
+      0,
+      []
+    ],
+    "23012": [
+      100156,
+      "Tín vật của Triệu Bích Diêu",
+      "Trong giao diện Tùy Tùng mở khóa-Triệu Bích Diêu",
+      4,
+      10012,
+      0,
+      []
+    ],
+    "23013": [
+      100156,
+      "Tín Vật Lục Vưu",
+      "Trong giao diện Tùy Tùng mở khóa-Lục Vưu",
+      4,
+      10013,
+      0,
+      []
+    ],
+    "23014": [
+      100156,
+      "Tín vật Trình Tiểu Điệp",
+      "Trong giao diện Tùy Tùng mở khóa-Trình Tiểu Điệp",
+      4,
+      10014,
+      0,
+      []
+    ],
+    "23015": [
+      100156,
+      "Tín vật của Nhã Phong",
+      "Trong giao diện Tùy Tùng mở khóa-Nhã Phong ",
+      4,
+      10015,
+      0,
+      []
+    ],
+    "23016": [
+      100156,
+      "Tín vật Lý Tầm",
+      "Trong giao diện Tùy Tùng mở khóa-Lý Tầm",
+      4,
+      10016,
+      0,
+      []
+    ],
+    "23017": [
+      100156,
+      "Tín vật của Mạc Tinh",
+      "Trong giao diện Tùy Tùng mở khóa-Mạc Tình",
+      4,
+      10017,
+      0,
+      []
+    ],
+    "23018": [
+      100156,
+      "Tiín vật của Âu Dương Tiếu Chí ",
+      "Trong giao diện Tùy Tùng mở khóa-Âu Dương Tiểu Chí",
+      4,
+      10018,
+      0,
+      []
+    ],
+    "23019": [
+      100156,
+      "Tín vật của Tiểu Hoa Cổ",
+      "Trong giao diện Tùy Tùng mở khóa-Tiểu Hoa Cổ",
+      4,
+      10019,
+      0,
+      []
+    ],
+    "23020": [
+      100156,
+      "Tín vật của Liễu Như Thị",
+      "Trong giao diện Tùy Tùng mở khóa-Liễu Như Thị",
+      4,
+      10020,
+      0,
+      []
+    ],
+    "23021": [
+      100156,
+      "Tín vật Cố Ly",
+      "Trong giao diện Tùy Tùng mở khóa-Cố Ly",
+      4,
+      10021,
+      0,
+      []
+    ],
+    "23022": [
+      100156,
+      "Tín vật của Mộ Dung Tu",
+      "Trong giao diện Tùy Tùng mở khóa-Mộ Dung Tu",
+      4,
+      10022,
+      0,
+      []
+    ],
+    "23023": [
+      100156,
+      "Tín vật Lý Hân Nhi",
+      "Trong giao diện Tùy Tùng mở khóa-Lý Hân Nhi",
+      4,
+      10023,
+      0,
+      []
+    ],
+    "23024": [
+      100156,
+      "Tín Vật Kiều Gia Lạc",
+      "Trong giao diện Tùy Tùng mở khóa-Kiều Gia Lạc",
+      4,
+      10024,
+      0,
+      []
+    ],
+    "23025": [
+      100156,
+      "Tín vật của Thanh Vân Nhi",
+      "Trong giao diện Tùy Tùng mở khóa-Thanh Vân Nhi",
+      4,
+      10025,
+      0,
+      []
+    ],
+    "23026": [
+      100156,
+      "Tín vật của Hoa Nhan",
+      "Trong giao diện Tùy Tùng mở khóa-Hoa Nhan",
+      4,
+      10026,
+      0,
+      []
+    ],
+    "23027": [
+      100156,
+      "Tín vật Sa Di",
+      "Trong giao diện Tùy Tùng mở khóa-Sa Di",
+      4,
+      10027,
+      0,
+      []
+    ],
+    "23028": [
+      100156,
+      "Tín vật của Dương Ngọc Huân ",
+      "Trong giao diện Tùy Tùng mở khóa-Dương Ngọc Huân",
+      4,
+      10028,
+      0,
+      []
+    ],
+    "23029": [
+      100156,
+      "Tín vật Văn Thúc",
+      "Trong giao diện Tùy Tùng mở khóa-Văn Thúc",
+      4,
+      10029,
+      0,
+      []
+    ],
+    "23030": [
+      100156,
+      " Tín vật của Bạch Tử Hoa ",
+      "Trong giao diện Tùy Tùng mở khóa-Bạch Chỉ Hoa",
+      4,
+      10030,
+      0,
+      []
+    ],
+    "23031": [
+      100156,
+      "Tín vật của Thiển Thiển",
+      "Trong giao diện Tùy Tùng mở khóa-Thiển Thiển",
+      4,
+      10031,
+      0,
+      []
+    ],
+    "23032": [
+      100156,
+      "Tín vật Chiêu Quân",
+      "Trong giao diện Tùy Tùng mở khóa-Chiêu Quân",
+      4,
+      10032,
+      0,
+      []
+    ],
+    "23033": [
+      100156,
+      "Tín vật của Đường Bá Hồ",
+      "Trong giao diện Tùy Tùng mở khóa-Đường Bá Hồ",
+      4,
+      10033,
+      0,
+      []
+    ],
+    "23034": [
+      100156,
+      "Tín vật của Tô Thích",
+      "Trong giao diện Tùy Tùng mở khóa-Tô Thích",
+      4,
+      10034,
+      0,
+      []
+    ],
+    "23035": [
+      100156,
+      "Tín Vật Lý Chi Bạch",
+      "Trong giao diện Tùy Tùng mở khóa-Lý Chi Bạch",
+      4,
+      10035,
+      0,
+      []
+    ],
+    "23036": [
+      100156,
+      "Tín vật Tân Khải Kỷ",
+      "Trong giao diện Tùy Tùng mở khóa-Tân Khải Kỷ",
+      4,
+      10036,
+      0,
+      []
+    ],
+    "23037": [
+      100156,
+      "Tín vật của Diệp Hoa",
+      "Trong giao diện Tùy Tùng mở khóa-Diệp Hoa",
+      4,
+      10037,
+      0,
+      []
+    ],
+    "23038": [
+      100156,
+      "Tín Vật Dung Chi",
+      "Trong giao diện Tùy Tùng mở khóa-Dung Chi",
+      4,
+      10038,
+      0,
+      []
+    ],
+    "23039": [
+      100156,
+      "Tín vật của Đoàn Ngọc Tiêu",
+      "Trong giao diện Tùy Tùng mở khóa-Đoàn Ngọc Tiêu",
+      4,
+      10039,
+      0,
+      []
+    ],
+    "23040": [
+      100156,
+      "Tín vật Tô Ngọc",
+      "Trong giao diện Tùy Tùng mở khóa-Tô Ngọc",
+      4,
+      10040,
+      0,
+      []
+    ],
+    "23041": [
+      100156,
+      "Tín vật Tiếu Nại",
+      "Trong giao diện Tùy Tùng mở khóa-Tiêu Nại",
+      4,
+      10041,
+      0,
+      []
+    ],
+    "23042": [
+      100156,
+      "Tín vật của Viêm Như Ca",
+      "Trong giao diện Tùy Tùng mở khóa-Viêm Như Ca",
+      4,
+      10042,
+      0,
+      []
+    ],
+    "23043": [
+      100156,
+      "Tín vật của Kim Linh",
+      "Trong giao diện Tùy Tùng mở khóa-Kim Linh",
+      4,
+      10043,
+      0,
+      []
+    ],
+    "23044": [
+      100156,
+      "Tín Vật Diệp Trăn",
+      "Trong giao diện Tùy Tùng mở khóa-Diệp Tần",
+      4,
+      10044,
+      0,
+      []
+    ],
+    "23045": [
+      100156,
+      "Tín vật của Công Tôn Mẫn Mẫn",
+      "Trong giao diện Tùy Tùng mở khóa-Công Tôn Mẫn Mẫn",
+      4,
+      10045,
+      0,
+      []
+    ],
+    "23046": [
+      100156,
+      "Tín Vật Vân Chức Nữ",
+      "Trong giao diện Tùy Tùng mở khóa-Viêm Như Ca",
+      4,
+      10046,
+      0,
+      []
+    ],
+    "23047": [
+      100156,
+      "Tín vật của Tông Việt",
+      "Trong giao diện Tùy Tùng mở khóa-Tông Việt",
+      4,
+      10047,
+      0,
+      []
+    ],
+    "23048": [
+      100156,
+      "Tín vật của Lan Hinh",
+      "Trong giao diện Tùy Tùng mở khóa-Lan Hinh",
+      4,
+      10048,
+      0,
+      []
+    ],
+    "23049": [
+      100156,
+      "Tín vật của Tần Duẫn Hiền ",
+      "Trong giao diện Tùy Tùng mở khóa-Tần Doãn Hiền",
+      4,
+      10049,
+      0,
+      []
+    ],
+    "23050": [
+      100156,
+      "Tín vật của Chu Du Hiệu",
+      "Trong giao diện Tùy Tùng mở khóa-Chu Du Giáo",
+      4,
+      10050,
+      0,
+      []
+    ],
+    "23051": [
+      100156,
+      "Tín vật của Thượng Quan Uyển",
+      "Trong giao diện Tùy Tùng mở khóa-Thượng Quan Uyển",
+      4,
+      10051,
+      0,
+      []
+    ],
+    "23052": [
+      100156,
+      "Tín vật của Lý Tương",
+      "Trong giao diện Tùy Tùng mở khóa-Lý Tương Như",
+      4,
+      10052,
+      0,
+      []
+    ],
+    "23053": [
+      100156,
+      "Tín vật của Hoàng Diệu",
+      "Trong giao diện Tùy Tùng mở khóa-Hoàng Diệu",
+      4,
+      10053,
+      0,
+      []
+    ],
+    "23054": [
+      100156,
+      "Tín vật của Cung Tôn Sách",
+      "Trong giao diện Tùy Tùng mở khóa-Cung Tôn Sách",
+      4,
+      10054,
+      0,
+      []
+    ],
+    "23055": [
+      100156,
+      "Tín vật của Nhuận Vũ",
+      "Trong giao diện Tùy Tùng mở khóa-Nhuận Vũ",
+      4,
+      10055,
+      0,
+      []
+    ],
+    "23056": [
+      100156,
+      "Tín vật của Nam Liên",
+      "Trong giao diện Tùy Tùng mở khóa-Nam Liên",
+      4,
+      10056,
+      0,
+      []
+    ],
+    "23057": [
+      100156,
+      "Tín vật của Ngân Thần",
+      "Trong giao diện Tùy Tùng mở khóa-Ngân Thần",
+      4,
+      10057,
+      0,
+      []
+    ],
+    "23058": [
+      100156,
+      "Tín vật của Nhạc Tiểu Miêu",
+      "Trong giao diện Tùy Tùng mở khóa-Nhạc Tiểu Miêu",
+      4,
+      10058,
+      0,
+      []
+    ],
+    "23059": [
+      100156,
+      "Tín vật của Mạnh Dao Quang",
+      "Trong giao diện Tùy Tùng mở khóa-Mạnh Dao Quang",
+      4,
+      10059,
+      0,
+      []
+    ],
+    "23060": [
+      100156,
+      "Tín vật của Cao Trường Hồng",
+      "Trong giao diện Tùy Tùng mở khóa-Cao Trường Hồng",
+      4,
+      10060,
+      0,
+      []
+    ],
+    "23061": [
+      100156,
+      "Tín vật của Pháp Tâm",
+      "Trong giao diện Tùy Tùng mở khóa-Pháp Tâm",
+      4,
+      10061,
+      0,
+      []
+    ],
+    "23062": [
+      100156,
+      "Tín vật của Cơ Như Mộ",
+      "Trong giao diện Tùy Tùng mở khóa-Cơ Như Mộ",
+      4,
+      10062,
+      0,
+      []
+    ],
+    "23063": [
+      100156,
+      "Tín vật của Trường Hãn",
+      "Trong giao diện Tùy Tùng mở khóa-Trường Hãn",
+      4,
+      10063,
+      0,
+      []
+    ],
+    "23064": [
+      100156,
+      "Tín vật của Vô Song",
+      "Trong giao diện Tùy Tùng mở khóa-Vô Song",
+      4,
+      10064,
+      0,
+      []
+    ],
+    "23065": [
+      100156,
+      "Tín Vật Vân Dật",
+      "Trong giao diện Tùy Tùng mở khóa-Vân Dật",
+      4,
+      10065,
+      0,
+      []
+    ],
+    "23066": [
+      100156,
+      "Tín Vật Vân Lăng",
+      "Trong giao diện Tùy Tùng mở khóa-Vân Lăng",
+      4,
+      10066,
+      0,
+      []
+    ],
+    "23067": [
+      100156,
+      "Tín Vật Phạm Nhã",
+      "Trong giao diện Tùy Tùng mở khóa-Phạm Nhã",
+      4,
+      10073,
+      0,
+      []
+    ],
+    "23068": [
+      100156,
+      "Tín Vật Quy Nhi",
+      "Trong giao diện Tùy Tùng mở khóa-Quy Nhi",
+      4,
+      10067,
+      0,
+      []
+    ],
+    "23069": [
+      100156,
+      "Tín vật của Wales",
+      "Mở khóa tùy tùng trong giao diện Tùy Tùng-Wales",
+      4,
+      10076,
+      0,
+      []
+    ],
+    "23070": [
+      100156,
+      "Tín Vật Bắc Thần",
+      "Dùng trong giao diện Tùy Tùng để mở khóa-Bắc Thần",
+      4,
+      10080,
+      0,
+      []
+    ],
+    "23071": [
+      100156,
+      "Tín Vật Toàn Cơ",
+      "Dùng trong giao diện Tùy Tùng để mở khóa-Toàn Cơ",
+      4,
+      10081,
+      0,
+      []
+    ],
+    "23072": [
+      100156,
+      "Tín Vật Frena",
+      "Dùng trong giao diện Tùy Tùng để mở khóa-Frena",
+      4,
+      10071,
+      0,
+      []
+    ],
+    "23073": [
+      100156,
+      "Tín Vật Drake",
+      "Dùng trong giao diện Tùy Tùng để mở khóa-Drake",
+      4,
+      10084,
+      0,
+      []
+    ],
+    "23074": [
+      100156,
+      "Tín Vật Mục Mộc",
+      "Dùng trong giao diện Tùy Tùng để mở khóa-Mục Mộc",
+      4,
+      10077,
+      0,
+      []
+    ],
+    "23075": [
+      100156,
+      "Tín Vật Yên Phi Vũ",
+      "Dùng trong giao diện Tùy Tùng để mở khóa-Yên Phi Vũ",
+      4,
+      10082,
+      0,
+      []
+    ],
+    "23076": [
+      100156,
+      "Tín Vật Mạch Ngôn",
+      "Dùng trong giao diện Tùy Tùng để mở khóa-Mạch Ngôn",
+      4,
+      10083,
+      0,
+      []
+    ],
+    "23077": [
+      100156,
+      "Tín Vật Nguyên Nghiên",
+      "Dùng trong giao diện Tùy Tùng để mở khóa-Nguyên Nghiên",
+      4,
+      10085,
+      0,
+      []
+    ],
+    "23078": [
+      100156,
+      "Tín Vật Đoan Mộc Tu",
+      "Dùng mở khoá tuỳ tùng trong giao diện tuỳ tùng-Đoan Mộc Tu",
+      4,
+      10086,
+      0,
+      []
+    ],
+    "23079": [
+      100156,
+      "Tín Vật Sao Băng",
+      "Dùng để mở khóa Tùy Tùng-Sao Băng trong giao diện Tùy Tùng",
+      4,
+      10087,
+      0,
+      []
+    ],
+    "23080": [
+      100156,
+      "Tín Vật của Trịnh Thành Văn",
+      "Dùng để mở khóa tùy tùng Trịnh Thành Văn trong giao diện Tùy Tùng",
+      4,
+      10088,
+      0,
+      []
+    ],
+    "23081": [
+      100156,
+      "Tín Vật của Diêm Pháp Trinh",
+      "Dùng để mở khóa tùy tùng Diêm Pháp Trinh trong giao diện Tùy Tùng",
+      4,
+      10089,
+      0,
+      []
+    ],
+    "23082": [
+      100156,
+      "Tín Vật Lệ Hoa",
+      "Trong giao diện Tùy Tùng mở khóa-Lệ Hoa",
+      4,
+      10090,
+      0,
+      []
+    ],
+    "23083": [
+      100156,
+      "Tín Vật Của Quan Chính Lãng",
+      "Dùng để mở khóa Tùy Tùng trong giao diện Tùy Tùng-Quan Chính Lãng",
+      4,
+      10091,
+      0,
+      []
+    ],
+    "23084": [
+      100156,
+      "Tín Vật Của Thư Tịnh Lâm",
+      "Dùng để mở khóa Tùy Tùng trong giao diện Tùy Tùng-Thư Tịnh Lâm",
+      4,
+      10092,
+      0,
+      []
+    ],
+    "23085": [
+      100156,
+      "Tín Vật Của Vũ Trí Minh",
+      "Dùng để mở khóa Tùy Tùng trong giao diện Tùy Tùng-Vũ Trí Minh",
+      4,
+      10093,
+      0,
+      []
+    ],
+    "23086": [
+      100156,
+      "Tín Vật Của Cung Tư Phàm",
+      "Dùng để mở khóa Tùy Tùng trong giao diện Tùy Tùng-Cung Tư Phàm",
+      4,
+      10094,
+      0,
+      []
+    ],
+    "23087": [
+      100156,
+      "Tín Vật Của Thời Lan Vũ",
+      "Dùng để mở khóa Tùy Tùng-Thời Lan Vũ trong giao diện Tùy Tùng",
+      4,
+      10095,
+      0,
+      []
+    ],
+    "23088": [
+      100156,
+      "Tín Vật Ngư Cẩm Ly",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Ngư Cẩm Ly",
+      4,
+      10096,
+      0,
+      []
+    ],
+    "23089": [
+      100156,
+      "Tín Vật Triệu Tài Miểu",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Triệu Tài Miểu",
+      4,
+      10097,
+      0,
+      []
+    ],
+    "23090": [
+      100156,
+      "Tín Vật Kim Thiến Thư",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Kim Thiến Thư",
+      4,
+      10098,
+      0,
+      []
+    ],
+    "23091": [
+      100156,
+      "Tín Vật Cư Bảo Bồng",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Cư Bảo Bồng",
+      4,
+      10099,
+      0,
+      []
+    ],
+    "23092": [
+      100156,
+      "Tín Vật Bạch Mộng Điệp",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Bạch Mộng Điệp",
+      4,
+      10100,
+      0,
+      []
+    ],
+    "23093": [
+      100156,
+      "Tín Vật Chân Hoàn",
+      "Dùng ở giao diện Tùy Tùng để mở khóa Tùy Tùng-Chân Hoàn",
+      4,
+      10101,
+      0,
+      [
+        1,
+        3,
+        5
+      ]
+    ],
+    "23094": [
+      100156,
+      "Tín Vật Nghi Tu",
+      "Dùng ở giao diện Tùy Tùng để mở khóa Tùy Tùng-Nghi Tu",
+      4,
+      10102,
+      0,
+      [
+        1,
+        3,
+        5
+      ]
+    ],
+    "23095": [
+      100156,
+      "Tín Vật Thẩm My Trang",
+      "Dùng ở giao diện Tùy Tùng để mở khóa Tùy Tùng-Thẩm My Trang",
+      4,
+      10103,
+      0,
+      [
+        1,
+        3,
+        5
+      ]
+    ],
+    "23096": [
+      100156,
+      "Tín Vật Niên Thế Lan",
+      "Dùng ở giao diện Tùy Tùng để mở khóa Tùy Tùng-Niên Thế Lan",
+      4,
+      10104,
+      0,
+      [
+        1,
+        3,
+        5
+      ]
+    ],
+    "23097": [
+      100156,
+      "Tín Vật An Lăng Dung",
+      "Dùng ở giao diện Tùy Tùng để mở khóa Tùy Tùng-An Lăng Dung",
+      4,
+      10105,
+      0,
+      [
+        1,
+        3,
+        5
+      ]
+    ],
+    "23098": [
+      100156,
+      "Tín Vật Quả Quận Vương",
+      "Dùng ở giao diện Tùy Tùng để mở khóa Tùy Tùng",
+      4,
+      10106,
+      0,
+      [
+        1,
+        3,
+        5
+      ]
+    ],
+    "23099": [
+      100156,
+      "Tín Vật Thịnh Trường Hoan",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Thịnh Trường Hoan",
+      4,
+      10107,
+      0,
+      []
+    ],
+    "23100": [
+      100156,
+      "Tín Vật Thịnh Trường Ninh",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Thịnh Trường Ninh",
+      4,
+      10108,
+      0,
+      []
+    ],
+    "23101": [
+      100156,
+      "Tín Vật Hạo Linh Cửu Dao",
+      "Dùng để mở khóa Tùy Tùng - Hạo Linh Cửu Dao trong giao diện Tùy Tùng",
+      4,
+      10109,
+      0,
+      [
+        1,
+        3
+      ]
+    ],
+    "23102": [
+      100156,
+      "Tín Vật Xích Thủy Phong Long",
+      "Dùng để mở khóa Tùy Tùng - Xích Thủy Phong Long trong giao diện Tùy Tùng",
+      4,
+      10110,
+      0,
+      [
+        1,
+        3
+      ]
+    ],
+    "23103": [
+      100156,
+      "Tín Vật Tây Viêm Thương Huyền",
+      "Dùng để mở khóa Tùy Tùng - Tây Viêm Thương Huyền trong giao diện Tùy Tùng",
+      4,
+      10111,
+      0,
+      [
+        1,
+        3
+      ]
+    ],
+    "23104": [
+      100156,
+      "Tín Vật Tương Liễu",
+      "Dùng để mở khóa Tùy Tùng - Tương Liễu trong giao diện Tùy Tùng",
+      4,
+      10112,
+      0,
+      [
+        1,
+        3
+      ]
+    ],
+    "23105": [
+      100156,
+      "Tín Vật Đồ Sơn Cảnh",
+      "Dùng để mở khóa Tùy Tùng - Đồ Sơn Cảnh trong giao diện Tùy Tùng",
+      4,
+      10113,
+      0,
+      [
+        1,
+        3
+      ]
+    ],
+    "23106": [
+      100156,
+      "Tín Vật Tây Viêm Vương",
+      "Dùng để mở khóa Tùy Tùng - Tây Viêm Vương trong giao diện Tùy Tùng",
+      4,
+      10114,
+      0,
+      [
+        1,
+        3
+      ]
+    ],
+    "23107": [
+      100156,
+      "Tín Vật Nhược Hy",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Nhược Hy",
+      4,
+      10115,
+      1764172200,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23108": [
+      100156,
+      "Tín Vật Minh Tuệ",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Minh Tuệ",
+      4,
+      10116,
+      1764172200,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23109": [
+      100156,
+      "Tín Vật Nhược Lan",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Nhược Lan",
+      4,
+      10117,
+      1764172200,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23110": [
+      100156,
+      "Tín Vật Minh Ngọc",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Minh Ngọc",
+      4,
+      10118,
+      1764172200,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23111": [
+      100156,
+      "Tín Vật Mẫn Mẫn",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Mẫn Mẫn",
+      4,
+      10119,
+      1764172200,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23112": [
+      100156,
+      "Tín Vật Ung Chính",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Ung Chính",
+      4,
+      10120,
+      1764172200,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23113": [
+      100156,
+      "Tín Vật Taine",
+      "Dùng để mở khóa tùy tùng Taine trong giao diện Tùy Tùng.",
+      4,
+      10121,
+      0,
+      []
+    ],
+    "23114": [
+      100156,
+      "Tín Vật Ôn Sở Bích",
+      "Dùng để mở khóa tùy tùng Ôn Sở Bích trong giao diện Tùy Tùng.",
+      4,
+      10122,
+      0,
+      []
+    ],
+    "23115": [
+      100156,
+      "Tín Vật Mộ Dung Oản",
+      "Dùng để mở khóa tùy tùng Mộ Dung Oản trong giao diện Tùy Tùng.",
+      4,
+      10123,
+      0,
+      []
+    ],
+    "23116": [
+      100156,
+      "Tín Vật Bách Lý Triệt",
+      "Dùng để mở khóa tùy tùng Bách Lý Triệt trong giao diện Tùy Tùng.",
+      4,
+      10124,
+      0,
+      []
+    ],
+    "23117": [
+      100156,
+      "Tín Vật Tuyên Hòa",
+      "Dùng để mở khóa tùy tùng Tuyên Hòa trong giao diện Tùy Tùng.",
+      4,
+      10125,
+      0,
+      []
+    ],
+    "23118": [
+      100156,
+      "Tín Vật Bạch Tố Trinh",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Bạch Tố Trinh",
+      4,
+      10126,
+      0,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23119": [
+      100156,
+      "Tín Vật Lý Bích Liên",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Lý Bích Liên",
+      4,
+      10127,
+      0,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23120": [
+      100156,
+      "Tín Vật Hứa Kiều Dung",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Hứa Kiều Dung",
+      4,
+      10128,
+      0,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23121": [
+      100156,
+      "Tín Vật Sầm Bích Thanh",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Sầm Bích Thanh",
+      4,
+      10129,
+      0,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23122": [
+      100156,
+      "Tín Vật Hồ Mị Nương",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Hồ Mị Nương",
+      4,
+      10130,
+      0,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "23123": [
+      100156,
+      "Tín Vật Hứa Tiên",
+      "Dùng ở giao diện Tùy Tùng, mở khóa Tùy Tùng-Hứa Tiên",
+      4,
+      10131,
+      0,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "colMap": [
+    "function",
+    "job",
+    "name",
+    "hintId",
+    "time"
+  ],
+  "list": {
+    "1001": [
+      18860,
+      [
+        3
+      ],
+      "Có quyền chụp ảnh Bang",
+      146525,
+      2
+    ]
+  }
+}

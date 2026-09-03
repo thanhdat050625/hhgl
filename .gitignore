@@ -1,0 +1,51 @@
+# Dependencies
+node_modules
+package-lock.json
+
+# Environment variables & secrets
+.env
+.env.*
+*.env
+
+# Logs & Debug
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Network capture & sensitive dumps (Tránh lộ token, tài khoản trong file HAR)
+*.har
+har/
+dump/
+
+# Client game reverse-engineered cache & assets
+game_code/
+
+# Temporary files & directories
+tmp/
+temp/
+scratch/
+.cache/
+
+# OS specific files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE & Editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?

@@ -1,0 +1,36 @@
+{
+  "colMap": [
+    "weight",
+    "text"
+  ],
+  "list": {
+    "100001": [
+      1000,
+      "Thuyền hoa đã sẵn sàng, theo ta lên thuyền thôi!"
+    ],
+    "100002": [
+      1000,
+      "Lúc thả câu gặp khó khăn gì? Nhấp vào Trợ giúp để xem mẹo."
+    ],
+    "100003": [
+      1000,
+      "Nếu thấy thời gian thả câu ngắn, chi bằng mua Vé Vui Chơi thử xem."
+    ],
+    "100004": [
+      1000,
+      "Muốn một lần gom hết cá? Bom có thể giúp bạn."
+    ],
+    "100005": [
+      1000,
+      "Xoáy nước hút cá do khách câu được, phải tránh xoáy nước."
+    ],
+    "100006": [
+      1000,
+      "Khi câu được Cá Chình, sẽ vào trạng thái bị tê liệt, xin cẩn thận."
+    ],
+    "100007": [
+      1000,
+      "Thời điểm này thích hợp làm sashimi Cá Mực, nếu gặp trúng nhớ nhanh tay."
+    ]
+  }
+}

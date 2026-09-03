@@ -1,0 +1,54 @@
+{
+  "colMap": [
+    "activityId",
+    "name",
+    "imageRes",
+    "titleRes",
+    "threshold",
+    "needScore",
+    "reward",
+    "missionList",
+    "itemShopID",
+    "shopID",
+    "completeTips",
+    "completeButton",
+    "orderTips",
+    "orderButton",
+    "scoreName",
+    "icon"
+  ],
+  "list": {
+    "101": [
+      430101,
+      "Lưu Kim Tước Linh",
+      "pt_d1,pt_d2,pt_d3",
+      "pt_b2_cn",
+      "7000,15000",
+      15000,
+      [
+        [
+          1,
+          32001,
+          10
+        ],
+        [
+          2,
+          7,
+          100
+        ]
+      ],
+      [
+        10001,
+        10002
+      ],
+      8001,
+      8002,
+      200006,
+      0,
+      200007,
+      0,
+      "Điểm Thí Luyện",
+      "110034"
+    ]
+  }
+}

@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hoàng Hậu Cát Tường - Auto Bot 24/7</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="grid-container">
+      <!-- Cột Trái: Thông tin nhân vật & Tài nguyên -->
+      <div class="sidebar">
+        <div class="card">
+          <div class="card-header">👤 Thẻ Nhân Vật</div>
+          <div id="player-info" style="display: none;">
+            <div class="player-name" id="p-name">Loading...</div>
+            <div class="player-server" id="p-server">Server: Loading...</div>
+            
+            <div style="margin-top: 1rem;">
+              <div style="display: flex; justify-content: space-between; font-size: 0.875rem;">
+                <span style="color: var(--text-muted)">Cung Vận (Tước Vị)</span>
+                <span id="p-level" style="color: var(--accent-purple); font-weight: 600;">Lv. ?</span>
+              </div>
+              <div class="exp-bar-container">
+                <div id="p-exp-bar" class="exp-bar"></div>
+              </div>
+              <div id="p-exp-text" class="exp-text">0 / 0 EXP</div>
+            </div>
+          </div>
+          <div id="player-loading" style="color: var(--text-muted); text-align: center; padding: 2rem 0;">
+            Đang tải dữ liệu trò chơi...
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">💰 Tài Nguyên Quốc Gia</div>
+          <div class="resource-grid">
+            <div class="resource-item" style="grid-column: 1 / -1; display: flex; justify-content: space-between; align-items: center;">
+              <div class="resource-label" style="margin: 0;">👑 Cung Vận (EXP)</div>
+              <div class="resource-value" style="color: #FBCFE8;" id="r-cungvan">-- / --</div>
+            </div>
+            <div class="resource-item">
+              <div class="resource-label">🟡 Vàng (KNB)</div>
+              <div class="resource-value" style="color: #FCD34D;" id="r-gold">--</div>
+            </div>
+            <div class="resource-item">
+              <div class="resource-label">⚪ Bạc</div>
+              <div class="resource-value" style="color: #E5E7EB;" id="r-silver">--</div>
+            </div>
+            <div class="resource-item">
+              <div class="resource-label">🌾 Lương Thực</div>
+              <div class="resource-value" style="color: #FCA5A5;" id="r-food">--</div>
+            </div>
+            <div class="resource-item">
+              <div class="resource-label">⚔️ Binh Lực</div>
+              <div class="resource-value" style="color: #93C5FD;" id="r-soldier">--</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Cột Phải: Logs và Status -->
+      <div class="main-content">
+        <div class="status-banner">
+          <div style="font-size: 1.5rem;">⏱️</div>
+          <div id="live-status" class="status-text">
+            Chờ dữ liệu trạng thái từ Bot...
+          </div>
+        </div>
+
+        <div class="card terminal" style="padding: 0; overflow: hidden;">
+          <div class="terminal-header">
+            <div>System Terminal Logs</div>
+            <div class="terminal-actions">
+              <label style="display: flex; align-items: center; gap: 0.25rem; cursor: pointer;">
+                <input type="checkbox" id="auto-scroll" checked> Auto-scroll
+              </label>
+              <button class="terminal-action-btn" id="btn-clear">Clear</button>
+            </div>
+          </div>
+          <div class="terminal-content" id="terminal-content">
+            <!-- Logs will be appended here -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,328 @@
+{
+  "colMap": [
+    "activityId",
+    "words"
+  ],
+  "list": {
+    "10001": [
+      830101,
+      "Mong năm mới, hơn năm cũ."
+    ],
+    "10002": [
+      830101,
+      "Năm mới sắp đến, chỉ mong bình an."
+    ],
+    "10003": [
+      830101,
+      "Ngày đông giá rét, nguyện kết làm tri kỷ."
+    ],
+    "10004": [
+      830101,
+      "Năm mới sắp đến, chúc bạn bình an."
+    ],
+    "10005": [
+      830101,
+      "Mỗi năm mỗi tuổi, chuyện vui không ngừng."
+    ],
+    "10006": [
+      830101,
+      "Cầu gia đình bình an, mỗi ngày đều vui vẻ."
+    ],
+    "10007": [
+      830101,
+      "Mong người trong lòng khỏe mạnh bình an, vạn sự như ý."
+    ],
+    "10008": [
+      830101,
+      "Năm mới đến, chúc bạn may mắn, hạnh phúc mỹ mãn."
+    ],
+    "10009": [
+      830101,
+      "Từ bình minh đến đêm tối, muốn cùng người trải qua mỗi ngày."
+    ],
+    "10010": [
+      830101,
+      "Năm mới đến cùng tiếng ca, non sông rộng lớn, năm tháng bình an."
+    ],
+    "20001": [
+      830102,
+      "Mong đời này đạp bằng sóng gió."
+    ],
+    "20002": [
+      830102,
+      "Dốc hết sức mình, vui vẻ là chính."
+    ],
+    "20003": [
+      830102,
+      "Gặp được chuyện vui, vạn sự như ý."
+    ],
+    "20004": [
+      830102,
+      "Không sợ tương lai, không nhớ quá khứ."
+    ],
+    "20005": [
+      830102,
+      "Tiền đồ tựa biển, thời gian còn dài."
+    ],
+    "20006": [
+      830102,
+      "Tuổi trẻ rực rỡ, trung niên mọi sự như ý, về già phúc thọ an khang."
+    ],
+    "20007": [
+      830102,
+      "Đi đến nơi xa hơn, gặp được những điều rực rỡ hơn."
+    ],
+    "20008": [
+      830102,
+      "Kiên trì lý tưởng, đơn thuần hiện tại."
+    ],
+    "20009": [
+      830102,
+      "Tương lai không cần sợ, quá khứ không cần khóc."
+    ],
+    "20010": [
+      830102,
+      "Trong những điều tốt đẹp trên đời, ước mơ là ngựa, tiền đồ mênh mông."
+    ],
+    "30001": [
+      830103,
+      "Mong năm mới, hơn năm cũ."
+    ],
+    "30002": [
+      830103,
+      "Năm mới sắp đến, chỉ mong bình an."
+    ],
+    "30003": [
+      830103,
+      "Ngày đông giá rét, nguyện kết làm tri kỷ."
+    ],
+    "30004": [
+      830103,
+      "Năm mới sắp đến, chúc bạn bình an."
+    ],
+    "30005": [
+      830103,
+      "Mỗi năm mỗi tuổi, chuyện vui không ngừng."
+    ],
+    "30006": [
+      830103,
+      "Cầu gia đình bình an, mỗi ngày đều vui vẻ."
+    ],
+    "30007": [
+      830103,
+      "Năm mới đến, chúc bạn may mắn, hạnh phúc mỹ mãn."
+    ],
+    "30008": [
+      830103,
+      "Từ bình minh đến đêm tối, muốn cùng người trải qua mỗi ngày."
+    ],
+    "30009": [
+      830103,
+      "Năm mới đến cùng tiếng ca, non sông rộng lớn, năm tháng bình an."
+    ],
+    "30010": [
+      830103,
+      "Mong người thương luôn bình an vui vẻ, vạn sự như ý."
+    ],
+    "40001": [
+      830104,
+      "Mong đời này đạp bằng sóng gió."
+    ],
+    "40002": [
+      830104,
+      "Dốc hết sức mình, vui vẻ là chính."
+    ],
+    "40003": [
+      830104,
+      "Gặp được chuyện vui, vạn sự như ý."
+    ],
+    "40004": [
+      830104,
+      "Không sợ tương lai, không nhớ quá khứ."
+    ],
+    "40005": [
+      830104,
+      "Tiền đồ tựa biển, thời gian còn dài."
+    ],
+    "40006": [
+      830104,
+      "Tuổi trẻ rực rỡ, trung niên mọi sự như ý, về già phúc thọ an khang."
+    ],
+    "40007": [
+      830104,
+      "Đi đến nơi xa hơn, gặp được những điều rực rỡ hơn."
+    ],
+    "40008": [
+      830104,
+      "Kiên trì lý tưởng, đơn thuần hiện tại."
+    ],
+    "40009": [
+      830104,
+      "Tương lai không cần sợ, quá khứ không cần khóc."
+    ],
+    "40010": [
+      830104,
+      "Trong những điều tốt đẹp trên đời, ước mơ là ngựa, tiền đồ mênh mông."
+    ],
+    "50001": [
+      830105,
+      "Mong năm mới, hơn năm cũ."
+    ],
+    "50002": [
+      830105,
+      "Năm mới sắp đến, chỉ mong bình an."
+    ],
+    "50003": [
+      830105,
+      "Vạn vật héo úa, nguyện kết tri kỷ."
+    ],
+    "50004": [
+      830105,
+      "Năm mới sắp đến, chúc bạn bình an."
+    ],
+    "50005": [
+      830105,
+      "Mỗi năm mỗi tuổi, chuyện vui không ngừng."
+    ],
+    "50006": [
+      830105,
+      "Cầu gia đình bình an, mỗi ngày đều vui vẻ."
+    ],
+    "50007": [
+      830105,
+      "Năm mới đến, chúc bạn may mắn, hạnh phúc mỹ mãn."
+    ],
+    "50008": [
+      830105,
+      "Từ bình minh đến đêm tối, muốn cùng người trải qua mỗi ngày."
+    ],
+    "50009": [
+      830105,
+      "Năm mới đến cùng tiếng ca, non sông rộng lớn, năm tháng bình an."
+    ],
+    "50010": [
+      830105,
+      "Mong người thương luôn bình an vui vẻ, vạn sự như ý."
+    ],
+    "60001": [
+      830106,
+      "Mong đời này đạp bằng sóng gió."
+    ],
+    "60002": [
+      830106,
+      "Dốc hết sức mình, vui vẻ là chính."
+    ],
+    "60003": [
+      830106,
+      "Gặp được chuyện vui, vạn sự như ý."
+    ],
+    "60004": [
+      830106,
+      "Không sợ tương lai, không nhớ quá khứ."
+    ],
+    "60005": [
+      830106,
+      "Tiền đồ tựa biển, thời gian còn dài."
+    ],
+    "60006": [
+      830106,
+      "Tuổi trẻ rực rỡ, trung niên mọi sự như ý, về già phúc thọ an khang."
+    ],
+    "60007": [
+      830106,
+      "Đi đến nơi xa hơn, gặp được những điều rực rỡ hơn."
+    ],
+    "60008": [
+      830106,
+      "Kiên trì lý tưởng, đơn thuần hiện tại."
+    ],
+    "60009": [
+      830106,
+      "Tương lai không cần sợ, quá khứ không cần khóc."
+    ],
+    "60010": [
+      830106,
+      "Trong những điều tốt đẹp trên đời, ước mơ là ngựa, tiền đồ mênh mông."
+    ],
+    "70001": [
+      830107,
+      "Mong năm mới, hơn năm cũ."
+    ],
+    "70002": [
+      830107,
+      "Năm mới sắp đến, chỉ mong bình an."
+    ],
+    "70003": [
+      830107,
+      "Vạn vật héo úa, nguyện kết tri kỷ."
+    ],
+    "70004": [
+      830107,
+      "Năm mới sắp đến, chúc bạn bình an."
+    ],
+    "70005": [
+      830107,
+      "Mỗi năm mỗi tuổi, chuyện vui không ngừng."
+    ],
+    "70006": [
+      830107,
+      "Cầu gia đình bình an, mỗi ngày đều vui vẻ."
+    ],
+    "70007": [
+      830107,
+      "Năm mới đến, chúc bạn may mắn, hạnh phúc mỹ mãn."
+    ],
+    "70008": [
+      830107,
+      "Từ bình minh đến đêm tối, muốn cùng người trải qua mỗi ngày."
+    ],
+    "70009": [
+      830107,
+      "Năm mới đến cùng tiếng ca, non sông rộng lớn, năm tháng bình an."
+    ],
+    "70010": [
+      830107,
+      "Mong người thương luôn bình an vui vẻ, vạn sự như ý."
+    ],
+    "80001": [
+      830108,
+      "Mong đời này đạp bằng sóng gió."
+    ],
+    "80002": [
+      830108,
+      "Dốc hết sức mình, vui vẻ là chính."
+    ],
+    "80003": [
+      830108,
+      "Gặp được chuyện vui, vạn sự như ý."
+    ],
+    "80004": [
+      830108,
+      "Không sợ tương lai, không nhớ quá khứ."
+    ],
+    "80005": [
+      830108,
+      "Tiền đồ tựa biển, thời gian còn dài."
+    ],
+    "80006": [
+      830108,
+      "Tuổi trẻ rực rỡ, trung niên mọi sự như ý, về già phúc thọ an khang."
+    ],
+    "80007": [
+      830108,
+      "Đi đến nơi xa hơn, gặp được những điều rực rỡ hơn."
+    ],
+    "80008": [
+      830108,
+      "Kiên trì lý tưởng, đơn thuần hiện tại."
+    ],
+    "80009": [
+      830108,
+      "Tương lai không cần sợ, quá khứ không cần khóc."
+    ],
+    "80010": [
+      830108,
+      "Trong những điều tốt đẹp trên đời, ước mơ là ngựa, tiền đồ mênh mông."
+    ]
+  }
+}

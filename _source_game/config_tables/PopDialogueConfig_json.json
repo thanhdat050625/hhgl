@@ -1,0 +1,910 @@
+{
+  "colMap": [
+    "activityId",
+    "belongMan",
+    "dialogue1",
+    "dialogue2",
+    "dialogue3",
+    "dialogue4",
+    "dialogue5",
+    "dialogue6"
+  ],
+  "list": {
+    "10101": [
+      280101,
+      10001,
+      [
+        "Là trò chơi ngươi thích? Ta muốn tìm hiểu, chỉ cần liên quan đến ngươi."
+      ],
+      [
+        "Quấy rầy? Sao có thể, việc của ngươi cũng quan trọng.",
+        "Bên cạnh có ngươi, không sợ điều gì.",
+        "Ngươi nhớ được ta ngay lúc đầu, ta rất vui."
+      ],
+      [
+        "Mệt không, dựa vào ta nghỉ một lúc đi.",
+        "Bọn ta quả nhiên thần giao cách cảm.",
+        "Lúc này phong cảnh thật đẹp, ngươi cũng yêu kiều như vạn vật."
+      ],
+      [
+        "Ngươi vốn dĩ thông minh, chút chuyện nhỏ không làm khó được ngươi.",
+        "Khi ở cùng ngươi, mỗi bước đi đều rất trân quý."
+      ],
+      [
+        "Ngươi có thể đi chầm chậm, con đường còn rất dài.",
+        "Là vì ngươi, khiến chúng ta bước đến kết cục mỹ mãn."
+      ],
+      [
+        "Có rất nhiều lời muốn nói cùng ngươi, chuyện chưa làm xong, ngày tháng sau này từ từ nói với ngươi."
+      ]
+    ],
+    "10102": [
+      280201,
+      10001,
+      [
+        "Là trò chơi ngươi thích? Ta muốn tìm hiểu, chỉ cần liên quan đến ngươi."
+      ],
+      [
+        "Quấy rầy? Sao có thể, việc của ngươi cũng quan trọng.",
+        "Nàng ở bên cạnh, rất yên tâm.",
+        "Ngươi nhớ được ta ngay lúc đầu, ta rất vui."
+      ],
+      [
+        "Ta không cần quà, nàng chính là quà tốt nhất ông trời ban cho.",
+        "Bọn ta quả nhiên thần giao cách cảm.",
+        "Ở mỗi một bến đò đều có thể gặp nàng, là may mắn lớn nhất của ta."
+      ],
+      [
+        "Tâm ý ta đã nhận, lời nói trong lòng nàng có nghe được không?",
+        "Từng đi qua ngàn dặm non núi, nhìn phong cảnh thế gian, nhưng trái tim ta vẫn ở nơi có nàng."
+      ],
+      [
+        "Ngươi có thể đi chầm chậm, con đường còn rất dài.",
+        "Tâm nguyện? Ta nghĩ tâm nguyện của ta, cần cả hai đi thực hiện."
+      ],
+      [
+        "Núi có cây và cây có cành, trái tim có nàng và nàng cũng biết."
+      ]
+    ],
+    "10103": [
+      280301,
+      10001,
+      [
+        "Là trò chơi ngươi thích? Ta muốn tìm hiểu, chỉ cần liên quan đến ngươi."
+      ],
+      [
+        "Đừng lo quấy rầy ta, chuyện của nàng đối với ta rất quan trọng.",
+        "Có nàng bên cạnh, ta rất mãn nguyện.",
+        "Ngươi nhớ được ta ngay lúc đầu, ta rất vui."
+      ],
+      [
+        "Mệt không, dựa vào ta nghỉ một lúc đi.",
+        "Vì tâm ý tương đồng, nên nói ra hiểu ngay.",
+        "Vòng đi vòng lại, chỉ muốn gặp nàng."
+      ],
+      [
+        "Ngươi vốn dĩ thông minh, chút chuyện nhỏ không làm khó được ngươi.",
+        "Ở bên nàng mỗi phút mỗi giây, đều trân trọng."
+      ],
+      [
+        "Ngươi có thể đi chầm chậm, con đường còn rất dài.",
+        "Còn rất nhiều nguyện vọng, nàng có muốn cùng ta thực hiện không?"
+      ],
+      [
+        "Ánh sáng chiếu vào mắt nàng, còn nàng lạc vào tim ta."
+      ]
+    ],
+    "10104": [
+      280202,
+      10001,
+      [
+        "Là trò chơi ngươi thích? Ta muốn tìm hiểu, chỉ cần liên quan đến ngươi."
+      ],
+      [
+        "Quấy rầy? Sao có thể, việc của ngươi cũng quan trọng.",
+        "Nàng ở bên cạnh, rất yên tâm.",
+        "Ngươi nhớ được ta ngay lúc đầu, ta rất vui."
+      ],
+      [
+        "Ta không cần quà, nàng chính là quà tốt nhất ông trời ban cho.",
+        "Bọn ta quả nhiên thần giao cách cảm.",
+        "Ở mỗi một bến đò đều có thể gặp nàng, là may mắn lớn nhất của ta."
+      ],
+      [
+        "Tâm ý ta đã nhận, lời nói trong lòng nàng có nghe được không?",
+        "Từng đi qua ngàn dặm non núi, nhìn phong cảnh thế gian, nhưng trái tim ta vẫn ở nơi có nàng."
+      ],
+      [
+        "Ngươi có thể đi chầm chậm, con đường còn rất dài.",
+        "Tâm nguyện? Ta nghĩ tâm nguyện của ta, cần cả hai đi thực hiện."
+      ],
+      [
+        "Núi có cây và cây có cành, trái tim có nàng và nàng cũng biết."
+      ]
+    ],
+    "10105": [
+      280203,
+      10001,
+      [
+        "Là trò chơi ngươi thích? Ta muốn tìm hiểu, chỉ cần liên quan đến ngươi."
+      ],
+      [
+        "Quấy rầy? Sao có thể, việc của ngươi cũng quan trọng.",
+        "Nàng ở bên cạnh, rất yên tâm.",
+        "Ngươi nhớ được ta ngay lúc đầu, ta rất vui."
+      ],
+      [
+        "Ta không cần quà, nàng chính là quà tốt nhất ông trời ban cho.",
+        "Bọn ta quả nhiên thần giao cách cảm.",
+        "Ở mỗi một bến đò đều có thể gặp nàng, là may mắn lớn nhất của ta."
+      ],
+      [
+        "Tâm ý ta đã nhận, lời nói trong lòng nàng có nghe được không?",
+        "Từng đi qua ngàn dặm non núi, nhìn phong cảnh thế gian, nhưng trái tim ta vẫn ở nơi có nàng."
+      ],
+      [
+        "Ngươi có thể đi chầm chậm, con đường còn rất dài.",
+        "Tâm nguyện? Ta nghĩ tâm nguyện của ta, cần cả hai đi thực hiện."
+      ],
+      [
+        "Núi có cây và cây có cành, trái tim có nàng và nàng cũng biết."
+      ]
+    ],
+    "10106": [
+      280204,
+      10001,
+      [
+        "Là trò chơi ngươi thích? Ta muốn tìm hiểu, chỉ cần liên quan đến ngươi."
+      ],
+      [
+        "Quấy rầy? Sao có thể, việc của ngươi cũng quan trọng.",
+        "Nàng ở bên cạnh, rất yên tâm.",
+        "Ngươi nhớ được ta ngay lúc đầu, ta rất vui."
+      ],
+      [
+        "Ta không cần quà, nàng chính là quà tốt nhất ông trời ban cho.",
+        "Bọn ta quả nhiên thần giao cách cảm.",
+        "Ở mỗi một bến đò đều có thể gặp nàng, là may mắn lớn nhất của ta."
+      ],
+      [
+        "Tâm ý ta đã nhận, lời nói trong lòng nàng có nghe được không?",
+        "Từng đi qua ngàn dặm non núi, nhìn phong cảnh thế gian, nhưng trái tim ta vẫn ở nơi có nàng."
+      ],
+      [
+        "Ngươi có thể đi chầm chậm, con đường còn rất dài.",
+        "Tâm nguyện? Ta nghĩ tâm nguyện của ta, cần cả hai đi thực hiện."
+      ],
+      [
+        "Núi có cây và cây có cành, trái tim có nàng và nàng cũng biết."
+      ]
+    ],
+    "10107": [
+      280205,
+      10001,
+      [
+        "Là trò chơi ngươi thích? Ta muốn tìm hiểu, chỉ cần liên quan đến ngươi."
+      ],
+      [
+        "Quấy rầy? Sao có thể, việc của ngươi cũng quan trọng.",
+        "Nàng ở bên cạnh, rất yên tâm.",
+        "Ngươi nhớ được ta ngay lúc đầu, ta rất vui."
+      ],
+      [
+        "Ta không cần quà, nàng chính là quà tốt nhất ông trời ban cho.",
+        "Bọn ta quả nhiên thần giao cách cảm.",
+        "Ở mỗi một bến đò đều có thể gặp nàng, là may mắn lớn nhất của ta."
+      ],
+      [
+        "Tâm ý ta đã nhận, lời nói trong lòng nàng có nghe được không?",
+        "Từng đi qua ngàn dặm non núi, nhìn phong cảnh thế gian, nhưng trái tim ta vẫn ở nơi có nàng."
+      ],
+      [
+        "Ngươi có thể đi chầm chậm, con đường còn rất dài.",
+        "Tâm nguyện? Ta nghĩ tâm nguyện của ta, cần cả hai đi thực hiện."
+      ],
+      [
+        "Núi có cây và cây có cành, trái tim có nàng và nàng cũng biết."
+      ]
+    ],
+    "10108": [
+      280206,
+      10001,
+      [
+        "Là trò chơi ngươi thích? Ta muốn tìm hiểu, chỉ cần liên quan đến ngươi."
+      ],
+      [
+        "Quấy rầy? Sao có thể, việc của ngươi cũng quan trọng.",
+        "Nàng ở bên cạnh, rất yên tâm.",
+        "Ngươi nhớ được ta ngay lúc đầu, ta rất vui."
+      ],
+      [
+        "Ta không cần quà, nàng chính là quà tốt nhất ông trời ban cho.",
+        "Bọn ta quả nhiên thần giao cách cảm.",
+        "Ở mỗi một bến đò đều có thể gặp nàng, là may mắn lớn nhất của ta."
+      ],
+      [
+        "Tâm ý ta đã nhận, lời nói trong lòng nàng có nghe được không?",
+        "Từng đi qua ngàn dặm non núi, nhìn phong cảnh thế gian, nhưng trái tim ta vẫn ở nơi có nàng."
+      ],
+      [
+        "Ngươi có thể đi chầm chậm, con đường còn rất dài.",
+        "Tâm nguyện? Ta nghĩ tâm nguyện của ta, cần cả hai đi thực hiện."
+      ],
+      [
+        "Núi có cây và cây có cành, trái tim có nàng và nàng cũng biết."
+      ]
+    ],
+    "10201": [
+      280101,
+      10002,
+      [
+        "Hình như nơi này rất thú vị, Uyển Đậu tiểu thư đến chơi với ta!"
+      ],
+      [
+        "Hình như đã phát hiện thế giới mới!",
+        "Bước tiếp theo ta đến giúp ngươi, đừng xem thường ta!",
+        "Gặp phiền phức sao, Alendi của ngươi lập tức đến!"
+      ],
+      [
+        "Uyển Đậu tiểu thư vất vả rồi, đã chuẩn bị điểm tâm ngon nhất cho cô!",
+        "Sau này còn có chuyện gì thú vị? Hình như rất mong chờ!",
+        "Uyển Đậu tiểu thư là tiên nữ gì, luôn cảm thấy nhiều thứ thật thú vị!"
+      ],
+      [
+        "Sự dũng cảm tựa như ánh mắt chiếu sáng, khiến ta mê mẩn.",
+        "Muốn mang mọi thứ tốt nhất giành cho người tốt nhất thế giới."
+      ],
+      [
+        "Cảm tạ ngươi đã tin tưởng và bầu bạn, khiến cuộc sống ta muôn màu muôn vẻ.",
+        "Kết nối từng bước của bọn ta trong thời gian, mãi mãi khắc ghi trong lòng."
+      ],
+      [
+        "Thật tuyệt! Ta có thể có nụ hôn Uyển Đậu tiểu thư như một phần thưởng?"
+      ]
+    ],
+    "10202": [
+      280201,
+      10002,
+      [
+        "Hình như nơi này rất thú vị, Uyển Đậu tiểu thư đến chơi với ta!"
+      ],
+      [
+        "Vẽ một đám may, vẽ một cơn mưa, vẽ một cầu vòng và nàng.",
+        "Bước tiếp theo ta đến giúp ngươi, đừng xem thường ta!",
+        "Gặp phiền phức sao, Alendi của ngươi lập tức đến!"
+      ],
+      [
+        "Cầm bút lên vẽ, nhớ đến đôi mắt của nàng.",
+        "Trong thời tiết rực rỡ, ta muốn mỗi ngày ở cạnh Uyển Đậu tiểu thư.",
+        "Uyển Đậu tiểu thư là tiên nữ gì, luôn cảm thấy nhiều thứ thật thú vị!"
+      ],
+      [
+        "Xuân về hoa nở, vẽ mọi thứ trong tranh, nàng đẹp hơn phong cảnh.",
+        "Quà của Uyển Đậu tiểu thư đáp lễ...ta có thể tự chọn quà không?"
+      ],
+      [
+        "Cô nương lạc trong bụi hoa, nàng có muốn rời khỏi trái tim thiếu niên?",
+        "Kết nối từng bước của bọn ta trong thời gian, mãi mãi khắc ghi trong lòng."
+      ],
+      [
+        "Sau mưa xuân xuất hiện cầu vòng, từng giọt từng giọt đều nhớ nàng."
+      ]
+    ],
+    "10203": [
+      280301,
+      10002,
+      [
+        "Hình như nơi này rất thú vị, Uyển Đậu tiểu thư đến chơi với ta!"
+      ],
+      [
+        "Đừng lo, xem ta này!",
+        "Bước tiếp theo ta đến giúp ngươi, đừng xem thường ta!",
+        "Gặp phiền phức sao, Alendi của ngươi lập tức đến!"
+      ],
+      [
+        "Uyển Đậu tiểu thư vất vả rồi, ăn chút Bánh Hoa Quế đi!",
+        "Sau này còn có chuyện gì thú vị? Hình như rất mong chờ!",
+        "Uyển Đậu tiểu thư thật lợi hại, có nghe tiếng reo hò của ta không?"
+      ],
+      [
+        "Nàng như ánh sáng lấp lánh, làm ta không thể dừng lại.",
+        "Muốn mang mọi thứ tốt nhất giành cho người tốt nhất thế giới."
+      ],
+      [
+        "Nàng nói lá phong ta nhặt rất đẹp nhỉ, nhưng ta thấy, Uyển Đậu tiểu thư còn đẹp hơn!",
+        "Kết nối từng bước của bọn ta trong thời gian, mãi mãi khắc ghi trong lòng."
+      ],
+      [
+        "Hay quá! Phần thưởng là Uyển Đậu tiểu thư ôm ta một cái nhé?"
+      ]
+    ],
+    "10204": [
+      280202,
+      10002,
+      [
+        "Hình như nơi này rất thú vị, Uyển Đậu tiểu thư đến chơi với ta!"
+      ],
+      [
+        "Vẽ một đám may, vẽ một cơn mưa, vẽ một cầu vòng và nàng.",
+        "Bước tiếp theo ta đến giúp ngươi, đừng xem thường ta!",
+        "Gặp phiền phức sao, Alendi của ngươi lập tức đến!"
+      ],
+      [
+        "Cầm bút lên vẽ, nhớ đến đôi mắt của nàng.",
+        "Trong thời tiết rực rỡ, ta muốn mỗi ngày ở cạnh Uyển Đậu tiểu thư.",
+        "Uyển Đậu tiểu thư là tiên nữ gì, luôn cảm thấy nhiều thứ thật thú vị!"
+      ],
+      [
+        "Xuân về hoa nở, vẽ mọi thứ trong tranh, nàng đẹp hơn phong cảnh.",
+        "Quà của Uyển Đậu tiểu thư đáp lễ...ta có thể tự chọn quà không?"
+      ],
+      [
+        "Cô nương lạc trong bụi hoa, nàng có muốn rời khỏi trái tim thiếu niên?",
+        "Kết nối từng bước của bọn ta trong thời gian, mãi mãi khắc ghi trong lòng."
+      ],
+      [
+        "Sau mưa xuân xuất hiện cầu vòng, từng giọt từng giọt đều nhớ nàng."
+      ]
+    ],
+    "10205": [
+      280203,
+      10002,
+      [
+        "Hình như nơi này rất thú vị, Uyển Đậu tiểu thư đến chơi với ta!"
+      ],
+      [
+        "Vẽ một đám may, vẽ một cơn mưa, vẽ một cầu vòng và nàng.",
+        "Bước tiếp theo ta đến giúp ngươi, đừng xem thường ta!",
+        "Gặp phiền phức sao, Alendi của ngươi lập tức đến!"
+      ],
+      [
+        "Cầm bút lên vẽ, nhớ đến đôi mắt của nàng.",
+        "Trong thời tiết rực rỡ, ta muốn mỗi ngày ở cạnh Uyển Đậu tiểu thư.",
+        "Uyển Đậu tiểu thư là tiên nữ gì, luôn cảm thấy nhiều thứ thật thú vị!"
+      ],
+      [
+        "Xuân về hoa nở, vẽ mọi thứ trong tranh, nàng đẹp hơn phong cảnh.",
+        "Quà của Uyển Đậu tiểu thư đáp lễ...ta có thể tự chọn quà không?"
+      ],
+      [
+        "Cô nương lạc trong bụi hoa, nàng có muốn rời khỏi trái tim thiếu niên?",
+        "Kết nối từng bước của bọn ta trong thời gian, mãi mãi khắc ghi trong lòng."
+      ],
+      [
+        "Sau mưa xuân xuất hiện cầu vòng, từng giọt từng giọt đều nhớ nàng."
+      ]
+    ],
+    "10206": [
+      280204,
+      10002,
+      [
+        "Hình như nơi này rất thú vị, Uyển Đậu tiểu thư đến chơi với ta!"
+      ],
+      [
+        "Vẽ một đám may, vẽ một cơn mưa, vẽ một cầu vòng và nàng.",
+        "Bước tiếp theo ta đến giúp ngươi, đừng xem thường ta!",
+        "Gặp phiền phức sao, Alendi của ngươi lập tức đến!"
+      ],
+      [
+        "Cầm bút lên vẽ, nhớ đến đôi mắt của nàng.",
+        "Trong thời tiết rực rỡ, ta muốn mỗi ngày ở cạnh Uyển Đậu tiểu thư.",
+        "Uyển Đậu tiểu thư là tiên nữ gì, luôn cảm thấy nhiều thứ thật thú vị!"
+      ],
+      [
+        "Xuân về hoa nở, vẽ mọi thứ trong tranh, nàng đẹp hơn phong cảnh.",
+        "Quà của Uyển Đậu tiểu thư đáp lễ...ta có thể tự chọn quà không?"
+      ],
+      [
+        "Cô nương lạc trong bụi hoa, nàng có muốn rời khỏi trái tim thiếu niên?",
+        "Kết nối từng bước của bọn ta trong thời gian, mãi mãi khắc ghi trong lòng."
+      ],
+      [
+        "Sau mưa xuân xuất hiện cầu vòng, từng giọt từng giọt đều nhớ nàng."
+      ]
+    ],
+    "10207": [
+      280205,
+      10002,
+      [
+        "Hình như nơi này rất thú vị, Uyển Đậu tiểu thư đến chơi với ta!"
+      ],
+      [
+        "Vẽ một đám may, vẽ một cơn mưa, vẽ một cầu vòng và nàng.",
+        "Bước tiếp theo ta đến giúp ngươi, đừng xem thường ta!",
+        "Gặp phiền phức sao, Alendi của ngươi lập tức đến!"
+      ],
+      [
+        "Cầm bút lên vẽ, nhớ đến đôi mắt của nàng.",
+        "Trong thời tiết rực rỡ, ta muốn mỗi ngày ở cạnh Uyển Đậu tiểu thư.",
+        "Uyển Đậu tiểu thư là tiên nữ gì, luôn cảm thấy nhiều thứ thật thú vị!"
+      ],
+      [
+        "Xuân về hoa nở, vẽ mọi thứ trong tranh, nàng đẹp hơn phong cảnh.",
+        "Quà của Uyển Đậu tiểu thư đáp lễ...ta có thể tự chọn quà không?"
+      ],
+      [
+        "Cô nương lạc trong bụi hoa, nàng có muốn rời khỏi trái tim thiếu niên?",
+        "Kết nối từng bước của bọn ta trong thời gian, mãi mãi khắc ghi trong lòng."
+      ],
+      [
+        "Sau mưa xuân xuất hiện cầu vòng, từng giọt từng giọt đều nhớ nàng."
+      ]
+    ],
+    "10208": [
+      280206,
+      10002,
+      [
+        "Hình như nơi này rất thú vị, Uyển Đậu tiểu thư đến chơi với ta!"
+      ],
+      [
+        "Vẽ một đám may, vẽ một cơn mưa, vẽ một cầu vòng và nàng.",
+        "Bước tiếp theo ta đến giúp ngươi, đừng xem thường ta!",
+        "Gặp phiền phức sao, Alendi của ngươi lập tức đến!"
+      ],
+      [
+        "Cầm bút lên vẽ, nhớ đến đôi mắt của nàng.",
+        "Trong thời tiết rực rỡ, ta muốn mỗi ngày ở cạnh Uyển Đậu tiểu thư.",
+        "Uyển Đậu tiểu thư là tiên nữ gì, luôn cảm thấy nhiều thứ thật thú vị!"
+      ],
+      [
+        "Xuân về hoa nở, vẽ mọi thứ trong tranh, nàng đẹp hơn phong cảnh.",
+        "Quà của Uyển Đậu tiểu thư đáp lễ...ta có thể tự chọn quà không?"
+      ],
+      [
+        "Cô nương lạc trong bụi hoa, nàng có muốn rời khỏi trái tim thiếu niên?",
+        "Kết nối từng bước của bọn ta trong thời gian, mãi mãi khắc ghi trong lòng."
+      ],
+      [
+        "Sau mưa xuân xuất hiện cầu vòng, từng giọt từng giọt đều nhớ nàng."
+      ]
+    ],
+    "10301": [
+      280101,
+      10003,
+      [
+        "Lại tìm niềm vui mới? Hôm nay vừa lúc trẫm rảnh rỗi, miễn cưỡng đồng ý ở cùng ngươi."
+      ],
+      [
+        "Vẫn không ngốc lắm, tạm chấp nhận.",
+        "Yêu cầu trẫm giúp? Vậy nghĩ xem tạ ơn thế nào.",
+        "Chả trách ngươi chủ động vậy, nói đi, muốn trẫm làm gì cho ngươi?"
+      ],
+      [
+        "Ngoan ngoãn theo sau, việc còn lại giao cho trẫm.",
+        "Màn kịch của đứa bé này đã chơi cùng ngươi lâu vậy, xem ra trẫm bị ngươi truyền nhiễm rồi.",
+        "Còn nhìn đông nhìn tây làm gì, nhìn trẫm vẫn chưa đủ sao?"
+      ],
+      [
+        "Muốn thắng nhanh vậy, là muốn làm việc khác sao?",
+        "Còn có tâm nguyện gì, cứ nói ra trẫm sẽ thực hiện cho ngươi."
+      ],
+      [
+        "Thắng thua không quan trọng, ngươi mới là quan trọng nhất.",
+        "Buông tay là không thể, đã nắm tay ngươi sẽ đi đến tận cùng."
+      ],
+      [
+        "Làm tốt lắm, phần thưởng là của ngươi, ngươi là của trẫm."
+      ]
+    ],
+    "10302": [
+      280201,
+      10003,
+      [
+        "Lại tìm niềm vui mới? Hôm nay vừa lúc trẫm rảnh rỗi, miễn cưỡng đồng ý ở cùng ngươi."
+      ],
+      [
+        "Vẫn không ngốc lắm, tạm chấp nhận.",
+        "Trẫm tin nàng, hãy chứng minh cho trẫm biết lựa chọn không sai.",
+        "Chả trách ngươi chủ động vậy, nói đi, muốn trẫm làm gì cho ngươi?"
+      ],
+      [
+        "Lại có cách gì sao, nói cho trẫm nghe thử.",
+        "Nếu đã có quyết định, không cần do dự, trẫm ở bên cạnh, nàng có thể buông tay làm.",
+        "Còn nhìn đông nhìn tây làm gì, nhìn trẫm vẫn chưa đủ sao?"
+      ],
+      [
+        "Không cần tạ ơn, nếu muốn hãy dùng thời gian sau này báo đáp trẫm?",
+        "Lại nói đùa với trẫm? Đương nhiên phải phạt, phạt nàng tối nay không được đi, cùng trẫm thưởng thức trà."
+      ],
+      [
+        "Quà gì? Tặng quà cho trẫm sao? Điều Trẫm muốn đứng ở trước mắt.",
+        "Buông tay là không thể, đã nắm tay ngươi sẽ đi đến tận cùng."
+      ],
+      [
+        "Tâm tư đó trẫm đã biết, nàng hãy lừa trẫm cả đời đi."
+      ]
+    ],
+    "10303": [
+      280301,
+      10003,
+      [
+        "Lại có thú vui gì mới à? Trẫm xem nào."
+      ],
+      [
+        "Vẫn không ngốc lắm, tạm chấp nhận.",
+        "Để trẫm xem thử thành quả của nàng.",
+        "Ân cần thế? Nói đi, muốn trẫm giúp nàng chuyện gì?"
+      ],
+      [
+        "Yên tâm, còn lại cứ để trẫm lo.",
+        "Lại nghĩ ra thứ gì, nói trẫm nghe?",
+        "Còn nhìn đông nhìn tây làm gì, nhìn trẫm vẫn chưa đủ sao?"
+      ],
+      [
+        "Có trẫm bên cạnh, do dự gì nữa, cứ làm đi!",
+        "Còn có tâm nguyện gì, cứ nói ra trẫm sẽ thực hiện cho ngươi."
+      ],
+      [
+        "Làm tốt lắm...muốn xuất cung ngắm mai? Trẫm đồng ý với nàng.",
+        "Buông tay là không thể, đã nắm tay ngươi sẽ đi đến tận cùng."
+      ],
+      [
+        "Tâm tư đó trẫm đã biết, nàng hãy lừa trẫm cả đời đi."
+      ]
+    ],
+    "10304": [
+      280202,
+      10003,
+      [
+        "Lại tìm niềm vui mới? Hôm nay vừa lúc trẫm rảnh rỗi, miễn cưỡng đồng ý ở cùng ngươi."
+      ],
+      [
+        "Vẫn không ngốc lắm, tạm chấp nhận.",
+        "Trẫm tin nàng, hãy chứng minh cho trẫm biết lựa chọn không sai.",
+        "Chả trách ngươi chủ động vậy, nói đi, muốn trẫm làm gì cho ngươi?"
+      ],
+      [
+        "Lại có cách gì sao, nói cho trẫm nghe thử.",
+        "Nếu đã có quyết định, không cần do dự, trẫm ở bên cạnh, nàng có thể buông tay làm.",
+        "Còn nhìn đông nhìn tây làm gì, nhìn trẫm vẫn chưa đủ sao?"
+      ],
+      [
+        "Không cần tạ ơn, nếu muốn hãy dùng thời gian sau này báo đáp trẫm?",
+        "Lại nói đùa với trẫm? Đương nhiên phải phạt, phạt nàng tối nay không được đi, cùng trẫm thưởng thức trà."
+      ],
+      [
+        "Quà gì? Tặng quà cho trẫm sao? Điều Trẫm muốn đứng ở trước mắt.",
+        "Buông tay là không thể, đã nắm tay ngươi sẽ đi đến tận cùng."
+      ],
+      [
+        "Tâm tư đó trẫm đã biết, nàng hãy lừa trẫm cả đời đi."
+      ]
+    ],
+    "10305": [
+      280203,
+      10003,
+      [
+        "Lại tìm niềm vui mới? Hôm nay vừa lúc trẫm rảnh rỗi, miễn cưỡng đồng ý ở cùng ngươi."
+      ],
+      [
+        "Vẫn không ngốc lắm, tạm chấp nhận.",
+        "Trẫm tin nàng, hãy chứng minh cho trẫm biết lựa chọn không sai.",
+        "Chả trách ngươi chủ động vậy, nói đi, muốn trẫm làm gì cho ngươi?"
+      ],
+      [
+        "Lại có cách gì sao, nói cho trẫm nghe thử.",
+        "Nếu đã có quyết định, không cần do dự, trẫm ở bên cạnh, nàng có thể buông tay làm.",
+        "Còn nhìn đông nhìn tây làm gì, nhìn trẫm vẫn chưa đủ sao?"
+      ],
+      [
+        "Không cần tạ ơn, nếu muốn hãy dùng thời gian sau này báo đáp trẫm?",
+        "Lại nói đùa với trẫm? Đương nhiên phải phạt, phạt nàng tối nay không được đi, cùng trẫm thưởng thức trà."
+      ],
+      [
+        "Quà gì? Tặng quà cho trẫm sao? Điều Trẫm muốn đứng ở trước mắt.",
+        "Buông tay là không thể, đã nắm tay ngươi sẽ đi đến tận cùng."
+      ],
+      [
+        "Tâm tư đó trẫm đã biết, nàng hãy lừa trẫm cả đời đi."
+      ]
+    ],
+    "10306": [
+      280204,
+      10003,
+      [
+        "Lại tìm niềm vui mới? Hôm nay vừa lúc trẫm rảnh rỗi, miễn cưỡng đồng ý ở cùng ngươi."
+      ],
+      [
+        "Vẫn không ngốc lắm, tạm chấp nhận.",
+        "Trẫm tin nàng, hãy chứng minh cho trẫm biết lựa chọn không sai.",
+        "Chả trách ngươi chủ động vậy, nói đi, muốn trẫm làm gì cho ngươi?"
+      ],
+      [
+        "Lại có cách gì sao, nói cho trẫm nghe thử.",
+        "Nếu đã có quyết định, không cần do dự, trẫm ở bên cạnh, nàng có thể buông tay làm.",
+        "Còn nhìn đông nhìn tây làm gì, nhìn trẫm vẫn chưa đủ sao?"
+      ],
+      [
+        "Không cần tạ ơn, nếu muốn hãy dùng thời gian sau này báo đáp trẫm?",
+        "Lại nói đùa với trẫm? Đương nhiên phải phạt, phạt nàng tối nay không được đi, cùng trẫm thưởng thức trà."
+      ],
+      [
+        "Quà gì? Tặng quà cho trẫm sao? Điều Trẫm muốn đứng ở trước mắt.",
+        "Buông tay là không thể, đã nắm tay ngươi sẽ đi đến tận cùng."
+      ],
+      [
+        "Tâm tư đó trẫm đã biết, nàng hãy lừa trẫm cả đời đi."
+      ]
+    ],
+    "10307": [
+      280205,
+      10003,
+      [
+        "Lại tìm niềm vui mới? Hôm nay vừa lúc trẫm rảnh rỗi, miễn cưỡng đồng ý ở cùng ngươi."
+      ],
+      [
+        "Vẫn không ngốc lắm, tạm chấp nhận.",
+        "Trẫm tin nàng, hãy chứng minh cho trẫm biết lựa chọn không sai.",
+        "Chả trách ngươi chủ động vậy, nói đi, muốn trẫm làm gì cho ngươi?"
+      ],
+      [
+        "Lại có cách gì sao, nói cho trẫm nghe thử.",
+        "Nếu đã có quyết định, không cần do dự, trẫm ở bên cạnh, nàng có thể buông tay làm.",
+        "Còn nhìn đông nhìn tây làm gì, nhìn trẫm vẫn chưa đủ sao?"
+      ],
+      [
+        "Không cần tạ ơn, nếu muốn hãy dùng thời gian sau này báo đáp trẫm?",
+        "Lại nói đùa với trẫm? Đương nhiên phải phạt, phạt nàng tối nay không được đi, cùng trẫm thưởng thức trà."
+      ],
+      [
+        "Quà gì? Tặng quà cho trẫm sao? Điều Trẫm muốn đứng ở trước mắt.",
+        "Buông tay là không thể, đã nắm tay ngươi sẽ đi đến tận cùng."
+      ],
+      [
+        "Tâm tư đó trẫm đã biết, nàng hãy lừa trẫm cả đời đi."
+      ]
+    ],
+    "10308": [
+      280206,
+      10003,
+      [
+        "Lại tìm niềm vui mới? Hôm nay vừa lúc trẫm rảnh rỗi, miễn cưỡng đồng ý ở cùng ngươi."
+      ],
+      [
+        "Vẫn không ngốc lắm, tạm chấp nhận.",
+        "Trẫm tin nàng, hãy chứng minh cho trẫm biết lựa chọn không sai.",
+        "Chả trách ngươi chủ động vậy, nói đi, muốn trẫm làm gì cho ngươi?"
+      ],
+      [
+        "Lại có cách gì sao, nói cho trẫm nghe thử.",
+        "Nếu đã có quyết định, không cần do dự, trẫm ở bên cạnh, nàng có thể buông tay làm.",
+        "Còn nhìn đông nhìn tây làm gì, nhìn trẫm vẫn chưa đủ sao?"
+      ],
+      [
+        "Không cần tạ ơn, nếu muốn hãy dùng thời gian sau này báo đáp trẫm?",
+        "Lại nói đùa với trẫm? Đương nhiên phải phạt, phạt nàng tối nay không được đi, cùng trẫm thưởng thức trà."
+      ],
+      [
+        "Quà gì? Tặng quà cho trẫm sao? Điều Trẫm muốn đứng ở trước mắt.",
+        "Buông tay là không thể, đã nắm tay ngươi sẽ đi đến tận cùng."
+      ],
+      [
+        "Tâm tư đó trẫm đã biết, nàng hãy lừa trẫm cả đời đi."
+      ]
+    ],
+    "10401": [
+      280101,
+      10004,
+      [
+        "Thiết kế này rất thú vị, bọn ta cùng xem nào?"
+      ],
+      [
+        "Quả là trải nghiệm không tồi, chả trách mấy ngày trước ngươi mê mệt vậy.",
+        "Muốn làm sao cứ làm đi, ta tin lựa chọn của ngươi.",
+        "Đến cũng đến rồi, vậy bọn ta chờ thêm một lúc."
+      ],
+      [
+        "Trông dáng vẻ ngươi mệt mỏi, ta đến là được.",
+        "Ta không đi đâu cả, ở nơi này chờ ngươi.",
+        "Giống như ngươi tin ta vậy, ta cũng tin mỗi bước chân của ngươi."
+      ],
+      [
+        "Mộng thấy tinh hà, đầy thuyền sao sáng chỉ là nàng.",
+        "Ngươi phá vỡ quy luật của ta, không chịu trách nhiệm đến cùng sao?"
+      ],
+      [
+        "Con đường ngươi đi đặc biệt nhất, ngươi cũng đặc biệt nhất.",
+        "Một bước quay đầu lại, đều là dấu chân bọn ta đi qua."
+      ],
+      [
+        "Tận cùng của thắng lợi có ngươi, mọi thứ có hi vọng."
+      ]
+    ],
+    "10402": [
+      280201,
+      10004,
+      [
+        "Thiết kế này rất thú vị, bọn ta cùng xem nào?"
+      ],
+      [
+        "Nàng tự làm sao? Cảm ơn, ta rất thích.",
+        "Muốn làm sao cứ làm đi, ta tin lựa chọn của ngươi.",
+        "Đến cũng đến rồi, vậy bọn ta chờ thêm một lúc."
+      ],
+      [
+        "Nguyện vọng của ta...liên quan đến nàng.",
+        "Đối với nàng, có thể ngẫu nhiên đánh vỡ một chút nội quy.",
+        "Giống như ngươi tin ta vậy, ta cũng tin mỗi bước chân của ngươi."
+      ],
+      [
+        "Quà ta thích lắm, mỗi năm đều nhận được tâm ý của nàng sao?",
+        "Lại lấy ta làm trò đùa...chỉ hôm này thôi. Muốn làm gì? Ta cùng nàng."
+      ],
+      [
+        "Con đường ngươi đi đặc biệt nhất, ngươi cũng đặc biệt nhất.",
+        "Kẹorất ngọt, ánh sao rất đẹp, nàng cũng thế."
+      ],
+      [
+        "Giang hồ mưa gió, con đường gian khổ, tương lai ta sẽ đi cùng nàng."
+      ]
+    ],
+    "10403": [
+      280301,
+      10004,
+      [
+        "Thiết kế này rất thú vị, bọn ta cùng xem nào?"
+      ],
+      [
+        "Ta muốn xem thử, trò chơi gì khiến nàng mê như vậy.",
+        "Muốn làm sao cứ làm đi, ta tin lựa chọn của ngươi.",
+        "Đến cũng đến rồi, vậy bọn ta chờ thêm một lúc."
+      ],
+      [
+        "Mùa hè chói chang, nàng lại sợ nóng, cứ để ta đến tìm nàng.",
+        "Chỉ cần liên quan đến nàng, ta không cần quy tắc.",
+        "Giống như ngươi tin ta vậy, ta cũng tin mỗi bước chân của ngươi."
+      ],
+      [
+        "Tặng nàng bầu trời đầy sao, nàng có thích không?",
+        "Ngươi phá vỡ quy luật của ta, không chịu trách nhiệm đến cùng sao?"
+      ],
+      [
+        "Nàng rất đặc biệt, ta có thể nhận ngay ra nàng giữa đám đông.",
+        "Một bước quay đầu lại, đều là dấu chân bọn ta đi qua."
+      ],
+      [
+        "Ta nhớ nàng, muốn gặp nàng… Suốt mùa hè, nhớ mong..."
+      ]
+    ],
+    "10404": [
+      280202,
+      10004,
+      [
+        "Thiết kế này rất thú vị, bọn ta cùng xem nào?"
+      ],
+      [
+        "Nàng tự làm sao? Cảm ơn, ta rất thích.",
+        "Muốn làm sao cứ làm đi, ta tin lựa chọn của ngươi.",
+        "Đến cũng đến rồi, vậy bọn ta chờ thêm một lúc."
+      ],
+      [
+        "Nguyện vọng của ta...liên quan đến nàng.",
+        "Đối với nàng, có thể ngẫu nhiên đánh vỡ một chút nội quy.",
+        "Giống như ngươi tin ta vậy, ta cũng tin mỗi bước chân của ngươi."
+      ],
+      [
+        "Quà ta thích lắm, mỗi năm đều nhận được tâm ý của nàng sao?",
+        "Lại lấy ta làm trò đùa...chỉ hôm này thôi. Muốn làm gì? Ta cùng nàng."
+      ],
+      [
+        "Con đường ngươi đi đặc biệt nhất, ngươi cũng đặc biệt nhất.",
+        "Kẹorất ngọt, ánh sao rất đẹp, nàng cũng thế."
+      ],
+      [
+        "Giang hồ mưa gió, con đường gian khổ, tương lai ta sẽ đi cùng nàng."
+      ]
+    ],
+    "10405": [
+      280203,
+      10004,
+      [
+        "Thiết kế này rất thú vị, bọn ta cùng xem nào?"
+      ],
+      [
+        "Nàng tự làm sao? Cảm ơn, ta rất thích.",
+        "Muốn làm sao cứ làm đi, ta tin lựa chọn của ngươi.",
+        "Đến cũng đến rồi, vậy bọn ta chờ thêm một lúc."
+      ],
+      [
+        "Nguyện vọng của ta...liên quan đến nàng.",
+        "Đối với nàng, có thể ngẫu nhiên đánh vỡ một chút nội quy.",
+        "Giống như ngươi tin ta vậy, ta cũng tin mỗi bước chân của ngươi."
+      ],
+      [
+        "Quà ta thích lắm, mỗi năm đều nhận được tâm ý của nàng sao?",
+        "Lại lấy ta làm trò đùa...chỉ hôm này thôi. Muốn làm gì? Ta cùng nàng."
+      ],
+      [
+        "Con đường ngươi đi đặc biệt nhất, ngươi cũng đặc biệt nhất.",
+        "Kẹorất ngọt, ánh sao rất đẹp, nàng cũng thế."
+      ],
+      [
+        "Giang hồ mưa gió, con đường gian khổ, tương lai ta sẽ đi cùng nàng."
+      ]
+    ],
+    "10406": [
+      280204,
+      10004,
+      [
+        "Thiết kế này rất thú vị, bọn ta cùng xem nào?"
+      ],
+      [
+        "Nàng tự làm sao? Cảm ơn, ta rất thích.",
+        "Muốn làm sao cứ làm đi, ta tin lựa chọn của ngươi.",
+        "Đến cũng đến rồi, vậy bọn ta chờ thêm một lúc."
+      ],
+      [
+        "Nguyện vọng của ta...liên quan đến nàng.",
+        "Đối với nàng, có thể ngẫu nhiên đánh vỡ một chút nội quy.",
+        "Giống như ngươi tin ta vậy, ta cũng tin mỗi bước chân của ngươi."
+      ],
+      [
+        "Quà ta thích lắm, mỗi năm đều nhận được tâm ý của nàng sao?",
+        "Lại lấy ta làm trò đùa...chỉ hôm này thôi. Muốn làm gì? Ta cùng nàng."
+      ],
+      [
+        "Con đường ngươi đi đặc biệt nhất, ngươi cũng đặc biệt nhất.",
+        "Kẹorất ngọt, ánh sao rất đẹp, nàng cũng thế."
+      ],
+      [
+        "Giang hồ mưa gió, con đường gian khổ, tương lai ta sẽ đi cùng nàng."
+      ]
+    ],
+    "10407": [
+      280205,
+      10004,
+      [
+        "Thiết kế này rất thú vị, bọn ta cùng xem nào?"
+      ],
+      [
+        "Nàng tự làm sao? Cảm ơn, ta rất thích.",
+        "Muốn làm sao cứ làm đi, ta tin lựa chọn của ngươi.",
+        "Đến cũng đến rồi, vậy bọn ta chờ thêm một lúc."
+      ],
+      [
+        "Nguyện vọng của ta...liên quan đến nàng.",
+        "Đối với nàng, có thể ngẫu nhiên đánh vỡ một chút nội quy.",
+        "Giống như ngươi tin ta vậy, ta cũng tin mỗi bước chân của ngươi."
+      ],
+      [
+        "Quà ta thích lắm, mỗi năm đều nhận được tâm ý của nàng sao?",
+        "Lại lấy ta làm trò đùa...chỉ hôm này thôi. Muốn làm gì? Ta cùng nàng."
+      ],
+      [
+        "Con đường ngươi đi đặc biệt nhất, ngươi cũng đặc biệt nhất.",
+        "Kẹorất ngọt, ánh sao rất đẹp, nàng cũng thế."
+      ],
+      [
+        "Giang hồ mưa gió, con đường gian khổ, tương lai ta sẽ đi cùng nàng."
+      ]
+    ],
+    "10408": [
+      280206,
+      10004,
+      [
+        "Thiết kế này rất thú vị, bọn ta cùng xem nào?"
+      ],
+      [
+        "Nàng tự làm sao? Cảm ơn, ta rất thích.",
+        "Muốn làm sao cứ làm đi, ta tin lựa chọn của ngươi.",
+        "Đến cũng đến rồi, vậy bọn ta chờ thêm một lúc."
+      ],
+      [
+        "Nguyện vọng của ta...liên quan đến nàng.",
+        "Đối với nàng, có thể ngẫu nhiên đánh vỡ một chút nội quy.",
+        "Giống như ngươi tin ta vậy, ta cũng tin mỗi bước chân của ngươi."
+      ],
+      [
+        "Quà ta thích lắm, mỗi năm đều nhận được tâm ý của nàng sao?",
+        "Lại lấy ta làm trò đùa...chỉ hôm này thôi. Muốn làm gì? Ta cùng nàng."
+      ],
+      [
+        "Con đường ngươi đi đặc biệt nhất, ngươi cũng đặc biệt nhất.",
+        "Kẹorất ngọt, ánh sao rất đẹp, nàng cũng thế."
+      ],
+      [
+        "Giang hồ mưa gió, con đường gian khổ, tương lai ta sẽ đi cùng nàng."
+      ]
+    ]
+  }
+}

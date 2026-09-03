@@ -1,0 +1,282 @@
+{
+  "colMap": [
+    "name",
+    "description",
+    "iconProp",
+    "iconPreview",
+    "aniType",
+    "aniLoc",
+    "source",
+    "tier",
+    "getWay",
+    "getPath",
+    "whichBranch",
+    "onTime"
+  ],
+  "list": {
+    "10011": [
+      "San Hô Mộng Ảo",
+      "Bầu Không Khí này thuộc về Gói Chủ Đề Cảnh [Biển Mộng Ảo]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      360001,
+      361001,
+      [
+        5
+      ],
+      [
+        2
+      ],
+      [
+        "tx_30001"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10021": [
+      "Bỉ Ngạn Hoa Khai",
+      "Bầu Không Khí này thuộc về Gói Chủ Đề Cảnh [Linh Điệp Bỉ Ngạn]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      360002,
+      361002,
+      [
+        5
+      ],
+      [
+        2
+      ],
+      [
+        "tx_30002"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10031": [
+      "Cõi Tarot",
+      "Bầu Không Khí này thuộc về Gói Chủ Đề Cảnh [Ánh Sao Tarot]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      360003,
+      361003,
+      [
+        4
+      ],
+      [
+        0
+      ],
+      [
+        "tx_30003"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10041": [
+      "Gương Cổ Điển",
+      "Không Khí này thuộc Gói Chủ Đề [Bí Cảnh Lâu Đài]. Dùng tại Đổi-Cảnh-Không Khí.",
+      360004,
+      361004,
+      [
+        4
+      ],
+      [
+        0
+      ],
+      [
+        "tx_30004"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10051": [
+      "Hương Sen Ngập Tràn",
+      "Không Khí này thuộc Gói Chủ Đề [Ánh Nước Ao Sen]. Dùng tại Đổi-Cảnh-Không Khí.",
+      360005,
+      361005,
+      [
+        4
+      ],
+      [
+        0
+      ],
+      [
+        "tx_30005"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10061": [
+      "Rèm Châu Ảo Mộng",
+      "Bầu Không Khí này thuộc về Gói Chủ Đề Cảnh [Hương Thoảng Cung Nga]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      360006,
+      361006,
+      [
+        4
+      ],
+      [
+        0
+      ],
+      [
+        "tx_30006"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10071": [
+      "Ánh Nắng Thì Thầm",
+      "Bầu Không Khí này thuộc về Gói Chủ Đề Cảnh [Nhặt Ánh Đồng Xanh]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      360007,
+      361007,
+      [
+        4
+      ],
+      [
+        0
+      ],
+      [
+        "tx_30007"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10081": [
+      "Bầu Trời Ngày Thu",
+      "Bầu Không Khí này thuộc về Gói Chủ Đề Cảnh [Tranh Thu Động Thiên]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      360008,
+      361008,
+      [
+        4
+      ],
+      [
+        0
+      ],
+      [
+        "tx_30009"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10091": [
+      "Sóng Biếc Nắng Trong",
+      "Bầu Không Khí này thuộc về Gói Chủ Đề Cảnh [Chuyến Đi Mùa Hè]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      360009,
+      361009,
+      [
+        4
+      ],
+      [
+        0
+      ],
+      [
+        "tx_30008"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10101": [
+      "Ánh Đèn Phúc Mãn",
+      "Bầu Không Khí này thuộc về Gói Chủ Đề Cảnh [Ánh Đèn Như Mộng]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      360010,
+      361010,
+      [
+        4
+      ],
+      [
+        0
+      ],
+      [
+        "tx_30010"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ],
+    "10111": [
+      "Màn Nhung Đỏ Thắm",
+      "Bầu Không Khí này thuộc về Gói Chủ Đề Cảnh [Bách Lạc Sênh Ca]. Dùng tại Thay Đồ-Cảnh-Bầu Không Khí.",
+      360011,
+      361011,
+      [
+        4
+      ],
+      [
+        0
+      ],
+      [
+        "tx_30011"
+      ],
+      [
+        1
+      ],
+      134023,
+      [
+        10904
+      ],
+      [],
+      0
+    ]
+  }
+}

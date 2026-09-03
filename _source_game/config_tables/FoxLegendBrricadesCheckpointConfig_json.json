@@ -1,0 +1,112 @@
+{
+  "colMap": [
+    "activityId",
+    "gridType",
+    "starLevel",
+    "content",
+    "timeLimit",
+    "pondId",
+    "weight"
+  ],
+  "list": {
+    "1005001": [
+      450101,
+      1005,
+      3,
+      "Dây leo trong rừng hơi kỳ lạ, nhân lúc sương mù quấn lấy chân, rất khó thoát...",
+      60,
+      [
+        100501
+      ],
+      1000
+    ],
+    "1005002": [
+      450101,
+      1005,
+      3,
+      "Phía trước bị dây leo che kín, phía sau lại có thầy trừ yêu, mau chém đứt dây leo…",
+      60,
+      [
+        100501
+      ],
+      1000
+    ],
+    "1005003": [
+      450101,
+      1005,
+      3,
+      "Vừa tìm được nhà hoang nghỉ chân, ngoài cửa lại bị dây leo phong tỏa, thử chặt dây leo…",
+      60,
+      [
+        100501
+      ],
+      1000
+    ],
+    "1005011": [
+      450102,
+      1005,
+      3,
+      "Ra cửa thăm bạn bè, đi một con đường không quen thuộc, có dây leo chắn đường, nhanh dọn dẹp dây leo nào...",
+      60,
+      [
+        100511
+      ],
+      1000
+    ],
+    "1005012": [
+      450102,
+      1005,
+      3,
+      "Ngôi nhà cũ đã xuống cấp từ lâu, cửa lớn bị dây leo bao phủ, hãy loại bỏ hết dây leo cản đường...",
+      60,
+      [
+        100511
+      ],
+      1000
+    ],
+    "1005013": [
+      450102,
+      1005,
+      3,
+      "Tìm kiếm một di tích cổ, con đường chắc chắn phải đi lại mọc đầy dây leo, nhanh chóng xử lý dây leo nào...",
+      60,
+      [
+        100511
+      ],
+      1000
+    ],
+    "1005021": [
+      450103,
+      1005,
+      3,
+      "Ra cửa thăm bạn bè, đi một con đường không quen thuộc, có dây leo chắn đường, nhanh dọn dẹp dây leo nào...",
+      60,
+      [
+        100521
+      ],
+      1000
+    ],
+    "1005022": [
+      450103,
+      1005,
+      3,
+      "Ngôi nhà cũ đã xuống cấp từ lâu, cửa lớn bị dây leo bao phủ, hãy loại bỏ hết dây leo cản đường...",
+      60,
+      [
+        100521
+      ],
+      1000
+    ],
+    "1005023": [
+      450103,
+      1005,
+      3,
+      "Tìm kiếm một di tích cổ, con đường chắc chắn phải đi lại mọc đầy dây leo, nhanh chóng xử lý dây leo nào...",
+      60,
+      [
+        100521
+      ],
+      1000
+    ]
+  }
+}

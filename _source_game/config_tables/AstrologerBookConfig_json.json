@@ -1,0 +1,263 @@
+{
+  "colMap": [
+    "yearText",
+    "dayText",
+    "matterText",
+    "matterIcon",
+    "matterTitle"
+  ],
+  "list": {
+    "101001": [
+      "Trong năm mới, vì mọi suy nghĩ đều dành cho sự nghiệp nên Bạch Dương ít đầu tư nghiêm túc trong tình cảm, bạn hãy nhớ quan tâm đến tình cảm và kinh doanh nhé.",
+      "Tiểu Phúc Thần trượt chân ngã ngay trước mặt bạn! Còn không mua chớp lấy cơ hội bắt nó?",
+      "Vui chơi trong chợ. Nói không chừng sẽ mở ra kỳ ngộ đấy.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "101002": [
+      "Trong năm mới, Bạch Dương tương đối suôn sẻ trong sự nghiệp và học tập, tìm được hướng đi đúng, thuận lợi hơn, nhưng việc gì cũng cần có quá trình, hãy kiên nhẫn, bền bỉ.",
+      "Hãy kiên nhẫn trong mọi việc và tin tưởng rằng sự kiên trì sẽ mang lại kết quả tốt đẹp~",
+      "Nuôi thả. Mèo đói rồi sẽ tự đi tìm con sen…",
+      "at_a2_cn",
+      "<font size=24px color=0xbc4242>Kỵ</font>| Tiểu Cát"
+    ],
+    "101003": [
+      "Năm mới, cuộc sống nên đi vào nề nếp, Bạch Dương cần xem trọng sức khỏe hơn, làm việc và nghỉ ngơi đều đặn để có sức khỏe tốt.",
+      "Khi nào cần ra tay thì ra tay. Muốn thử tuyển 10 người yêu trước không?",
+      "Du ngoạn. Đi gặp chàng thôi.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Trung Cát"
+    ],
+    "102001": [
+      "Trong năm mới, Kim Ngưu sẽ có bước đột phá trong tình yêu, nếu gặp được người ưng ý hãy mạnh dạn theo đuổi và bày tỏ, nỗ lực truy cầu hạnh phúc.",
+      "Có thể xảy ra tranh chấp nhỏ, mình là tiên nữ cao quý, đừng so đo với bọn tầm thường...",
+      "Xa cách. Thường xuyên hẹn hò với Lam Nhan mới có thể vun đắp tình cảm!",
+      "at_a2_cn",
+      "<font size=24px color=0xbc4242>Kỵ</font>| Tiểu Cát"
+    ],
+    "102002": [
+      "Một chút rắc rối trong sự nghiệp hoặc học hành, khiến Kim Ngưu không thể tập trung vào việc cần làm, dù có thế nào hãy đương đầu với khó khăn nhé.",
+      "Hãy cẩn thận với ví tiền của bạn nhé, từng tiêu xài hoang phí.",
+      "Giáo huấn kẻ thù. Vẫn là một ngày được mùa~",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "102003": [
+      "Tình hình sức khỏe trong năm mới tương đối phức tạp, dễ bị ốm vặt, tốt nhất nên điều chỉnh lại chế độ ăn uống và dành thời gian tập thể dục.",
+      "Thuận thế vươn lên, hãy tin rằng bạn sắp đạt đến đỉnh cao cuộc sống!",
+      "Bồi dưỡng Tùy Tùng. Đỉnh cao thế lực không còn là mơ.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "103001": [
+      "Những Song Tử độc thân có thể vẫn lẻ bóng, không phải do không tìm được đối tượng mà vì quá khắt khe với nửa kia, những Song Tử đã có người yêu cần dành thời gian hơn cho người ấy.",
+      "Gặp chuyện buồn bực hãy kiểm soát lại cảm xúc, cố gắng hít thở sâu và thử lại xem?",
+      "Vui chơi trong chợ. Thử trò chơi này thư giãn nhé?",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Trung Cát"
+    ],
+    "103002": [
+      "Trong năm mới, những Song Tử có yêu cầu cao sẽ không hài lòng với hiện trạng, nhưng dù thế nào cũng phải chăm chỉ, từ từ tiến bộ.",
+      "Vận thế Đại Cát, mau đi ăn mừng thôi.",
+      "Bảo vật hoàng thất. Hôm nay ta nhất định phải đào được!",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "103003": [
+      "Sức khỏe hơi yếu vì một số bệnh cũ, cần phải kiên trì phục hồi cơ thể, Song Tử hãy tập thể dục đều đặn nhé.",
+      "Tài lộc rủ nhau đến, ăn uống vô tư, không cần biết lượng calo là bao nhiêu, những món lẩu nướng cực ngon đang chờ bạn.",
+      "Thay quần áo. Hôm nay ta vẫn xinh đẹp thật đấy.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Trung Cát"
+    ],
+    "104001": [
+      "Trong năm mới, tình duyên của Cự Giải tương đối phức tạp, xung quanh cũng không thiếu người tốt nhưng vẫn còn chưa quên chuyện tình cảm quá khứ, hay nhớ nhung, cố chấp.",
+      "Những thứ rắc rối thật khiến người ta đau đầu? Hãy thư giãn, biết đâu bạn sẽ tìm được giải pháp ~",
+      "Làm ruộng, cho mèo ăn. Sống cuộc đời bình yên giản dị.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Trung Cát"
+    ],
+    "104002": [
+      "Năng lực của Cự Giải tương đối mạnh, sau này có cơ hội có thể vươn lên, nhưng cũng dễ bị tự cao tự đại, hãy luôn giữ cái đầu sáng suốt.",
+      "1 ly trà sữa sẽ giải quyết được mọi vấn đề, nếu không được thì 2 ly.",
+      "Trong Cung Luận Chiến. Hôm nay, ta sẽ giành chiến thắng.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "104003": [
+      "Trong năm mới, sức khỏe rất tốt, tinh thần cũng được thư giãn toàn diện hơn, rất ít bị ốm đau, cuộc sống được cải thiện mọi mặt.",
+      "Trong một số chuyện có thể là trong họa có phúc, suy cho cùng cuộc sống của mỹ nhân thường trắc trở hơn mà.",
+      "Đi gặp mặt, có thể có thu hoạch bất ngờ đấy.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "105001": [
+      "Năm mới, vẫn giữ tiêu chuẩn cao đối với tình yêu, nhưng Sư Tử hãy kiên nhẫn nhé, tin rằng nửa kia đang đợi mình ở tương lai.",
+      "Hãy tập trung hơn, dù bạn bè có rủ đi chơi bạn cũng phải làm xong việc đã nhé!",
+      "Cướp chỗ ngồi Lạc Tinh Viện. Chỗ ngồi tốt thế này ta không khách khí đâu.",
+      "at_a12_cn",
+      "<font size = 24px color = 0xffe1a6> Nên </font> |Tiểu Cát "
+    ],
+    "105002": [
+      "Vẫn còn chỗ cần cải thiện trong sự nghiệp và học hành, dù thái độ làm việc nghiêm túc nhưng có thể sẽ kém hiệu quả do thiếu linh cảm, Sư Tử cần phải linh hoạt thay đổi.",
+      "Giọng nói giao tiếp nên nhẹ nhàng hơn, ví dụ: Nhường cho ta hạng nhất bảng này được không?",
+      "Sửa chữa bang, tỷ muội đoàn kết, lợi bất cập hại.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "105003": [
+      "Sức khỏe đặc biệt tốt, nguyên nhân là do chế độ làm việc và nghỉ ngơi, ăn uống, tâm trạng điều hòa nên mọi mặt của Sư Tử đều ở trạng thái rất tốt, không bị ốm vặt.",
+      "Một trăm nhân duyên ắt sẽ kết quả, phú hào tiếp theo sẽ là ta.",
+      "Thỉnh an. Vàng bạc trong tay, thiên hạ là của ta.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "106001": [
+      "Trong năm mới, Xử Nữ đầu tư nhiều thời gian và tâm sức cho các mối quan hệ, có thể gặp một người khiến bạn mất lý trí chìm đắm vào tình yêu, cần giữ bình tĩnh mọi lúc.",
+      "Nếu con đường phía trước nhiều khó khăn, hãy quay đầu nhìn lại người thân và bạn bè, đã đến lúc đồng hành cùng họ.",
+      "Tặng hoa. Tăng tình cảm tỷ muội.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Trung Cát"
+    ],
+    "106002": [
+      "Sự nghiệp và học hành tương đối ổn định, Xử Nữ tập trung cao độ và cống hiến hết mình nên kết quả đạt được cũng nằm trong phạm vi kế hoạch đề ra, sẽ không xảy ra sai sót.",
+      "Hãy khích lệ bản thân trong mọi việc, ngẩng cao đầu tự tin, bạn là cô gái xinh đẹp nhất!",
+      "Lưu Ly Phường, biết đâu lại có y phục mới…",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "106003": [
+      "Trong năm mới, Xử Nữ mạnh mẽ về thể chất và tràn đầy năng lượng, có thể giải quyết các vấn đề công việc và cuộc sống một cách hoàn hảo, tinh thần cũng đặc biệt tốt, sẽ không có vấn đề gì lớn.",
+      "Tài lộc rủng rỉnh, không giàu được trong một đêm thì hai đêm cũng được.",
+      "Thích BXH, chắp tay vái lạy, ông trời ắt ban phúc",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "107001": [
+      "Năm nay tóm lại là: Đào hoa liên hồi, tâm tư khó quyết, Thiên Bình tuy nhiều vệ tinh nhưng khá kén chọn, chuyện độc thân đâu thể giải quyết một sớm một chiều...",
+      "Thần tài chiếu cố, đã đến lúc cân nhắc sắp xếp các kế hoạch kiếm tiền.",
+      "Cầu nguyện cây thần. Hôm nay nhất định tràn đầy vận khí!",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "107002": [
+      "Năm mới dễ đạt được những bước tiến vượt bậc, tìm được nhịp điệu thực sự phù hợp nên đạt thành tích tốt, có thể duy trì trạng thái tương đối tốt.",
+      "Hôm nay sao hồng loan chuyển dời. Tìm người hẹn hò hãy chọn ta, ta siêu ngọt ngào.",
+      "Chuyện vui nhàn nhã. Duyên phận với chàng lại tăng thêm~",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Trung Cát"
+    ],
+    "107003": [
+      "Trong năm mới, trạng thái tương đối khỏe mạnh, nhưng thỉnh thoảng sẽ mắc một số bệnh vặt, cần điểu chỉnh kịp thời thói quen sinh hoạt.",
+      "Cả người trở nên hơi lười nhác, nhưng chính nghĩa vẫn thường đến muộn mà, người ta đến muộn chút cũng không sao nhỉ.",
+      "Nấu ăn. Thức ăn là thứ quan trọng nhất...",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "108001": [
+      "Tình cảm tương đối thuận lợi, Thiên Yết được nửa kia yêu thương, hòa hợp dễ dàng, không gặp bất cứ trở ngại nào, có thể tránh được xung đột một cách hiệu quả.",
+      "Cát tinh cao chiếu, gặp được nhiều chuyện tốt, hãy phát huy thế mạnh ở thử thách tiếp theo.",
+      "Thay đồ. Mặc trang phục xinh đẹp cùng Lam Nhan du ngoạn.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "108002": [
+      "Dễ chuốc lấy phiền phức vì tính tự cao tự đại, Thiên Yết hãy khôm tốn, tích cực hỏi ý kiến, giải quyết khó khăn, không quan tâm đến vấn đề phiến diện.",
+      "Thu nhập ổn, lại muốn tự thưởng cho mình một ly trà sữa khoai môn tuyệt ngon.",
+      "Tiêu phí tài nguyên. Nếu không, bạn sẽ chịu thiệt thòi khi đua top đấy.",
+      "at_a2_cn",
+      "<font size=24px color=0xbc4242>Kỵ</font>| Tiểu Cát"
+    ],
+    "108003": [
+      "Cần điều chỉnh lại chế độ ăn uống và sinh hoạt, nếu không sẽ bị nhiều bệnh vặt, Thiên Yết hãy nhớ rằng không được xem nhẹ sức khỏe nhé.",
+      "Tất cả đều nằm trong kế hoạch, 10 lần liên tục đợt kế chắc chắn ra 5 sao!",
+      "Cầu nguyện cây thần. Lá Vàng Bạc lấp lánh, rinh ngay trang phục đẹp.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "109001": [
+      "Nhân Mã tích cực theo đuổi tình cảm, dù thế nào cũng phải cho người ấy biết tâm ý của mình, không chút sợ hãi, dũng khí như vậy quả thực hiếm có.",
+      "Vẫn còn ở trong nhà à? Người đợi bạn cùng đi du ngoạn ở ngoài kia sắp đứng ngồi không yên rồi!",
+      "Đi du lịch. Không chừng sẽ có một bé mèo mới!",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "109002": [
+      "Sự nghiệp và học tập của Nhân Mã trong năm mới vẫn tốt, quý nhân phù trợ, thuận buồm xuôi gió, hãy chăm chỉ làm việc tốt hơn.",
+      "Tình cảm đã thân mật hơn, nhớ ăn mặc đẹp nhé. Hãy trở thành một cô nàng tinh tế!",
+      "Ủy phái Tùy Tùng. Lần này nhất định được đồ tốt!",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "109003": [
+      "Nhân Mã cần kiểm soát chiếc miệng thèm ăn, nếu không sẽ gây nhiều vấn đề về đường tiêu hóa, cần tập thể dục thường xuyên để giảm khả năng mắc các bệnh tiềm ẩn.",
+      "Sống chung với người khác phải ôn hòa nhã nhặn, dù cho xếp hạng của đối phương có cản mất 10 sao của bạn…",
+      "Tiêu khiển quá mức. Khi nào mới được báo thù đây...",
+      "at_a2_cn",
+      "<font size=24px color=0xbc4242>Kỵ</font>| Tiểu Cát"
+    ],
+    "110001": [
+      "Ma Kết có nhiều khả năng gặp được tình yêu đích thực, kết mối lương duyên. Nhận được sự chúc phúc của bố mẹ hai bên, và có thể bắt đầu lên kế hoạch kết hôn.",
+      "Bận rộn có thể khiến ta mệt mỏi, nhưng hãy nhớ rằng, đừng cúi đầu, vương miện sẽ rơi đấy.",
+      "Câu cá ven sông. Hãy thư giãn một lát...",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "110002": [
+      "Sự nghiệp tốt đẹp, dù nhiệm vụ khó đến đâu cũng có thể hoàn thành nhanh chóng. Vì vậy Ma Kết hãy tận dụng cơ hội tốt để lập nghiệp nhé!",
+      "Đang nghĩ xem tối nay ăn gì, hay là gọi đồ ăn ngoài, biết đâu lại được gặp anh shipper đẹp trai.",
+      "Xem Ngoại Truyện, có lẽ bạn sẽ cảm nhận được điều gì đó.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "110003": [
+      "Sức khỏe trong năm nay rất tốt, mọi phiền muộn đều tan biến, đối với một số vấn đề tích tụ lâu ngày, Ma Kết cũng sẽ uống thuốc và nỗ lực điều chỉnh phù hợp.",
+      "Mọi việc đừng đi theo lối mòn. Ta là ta, phải trở thành pháo hoa khác biệt~",
+      "Vượt ải cốt truyện. Biết đâu có phát hiện mới?",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Trung Cát"
+    ],
+    "111001": [
+      "Tình duyên trong năm nay vẫn tốt, đào hoa không dứt. Chỉ cần yêu cầu đối với chuyện tình cảm không quá cao, Bảo Bình có thể dễ dàng gặp được người phù hợp.",
+      "Mờ mịt là chuyện thường xảy ra, đánh rơi món đồ chơi trên tay, đây là lúc trưởng thành đối mặt với khó khăn!",
+      "Đi du ngoạn. Ta muốn nhìn ngắm thế giới bao la rộng lớn~",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "111002": [
+      "Bảo Bình sẽ có động lực trong tương lai, tiếp tục làm việc chăm chỉ vì mục tiêu, không bao giờ dừng lại cho đến khi đạt mục tiêu và hiện thực hóa mong muốn của mình.",
+      "Chuyện giảm cân phải kiên trì, nên trà sữa hôm nay để ít đường thôi.",
+      "Đua Top. Dễ dàng thăng hạng cao, đứng trên vạn người, cô đơn biết bao.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Trung Cát"
+    ],
+    "111003": [
+      "Bảo Bình sẽ có những thay đổi về môi trường trong năm nay, cơ thể dễ mắc các bệnh, phải kiểm soát tâm lý tốt để đảm bảo sức khỏe thể chất và tinh thần.",
+      "Đừng nuối tiếc quá khứ nữa, hãy nói lời tạm biệt, sau này sẽ tốt hơn!",
+      "Tắm suối nước nóng. Tối nay nhớ đến Ngự Tuyền Quán nhé.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "112001": [
+      "Song Ngư trở nên chín chắn và vững vàng trong tình cảm, có thể trực tiếp đối mặt với cảm xúc của chính mình, học được cách giải quyết xung đột một cách tinh tế và tận hưởng tình yêu ngọt ngào.",
+      "Con gái phải làm nhiều việc tốt, nếu không thì ông trời không vui, sẽ gửi… một chàng trai xuống cho bạn đấy.",
+      "Xem cốt truyện thể bài. Hãy cảm nhận tình yêu ngọt ngào.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ],
+    "112002": [
+      "Sự nghiệp trong tương lai suôn sẻ tốt đẹp, quý nhân phù trợ, chỉ cần đặt mục tiêu và làm việc chăm chỉ thì Song Ngư sẽ tiến bộ nhanh chóng.",
+      "Tương tác đúng cách sẽ mang lại lợi ích rất nhiều. Hãy tìm một người có thể khiến bạn cười.",
+      "PB Bang. Mau gọi tỷ muội cùng chiến!",
+      "at_a12_cn",
+      "<font size = 24px color = 0xffe1a6> Nên </font> |Tiểu Cát "
+    ],
+    "112003": [
+      "Song Ngư rất coi trọng sức khỏe, hy vọng có thể duy trì cơ thể khỏe mạnh, nhưng lại áp dụng phương pháp luyện tập hơi cứng nhắc, nên vẫn chưa đạt được thể trạng lý tưởng.",
+      "Tận hưởng cuộc sống trong thời gian rảnh rỗi, nhưng đừng quên thời gian kết thúc kỳ nghỉ nhé.",
+      "Nghiên cứu Bí Tịch. Trong sách là lầu cao gác vàng.",
+      "at_a12_cn",
+      "<font size=24px color=0xffe1a6>Nên</font>| Đại Cát"
+    ]
+  }
+}

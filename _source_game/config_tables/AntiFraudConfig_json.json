@@ -1,0 +1,39 @@
+{
+  "colMap": [
+    "activityId",
+    "name",
+    "picture",
+    "time",
+    "rank"
+  ],
+  "list": {
+    "101": [
+      460101,
+      201009,
+      "af_c1_cn_jpg,af_c2_cn_jpg,af_c3_cn_jpg,af_c4_cn_jpg,af_c5_cn_jpg",
+      10,
+      1
+    ],
+    "102": [
+      460101,
+      201010,
+      "af_d1_cn_jpg,af_d2_cn_jpg,af_d3_cn_jpg",
+      10,
+      2
+    ],
+    "103": [
+      460101,
+      201011,
+      "af_b1_cn_jpg,af_b2_cn_jpg",
+      10,
+      3
+    ],
+    "104": [
+      460101,
+      201012,
+      "af_a1_cn_jpg",
+      10,
+      4
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "colMap": [
+    "type",
+    "headRes",
+    "face",
+    "facePos",
+    "bodyRes",
+    "bodyPos",
+    "name",
+    "dialog",
+    "awardDes",
+    "speech",
+    "cost",
+    "count"
+  ],
+  "list": {
+    "10001": [
+      0,
+      "head30-12",
+      "face60-1201",
+      [
+        10,
+        269
+      ],
+      "half30-1201",
+      [
+        5
+      ],
+      "Nạp Tháp Thanh Liên",
+      "Khởi bẩm Tiểu Chủ, kẻ Nạp Tháp Thanh Liên lại vừa dọn bồn cầu vừa mắng ngài, chờ đợi Tiểu Chủ xử lý!",
+      "Nguyên Khí, Bạc, Dược Thảo",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      10
+    ],
+    "10002": [
+      0,
+      "head30-13",
+      "face60-1301",
+      [
+        19,
+        264
+      ],
+      "half30-1301",
+      [
+        -2
+      ],
+      "Vân Hương",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Vân Hương lại vẽ vòng tròn nguyền rủa ngày, chờ đợi Tiểu Chủ xử lý!",
+      "Nguyên Khí, Bạc, Dược Thảo, Tài Hoa Tán, Giao Tế Tán, Dung Nhan Tán, Tâm Kế Tán, Tài Hoa hOàn, Giao Tế Hoàn, Dung Nhan Hoàn, Tâm Kế Hoàn",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      25
+    ],
+    "10003": [
+      0,
+      "head30-14",
+      "face60-1401",
+      [
+        8,
+        280
+      ],
+      "half30-1401",
+      [
+        -10
+      ],
+      "Thụy Quý Nhân",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Thụy Quý Nhân lại đang dùng tiền mua chuộc lòng người, chờ đợi Tiểu Chủ xử lý!",
+      "Nguyên Khí, Bạc, Dược Thảo, Đạo Cụ Tiêu Khiển",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      50
+    ],
+    "10004": [
+      0,
+      "head30-15",
+      "face60-1501",
+      [
+        -34,
+        240
+      ],
+      "half30-1501",
+      [
+        28
+      ],
+      "Viên Tổng Quản",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Hoằng Tổng Quản lại đang đi khắp nơi nói xấu người, chờ đợi Tiểu Chủ xử lý!",
+      "Tài Hoa Tán, Giao Tế Tán, Dung Nhan Tán, Tâm Kế Tán, Tài Hoa Hoàn, Giao Tế Hoàn, Dung Nhan Hoàn, Tâm Kế Hoàn, Tài Hoa Đan, Giao Tế Đan, Dung Nhan Đan, Tâm Kế Đan",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      15
+    ],
+    "10005": [
+      0,
+      "head30-17",
+      "face60-1701",
+      [
+        19,
+        260
+      ],
+      "half30-1302",
+      [
+        0
+      ],
+      "Gia Tần",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Gia Tần lại đang mắng chửi người, chờ đợi Tiểu Chủ xử lý!",
+      "Đạo cụ Thân Mật",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      15
+    ],
+    "10006": [
+      0,
+      "head30-16",
+      "face60-1601",
+      [
+        -2.5,
+        306
+      ],
+      "half30-1601",
+      [
+        24
+      ],
+      "Hòa Thân Vương",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Hòa Thân Vương lại cố ý làm đổ bồn cầu, chờ đợi Tiểu Chủ xử lý!",
+      "Nguyên Khí, Bạc, Dược Thảo, Cung Vụ Lệnh",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      60
+    ],
+    "10007": [
+      0,
+      "head30-18",
+      "face60-1402",
+      [
+        11,
+        277
+      ],
+      "half30-1402",
+      [
+        -10
+      ],
+      "Tuệ Quý Phi",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Tuệ Quý Phí lại đang chỉ huy người khác giúp ả dọn bồn cầu, chờ đợi Tiểu Chủ xử lý!",
+      "Vàng",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      30
+    ],
+    "10008": [
+      0,
+      "head30-39",
+      "face60-3901",
+      [
+        5,
+        260
+      ],
+      "half30-3901",
+      [
+        10
+      ],
+      "Tử Lang",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Chỉ Lan lại than khổ không muốn làm việc, chờ đợi Tiểu Chủ xử lý!",
+      "Nguyên Khí, Bạc, Dược Thảo, Tàn Quyển, Quà Quyển",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      65
+    ],
+    "10009": [
+      0,
+      "head30-34",
+      "face60-3401",
+      [
+        1,
+        261
+      ],
+      "half30-3401",
+      [
+        10
+      ],
+      "Nghĩa Tần",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Nghi Tần lại than khổ không muốn làm việc, chờ đợi Tiểu Chủ xử lý!",
+      "Đạo cụ giái trí, vàng ",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      15
+    ],
+    "10010": [
+      0,
+      "head30-35",
+      "face60-3501",
+      [
+        4.5,
+        262
+      ],
+      "half30-3501",
+      [
+        10
+      ],
+      "Thư Phi",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Thư Phi lại lên kế hoạch nửa đêm chạy trốn, chờ đợi Tiểu Chủ xử lý!",
+      "Nguyên Khí, Bạc, Dược Thảo, Lá Bạc",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      60
+    ],
+    "10011": [
+      0,
+      "head30-37",
+      "face60-3701",
+      [
+        31,
+        252
+      ],
+      "half30-3701",
+      [
+        -10
+      ],
+      "Thuần Phi",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Thuần Phi lại giả vở đáng thương xin người khác giúp đỡ, chờ đợi Tiểu Chủ xử lý!",
+      "Tài Hoa Tán, Tương Tác Tán, Dung Nhan Tán, Tâm Kế Tán, Tài Hoa Hoàn, Tương Tác Hoàn, Dung Nhan Hoàn, Tâm Kế Hoàn, Tài Hoa Đan, Tương Tác Đan, Dung Nhan Đan, Tâm Kế Đan, Mảnh Tranh, Quà Tranh",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      10,
+      30
+    ],
+    "11001": [
+      1,
+      "head30-38",
+      "face60-3801",
+      [
+        10,
+        263
+      ],
+      "half30-3801",
+      [
+        0
+      ],
+      "Nhàn Hoàng Hậu",
+      "Khởi bẩm Tiểu Chủ, kẻ thù Nhàn Hoàng Hậu lại đang đe dọa người khác, chờ đợi Tiểu Chủ xử lý!",
+      "Tài Hoa Hoàn, Giao Tế Hoàn, Nghi Dung Hoàn, Tâm Kế Hoàn, Tài Hoa Đan, Giao Tế Đan, Nghi Dung Đan, Tâm Kế Đan, Quà Quyển, Tàn Quyển, Khôi Phục Lệnh, đạo cụ Thân Mật, Vàng",
+      "Nhiều chuyện| Vụng về| Nhiều chuyện|Xin Lỗi Đi| Lười biếng|Nhiều chuyện| Thật là| Chết chưa",
+      100,
+      9999999
+    ]
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "colMap": [
+    "icon",
+    "quality",
+    "name",
+    "description",
+    "type",
+    "value",
+    "goldPrice"
+  ],
+  "list": {
+    "10101": [
+      130001,
+      2,
+      "Buff Tấn Công-Sơ",
+      "Buff Công (tạm thời)",
+      1,
+      "50,50",
+      "6,3"
+    ],
+    "10201": [
+      130002,
+      3,
+      "Buff Tấn Công-Trung",
+      "Buff Công (tạm thời)",
+      1,
+      "100,100",
+      "8,100"
+    ],
+    "10301": [
+      130003,
+      4,
+      "Buff Tấn Công-Cao",
+      "Buff Công (tạm thời)",
+      1,
+      "150,150",
+      "8,150"
+    ],
+    "20101": [
+      130001,
+      2,
+      "Buff Tấn Công-Sơ",
+      "Buff Công (tạm thời)",
+      1,
+      "5,10",
+      "6,1"
+    ],
+    "20102": [
+      130004,
+      2,
+      "Buff Nguyên Khí-Sơ",
+      "Hồi phục nguyên khí",
+      2,
+      "5,5",
+      "6,1"
+    ],
+    "20103": [
+      130007,
+      2,
+      "Buff Miễn Thương-Sơ",
+      "Buff Miễn Thương (tạm thời)",
+      3,
+      "1,1",
+      "6,1"
+    ],
+    "20201": [
+      130002,
+      3,
+      "Buff Tấn Công-Trung",
+      "Buff Công (tạm thời)",
+      1,
+      "10,15",
+      "6,2"
+    ],
+    "20202": [
+      130005,
+      3,
+      "Buff Nguyên Khí-Trung",
+      "Hồi phục nguyên khí",
+      2,
+      "6,10",
+      "6,2"
+    ],
+    "20203": [
+      130008,
+      3,
+      "Buff Miễn Thương-Trung",
+      "Buff Miễn Thương (tạm thời)",
+      3,
+      "1,2",
+      "6,2"
+    ],
+    "20301": [
+      130003,
+      4,
+      "Buff Tấn Công-Cao",
+      "Buff Công (tạm thời)",
+      1,
+      "15,20",
+      "8,20"
+    ],
+    "20302": [
+      130006,
+      4,
+      "Buff Nguyên Khí-Cao",
+      "Hồi phục nguyên khí",
+      2,
+      "12,15",
+      "8,20"
+    ],
+    "20303": [
+      130009,
+      4,
+      "Buff Miễn Thương-Cao",
+      "Buff Miễn Thương (tạm thời)",
+      3,
+      "2,3",
+      "8,20"
+    ]
+  }
+}

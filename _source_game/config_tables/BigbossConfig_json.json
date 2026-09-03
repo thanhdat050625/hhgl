@@ -1,0 +1,68 @@
+{
+  "colMap": [
+    "quality",
+    "name",
+    "description",
+    "location1",
+    "location2",
+    "resource"
+  ],
+  "list": {
+    "10001": [
+      1,
+      "Sư Linh Huyên",
+      "Sư Linh Huyên, đến từ vùng sông nước Giang Nam, nữ nhi nhẹ nhàng như nước, học múa từ nhỏ.\n\t\t\t\t\t\t\t\tTừng được mời biểu diễn trên sân khấu Kim Lăng Phụng Hoàng, tư thế múa uyển chuyển, như cành liễu trên mặt hồ xuân, lại như hoa tuyết tung bay đầy trời khiến mọi người không ngừng ca ngợi.",
+      0,
+      0,
+      "half83-0101"
+    ],
+    "10002": [
+      1,
+      "Y Hoằng Nhã",
+      "\t\t\t\t\t\t\t\tY Hoằng Nhã, công tử tuấn tú đến từ ngoại vực, am hiểu nhảy múa âm luật nhưng thích văn chương vẽ tranh nhất, hay đi giao du khắp nơi.\n\t\t\t\t\t\t\t\tNghe nói có tuyệt kỹ tay trái vẽ tranh, tay phải đề thơ cùng lúc, thư pháp điêu luyện, tranh vẽ thanh tịnh sâu xa, trình độ đều đạt thượng đẳng. ",
+      0,
+      0,
+      "half83-0201"
+    ],
+    "10003": [
+      1,
+      "Cổ Lan",
+      "\t\t\t\t\t\t\t\tCổ Lan, người Tây Vực từ nhỏ đã theo bộ lạc Thánh Nữ học múa, là viên ngọc sáng nhất trong bộ tộc, cây hoa Tu-lip thơm nhất trong sa mạc. \n\t\t\t\t\t\t\t\tMỗi khi lễ hội, cô ấy đều khiêu vũ hết mình dưới bầu trời đầy sao, bên ngọn lửa trại bùng cháy giữa hoang mạc, hấp dẫn vô cùng.",
+      0,
+      0,
+      "half83-0301"
+    ],
+    "10004": [
+      1,
+      "Tạ Chiêu",
+      "\t\t\t\t\t\t\t\tTạ Chiêu, xuất thân gia đình danh môn, là hậu bối của  Trần quận Tạ thị, một vị công tử thế gia phong lưu, tinh thông cầm kỳ thi họa, giỏi chơi sáo trúc.\n\t\t\t\t\t\t\t\tNăm xưa cùng bạn bè tham quan cảnh xuân trong rừng đào, có cảm hứng liền thổi một khúc sáo, tiếng sáo du dương vui vẻ như thấy cảnh xuân.",
+      0,
+      0,
+      "half83-0401"
+    ],
+    "10101": [
+      2,
+      "Fiora",
+      "\t\t\t\t\t\t\t\tFiora, sinh ra ở thủ đô âm nhạc, gia đình đều là những nhà âm nhạc nổi tiếng, từ nhỏ được sự bồi dưỡng của âm nhạc nên càng yêu quý đàn hạc.\n\t\t\t\t\t\t\t\tCô chơi đàn bên suối thánh, tiếng đàn kỳ ảo trong veo có sức lôi cuốn vỗ về sinh linh. Ngay cả bồ câu cũng bị rung động và đến bên cạnh cô, như một người hành hương ngoan đạo, bảo vệ nữ thần.",
+      0,
+      0,
+      "half83-0501"
+    ],
+    "10102": [
+      2,
+      "Úc Hoa Dung",
+      "\t\t\t\t\t\t\t\tÚc Hoa Dung, con nuôi nhà quyền quý có thân thế bí ẩn, có khả năng cảm thụ âm nhạc, nhạc cụ gì cũng học được, vài tháng sau là có thể thành chuyên gia.\n\t\t\t\t\t\t\t\tTừng đánh đàn trong u cốc, suối reo róc rách, nước chảy lững lờ, âm thanh như si như dại. Bóng hình ảo diệu trong làn sương.",
+      0,
+      0,
+      "half83-0601"
+    ],
+    "10103": [
+      2,
+      "Tinh Dao",
+      "\t\t\t\t\t\t\t\tTinh Dao, vũ công có nguồn gốc bí ẩn, tôn sùng vạn vật có linh hồn, thường một mình đi thăm sông núi, lĩnh hội sự thuần khiết tự nhiên.\n\t\t\t\t\t\t\t\tNàng từng múa trên đỉnh Thái Sơn, lúc đó mây ngưng tụ, gió ngừng thổi, vạn vật đều dừng lại vì nàng. Điệu múa thể hiện linh cảm vô song, đối thoại với đất trời.",
+      0,
+      0,
+      "half83-0701"
+    ]
+  }
+}

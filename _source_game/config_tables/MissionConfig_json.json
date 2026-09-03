@@ -1,0 +1,20 @@
+{
+  "colMap": [
+    "targetTitle",
+    "icon"
+  ],
+  "list": {
+    "10001": [
+      "Hẹn Hò",
+      "bd_a14_cn_png"
+    ],
+    "10002": [
+      "Trang viên",
+      "bd_a20_cn_png"
+    ],
+    "10003": [
+      "Hoàng Thất Đào Bảo",
+      "bd_a20_cn_png"
+    ]
+  }
+}

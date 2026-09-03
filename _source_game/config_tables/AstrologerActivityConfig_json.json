@@ -1,0 +1,36 @@
+{
+  "colMap": [
+    "activityId",
+    "name",
+    "wishReward",
+    "suitId",
+    "time",
+    "totalTime",
+    "data"
+  ],
+  "list": {
+    "101": [
+      600101,
+      "Nhà Chiêm Tinh",
+      [
+        [
+          2,
+          68,
+          200
+        ]
+      ],
+      [
+        [
+          1272,
+          127204
+        ]
+      ],
+      60,
+      480,
+      [
+        3,
+        60
+      ]
+    ]
+  }
+}

@@ -1,0 +1,7419 @@
+{
+  "colMap": [
+    "bossId",
+    "BossBg",
+    "fightBg",
+    "npcID",
+    "name",
+    "quality",
+    "bossLv",
+    "power",
+    "life",
+    "awardShow",
+    "rewardShow",
+    "description",
+    "speak"
+  ],
+  "list": {
+    "1501001": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001001,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      1,
+      1000000,
+      192600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Muôi muội, chuyện trước đây là do tỷ không tốt, mong muội đừng hẹp hòi như vậy, vẫn còn oán hận tỷ…"
+    ],
+    "1501002": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001001,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      2,
+      2000000,
+      499800000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Muôi muội, chuyện trước đây là do tỷ không tốt, mong muội đừng hẹp hòi như vậy, vẫn còn oán hận tỷ…"
+    ],
+    "1501003": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001001,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      3,
+      4150000,
+      963300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Muôi muội, chuyện trước đây là do tỷ không tốt, mong muội đừng hẹp hòi như vậy, vẫn còn oán hận tỷ…"
+    ],
+    "1501004": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001001,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      4,
+      7600000,
+      1538550000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Muôi muội, chuyện trước đây là do tỷ không tốt, mong muội đừng hẹp hòi như vậy, vẫn còn oán hận tỷ…"
+    ],
+    "1501005": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001002,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      5,
+      12200000,
+      2004750000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Sao, sợ ta được thánh thượng sủng ái sao? Nếu ngươi không có bản lĩnh, ta sao có thể quay lại cung!"
+    ],
+    "1501006": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001002,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      6,
+      16900000,
+      2109700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Sao, sợ ta được thánh thượng sủng ái sao? Nếu ngươi không có bản lĩnh, ta sao có thể quay lại cung!"
+    ],
+    "1501007": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001002,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      7,
+      20000000,
+      2614950000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Sao, sợ ta được thánh thượng sủng ái sao? Nếu ngươi không có bản lĩnh, ta sao có thể quay lại cung!"
+    ],
+    "1501008": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001002,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      8,
+      23650000,
+      3248150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Sao, sợ ta được thánh thượng sủng ái sao? Nếu ngươi không có bản lĩnh, ta sao có thể quay lại cung!"
+    ],
+    "1501009": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      9,
+      28000000,
+      4043450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Tiện nhân! Lúc đầu làm hỏng việc của ta, nay ngươi còn dám đến, ta sao có thể dễ dàng tha cho ngươi!"
+    ],
+    "1501010": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      10,
+      33250000,
+      5044500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Tiện nhân! Lúc đầu làm hỏng việc của ta, nay ngươi còn dám đến, ta sao có thể dễ dàng tha cho ngươi!"
+    ],
+    "1501011": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      11,
+      39500000,
+      6307300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Tiện nhân! Lúc đầu làm hỏng việc của ta, nay ngươi còn dám đến, ta sao có thể dễ dàng tha cho ngươi!"
+    ],
+    "1501012": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      12,
+      47050000,
+      7903900000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Tiện nhân! Lúc đầu làm hỏng việc của ta, nay ngươi còn dám đến, ta sao có thể dễ dàng tha cho ngươi!"
+    ],
+    "1501013": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      13,
+      56150000,
+      9927050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Mạng của muội muội lớn thật, lần này sẽ không may mắn như vậy!"
+    ],
+    "1501014": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      14,
+      67100000,
+      12496500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Mạng của muội muội lớn thật, lần này sẽ không may mắn như vậy!"
+    ],
+    "1501015": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      15,
+      80350000,
+      15767250000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Mạng của muội muội lớn thật, lần này sẽ không may mắn như vậy!"
+    ],
+    "1501016": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      16,
+      96400000,
+      19940350000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Mạng của muội muội lớn thật, lần này sẽ không may mắn như vậy!"
+    ],
+    "1501017": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      17,
+      115850000,
+      25277300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Ta trở lại rồi, sủng ái của thánh thượng sẽ là của ta!"
+    ],
+    "1501018": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      18,
+      139450000,
+      32118700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Ta trở lại rồi, sủng ái của thánh thượng sẽ là của ta!"
+    ],
+    "1501019": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      19,
+      168200000,
+      40909600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Ta trở lại rồi, sủng ái của thánh thượng sẽ là của ta!"
+    ],
+    "1501020": [
+      1501,
+      "bg_10003",
+      "bg_00001",
+      2001003,
+      "Thiếu Chủ Nạp Tháp",
+      1,
+      20,
+      203300000,
+      52232800000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cháu gái Thụy Quý Nhân. Khi mới vào cung, lợi dụng náo kịch gây tâm lý cho tú nữ khác, ngươi vạch trần xong liền dùng vật trấn yểm vu oan ngươi.",
+      "Ta trở lại rồi, sủng ái của thánh thượng sẽ là của ta!"
+    ],
+    "1601001": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002001,
+      "Vân Hương",
+      1,
+      1,
+      1100000,
+      210050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Đến trễ thì còn ra thể thống gì... Đúng là không có quy tắc gì hết, không hiểu vì sao lúc đó lại vượt qua kỳ tuyển tú!"
+    ],
+    "1601002": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002001,
+      "Vân Hương",
+      1,
+      2,
+      2250000,
+      547500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Đến trễ thì còn ra thể thống gì... Đúng là không có quy tắc gì hết, không hiểu vì sao lúc đó lại vượt qua kỳ tuyển tú!"
+    ],
+    "1601003": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002001,
+      "Vân Hương",
+      1,
+      3,
+      4600000,
+      1057950000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Đến trễ thì còn ra thể thống gì... Đúng là không có quy tắc gì hết, không hiểu vì sao lúc đó lại vượt qua kỳ tuyển tú!"
+    ],
+    "1601004": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002001,
+      "Vân Hương",
+      1,
+      4,
+      8500000,
+      1692750000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Đến trễ thì còn ra thể thống gì... Đúng là không có quy tắc gì hết, không hiểu vì sao lúc đó lại vượt qua kỳ tuyển tú!"
+    ],
+    "1601005": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002002,
+      "Vân Hương",
+      1,
+      5,
+      13650000,
+      2207450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Bữa tiệc này khá lớn, ngươi xem ăn mặc cho đàng hoàng, chớ làm xấu mặt bọn ta..."
+    ],
+    "1601006": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002002,
+      "Vân Hương",
+      1,
+      6,
+      18950000,
+      2322600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Bữa tiệc này khá lớn, ngươi xem ăn mặc cho đàng hoàng, chớ làm xấu mặt bọn ta..."
+    ],
+    "1601007": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002002,
+      "Vân Hương",
+      1,
+      7,
+      22450000,
+      2881600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Bữa tiệc này khá lớn, ngươi xem ăn mặc cho đàng hoàng, chớ làm xấu mặt bọn ta..."
+    ],
+    "1601008": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002002,
+      "Vân Hương",
+      1,
+      8,
+      26550000,
+      3582850000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Bữa tiệc này khá lớn, ngươi xem ăn mặc cho đàng hoàng, chớ làm xấu mặt bọn ta..."
+    ],
+    "1601009": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      9,
+      31500000,
+      4464500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Đáng ghét, ngươi thể hiện bản lĩnh ở chỗ ta có ích ư? Kẻ địch của ngươi, đâu chỉ 1 mình ta!?"
+    ],
+    "1601010": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      10,
+      37450000,
+      5575300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Đáng ghét, ngươi thể hiện bản lĩnh ở chỗ ta có ích ư? Kẻ địch của ngươi, đâu chỉ 1 mình ta!?"
+    ],
+    "1601011": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      11,
+      44550000,
+      6978000000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Đáng ghét, ngươi thể hiện bản lĩnh ở chỗ ta có ích ư? Kẻ địch của ngươi, đâu chỉ 1 mình ta!?"
+    ],
+    "1601012": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      12,
+      53150000,
+      8753250000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Đáng ghét, ngươi thể hiện bản lĩnh ở chỗ ta có ích ư? Kẻ địch của ngươi, đâu chỉ 1 mình ta!?"
+    ],
+    "1601013": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      13,
+      63500000,
+      11005000000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Loại người như ngươi, sao có thể sánh bằng chủ tử ta?! Làm người phải biết thân phận chứ!"
+    ],
+    "1601014": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      14,
+      76000000,
+      13867750000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Loại người như ngươi, sao có thể sánh bằng chủ tử ta?! Làm người phải biết thân phận chứ!"
+    ],
+    "1601015": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      15,
+      91100000,
+      17515650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Loại người như ngươi, sao có thể sánh bằng chủ tử ta?! Làm người phải biết thân phận chứ!"
+    ],
+    "1601016": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      16,
+      109400000,
+      22174850000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Loại người như ngươi, sao có thể sánh bằng chủ tử ta?! Làm người phải biết thân phận chứ!"
+    ],
+    "1601017": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      17,
+      131650000,
+      28139700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Cản đường của người khác, chớ trách người ta lấy mạng ngươi!"
+    ],
+    "1601018": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      18,
+      158700000,
+      35794150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Cản đường của người khác, chớ trách người ta lấy mạng ngươi!"
+    ],
+    "1601019": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      19,
+      191700000,
+      45640500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Cản đường của người khác, chớ trách người ta lấy mạng ngươi!"
+    ],
+    "1601020": [
+      1601,
+      "bg_10005",
+      "bg_00001",
+      2002003,
+      "Vân Hương",
+      1,
+      20,
+      231950000,
+      58336950000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Cung nữ của Gia Tần được lệnh làm khó ngươi trước mặt mọi người, đêm đó còn đe dọa sẽ giết ngươi.",
+      "Cản đường của người khác, chớ trách người ta lấy mạng ngươi!"
+    ],
+    "1701001": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003001,
+      "Thụy Quý Nhân",
+      1,
+      1,
+      1200000,
+      245800000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Muội muội, lâu rồi không gặp, muội có… nhớ tỷ tỷ không?"
+    ],
+    "1701002": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003001,
+      "Thụy Quý Nhân",
+      1,
+      2,
+      2450000,
+      645850000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Muội muội, lâu rồi không gặp, muội có… nhớ tỷ tỷ không?"
+    ],
+    "1701003": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003001,
+      "Thụy Quý Nhân",
+      1,
+      3,
+      5050000,
+      1255100000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Muội muội, lâu rồi không gặp, muội có… nhớ tỷ tỷ không?"
+    ],
+    "1701004": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003001,
+      "Thụy Quý Nhân",
+      1,
+      4,
+      9350000,
+      2016600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Muội muội, lâu rồi không gặp, muội có… nhớ tỷ tỷ không?"
+    ],
+    "1701005": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003002,
+      "Thụy Quý Nhân",
+      1,
+      5,
+      15150000,
+      2636400000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Hơ, uổng phí tấm lòng ta đã sắp đặt yến tiệc chiêu đãi muội muội.... nhưng muội lại không nhận?"
+    ],
+    "1701006": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003002,
+      "Thụy Quý Nhân",
+      1,
+      6,
+      21050000,
+      2776000000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Hơ, uổng phí tấm lòng ta đã sắp đặt yến tiệc chiêu đãi muội muội.... nhưng muội lại không nhận?"
+    ],
+    "1701007": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003002,
+      "Thụy Quý Nhân",
+      1,
+      7,
+      24950000,
+      3450300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Hơ, uổng phí tấm lòng ta đã sắp đặt yến tiệc chiêu đãi muội muội.... nhưng muội lại không nhận?"
+    ],
+    "1701008": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003002,
+      "Thụy Quý Nhân",
+      1,
+      8,
+      29550000,
+      4297700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Hơ, uổng phí tấm lòng ta đã sắp đặt yến tiệc chiêu đãi muội muội.... nhưng muội lại không nhận?"
+    ],
+    "1701009": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      9,
+      35100000,
+      5364950000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Ngươi vào cũng cũng đã lâu, không hiểu quy tắc, ta sẽ cho người nhắc sóc ngươi…"
+    ],
+    "1701010": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      10,
+      41750000,
+      6712150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Ngươi vào cũng cũng đã lâu, không hiểu quy tắc, ta sẽ cho người nhắc sóc ngươi…"
+    ],
+    "1701011": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      11,
+      49750000,
+      8416450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Ngươi vào cũng cũng đã lâu, không hiểu quy tắc, ta sẽ cho người nhắc sóc ngươi…"
+    ],
+    "1701012": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      12,
+      59400000,
+      10577450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Ngươi vào cũng cũng đã lâu, không hiểu quy tắc, ta sẽ cho người nhắc sóc ngươi…"
+    ],
+    "1701013": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      13,
+      71050000,
+      13323700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Muội muội ngồi xuống chờ một lát, tỷ tỷ cho cung nữ mang một trái quýt đến."
+    ],
+    "1701014": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      14,
+      85100000,
+      16821700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Muội muội ngồi xuống chờ một lát, tỷ tỷ cho cung nữ mang một trái quýt đến."
+    ],
+    "1701015": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      15,
+      102150000,
+      21287700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Muội muội ngồi xuống chờ một lát, tỷ tỷ cho cung nữ mang một trái quýt đến."
+    ],
+    "1701016": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      16,
+      122850000,
+      27002850000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Muội muội ngồi xuống chờ một lát, tỷ tỷ cho cung nữ mang một trái quýt đến."
+    ],
+    "1701017": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      17,
+      148000000,
+      34333950000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Tỷ tỷ muội muội kêu thân thiết như vậy, kết quả đến quả quýt cũng không muốn ăn sao?"
+    ],
+    "1701018": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      18,
+      178600000,
+      43760400000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Tỷ tỷ muội muội kêu thân thiết như vậy, kết quả đến quả quýt cũng không muốn ăn sao?"
+    ],
+    "1701019": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      19,
+      216000000,
+      55910300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Tỷ tỷ muội muội kêu thân thiết như vậy, kết quả đến quả quýt cũng không muốn ăn sao?"
+    ],
+    "1701020": [
+      1701,
+      "bg_10004",
+      "bg_00001",
+      2003003,
+      "Thụy Quý Nhân",
+      1,
+      20,
+      261650000,
+      71608850000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Nghe Trần Uyển Quân không thể ăn quýt, bèn dẫn dụ ngươi cống nạp quýt, để vạch trần thân phận của ngươi. ",
+      "Tỷ tỷ muội muội kêu thân thiết như vậy, kết quả đến quả quýt cũng không muốn ăn sao?"
+    ],
+    "1801001": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004001,
+      "Viên Tổng Quản",
+      2,
+      1,
+      1300000,
+      382050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Thiếu chủ, nô tài chờ đây lâu rồi, mời ngồi…..."
+    ],
+    "1801002": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004001,
+      "Viên Tổng Quản",
+      2,
+      2,
+      2650000,
+      1026100000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Thiếu chủ, nô tài chờ đây lâu rồi, mời ngồi…..."
+    ],
+    "1801003": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004001,
+      "Viên Tổng Quản",
+      2,
+      3,
+      5550000,
+      2029750000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Thiếu chủ, nô tài chờ đây lâu rồi, mời ngồi…..."
+    ],
+    "1801004": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004001,
+      "Viên Tổng Quản",
+      2,
+      4,
+      10250000,
+      3305650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Thiếu chủ, nô tài chờ đây lâu rồi, mời ngồi…..."
+    ],
+    "1801005": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004002,
+      "Viên Tổng Quản",
+      2,
+      5,
+      16650000,
+      4360500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Tiếc quá...có nô tài ở đây, chuyện của Nội Vụ Phủ chưa tới phiên thiếu chủ định đoạt."
+    ],
+    "1801006": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004002,
+      "Viên Tổng Quản",
+      2,
+      6,
+      23200000,
+      4610300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Tiếc quá...có nô tài ở đây, chuyện của Nội Vụ Phủ chưa tới phiên thiếu chủ định đoạt."
+    ],
+    "1801007": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004002,
+      "Viên Tổng Quản",
+      2,
+      7,
+      27500000,
+      5759250000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Tiếc quá...có nô tài ở đây, chuyện của Nội Vụ Phủ chưa tới phiên thiếu chủ định đoạt."
+    ],
+    "1801008": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004002,
+      "Viên Tổng Quản",
+      2,
+      8,
+      32600000,
+      7210550000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Tiếc quá...có nô tài ở đây, chuyện của Nội Vụ Phủ chưa tới phiên thiếu chủ định đoạt."
+    ],
+    "1801009": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      9,
+      38750000,
+      9047900000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Hoa đẹp cũng tàn, lúc ngươi thất sủng, chính là ngày ta nắm Nội Vụ Phủ!"
+    ],
+    "1801010": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      10,
+      46150000,
+      11379200000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Hoa đẹp cũng tàn, lúc ngươi thất sủng, chính là ngày ta nắm Nội Vụ Phủ!"
+    ],
+    "1801011": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      11,
+      55050000,
+      14344100000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Hoa đẹp cũng tàn, lúc ngươi thất sủng, chính là ngày ta nắm Nội Vụ Phủ!"
+    ],
+    "1801012": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      12,
+      65800000,
+      18123400000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Hoa đẹp cũng tàn, lúc ngươi thất sủng, chính là ngày ta nắm Nội Vụ Phủ!"
+    ],
+    "1801013": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      13,
+      78750000,
+      22952050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Thiếu chủ như vậy, sẽ làm hỏng quy tắc của Nội Vụ Phủ…"
+    ],
+    "1801014": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      14,
+      94500000,
+      29136000000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Thiếu chủ như vậy, sẽ làm hỏng quy tắc của Nội Vụ Phủ…"
+    ],
+    "1801015": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      15,
+      113500000,
+      37074400000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Thiếu chủ như vậy, sẽ làm hỏng quy tắc của Nội Vụ Phủ…"
+    ],
+    "1801016": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      16,
+      136650000,
+      47289500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Thiếu chủ như vậy, sẽ làm hỏng quy tắc của Nội Vụ Phủ…"
+    ],
+    "1801017": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      17,
+      164800000,
+      60466150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Mọi người đều dùng cùng một loại son phấn, sao của thiếu chủ lại có vấn đề?"
+    ],
+    "1801018": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      18,
+      199100000,
+      77504550000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Mọi người đều dùng cùng một loại son phấn, sao của thiếu chủ lại có vấn đề?"
+    ],
+    "1801019": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      19,
+      241050000,
+      99591100000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Mọi người đều dùng cùng một loại son phấn, sao của thiếu chủ lại có vấn đề?"
+    ],
+    "1801020": [
+      1801,
+      "bg_10001",
+      "bg_00001",
+      2004003,
+      "Viên Tổng Quản",
+      2,
+      20,
+      292350000,
+      128292950000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Kiểm soát nội vụ phủ, tự ý vơ vét của cải, bị ngươi ngăn cản, tìm cách hãm hại ngươi.",
+      "Mọi người đều dùng cùng một loại son phấn, sao của thiếu chủ lại có vấn đề?"
+    ],
+    "1901001": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005001,
+      "Gia Tần",
+      2,
+      1,
+      1400000,
+      625450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Chỉ có mình ngươi đến trễ trong bữa tiệc của bổn cung, có phải không xem ta ra gì không?"
+    ],
+    "1901002": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005001,
+      "Gia Tần",
+      2,
+      2,
+      2850000,
+      1721750000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Chỉ có mình ngươi đến trễ trong bữa tiệc của bổn cung, có phải không xem ta ra gì không?"
+    ],
+    "1901003": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005001,
+      "Gia Tần",
+      2,
+      3,
+      6000000,
+      3474400000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Chỉ có mình ngươi đến trễ trong bữa tiệc của bổn cung, có phải không xem ta ra gì không?"
+    ],
+    "1901004": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005001,
+      "Gia Tần",
+      2,
+      4,
+      11150000,
+      5745700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Chỉ có mình ngươi đến trễ trong bữa tiệc của bổn cung, có phải không xem ta ra gì không?"
+    ],
+    "1901005": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005002,
+      "Gia Tần",
+      2,
+      5,
+      18150000,
+      7656950000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Chà, ngươi đến thật rồi, bổn cung còn tưởng… ngươi sẽ trốn trong Cảnh Nhân Cung mà run chứ!"
+    ],
+    "1901006": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005002,
+      "Gia Tần",
+      2,
+      6,
+      25350000,
+      8134150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Chà, ngươi đến thật rồi, bổn cung còn tưởng… ngươi sẽ trốn trong Cảnh Nhân Cung mà run chứ!"
+    ],
+    "1901007": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005002,
+      "Gia Tần",
+      2,
+      7,
+      30050000,
+      10219150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Chà, ngươi đến thật rồi, bổn cung còn tưởng… ngươi sẽ trốn trong Cảnh Nhân Cung mà run chứ!"
+    ],
+    "1901008": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005002,
+      "Gia Tần",
+      2,
+      8,
+      35700000,
+      12867900000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Chà, ngươi đến thật rồi, bổn cung còn tưởng… ngươi sẽ trốn trong Cảnh Nhân Cung mà run chứ!"
+    ],
+    "1901009": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      9,
+      42500000,
+      16240600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Tội hại bổn cung mất đi đứa con, dù có dùng mười cái mạng của ngươi cũng không thể bù đắp!"
+    ],
+    "1901010": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      10,
+      50650000,
+      20545100000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Tội hại bổn cung mất đi đứa con, dù có dùng mười cái mạng của ngươi cũng không thể bù đắp!"
+    ],
+    "1901011": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      11,
+      60500000,
+      26051650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Tội hại bổn cung mất đi đứa con, dù có dùng mười cái mạng của ngươi cũng không thể bù đắp!"
+    ],
+    "1901012": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      12,
+      72350000,
+      33112650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Tội hại bổn cung mất đi đứa con, dù có dùng mười cái mạng của ngươi cũng không thể bù đắp!"
+    ],
+    "1901013": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      13,
+      86700000,
+      42188450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Kẻ xấu xa, không phải ganh ghét bổn cung mang long thai sao?"
+    ],
+    "1901014": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      14,
+      104050000,
+      53882200000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Kẻ xấu xa, không phải ganh ghét bổn cung mang long thai sao?"
+    ],
+    "1901015": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      15,
+      125150000,
+      68985850000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Kẻ xấu xa, không phải ganh ghét bổn cung mang long thai sao?"
+    ],
+    "1901016": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      16,
+      150800000,
+      88541600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Kẻ xấu xa, không phải ganh ghét bổn cung mang long thai sao?"
+    ],
+    "1901017": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      17,
+      182050000,
+      113924950000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Con ta mất rồi, sẽ có người phải trả giá!"
+    ],
+    "1901018": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      18,
+      220150000,
+      146955250000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Con ta mất rồi, sẽ có người phải trả giá!"
+    ],
+    "1901019": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      19,
+      266800000,
+      190045200000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Con ta mất rồi, sẽ có người phải trả giá!"
+    ],
+    "1901020": [
+      1901,
+      "bg_30010",
+      "bg_00001",
+      2005003,
+      "Gia Tần",
+      2,
+      20,
+      323900000,
+      246402700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Dựa vào chuyện mang thai giả, để nhận được sự sủng ái của Hoàng Thượng, tự biết lời nói dối không duy trì được bao lâu, nên đã tạo ra lời đồn sảy thai để hãm hại ngươi.",
+      "Con ta mất rồi, sẽ có người phải trả giá!"
+    ],
+    "2001001": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006001,
+      "Tuệ Quý Phi",
+      2,
+      1,
+      1500000,
+      909300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Lãnh cung vắng vẻ, muội muội… sao không đến thăm bổn cung…"
+    ],
+    "2001002": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006001,
+      "Tuệ Quý Phi",
+      2,
+      2,
+      3100000,
+      2550600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Lãnh cung vắng vẻ, muội muội… sao không đến thăm bổn cung…"
+    ],
+    "2001003": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006001,
+      "Tuệ Quý Phi",
+      2,
+      3,
+      6450000,
+      5224650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Lãnh cung vắng vẻ, muội muội… sao không đến thăm bổn cung…"
+    ],
+    "2001004": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006001,
+      "Tuệ Quý Phi",
+      2,
+      4,
+      12100000,
+      8739900000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Lãnh cung vắng vẻ, muội muội… sao không đến thăm bổn cung…"
+    ],
+    "2001005": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006002,
+      "Tuệ Quý Phi",
+      2,
+      5,
+      19700000,
+      11736050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Trần Uyển Quân… Ha ha ha, chỗ bổn cung có nhiều nến nguyên bảo, lấy thêm đi..."
+    ],
+    "2001006": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006002,
+      "Tuệ Quý Phi",
+      2,
+      6,
+      27550000,
+      12510600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12011,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Trần Uyển Quân… Ha ha ha, chỗ bổn cung có nhiều nến nguyên bảo, lấy thêm đi..."
+    ],
+    "2001007": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006002,
+      "Tuệ Quý Phi",
+      2,
+      7,
+      32700000,
+      15785200000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Trần Uyển Quân… Ha ha ha, chỗ bổn cung có nhiều nến nguyên bảo, lấy thêm đi..."
+    ],
+    "2001008": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006002,
+      "Tuệ Quý Phi",
+      2,
+      8,
+      38850000,
+      19963300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Trần Uyển Quân… Ha ha ha, chỗ bổn cung có nhiều nến nguyên bảo, lấy thêm đi..."
+    ],
+    "2001009": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      9,
+      46300000,
+      25306650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Âm hồn bất tán không phải ta, mà là bọn người hại ta!!"
+    ],
+    "2001010": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      10,
+      55200000,
+      32156350000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Âm hồn bất tán không phải ta, mà là bọn người hại ta!!"
+    ],
+    "2001011": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      11,
+      66000000,
+      40958050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Âm hồn bất tán không phải ta, mà là bọn người hại ta!!"
+    ],
+    "2001012": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      12,
+      79000000,
+      52295300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Âm hồn bất tán không phải ta, mà là bọn người hại ta!!"
+    ],
+    "2001013": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      13,
+      94750000,
+      66934100000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Đến đây, muội muội, hãy cùng tỷ tỷ đến con đường hoàng tuyền…"
+    ],
+    "2001014": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      14,
+      113850000,
+      85882300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Đến đây, muội muội, hãy cùng tỷ tỷ đến con đường hoàng tuyền…"
+    ],
+    "2001015": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      15,
+      137050000,
+      110469600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Đến đây, muội muội, hãy cùng tỷ tỷ đến con đường hoàng tuyền…"
+    ],
+    "2001016": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      16,
+      165300000,
+      142454200000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Đến đây, muội muội, hãy cùng tỷ tỷ đến con đường hoàng tuyền…"
+    ],
+    "2001017": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      17,
+      199750000,
+      184167050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Trần Uyển Quân, bổn cung sẽ không tha cho ngươi!"
+    ],
+    "2001018": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      18,
+      241800000,
+      238706400000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Trần Uyển Quân, bổn cung sẽ không tha cho ngươi!"
+    ],
+    "2001019": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      19,
+      293250000,
+      310200600000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Trần Uyển Quân, bổn cung sẽ không tha cho ngươi!"
+    ],
+    "2001020": [
+      2001,
+      "bg_10017",
+      "bg_00001",
+      2006003,
+      "Tuệ Quý Phi",
+      2,
+      20,
+      356400000,
+      404165350000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12016,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Hại Phú Sát Hoàng Hậu bị tìm thấy chứng cứ, khiến bà ấy phải vào lãnh cung. Tuy đã kết liễu tính mạng trong lãnh cung nhưng không hiểu sao ảo ảnh của bà ấy lại xuất hiện...",
+      "Trần Uyển Quân, bổn cung sẽ không tha cho ngươi!"
+    ],
+    "2101001": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007001,
+      "Nghĩa Tần",
+      3,
+      1,
+      1600000,
+      1326300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Tỷ tỷ biết mình làm sai rồi, mong muội bỏ qua, yến tiệc lần này là vì muội chuẩn bị đó…"
+    ],
+    "2101002": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007001,
+      "Nghĩa Tần",
+      3,
+      2,
+      3300000,
+      3791100000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Tỷ tỷ biết mình làm sai rồi, mong muội bỏ qua, yến tiệc lần này là vì muội chuẩn bị đó…"
+    ],
+    "2101003": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007001,
+      "Nghĩa Tần",
+      3,
+      3,
+      6950000,
+      7884500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Tỷ tỷ biết mình làm sai rồi, mong muội bỏ qua, yến tiệc lần này là vì muội chuẩn bị đó…"
+    ],
+    "2101004": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007001,
+      "Nghĩa Tần",
+      3,
+      4,
+      13000000,
+      13343700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Tỷ tỷ biết mình làm sai rồi, mong muội bỏ qua, yến tiệc lần này là vì muội chuẩn bị đó…"
+    ],
+    "2101005": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007002,
+      "Nghĩa Tần",
+      3,
+      5,
+      21250000,
+      18056950000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Muội muội tính tình cộc cằn, trong lòng vẫn oán hận tỷ tỷ sao? Tỷ tỷ thật sự tủi thân…"
+    ],
+    "2101006": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007002,
+      "Nghĩa Tần",
+      3,
+      6,
+      29800000,
+      19317050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12012,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Muội muội tính tình cộc cằn, trong lòng vẫn oán hận tỷ tỷ sao? Tỷ tỷ thật sự tủi thân…"
+    ],
+    "2101007": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007002,
+      "Nghĩa Tần",
+      3,
+      7,
+      35350000,
+      24479350000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Muội muội tính tình cộc cằn, trong lòng vẫn oán hận tỷ tỷ sao? Tỷ tỷ thật sự tủi thân…"
+    ],
+    "2101008": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007002,
+      "Nghĩa Tần",
+      3,
+      8,
+      42100000,
+      31094800000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Muội muội tính tình cộc cằn, trong lòng vẫn oán hận tỷ tỷ sao? Tỷ tỷ thật sự tủi thân…"
+    ],
+    "2101009": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      9,
+      50150000,
+      39592650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Khuy tỷ tỷ đối với ngươi như chị em ruột, ngươi lại đối với ta như thế? Muội muội đã không cảm kích, đừng trách tỷ không khách sáo..."
+    ],
+    "2101010": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      10,
+      59850000,
+      50534800000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Khuy tỷ tỷ đối với ngươi như chị em ruột, ngươi lại đối với ta như thế? Muội muội đã không cảm kích, đừng trách tỷ không khách sáo..."
+    ],
+    "2101011": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      11,
+      71600000,
+      64658650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Khuy tỷ tỷ đối với ngươi như chị em ruột, ngươi lại đối với ta như thế? Muội muội đã không cảm kích, đừng trách tỷ không khách sáo..."
+    ],
+    "2101012": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      12,
+      85800000,
+      82934050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Khuy tỷ tỷ đối với ngươi như chị em ruột, ngươi lại đối với ta như thế? Muội muội đã không cảm kích, đừng trách tỷ không khách sáo..."
+    ],
+    "2101013": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      13,
+      103000000,
+      106640000000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Trong cung nếu không muốn bị chà đạp, thì phải chà đạp người khác trước!"
+    ],
+    "2101014": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      14,
+      123850000,
+      137467250000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Trong cung nếu không muốn bị chà đạp, thì phải chà đạp người khác trước!"
+    ],
+    "2101015": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      15,
+      149200000,
+      177656550000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Trong cung nếu không muốn bị chà đạp, thì phải chà đạp người khác trước!"
+    ],
+    "2101016": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      16,
+      180100000,
+      230185000000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Trong cung nếu không muốn bị chà đạp, thì phải chà đạp người khác trước!"
+    ],
+    "2101017": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      17,
+      217800000,
+      299018300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Đừng trách tỷ tỷ nhẫn tâm…Không đủ tàn nhẫn thì không thể sống ở đây..."
+    ],
+    "2101018": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      18,
+      263900000,
+      389452700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Đừng trách tỷ tỷ nhẫn tâm…Không đủ tàn nhẫn thì không thể sống ở đây..."
+    ],
+    "2101019": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      19,
+      320400000,
+      508580000000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Đừng trách tỷ tỷ nhẫn tâm…Không đủ tàn nhẫn thì không thể sống ở đây..."
+    ],
+    "2101020": [
+      2101,
+      "bg_10037",
+      "bg_00001",
+      2007003,
+      "Nghĩa Tần",
+      3,
+      20,
+      389700000,
+      665921200000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12017,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Phi tử không được sủng ái. Tính tình nhu nhược sợ sệt, không cam tâm cứ như vậy già nua trong cung, liền tìm ca nữ yêu mị để dạy cách mê hoặc. ",
+      "Đừng trách tỷ tỷ nhẫn tâm…Không đủ tàn nhẫn thì không thể sống ở đây..."
+    ],
+    "2201001": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008001,
+      "Thư Phi",
+      3,
+      1,
+      1700000,
+      1903250000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Rượu và thức ăn ta sai người sắp xếp, là sơn hảo hải vị thường ngày ngươi không được ăn. Nào, mau đến nếm thử, ăn không hết thì mang về ăn…"
+    ],
+    "2201002": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008001,
+      "Thư Phi",
+      3,
+      2,
+      3500000,
+      5539450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Rượu và thức ăn ta sai người sắp xếp, là sơn hảo hải vị thường ngày ngươi không được ăn. Nào, mau đến nếm thử, ăn không hết thì mang về ăn…"
+    ],
+    "2201003": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008001,
+      "Thư Phi",
+      3,
+      3,
+      7400000,
+      11689150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Rượu và thức ăn ta sai người sắp xếp, là sơn hảo hải vị thường ngày ngươi không được ăn. Nào, mau đến nếm thử, ăn không hết thì mang về ăn…"
+    ],
+    "2201004": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008001,
+      "Thư Phi",
+      3,
+      4,
+      13950000,
+      20004400000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Rượu và thức ăn ta sai người sắp xếp, là sơn hảo hải vị thường ngày ngươi không được ăn. Nào, mau đến nếm thử, ăn không hết thì mang về ăn…"
+    ],
+    "2201005": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008002,
+      "Thư Phi",
+      3,
+      5,
+      22850000,
+      27271550000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Bổn cung nói chuyện, khi nào đến phiên ngươi xen mồm, người không có thân phận cũng dám tranh sủng!?"
+    ],
+    "2201006": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008002,
+      "Thư Phi",
+      3,
+      6,
+      32050000,
+      29274250000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12013,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Bổn cung nói chuyện, khi nào đến phiên ngươi xen mồm, người không có thân phận cũng dám tranh sủng!?"
+    ],
+    "2201007": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008002,
+      "Thư Phi",
+      3,
+      7,
+      38100000,
+      37252050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Bổn cung nói chuyện, khi nào đến phiên ngươi xen mồm, người không có thân phận cũng dám tranh sủng!?"
+    ],
+    "2201008": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008002,
+      "Thư Phi",
+      3,
+      8,
+      45350000,
+      47518400000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Bổn cung nói chuyện, khi nào đến phiên ngươi xen mồm, người không có thân phận cũng dám tranh sủng!?"
+    ],
+    "2201009": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      9,
+      54050000,
+      60761750000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Trần Uyển Quân… Thấy ngươi bình an, bổn cung hận không thể xử ngươi tại chỗ..."
+    ],
+    "2201010": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      10,
+      64600000,
+      77887250000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Trần Uyển Quân… Thấy ngươi bình an, bổn cung hận không thể xử ngươi tại chỗ..."
+    ],
+    "2201011": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      11,
+      77300000,
+      100087800000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Trần Uyển Quân… Thấy ngươi bình an, bổn cung hận không thể xử ngươi tại chỗ..."
+    ],
+    "2201012": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      12,
+      92700000,
+      128939200000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Trần Uyển Quân… Thấy ngươi bình an, bổn cung hận không thể xử ngươi tại chỗ..."
+    ],
+    "2201013": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      13,
+      111400000,
+      166528550000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Chưa từng thấy cảnh tượng hoành tráng vậy sao? Đúng là nha đầu tầm thường!"
+    ],
+    "2201014": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      14,
+      134050000,
+      215627250000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Chưa từng thấy cảnh tượng hoành tráng vậy sao? Đúng là nha đầu tầm thường!"
+    ],
+    "2201015": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      15,
+      161650000,
+      279924300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Chưa từng thấy cảnh tượng hoành tráng vậy sao? Đúng là nha đầu tầm thường!"
+    ],
+    "2201016": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      16,
+      195250000,
+      364343500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Chưa từng thấy cảnh tượng hoành tráng vậy sao? Đúng là nha đầu tầm thường!"
+    ],
+    "2201017": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      17,
+      236300000,
+      475473300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Cái bổn cung không có được thì các người cũng không!"
+    ],
+    "2201018": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      18,
+      286550000,
+      622153300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Cái bổn cung không có được thì các người cũng không!"
+    ],
+    "2201019": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      19,
+      348150000,
+      816274750000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Cái bổn cung không có được thì các người cũng không!"
+    ],
+    "2201020": [
+      2201,
+      "bg_10011",
+      "bg_00001",
+      2008003,
+      "Thư Phi",
+      3,
+      20,
+      423850000,
+      1073877450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12018,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Thế lực gia tộc mạnh lớn, mưu toan có được Bạch Sơn Tú Quyển, được biết mối quan hệ giữa ngươi và Tú Quyền, đã nhiều lần lén lút hạ độc thủ với người.",
+      "Cái bổn cung không có được thì các người cũng không!"
+    ],
+    "2301001": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009001,
+      "Tấn Phi",
+      3,
+      1,
+      1800000,
+      2691450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mẫu phi của Hoàng tử Vĩnh Lộc. Xem Vĩnh Lộclà toàn bộ sinh mạng, vì ngươi cùng Vĩnh Lộc ra ngoài chơi, xém chút gặp nạn nên ghi thù với ngươi",
+      "Uyển Quân muội, việc muội Vĩnh Lộc nói với ta rồi, trước đây ta nghĩ không chu đáo, mong muội tha thứ..."
+    ],
+    "2301002": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009001,
+      "Tấn Phi",
+      3,
+      2,
+      3700000,
+      7970450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Uyển Quân muội, việc muội Vĩnh Lộc nói với ta rồi, trước đây ta nghĩ không chu đáo, mong muội tha thứ..."
+    ],
+    "2301003": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009001,
+      "Tấn Phi",
+      3,
+      3,
+      7900000,
+      17055350000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Uyển Quân muội, việc muội Vĩnh Lộc nói với ta rồi, trước đây ta nghĩ không chu đáo, mong muội tha thứ..."
+    ],
+    "2301004": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009001,
+      "Tấn Phi",
+      3,
+      4,
+      14900000,
+      29502050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Uyển Quân muội, việc muội Vĩnh Lộc nói với ta rồi, trước đây ta nghĩ không chu đáo, mong muội tha thứ..."
+    ],
+    "2301005": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009002,
+      "Tấn Phi",
+      3,
+      5,
+      24450000,
+      40506650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Tại sao Vĩnh Lộc việc gì cũng bảo vệ ngươi, lẽ nào ngươi lén cho Vĩnh Lộc uống Mê Hồn Đan gì!?"
+    ],
+    "2301006": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009002,
+      "Tấn Phi",
+      3,
+      6,
+      34300000,
+      43624150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12014,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Tại sao Vĩnh Lộc việc gì cũng bảo vệ ngươi, lẽ nào ngươi lén cho Vĩnh Lộc uống Mê Hồn Đan gì!?"
+    ],
+    "2301007": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009002,
+      "Tấn Phi",
+      3,
+      7,
+      40800000,
+      55734500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Tại sao Vĩnh Lộc việc gì cũng bảo vệ ngươi, lẽ nào ngươi lén cho Vĩnh Lộc uống Mê Hồn Đan gì!?"
+    ],
+    "2301008": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009002,
+      "Tấn Phi",
+      3,
+      8,
+      48650000,
+      71381450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Tại sao Vĩnh Lộc việc gì cũng bảo vệ ngươi, lẽ nào ngươi lén cho Vĩnh Lộc uống Mê Hồn Đan gì!?"
+    ],
+    "2301009": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      9,
+      58050000,
+      91647650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Đúng là không được dạy dỗ, không sinh được con nên đến lừa gạt bảo bối Vĩnh Lộc của ta!"
+    ],
+    "2301010": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      10,
+      69400000,
+      117962100000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Đúng là không được dạy dỗ, không sinh được con nên đến lừa gạt bảo bối Vĩnh Lộc của ta!"
+    ],
+    "2301011": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      11,
+      83100000,
+      152215850000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Đúng là không được dạy dỗ, không sinh được con nên đến lừa gạt bảo bối Vĩnh Lộc của ta!"
+    ],
+    "2301012": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      12,
+      99750000,
+      196917550000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Đúng là không được dạy dỗ, không sinh được con nên đến lừa gạt bảo bối Vĩnh Lộc của ta!"
+    ],
+    "2301013": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      13,
+      119900000,
+      255403700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Nếu không phải ngươi, Vĩnh Lộc sẽ không gặp nguy, ngươi thật xui xẻo!"
+    ],
+    "2301014": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      14,
+      144400000,
+      332123400000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Nếu không phải ngươi, Vĩnh Lộc sẽ không gặp nguy, ngươi thật xui xẻo!"
+    ],
+    "2301015": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      15,
+      174250000,
+      433024500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Nếu không phải ngươi, Vĩnh Lộc sẽ không gặp nguy, ngươi thật xui xẻo!"
+    ],
+    "2301016": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      16,
+      210700000,
+      566079700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Nếu không phải ngươi, Vĩnh Lộc sẽ không gặp nguy, ngươi thật xui xẻo!"
+    ],
+    "2301017": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      17,
+      255200000,
+      742004200000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Ngươi dụ dỗ Vĩnh Lộc thì sao? Chỉ cần ngươi biến mất, Vĩnh Lộc sẽ trở về với ta..."
+    ],
+    "2301018": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      18,
+      309650000,
+      975237550000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Ngươi dụ dỗ Vĩnh Lộc thì sao? Chỉ cần ngươi biến mất, Vĩnh Lộc sẽ trở về với ta..."
+    ],
+    "2301019": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      19,
+      376550000,
+      1285291150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Ngươi dụ dỗ Vĩnh Lộc thì sao? Chỉ cần ngươi biến mất, Vĩnh Lộc sẽ trở về với ta..."
+    ],
+    "2301020": [
+      2301,
+      "bg_10039",
+      "bg_00001",
+      2009003,
+      "Tấn Phi",
+      3,
+      20,
+      458750000,
+      1698601650000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12019,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Vì ngươi và Vĩnh Lộc ra ngoài cung chơi, còn suýt chút gặp nguy hiểm, liền ghi hận ngươi. ",
+      "Ngươi dụ dỗ Vĩnh Lộc thì sao? Chỉ cần ngươi biến mất, Vĩnh Lộc sẽ trở về với ta..."
+    ],
+    "2401001": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010001,
+      "Thuần Phi",
+      3,
+      1,
+      1900000,
+      4182850000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Từ lần bị Thái Hậu giáo huấn, bổn cung đã hiểu được người làm chị, thì phải rộng lượng, bữa tiệc làm hòa này, mong Uyển Quân muội muội sẽ chấp nhận..."
+    ],
+    "2401002": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010001,
+      "Thuần Phi",
+      3,
+      2,
+      3950000,
+      12663250000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Từ lần bị Thái Hậu giáo huấn, bổn cung đã hiểu được người làm chị, thì phải rộng lượng, bữa tiệc làm hòa này, mong Uyển Quân muội muội sẽ chấp nhận..."
+    ],
+    "2401003": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010001,
+      "Thuần Phi",
+      3,
+      3,
+      8400000,
+      27587950000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Từ lần bị Thái Hậu giáo huấn, bổn cung đã hiểu được người làm chị, thì phải rộng lượng, bữa tiệc làm hòa này, mong Uyển Quân muội muội sẽ chấp nhận..."
+    ],
+    "2401004": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010001,
+      "Thuần Phi",
+      3,
+      4,
+      15850000,
+      48385700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Từ lần bị Thái Hậu giáo huấn, bổn cung đã hiểu được người làm chị, thì phải rộng lượng, bữa tiệc làm hòa này, mong Uyển Quân muội muội sẽ chấp nhận..."
+    ],
+    "2401005": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010002,
+      "Thuần Phi",
+      3,
+      5,
+      26050000,
+      67053150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Có được sự tin tưởng của Hoàng Thượng, ba lần bốn lượt chẳng để bổn cung trong mắt??"
+    ],
+    "2401006": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010002,
+      "Thuần Phi",
+      3,
+      6,
+      36650000,
+      72532300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12015,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Có được sự tin tưởng của Hoàng Thượng, ba lần bốn lượt chẳng để bổn cung trong mắt??"
+    ],
+    "2401007": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010002,
+      "Thuần Phi",
+      3,
+      7,
+      43600000,
+      93140100000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Có được sự tin tưởng của Hoàng Thượng, ba lần bốn lượt chẳng để bổn cung trong mắt??"
+    ],
+    "2401008": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010002,
+      "Thuần Phi",
+      3,
+      8,
+      51950000,
+      119902450000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Có được sự tin tưởng của Hoàng Thượng, ba lần bốn lượt chẳng để bổn cung trong mắt??"
+    ],
+    "2401009": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      9,
+      62050000,
+      154744900000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Ngươi đắc tội với quá nhiều người, nếu bổn cung không để lại cho ngươi chút nhan sắc, e rằng ngươi còn chả biết mình là gì!"
+    ],
+    "2401010": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      10,
+      74250000,
+      200222350000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Ngươi đắc tội với quá nhiều người, nếu bổn cung không để lại cho ngươi chút nhan sắc, e rằng ngươi còn chả biết mình là gì!"
+    ],
+    "2401011": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      11,
+      89000000,
+      259733300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Ngươi đắc tội với quá nhiều người, nếu bổn cung không để lại cho ngươi chút nhan sắc, e rằng ngươi còn chả biết mình là gì!"
+    ],
+    "2401012": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      12,
+      106900000,
+      337810300000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Ngươi đắc tội với quá nhiều người, nếu bổn cung không để lại cho ngươi chút nhan sắc, e rằng ngươi còn chả biết mình là gì!"
+    ],
+    "2401013": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      13,
+      128600000,
+      440513900000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Ai có thể ngờ rằng một người phụ nữ thấp kém như ngươi lại là bảo bối của hoàng thượng!"
+    ],
+    "2401014": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      14,
+      154950000,
+      575969150000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Ai có thể ngờ rằng một người phụ nữ thấp kém như ngươi lại là bảo bối của hoàng thượng!"
+    ],
+    "2401015": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      15,
+      187150000,
+      755097800000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Ai có thể ngờ rằng một người phụ nữ thấp kém như ngươi lại là bảo bối của hoàng thượng!"
+    ],
+    "2401016": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      16,
+      226400000,
+      992620500000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Ai có thể ngờ rằng một người phụ nữ thấp kém như ngươi lại là bảo bối của hoàng thượng!"
+    ],
+    "2401017": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      17,
+      274400000,
+      1308431700000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Tỷ không muốn làm khó muội, chỉ cần muội ...nói ra bí mật đó..."
+    ],
+    "2401018": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      18,
+      333250000,
+      1729492050000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Tỷ không muốn làm khó muội, chỉ cần muội ...nói ra bí mật đó..."
+    ],
+    "2401019": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      19,
+      405500000,
+      2292438850000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Tỷ không muốn làm khó muội, chỉ cần muội ...nói ra bí mật đó..."
+    ],
+    "2401020": [
+      2401,
+      "bg_30001",
+      "bg_00001",
+      2010003,
+      "Thuần Phi",
+      3,
+      20,
+      494400000,
+      3047198400000,
+      [
+        [
+          1,
+          10013,
+          1
+        ],
+        [
+          1,
+          12020,
+          1
+        ],
+        [
+          2,
+          7,
+          1
+        ]
+      ],
+      [
+        [
+          1,
+          12011,
+          1
+        ]
+      ],
+      "Mỹ nhân cực thích bảo dưỡng. Có hợp tác thần bí với bá tước, có được chỉ lệnh muốn lấy được Bạch Sơn Tú Quyển trên người ngươi, vẫn đang khổ công tìm cơ hội thích hợp. ",
+      "Tỷ không muốn làm khó muội, chỉ cần muội ...nói ra bí mật đó..."
+    ]
+  }
+}

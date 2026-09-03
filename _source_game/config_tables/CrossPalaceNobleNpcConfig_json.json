@@ -1,0 +1,518 @@
+{
+  "colMap": [
+    "activityID",
+    "name",
+    "full",
+    "half",
+    "halfScale",
+    "halfPos",
+    "bubblePos",
+    "firstBuff",
+    "secondBuff",
+    "thirdBuff",
+    "description",
+    "text",
+    "beWelcomeNumber",
+    "beWelcomeText",
+    "beRopedInNumber",
+    "beRopedInText",
+    "beAlienateTextNumber",
+    "beAlienateText"
+  ],
+  "list": {
+    "10001": [
+      780101,
+      "Huyền Nguyệt Thánh Nữ",
+      "rn_c19",
+      "rn_c4",
+      110,
+      0,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tMộ Dung Oản, cha mẹ không rõ, giang hồ đồn đãi là hậu duệ của tiền triều, không biết thật giả. \n\t\t\t\t\t\t\t\tTừ nhỏ là sinh sống ở Huyền Nguyệt Môn, dung mạo xinh đẹp, có phong thái của Bao Tự, nét đẹp của Đát Kỷ, cộng thêm thiên phú tài tình hơn người, mưu lược xuất chúng, hơn hẳn những người đẹp khác, trở thành Thánh Nữ của Huyền Nguyệt Môn. \n\t\t\t\t\t\t\t\tHuyền Nguyệt Môn, là một môn phái giang hồ với nữ tử là chủ yếu, thân phận thật của các thành viên được giữ bí mật, số lượng cụ thể cũng không rõ. \n\t\t\t\t\t\t\t\tSau khi Mộ Dung Oản trở thành Huyền Nguyệt Thánh Nữ, hành tẩu giang hồ, khiến cho vô số anh hùng khom lưng. Nhưng được nhiều người tâng bốc, cũng không làm cô ấy vui vẻ, trong lòng cô luôn có một ước mơ lớn hơn. \n\t\t\t\t\t\t\t\tCô ấy bồi dưỡng người trong môn phái, giúp họ trở nên xinh đẹp, giỏi thơ ca, hiểu âm luật, tâm tư lả lướt. Rồi ra lệnh họ mai phục vào nhà cao cửa rộng, ẩn nấp nơi hậu viện, đợi thời cơ đến.",
+      "Ta xinh đẹp như vậy, dù làm gì, cũng sẽ được tha thứ. |Chỉ cần ta bằng lòng, đàn ông trên đời, đều quỳ gối dưới chân ta. |Xinh đẹp là một tài nguyên khan hiếm, nếu biết lợi dụng, thường sẽ nhận được hiệu quả không tệ...|Thứ ta thật sự muốn, không phải là tơ lụa châm cài, cũng không phải là ái mộ của người đời, mà mà quấy nhiễu phong vân, quát tháo thiên hạ! |Ta muốn thế giới vận hành theo ý ta, chẳng lẽ không được sao?",
+      5,
+      "Người ngưỡng mộ ta có rất nhiều, nhưng ta chỉ cần người có giá trị. |Ai cũng có lòng yêu cái đẹp, nhưng ở chỗ ta, bình hoa không có tác dụng gì. |Chuyện đời rối ren, lòng người đa đoan, bởi vì như vậy, tranh đấu với nhau mới thú vị. |Người thức thời, đương nhiên sẽ được càng nhiều người yêu thích. |Đối với người của mình, ta sẽ không bạc đãi.",
+      5,
+      "Quà không tệ, ta nhận lấy. Tiếp theo, ta sẽ giúp ngươi một tay. |Hoa dù đẹp thế nào, cũng có ngày suy tàn, người đẹp cả trong lẫn ngoài, mới có thể dài lâu. |Ngươi phải biết, nhan sắc của là bề ngoài, người làm chuyện lớn, thủ đoạn không phải người thường có thể so bì. |Thế gian như bàn cờ, ta và ngươi đều là quân cờ, ai dám chắc chắn, quân cờ không thể trở thành người đánh cờ? |Chính tà thị phi, đối với ta, không có bất kỳ ý nghĩa gì.",
+      5,
+      "Ta tuyệt đối không bỏ qua cho kẻ chân trong chân ngoài, nay tần mai sở! |Yên tâm, ta sẽ 'chăm sóc' chu đáo cho kẻ phản bội kia. |Nếu đã không chung lòng, vậy sau này chính là kẻ thù, mà chỉ có kẻ thù biến mất, mới là là kẻ thù tốt. |Cứ để hắn ngang ngược một lúc nữ, đợi kế hoạch thành công, tính toán với hắn cũng không muộn. |Ta có thể cho bọn họ lên lầu cao, mở tiệc đãi khách, đương nhiên cũng có thể khiến bọn họ ngã xuống..."
+    ],
+    "10002": [
+      780102,
+      "Minh Vi Lâu Chủ",
+      "rn_d1",
+      "rn_d2",
+      110,
+      0,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tBách Lý Triệt, tự Hàm Chúc, là con cháu thế gia trăm năm, lớn lên trong giàu sang, trời sinh tài hoa hơn người.\n\t\t\t\t\t\t\t\tThơ từ ca phú, kinh sử tử tập đều chỉ nhìn qua là nhớ, hiểu rõ ẩn ý bên trong. Đao thương kiếm kích, nội công chiêu thức không gì không biết, không gì không giỏi.\n\t\t\t\t\t\t\t\t10 năm trước, Bách Lý Triệt ngầm cùng các nhân sĩ giang hồ sáng lập Minh Vi Lâu. Mặt ngoài dùng ngọc thạch vàng bạc để giao dịch, thực tế là kinh doanh những việc như điều tra ngầm, mua bán thông tin, ám sát...\n\t\t\t\t\t\t\t\tBan ngày là công tử thế gia phong lưu tuấn nhã, ban đêm là Minh Vi Lâu Chủ mà người trong giang hồ nghe thôi đã sợ. Hắn nhiều năm dùng cả hai thân phận, vô cùng tự đắc.\n\t\t\t\t\t\t\t\tBấy giờ chán quá, hắn bèn dời sự chú ý tới kinh thành...",
+      "Ta có thể là công tử thế gia, cũng có thể là người trong giang hồ, còn đâu là thật đâu là giả, ai nói rõ được? | Chỉ cần là con người đều sẽ có nhược điểm để phá vỡ, không ai ngoại lệ. | Bất kể ánh mặt trời chói chang cỡ nào, bóng tối bên dưới cũng sẽ không biến mất, chúng sẽ mãi luôn đồng hành. | Tỉnh cũng chán, say cũng chán... Thế gian rộng lớn, quá ít người thú vị! | Bước chân đi khắp cõi trần, ngước đầu hái sao trời, cớ sao thấp hèn trước mệnh trời, chúng ta muôn đời đều phong lưu.",
+      5,
+      "Ai không muốn sống theo ý mình, nhưng trên đời mấy ai làm được? | Chỉ có kẻ mạnh mới nắm giữ được vận mệnh bản thân. | Điều đáng sợ không phải bị người khác lợi dụng, mà là còn chẳng có giá trị lợi dụng. | Cơ hội tiến lên đang ở ngay trước mắt, dù phải trả giá đắt cũng không ai cam lòng bỏ qua. | Tìm đủ mọi cách để đạt nhiều lợi ích hơn, chẳng lẽ đây không phải chuyện thường sao?",
+      5,
+      "Nghĩ kỹ rồi à? Không chừng sự nguy hiểm khi đứng về phe ta hơn xa ngươi tưởng. | Chính là gì, tà là gì? Chỉ là con người tự phân loại cho mình thôi, vô vị. | Có lẽ thắng 1 lần chỉ là may mắn, thắng 100 lần sẽ không bị khinh thường. Còn ta chưa bao giờ thua! | Mọi người đều bằng lòng nương tựa kẻ mạnh, từ xưa đã thế. | Nếu đã là người phe ta, tất nhiên ta cũng vui lòng giúp đỡ.",
+      5,
+      "Quá nhiều ý đồ riêng, không thể lâu dài. | Chỗ ta đâu phải nơi muốn tới là tới, muốn đi là đi! | Kẻ bỏ ta đi ắt không giữ lại. | Không nương tay với kẻ phản bội, cho chúng 1 bài học! | Họ sẽ phải trả giá cho hành vi của bản thân."
+    ],
+    "10003": [
+      780103,
+      "Đạo Trưởng Thiên Khu",
+      "rn_e1",
+      "rn_e2",
+      110,
+      0,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tPhòng Thường Dung, thân sinh phụ mẫu gặp bất hạnh, thời thơ ấu cô khổ, lang thang trong chợ, quen với tình người ấm lạnh, thế gian bạc bẽo. Từng có duyên bái nhờ tu đạo, sau vì vướng hồng trần ham hư vinh, không chịu được tu hành khắc khổ trong núi sâu, vội vàng rời khỏi đạo quán\n\t\t\t\t\t\t\t\tLần hành tẩu giang hồ này, không lộ danh tính sư phụ, không bàn xuất thân gốc gác, tự xưng Đạo Trưởng Thiên Khu. Nhờ tướng mạo cao nhân, thêm suy tư kín đáo, tài ăn nói xuất chúng, giả thần giả quỷ, kỳ thuật đốt bùa trừ tà, chỉ trong vài năm ngắn ngủi đã trở thành khách quý của giới quý tộc, tạo ra danh tiếng tốt trong giang hồ.\n\t\t\t\t\t\t\t\tNhưng đối với hắn những thứ này vẫn mãi chưa đủ. Hắn hướng đến phương sỹ thời cổ, hòng có thể đứng bên cạnh vua của một nước. Ôm dã tâm như thế, hắn đến Kinh Thành....",
+      "Đại sư thật cũng vậy, đạo sỹ giả cũng thế... Ta làm tất cả những điều này, chỉ để thành toàn chính mình.|Ngươi nhìn lầu các xa hoa, đình viện tầng tầng này xem....Muốn sống cuộc sống hơn người như thế này thì có gì sai chứ?|Khi ngươi trải qua gian khổ, sẽ không muốn trở lại cuộc sống như vậy nữa|Đối với ta, thế gian phồn hoa, hồng trần phú quý càng có sức hấp dẫn hơn tu hành chốn thâm sơn|Ta thiên tư chậm chạp, lại quyến luyến phồn hoa, khó tu đại đạo, nhưng nắm giữ điểm yếu của lòng người, tự nhận không hề kém.",
+      5,
+      "Ta chưa từng trêu đùa lòng người, chỉ là để người ta nghe thấy những điều họ muốn nghe.|Những quý nhân ngồi tít trên cao kia, họ trừ là trừ tà ma ư? Không, là tâm ma.|Ai lại không muốn trở thành nhân vật lớn ngồi ở trên cao? Cho dù thủ đoạn không quang minh.|Ăn nói là một việc rất có nghiên cứu, sức mạnh của lời nói lớn mạnh hơn ngươi tưởng.|Đi lên phía trên đi, người bên dưới quá nhiều, chật chội.",
+      5,
+      "Ta sẽ không bạc đãi người của mình, yên tâm đi.|Lãnh hội trần thế, nắm giữ lòng người, chính là tất cả bí quyết.|Làm người rất khó, nhưng sẽ luôn có cách khiến mọi chuyện trở nên đơn giản.|Ta dạy ngươi một câu: Người sẽ luôn tin vào những thứ họ muốn tin.|Ta không cần làm tất cả mọi người tin phục, chỉ cần danh môn thế gia tin phục, những người khác cũng không dám hoài nghi.",
+      5,
+      "Những phản đồ ở bên ngoài nói ta là kẻ lừa gạt? Ha, nực cười, ai sẽ tin chứ.|Đã đến lúc cho bọn chúng xem thủ đoạn của ta rồi.|Gọi đánh gọi chém là hạ sách, ta thích thắng lợi dễ dàng.|Chỉ vài tên hề mà thôi, không cần để ý.|Căn bản không cần ta ra tay, danh môn thế gia ham thể diện cũng sẽ khiến những tên phản đồ đó biến mất."
+    ],
+    "10004": [
+      780104,
+      "Công Tử Mặc Trần",
+      "rn_f1",
+      "rn_f2",
+      110,
+      0,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tTô Nghiễn Khuynh, người Cô Tô, sinh ra trong gia đình tri thức, từ nhỏ ốm yếu nhiều bệnh, thông minh hơn người, thông lịch sử, tường thơ văn, tâm mang gấm vóc, tính thích văn chương, sở thích đánh cờ.\n\t\t\t\t\t\t\t\tBất chấp sự ngăn cản của phụ mẫu thân tộc, dẫn theo người hầu trung thành, đi khắp thiên ạ, cuối cùng bái sư, học được thuật tung hoành của núi Vân Mộng.\n\t\t\t\t\t\t\t\tSau khi học võ du ngoạn giang hồ, thấy thế lực các môn phái rối rắm phức tạp, không khỏi ngứa ngáy, lấy giang hồ làm bàn cờ, lấy người làm con cờ, bèn thử tài năng. Một thân thể ốm yếu bệnh tật, nhưng lại hợp ngang chia dọc trên giang hồ, khuấy đảo phong vân, có thể nói là kỳ lân xuất thế, khiến người nể sợ , tôn xưng là Công Tử Mặc Trần. \n\t\t\t\t\t\t\t\tMà hắn đã hơi nổi lên hứng thú với giang hồ, quyết tâm tiến thân vào triều đình...",
+      "Chơi đùa bàn cờ, thao túng quân cờ, lật tay là mây, úp tay là mưa... Chẳng vui ư?|Thế giới này, kẻ thắng tồn tại, người thua tiêu vong. Trước sự thắng thua của thế sự, sống và chết chẳng qua là nhân quả tất nhiên|Người luôn có thứ mình mong muốn, cũng vì thế mà có điểm yếu.|Nhìn hình mà luận tướng, tầm nhìn hạn hẹp. Không rời hình, không hạn chế pháp thuật, nhìn sự vô hình, nghe sự vô thanh, là người lương thiện.|Chia rẽ các thế lực, cần trái tim lạnh lùng. Người hiền hậu nhân từ, định trước sẽ không thể thành đại sự .",
+      5,
+      "Làm người làm việc, phải dựa vào trí tuệ, chỉ có sức lực là không được.|Đời người trên thế gian không cần quan tâm còn mất quá nhiều, bản thân vui vẻ mới là quan trọng nhất|Đi một bước, tính trăm bước, với ta mà nói, là niềm vui chứ không phải gánh nặng.|Ốm yếu nhiều bệnh đã làm sao, chỉ cần còn có ta, những cao thủ giang hồ này ai dám càn rỡ?|Hoàn cảnh là vận mệnh, kỳ ngộ gặp được là vận may.",
+      5,
+      "Ngươi kiến thức phong phú, ta cũng không bủn xỉn, dạy ngươi đạo ngang dọc đi.|Phàm việc gì cũng phải kiên nhẫn bình tĩnh, phán đoán tình hình, suy tính xong mới hành động.|Đời người như đánh cờ, một bước đi sai, rất dễ thua cả ván cờ.|Thái Sơn sụp đổ mà không biến sắc, thấy Mi Lộc cũng không đảo mắt nhìn.|Sự giao tranh đấu trí giữa người với người, là đặc sắc nhất.",
+      5,
+      "Lúc này đầu quân cho người khác, nào có kết quả tốt đẹp.|Ngươi sao biết sự rời đi của họ, không phải là ta cố ý làm chứ?|Người nay Tần mai Sở, sớm muộn cũng bị quả báo.|Xoay chuyển cục diện bất lợi, thực sự là chuyện nhỏ!|Được mất nhất thời không tính là gì, cười đến cuối cùng mới là người chiến thắng."
+    ],
+    "10005": [
+      780105,
+      "Kiếm Khách Kinh Hồng",
+      "rn_g1",
+      "rn_g2",
+      110,
+      0,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tÔn Sở Bích, thiếu trang chủ Ngự Kiếm Sơn Trang, tên hiệu Thanh Sương, mang ý nghĩa thanh kiếm sắc bén, xanh như sương tuyết. Sinh ra với tư chất hơn người, căn cốt tuyệt vời, thuở nhỏ đã kết mối duyên không thể tách rời với kiếm.\n\t\t\t\t\t\t\t\tTu luyện công pháp tổ truyền của Ngự Kiếm Sơn Trang, tuổi chưa đến hai mươi đã là bậc thầy kiếm thuật, trong sơn trang không ai bì kịp.\n\t\t\t\t\t\t\t\tXuống núi lịch luyện như thường lệ, vừa hay gặp cảnh giang hồ luận kiếm, thử chút thân thủ, quyết chiến đỉnh vân sơn, đánh bại trăm cao thủ với kiếm thuật tuyệt diệu, từ đây rạng danh thiên hạ. Vì dung mạo xinh đẹp, khí chất tiên tử, kiếm vung lên uyển chuyển như rồng uốn lượn, được thiên hạ mệnh danh là Kiếm Khách Kinh Hồng.\n\t\t\t\t\t\t\t\tTừ xưa đến nay nơi cao thường lạnh lẽo cô đơn. Nghe nói kinh thành có tuyệt thế cao nhân chấn thủ, nàng không khỏi âm thầm suy nghĩ...",
+      "Kiếm là vũ khí của quân tử, cũng là vũ khí sát phạt.|Điện đầy hoa say ba ngàn khách, một kiếm đóng băng mười bốn châu. Kiếm của ta, không ai đỡ được!|Ngựa trắng yên bạc, cầm kiếm ngao du tận cùng thiên hạ, là người tiêu dao nhất thế gian.|Truy tìm đạo của kiếm, như cưỡi trên một chiếc thuyền cô độc, lênh đênh trên biển cả ngày đêm.|Kiếm khách không sợ hãi điều gì, quyết tâm như sắt đá, không đạt mục đích không bỏ cuộc!",
+      5,
+      "Một lực đánh mười trận, một kiếm phá vạn pháp, đó là thế hệ của ta.|Khinh kiếm khoái mã, tự do tự tại cả đời, chẳng vui hơn ư?|Ngoài lưỡi kiếm, chẳng còn gì khác, đây là đạo mà ta theo đuổi.|Tìm khắp thiên hạ, còn ai có thể chiến đấu với ta?|Một cô gái thì đã sao, đàn ông thiên hạ gặp ta cũng đều cúi thấp đầu.",
+      5,
+      "Muốn lôi kéo ta? Rất đơn giản! Dùng kiếm của ngươi nói chuyện với ta.|Chỉ cần ngươi trở thành kẻ mạnh, tự nhiên sẽ có rất nhiều bạn bè.|Cái gọi là quy tắc, đều là viết cho kẻ tầm thường đọc, bất kể họ có làm gì!|Gặp chuyện không hoang mang, kiếm sẽ nói đáp án cho ngươi.|Âm mưu quỷ kế đều là chuyện nhỏ, cần gì phải sợ!",
+      5,
+      "Cớ gì phải quan tâm số lượng kẻ thù, dù sao một kiếm đều có thể phá vỡ.|Kết cục của kẻ phản bội, đã sớm định sẵn.|Dưới quyền lực tuyệt đối, không có âm mưu quỷ kế nào là vô ích.|Cấu kết với nhau, âm thầm qua lại? Hành vi của kẻ tiểu nhân!|Gió chiều nào theo chiều nấy, hai bên cùng đổ... Nào sẽ có kết cục tốt đẹp"
+    ],
+    "10006": [
+      780106,
+      "Đan Nạp Vương Tử",
+      "rn_h1",
+      "rn_h2",
+      110,
+      0,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tĐan Nạp Vương Tử, từ dị quốc xa xôi đến đây, con trai nhỏ tuổi nhất của quốc vương. Mẹ ruột thân phận thấp kém, tuy là huyết mạch vương tộc, nhưng luôn bị xem nhẹ.\n\t\t\t\t\t\t\t\tThời thơ ấu, bị huynh trưởng chèn ép, cảm giác tồn tại mờ nhạt, chưa từng được quốc vương xem trọng.\n\t\t\t\t\t\t\t\tMột ngày nọ, chàng gặp được một ông lão, ông lão nói, Đan Nạp Vương Tử có duyên với dị thuật, nếu nghiên cứu sâu thêm, chắc chắn sẽ khiến người kinh ngạc. Vương Tử tâm lĩnh cơ hội thần kỳ, âm thầm khổ luyện dị thuật.\n\t\t\t\t\t\t\t\tĐến tuổi trưởng thành, Đan Nạp Vương Tử học được kỳ thuật mê hoặc lòng người, trở về lại vương triều. Chế ngự huynh trưởng, và khống chế vương triều, âm thầm nắm giữ quyền thay thế quốc vương.\n\t\t\t\t\t\t\t\tChàng giờ đã không ai chống lại được, hướng ánh mắt về phía đông, dẫn theo sứ đoàn đến hoàng thành. Sóng gió mới, từ đây bắt đầu cuộn trào...",
+      "Đều là cùng chung huyết mạch, sao lại không thể là ta?|Có thể tán thưởng dị thuật của ta, ngươi rất có phẩm vị|Chỉ có bản thân càng trở nên mạnh hơn là vương đạo!|Ta vốn có thù báo thù, có oán báo oán, có gì là không đúng?|Con dân an cư lạc nghiệp, trong thành hài hòa, đó mới là vương quốc của ta.",
+      5,
+      "Chỉ cần kết quả là tốt đẹp, bị người khác khinh thường có là gì.|Người tự dưng đến đây chỉ để tìm kiếm kho báu, hoặc là nhắm vào thân phận của ta.|Dị thuật của ta không thể xem miễn phí, ngươi cũng lấy chút gì đó trao đổi nào.|Haha... Đừng mơ tưởng có thể thật sự hiểu rõ ta.|Chỉ cần ngươi có đủ giá trị, thì chúng ta mới là bạn bè.",
+      5,
+      "Nếu ngươi đã lựa chọn ta, ta sẽ để ngươi mở mang tầm mắt một phen.|Rất tốt, ngươi hiểu được đạo lý xem xét thời cơ, dựa vào kẻ mạnh|Dị thuật của ta, không thể đoán trước, người phàm không thể tưởng tượng được.|Đều tự tim đến điều mình cần, trong lòng ta hiểu rõ.|Nếu là người của mình, ta có thể thể hiện cho ngươi dị thuật của ta.",
+      5,
+      "Kẻ phản bội cho dù ở đâu, đều sẽ không có kết quả tốt.|Thấy hắn đau khổ thế nào rồi chứ? Đây là cái giá của sự phản bội|Hừ, người phản bội, nếm thử dị thuật của ta đi!|Ta sẽ khiến ngươi hiểu rõ, ai mới là người ngươi nên dựa vào.|Hôm nay ta để hắn đi, không quá ba ngày, hắn nhất định sẽ hối hận."
+    ],
+    "10007": [
+      780107,
+      "Tiêu Sư Hồng Kiêu",
+      "rn_i1",
+      "rn_i2",
+      110,
+      90,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tLục Hồng Kiêu, sống trong thế gia tiêu cục ở biên cương Tây Bắc, là đại chưởng quỹ nổi tiếng của tiêu cục Hổ khiếu, từ nhỏ theo cha học võ, sở trường dùng Thương Hồng Anh, linh hoạt dũng mãnh, không ai địch nổi. \n\t\t\t\t\t\t\t\tBão cát Tây Bắc hun đúc nên tính cách nồng nhiệt như lửa, làm việc dứt khoát không biết sợ, từng một người một ngựa một thương đánh bại ba nghìn thổ phỉ, một chiến thành danh, danh chấn giang hồ. \n\t\t\t\t\t\t\t\tNhiều lần hộ tiêu băng qua những nơi hiểm ác, dù là sơn tặc hay ác đồ đều bại dưới thương. Không ngừng khiêu chiến bản thân, bị dồn vào đường cùng trở thành niềm vui lớn của nàng. \n\t\t\t\t\t\t\t\tKhi áp tiêu, chỉ cần thấy lá cờ Hồng Kiêu treo cao, giặc cỏ thổ phủ đều phải lùi bước. Cái tên tiêu cục Hổ Khiếu vang vọng nhờ Hồng Kiêu, mà nàng đã không còn hài lòng với thanh danh hiện tại của tiêu cục, ánh mắt sắc bén nhìn về phía kinh thành, nàng phải để lá cờ của tiêu cục Hổ Khiếu bay mía ở nơi tôn quý đó...",
+      "Tua rua đỏ dưới thương chưa từng thất bại, ngươi muốn khiêu chiến thử không? | Con đường của ta chỉ có bước tới. | Sự can đảm này sợ gì cát vàng! | Cầm trường thương sáu thước, trấn thủ đại mạc Tây Bắc! | Ta đến từ Tây Bắc, chí ở thiên địa rộng lớn.",
+      5,
+      "Không cần đa lễ, Lục Hồng Kiêu ta luôn không thích lễ tiết rườm rà. | Ta thích dùng hành động chứng minh giá trị của mình hơn. | Ta không cần tâng bốc, không cần tán đồng! | Thương của ta đã nói rõ tất cả, đây sẽ là lựa chọn chính xác nhất của ngươi. | Khí thế này có vẻ thú vị đấy, có gì cứ nói thẳng!",
+      5,
+      "Muốn lôi kéo ta? Vậy phải xem bản lĩnh của các ngươi. | Đừng hòng có ý đồ trói buộc ta, ta đã quen tự do rồi. | Nếu ngươi quy thuận ta, không làm trái với đạo nghĩa của ta, không chừng có thể thử xem. | Không hùa theo mù quáng, cũng không dễ dàng cam chịu, ngươi làm được không? | Ta làm việc gì tự có quy tắc của riêng mình, nói nhiều vậy làm gì!",
+      5,
+      "Kẻ phản bội đều sẽ trở thành vong hồn dưới thương của ta! | Kế ly gián của các ngươi sẽ chỉ khiến ta thêm cảnh giác. | Kẻ phản bội, như con sói trong đêm tối, rồi sẽ bị ánh sáng xua đuổi. | Hai chữ tin tưởng nặng tựa ngàn cân, nếu đã ruồng bỏ thì đừng trách ta vô tình. | Những thủ đoạn này quá thấp kém trong mắt ta, ta sẽ không để các ngươi đạt được mục đích."
+    ],
+    "10008": [
+      780108,
+      "Quả Quận Vương",
+      "rn_j1",
+      "rn_j2",
+      110,
+      90,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tQuả Quận Vương Doãn Lễ, con út của Tiên Đế, mẹ chàng là Thư Quý Phi, người rất được sủng ái, khiến lục cung thất sắc. Con quý nhờ mẹ, chàng được Tiên Đế yêu thương, đích thân dạy cưỡi ngựa bắn cung. Đến khi Tiên Đế băng hà, huynh trưởng lên ngôi, chàng vẫn rất được sủng ái.\n\t\t\t\t\t\t\t\tQuả Quận Vương cao gầy, tuấn tú, mày kiếm mắt sáng, như ánh trăng trên cao, có phong thái của bậc quân tử, văn võ song toàn, thường được trao trách nhiệm quan trọng, được tiền triều hậu cung yêu quý.\n\t\t\t\t\t\t\t\tTiếc là luôn bị Hoàng Thượng nghi kỵ, cho dù chàng luôn kín tiếng, tỏ vẻ phong lưu, say mê cầm kỳ thi họa, thích ngao du ngắm cảnh, cũng không thể…\n\t\t\t\t\t\t\t\tCó lẽ duyên trời định sẵn, chàng gặp được người đó… cuối cùng, chàng quyết tâm thay đổi tất cả!",
+      "Đạp tuyết tìm mai, vui vẻ quay về.|Tùng trúc cứng cỏi nhưng dễ gãy, không bằng hoa sen gần bùn mà chẳng hôi tanh mùi bùn.|Tình không biết từ khi nào, mà ngày càng đậm sâu, khiến người sống chết đi, khiến người chết sống lại.|Ngọc chưa mài, cũng đẹp tự nhiên, không lạc mất chính mình quan trọng hơn.|Mây che đỉnh núi, non nước phong cảnh, đều như lúc trước.",
+      5,
+      "Là người, phải sống theo trái tim mình.|Không thể công khai, không được người đời chấp nhận? Thì đã sao!|Không màng danh lợi, mới là cách sinh tồn khi ở cạnh người có địa vị cao.|Nâng chén hoan ca, đời người mấy chục năm, cứ trôi qua như vậy…|Cảnh đẹp như tối nay, nếu chỉ yến tiệc linh đình, thì quả là lãng phí.",
+      5,
+      "Nàng muốn có được gì từ bản vương?|Đọc đủ thi thư, khí khái quả nhiên hơn người.|Muốn có được, thì phải tranh, phải đoạt.|Kẻ càng yếu đuối không dám tranh, thì càng có nhiều cớ.|Đa tình ắt bạc tình, tùy hứng không mất mình.",
+      5,
+      "Phản bội bản vương, ngươi sẽ có kết cục tốt gì?|Đi nhầm đường không quan trọng, theo sai người mới đáng lo.|Bản vương còn chưa thất thế, ngươi đã muốn tìm chủ mới?|Là bản vương nhìn nhầm người, đáng tiếc.|Sau này chính là kẻ thù, bản vương sẽ không nương tay."
+    ],
+    "10009": [
+      780109,
+      "Vạn Bảo Các Chủ",
+      "rn_k1",
+      "rn_k2",
+      110,
+      90,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tMặc Uyên, Vạn Bảo Các Chủ, xuất thân từ một gia tộc chuyên giám định cổ vật, có tài năng thiên bẩm trong việc đánh giá đồ cổ. Mái tóc đen như mực, đôi mắt sâu thẳm như hồ nước, ánh lên vẻ lạnh lùng. Ông khoác lên mình bộ áo choàng gấm, toát lên khí chất quý phái trời sinh.\n\t\t\t\t\t\t\t\tTrong số các thành viên cùng thế hệ của gia tộc, ông tỏ ra thông minh xuất chúng, luôn muốn thể hiện tài năng và dần dần tiếp quản trọng trách giám định bảo vật của gia tộc, trở thành Vạn Bảo Các Chủ.\n\t\t\t\t\t\t\t\tNơi đây tập hợp những bảo vật hiếm có trên đời. Còn có tin đồn rằng, ông từng di chuyển một chiếc đỉnh đồng nặng ngàn cân từ trong Các đến Hoàng Thành chỉ trong một đêm, không ai biết ông đã làm điều đó như thế nào... Danh tiếng của ông ngày càng lừng lẫy, khắp kinh thành không ai không biết, nhưng ông vẫn cảm thấy chưa đủ.\n\t\t\t\t\t\t\t\tMột lần tình cờ, ông tìm được một cuốn sách ghi chép về bảo vật hoàng gia, những bảo vật quý giá được cất giữ trong kho bí mật của cung đình, tỏa ra khí chất tôn quý vô song. Trong lòng ông bỗng bùng lên ngọn lửa nhiệt huyết, đó là khát khao khám phá những bảo vật và sự kiên trì tìm kiếm những điều chưa biết...",
+      "Thật giả, tốt xấu, tinh xảo hay thô sơ, đều không thể thoát khỏi mắt ta.|Trong lĩnh vực giám định bảo vật, trên đời này có mấy ai đủ tài để so bì với ta?|Bảo vật thực sự hiếm có là thứ toát lên khí chất quý phái tự nhiên, chứ không phải chỉ có vẻ ngoài hào nhoáng.|Những cổ vật ta muốn có, dù ở tận chân trời góc bể, ta cũng sẽ lấy được.|Đợi khi ta tìm được bảo vật tuyệt thế, lúc đó, mọi người sẽ biết thế nào là phong hoa tuyệt đỉnh của cổ vật.",
+      5,
+      "Bảo vật này tuy có chút tinh xảo, nhưng vẫn còn xa mới đạt đến cảnh giới hoàn mỹ trong lòng ta.|Tốn công tốn sức đến gần ta như vậy, ta cũng muốn xem ngươi có thể diễn đến khi nào.|Bảo vật chất lượng như thế này, cũng xứng với thân phận của ta.|Ngươi biết bảo vật đó được giấu ở đâu, nói thật đi, ta sẽ trọng thưởng.|Chỉ khi hiểu được giá trị thực sự của cổ vật, mới là thực sự sở hữu nó.",
+      5,
+      "Cách bày trí thanh nhã như thế này, lại còn đón tiếp chu đáo, quả thực có chút chân thành.|Một khi bảo vật trở thành công cụ tranh đấu lợi ích, nó sẽ mất đi giá trị thuần khiết nhất.|Nếu thực sự muốn hợp tác, hãy đưa ra mưu kế và thành ý rõ ràng, ta tự khắc sẽ cân nhắc.|Dã tâm của ngươi là gì, ta và ngươi đều biết, cần gì phải nói nhiều.|Các ngươi có thể cho ta cái gì? Tốt nhất hãy suy nghĩ kỹ rồi hãy nói chuyện với ta.",
+      5,
+      "Kẻ nào dám phản bội ta, kết cục chỉ có thể như đồ thứ phẩm bị ném vỡ tan tành trên mặt đất!|Những lời độc địa của kẻ phản bội, chẳng khác nào tiếng muỗi kêu, không đáng để nghe.|Hành động này, chỉ là tự lộ ra điểm yếu, để ta nhìn rõ những yêu quái ẩn náu xung quanh.|Ta khinh nhất là phải tốn thời gian đối phó với những kẻ thấp hèn như ngươi.|Chạy trốn cũng vô ích, một khi đã rơi vào tay ta, ngươi không còn đường thoát."
+    ],
+    "10010": [
+      780110,
+      "Long Sắc Thần Bổ",
+      "rn_l1",
+      "rn_l2",
+      110,
+      90,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tLệ Tuyết, thân thế không rõ, nhưng là nữ thần bổ duy nhất của vương triều. Tóc đen buộc cao, mắt sắc như dao, ánh nhìn lạnh lùng, mặc áo gấm đỏ thẫm, đeo đao bên hông, dáng vẻ anh tú lẫm liệt.\n\t\t\t\t\t\t\t\tTrong mắt đồng liêu, nàng quả cảm sáng suốt, nhiều lần phá những vụ án kỳ lạ, là công thần bảo vệ sự yên ổn của Kinh Thành; trong mắt Hoàng Thượng, nàng là mãnh khuyển trung thành, là thanh đao sắc bén nhất.\n\t\t\t\t\t\t\t\tKhông ai biết rằng, nàng thâm nhập vào trung khu, chỉ để âm thầm điều tra một vụ án diệt môn cách đây 20 năm... Đáp án đó, nàng đã tìm thấy trong hồ sơ, trên một bức mật thư được đóng dấu ấn rồng.\n\t\t\t\t\t\t\t\tĐêm mưa, nàng nhẹ nhàng lau lưỡi đao, thân đao phản chiếu nụ cười lạnh lùng khóe môi. Tiếng càng dồn dập hơn, sách trên bàn bị gió thổi động, trang giấy ghi danh hiệu của Hoàng Thượng, được vẽ một chữ thập đỏ tươi bằng chu sa...",
+      "Thanh đao này, chuyên chém yêu ma quỷ quái.|Chim hết, cất cung, thỏ chết, chó săn bị giết.|Trên đời bao nhiêu oan tình, có thể được rửa oan, chỉ là lác đác.|Luật pháp? Chẳng qua chỉ là quy tắc nhàm chán do kẻ có tâm đặt ra mà thôi.|Gió tuyết Bắc Cương, đến giờ vẫn gào thét trong giấc mơ ta.",
+      5,
+      "Người muốn dựa vào ta nhiều không đếm xuể, ngươi có gì đặc biệt?|Nếu muốn trở thành Thần Bổ, trước hết phải mài giũa bản thân.|Sự thật mà mắt trông thấy, bao nhiêu là thật, bao nhiêu là giả?|Không ai biết, tấm áo đỏ này, thấm đẫm bao nhiêu máu.|Nếu ngươi biết thêm tin tức về Bắc Cương, vậy thì càng tốt.",
+      5,
+      "Sở trường của kẻ vương giả ngồi trên cao, chẳng qua là bạo lực tinh xảo hơn mà thôi.|Nhớ kỹ, thanh đao trong tay, không cần có suy nghĩ.|Muốn trèo cao, phải chịu đựng được nỗi đau mà người thường không thể chịu nổi.|Sấm sét và mưa móc, đều là ơn của vua ư? Không, sấm sét và mưa móc... đều là toan tính.|Đứng càng cao, càng phải hiểu... khi nào nên quỳ xuống.",
+      5,
+      "Lựa chọn ngu ngốc... chỉ làm hại người hại ta.|Đao ra khỏi vỏ, luôn phải thấy máu mới về.|Đối với kẻ phản bội, ta có đầy mưu kế và thủ đoạn.|Cánh cửa ngục tù, mở ra cho ngươi.|Nỗi nhục do kẻ phản bội mang lại, chỉ có cái chết mới rửa sạch được."
+    ],
+    "10011": [
+      780111,
+      "Tây Viêm Vương",
+      "rn_m1",
+      "rn_m2",
+      110,
+      90,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tTây Viêm Vương, bá chủ thế giới Đại Hoang, là quân vương khai quốc của nước Tây Viêm. Tóc mai lấm sương, dáng vẻ uy nghiêm, khoác trên người long bào màu đen, toàn thân toát ra khí chất đan xen giữa thiết huyết và tang thương.\n\t\t\t\t\t\t\t\tLà bậc đế vương tài trí hơn người, dùng thủ đoạn lôi đình bình định bốn phương, thống nhất Tây Viêm, chấm dứt hỗn chiến giữa các bộ tộc; là kẻ thống trị tàn nhẫn vô tình, âm mưu, phản bội, chém giết chưa bao giờ rời xa, dưới ngai vàng chất đầy xương trắng.\n\t\t\t\t\t\t\t\tĐể sàng lọc người kế vị mạnh mẽ nhất, đảm bảo nước Tây Viêm trường tồn, ông ta mặc cho các con nội chiến, rốt cuộc cũng thành kẻ cô độc trên đỉnh cao quyền lực.\n\t\t\t\t\t\t\t\tBóng chiều tà phía tây, gió thổi rèm điện, một mình ông ta đứng đó, ngắm nhìn non sông, nắm tay, tựa như thu cả thiên hạ vào lòng bàn tay.",
+      "Nhân từ chỉ là dối trá, cốt lõi của tâm thuật đế vương, nằm ở sự cân bằng.|Con đường đã đi, dưới chân đều là xương trắng chất đống.|Giang sơn Tây Viêm, không cho phép chút nhân từ nhu nhược nào.|Kẻ ở trên đỉnh cao quyền lực, ắt là người cô độc.|Thiên hạ này, là do sắt và máu đúc nên.",
+      5,
+      "Có thể đến trước mặt ta, không tệ.|Quá khứ là để cảnh tỉnh, không phải để hoài niệm.|Kẻ làm nên đại sự, không câu nệ tiểu tiết.|Đế vương không cần bạn bè, chỉ cần người dùng thuận tay.|Vì thiên hạ, không có gì là không thể hi sinh.",
+      5,
+      "Muốn có được, trước hết phải trả giá một thứ gì đó.|Đời sau đánh giá? Mặc kệ, ta không quan tâm.|Đế vương nắm quyền bính thiên hạ, cũng bị quyền bính sai khiến.|Muốn quy phục dưới trướng ta... Ngươi có thể mang đến điều gì?|Đã chọn con đường này, vậy thì hãy đi đến cùng.",
+      5,
+      "Kẻ phản bội ngu ngốc, đã nghĩ ra lời sám hối chưa?|Làm gì có lựa chọn tốt hơn, chỉ là tham lam không đủ.|Đợi thời cơ chín muồi, ắt sẽ khiến hắn hối hận không kịp.|Hôm nay, hãy để bọn chúng chứng kiến uy nghi của ta.|Kẻ tầm nhìn hạn hẹp, sao có thể hiểu được hoài bão của ta."
+    ],
+    "10012": [
+      780112,
+      "Ung Chính",
+      "rn_n1",
+      "rn_n2",
+      110,
+      90,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tÁi Tân Giác La Dận Chân, chủ nhân Tử Cấm Thành, người thừa kế giang sơn Đại Thanh. Quyền lực trong tay, không giận mà uy, mặc triều phục song long, dáng người nghiêm nghị, toát ra áp lực lạnh lẽo và vẻ u trầm được tôi luyện nơi thâm cung.\n\t\t\t\t\t\t\t\tẨn nhẫn nửa đời, bứt phá trong cuộc tranh đoạt ngôi vị Cửu Long Đoạt Đích, dùng thủ đoạn lôi đình để trừ đảng phái, chỉnh đốn quan trường, thúc đẩy chính sách mới, kéo triều đình đang mục nát ra khỏi bùn lầy suy đồi.\n\t\t\t\t\t\t\t\tNhưng cũng hà khắc vô tình, máu lạnh đa nghi, tàn sát phe cánh huynh đệ, giết công thần cựu bộc, ngay cả người thân cận nhất cũng không thể nhìn thấu sóng ngầm trong mắt.\n\t\t\t\t\t\t\t\tĐể kiến tạo quyền lực tuyệt đối, tự tay nghiền nát mọi ấm áp, huynh đệ chia lìa, sinh tử cách biệt, một mình ôm trọn giang sơn vạn dặm mà chẳng còn ai cùng ngắm hoàng hôn.",
+      "Đã đến thì hãy an tâm mà ở lại.|Thứ trẫm ban cho ngươi, mới là thứ thuộc về ngươi.|Đã muốn thắng thì không được sợ thua.|Ân uy phải đi đôi, mới quản được lòng người.|Đường đế vương, không được mềm lòng.",
+      5,
+      "Thấy rõ mà không nói, ắt có chỗ dùng sau này.|Người làm việc chu toàn, luôn khiến trẫm bớt phải lo.|Tâm tư linh hoạt, thật hiếm thấy.|Ý tưởng độc đáo, khiến người ta thấy mới mẻ.|Học cách dùng chi phí nhỏ nhất đổi lấy sự ổn định lớn nhất.",
+      5,
+      "Tranh cũng được, nhưng đừng vượt giới hạn của trẫm.|Trẫm dạy ngươi một điều: Đã làm thì làm đến cùng, không thì đừng làm.|Lợi ích kiềm chế lẫn nhau mới là đáng tin nhất.|Nước trong thì không có cá; cái khó nhất là làm việc phải biết mức độ. |Nhiều việc không liên quan đúng sai, chỉ là cân nhắc lợi hại.",
+      5,
+      "Lấy đây làm gương, để răn người sau.|Kẻ bất trung bất nghĩa, giữ lại chỉ thêm họa.|Đã chọn phản bội thì phải biết sẽ trả giá.|Đường của ngươi, đến đây là hết.|Từ nay về sau, ân đoạn nghĩa tuyệt."
+    ],
+    "10014": [
+      780114,
+      "Hứa Tiên",
+      "rn_r1",
+      "rn_r2",
+      110,
+      90,
+      0,
+      [
+        [
+          18,
+          10701,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10702,
+          1
+        ]
+      ],
+      [
+        [
+          18,
+          10703,
+          1
+        ]
+      ],
+      "\t\t\t\t\t\t\t\tHứa Tiên, tự Hán Văn, người Tiền Đường, Chiết Giang, tính tình hiền hậu, ôn hòa nho nhã. Từ nhỏ mồ côi cha mẹ, được tỷ tỷ và tỷ phu nuôi dưỡng nên người.\n\t\t\t\t\t\t\t\tChàng bản tính lương thiện, tuy xuất thân nghèo khó nhưng không màng danh lợi, một lòng nghiên cứu y thuật, nuôi chí cứu người giúp đời, mong giải trừ bệnh khổ cho dân chúng.\n\t\t\t\t\t\t\t\tDuyên gặp nơi Đoạn Kiều Tây Hồ, mượn ô định tình, nên duyên phu thê với Bạch Tố Trinh, cùng mở hiệu thuốc “Bảo Hòa Đường”, y đức cao minh, được bách tính kính mến.\n\t\t\t\t\t\t\t\tNhưng hòa thượng Pháp Hải chùa Kim Sơn lấy cớ người yêu khác loại, trăm phương ngăn trở, trấn áp thê tử của chàng dưới tháp Lôi Phong. Chàng quyết ý lên Kim Sơn xuất gia, từ đó áo xanh hóa áo tu, hương thuốc đổi thành hương trầm, đèn xanh cổ Phật bầu bạn bên tháp, thề đợi đến ngày nước Tây Hồ cạn, tháp Lôi Phong đổ!",
+      "Chiếc ô này, tặng hai người che mưa.|Hứa trong hứa hẹn, Tiên trong thần tiên.|Xin hãy giữ lễ, nam nữ thụ thụ bất thân.|Người yêu khác loại, nhưng tình thì không khác.|Người nghèo phát thuốc, người giàu tùy tâm.",
+      5,
+      "Ơn nhỏ nhận được, ắt phải báo đáp gấp bội.|Ắt sẽ dốc hết sức, không phụ ủy thác.|Việc này ắt phải thận trọng, để ta suy nghĩ đã.|Lấy nhân đức làm gốc, làm việc mới có thể hổ thẹn với lòng.|Đã được yêu thương gửi gắm, tự nhiên phải hết lòng.",
+      5,
+      "Cứu người giúp đời, không phải ở chỗ giá cao, mà ở chỗ thuốc có hiệu nghiệm.|Làm quan một cõi, phải lấy chính đạo mà tạo phúc cho một phương.|Người hành y, chỉ cầu không thẹn với lòng mình.|Lòng dân như cán cân, Hứa mỗ nào dám khinh suất dù một ly.|Tình nghĩa như núi, sao có thể dễ dàng phụ bỏ?",
+      5,
+      "Bệnh tà dễ trừ, tâm ma khó dứt.|Thuốc không cứu được bệnh tử, Phật chỉ độ người có duyên.|Bắt mạch là nghe tiếng, nghe người là nghe lời nói.|Có những bệnh, thuốc thang vô dụng, chỉ có thể lấy tâm mà chữa.|Mạch tượng lúc chìm lúc nổi, lòng người cũng vậy thôi."
+    ]
+  }
+}

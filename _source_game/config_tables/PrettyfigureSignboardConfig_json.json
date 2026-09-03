@@ -1,0 +1,357 @@
+{
+  "colMap": [
+    "icon",
+    "resource",
+    "quality",
+    "time",
+    "name",
+    "description",
+    "unlockType",
+    "unlockData",
+    "getPath",
+    "plaqueColor",
+    "onTime",
+    "whichBranch"
+  ],
+  "list": {
+    "10001": [
+      "",
+      "pf_g1",
+      "2",
+      0,
+      "Phi Diệp Hoa Tư",
+      "[Bảng Hiệu Chụp Ảnh Bang] Phi diệp khinh nhứ, giai vi hoa tư.",
+      0,
+      0,
+      [
+        21000
+      ],
+      "0x829db7",
+      0,
+      []
+    ],
+    "10002": [
+      "",
+      "pf_g2",
+      "4",
+      0,
+      "Hoa Tịch Điệp Tình",
+      "[Bảng Hiệu Chụp Ảnh Bang] Điệp vũ nhiễu hoa, thử tịch khiên tình.",
+      3,
+      0,
+      [
+        18861
+      ],
+      "0x898eb8",
+      0,
+      []
+    ],
+    "10003": [
+      "",
+      "pf_g3",
+      "4",
+      0,
+      "Phượng Hoàng Bay Lượn",
+      "[Bảng Hiệu Chụp Ảnh Bang] Phượng phi cao tường hề, ngưỡng thủ viễn vọng tinh.",
+      3,
+      0,
+      [
+        18861
+      ],
+      "0xb88171",
+      0,
+      []
+    ],
+    "10004": [
+      "",
+      "pf_g4",
+      "4",
+      604800,
+      "Kim Vân Thụy Quang",
+      "[Biển Hiệu Chụp Chung Bang Hạn Giờ] Kim vân vị xuất sở thiên khoát, thụy quang thiên trượng tảo rừng không.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0xd19239",
+      0,
+      []
+    ],
+    "10005": [
+      "",
+      "pf_g5",
+      "4",
+      604800,
+      "Mây Hồng Lớp Lớp",
+      "[Biển Hiệu Chụp Chung Bang Hạn Giờ] Mây hồng tụ lại, tràn ngập ánh sáng.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0xd06971",
+      0,
+      []
+    ],
+    "10006": [
+      "",
+      "pf_g6",
+      "4",
+      604800,
+      "Sương Mù Theo Gió",
+      "[Biển Hiệu Chụp Chung Bang Hạn Giờ] Lớp lớp sương mù, theo gió bay xa.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0x658fd6",
+      0,
+      []
+    ],
+    "10007": [
+      "",
+      "pf_g7",
+      "4",
+      0,
+      "Vĩnh Thọ Cung",
+      "[Bảng Hiệu Ảnh Bang] Vĩnh thọ an ninh, phúc an dài lâu.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0xd06971",
+      0,
+      [
+        1,
+        3,
+        5
+      ]
+    ],
+    "10008": [
+      "",
+      "pf_g8",
+      "4",
+      0,
+      "Cảnh Nhân Cung",
+      "[Bảng Hiệu Ảnh Bang] Cảnh hành duy hiền, khắc niệm tác thánh",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0xd19239",
+      0,
+      [
+        1,
+        3,
+        5
+      ]
+    ],
+    "10009": [
+      "",
+      "pf_g9",
+      "4",
+      0,
+      "Dực Khôn Cung",
+      "[Bảng Hiệu Ảnh Bang] Dực tán quý hưng, khôn nguyên hữu đức.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0x658fd6",
+      0,
+      [
+        1,
+        3,
+        5
+      ]
+    ],
+    "10010": [
+      "",
+      "pf_g10",
+      "4",
+      0,
+      "Đỉnh Triều Vân",
+      "[Bảng Hiệu Ảnh Bang] Mộng cũ Tây Viêm, mặt trời lặn nung vàng, rọi sáng đỉnh cao vương quyền.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0xe1b267",
+      0,
+      [
+        1,
+        3
+      ]
+    ],
+    "10011": [
+      "",
+      "pf_g11",
+      "4",
+      0,
+      "Núi Ngũ Thần",
+      "[Bảng Hiệu Ảnh Bang] Thánh cảnh Hạo Linh, nơi mặt trời mọc, vạn nước về xứ.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0xda8777",
+      0,
+      [
+        1,
+        3
+      ]
+    ],
+    "10012": [
+      "",
+      "pf_g12",
+      "4",
+      0,
+      "Đỉnh Tiểu Nguyệt",
+      "[Bảng Hiệu Ảnh Bang] Trăng sáng như lụa, rơi rải một đất tĩnh lặng.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0xaab784",
+      0,
+      [
+        1,
+        3
+      ]
+    ],
+    "10013": [
+      "",
+      "pf_g13",
+      "4",
+      0,
+      "Dưỡng Tâm Điện",
+      "[Bảng Hiệu Ảnh Bang] Một người trị thiên hạ, há để thiên hạ phụng dưỡng một người.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0xbc7552",
+      1764777000,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "10014": [
+      "",
+      "pf_g14",
+      "4",
+      0,
+      "Đông Noãn Các",
+      "[Bảng Hiệu Ảnh Bang] Việc ác không nỡ làm, việc thiện ắt vui lòng làm.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0x9d77aa",
+      1764777000,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "10015": [
+      "",
+      "pf_g15",
+      "4",
+      0,
+      "Tây Noãn Các",
+      "[Bảng Hiệu Ảnh Bang] Trăng sáng treo cao, tâm gương sáng tỏ, mây lành ôm ngọc trí viên mãn.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0x828b76",
+      1764777000,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "10016": [
+      "",
+      "pf_g16",
+      "4",
+      0,
+      "Lôi Phong Tháp",
+      "[Bảng Hiệu Ảnh Bang] Gạch xanh xếp thành ánh mắt vọng phu, một hồ thu thủy soi nghìn năm.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0xb7903b",
+      0,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "10017": [
+      "",
+      "pf_g17",
+      "4",
+      0,
+      "Kim Sơn Tự",
+      "[Bảng Hiệu Ảnh Bang] Phạn âm khó độ, nước dâng Kim Sơn, một đời si tình…",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0xbc8a89",
+      0,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ],
+    "10018": [
+      "",
+      "pf_g18",
+      "4",
+      0,
+      "Thanh Ba Môn",
+      "[Bảng Hiệu Ảnh Bang] Lối đá xanh lần đầu gặp gỡ, mưa khói vẫn ướt Giang Nam.",
+      3,
+      0,
+      [
+        14410
+      ],
+      "0x79a485",
+      0,
+      [
+        1,
+        3,
+        4,
+        5
+      ]
+    ]
+  }
+}
