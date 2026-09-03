@@ -125,6 +125,7 @@ class UI {
     console.log('\n----------------------------------------------------------------');
     console.log('MENU TỰ ĐỘNG CHƠI GAME (100% LIVE SERVER SYNC):');
     console.log(' [1]  [Auto 24/7] Treo Máy Toàn Diện (Phúc Lợi, Nội Vụ, Cung Vụ & Tùy Tùng)');
+    console.log(' [2]  [BXH] Thích 6 Bảng Xếp Hạng Hàng Ngày (Vàng & Bạc)');
     console.log(' [0]  Thoát game');
     console.log('----------------------------------------------------------------');
   }

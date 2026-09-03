@@ -106,6 +106,7 @@ class GameClient {
     this.bagService = this.registry.get('bag');
     this.sevenGoalService = this.registry.get('sevengoal');
     this.achievementService = this.registry.get('achievement');
+    this.rankService = this.registry.get('rank');
     this.academy = this.registry.get('academy');
   }
 

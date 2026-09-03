@@ -144,6 +144,7 @@ class TradeService extends BaseService {
     if (this.client.mail) await this.client.mail.autoClaimAndClean();
     if (this.client.sevenGoalService) await this.client.sevenGoalService.claimAllSevenGoals();
     if (this.client.achievementService) await this.client.achievementService.claimAllAchievements();
+    if (this.client.rankService) await this.client.rankService.likeAllRanks();
 
     // 2. Bồi dưỡng Tùy Tùng, Đan Dược & Học Viện (Menu 3)
     if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
@@ -195,6 +196,7 @@ class TradeService extends BaseService {
         if (this.client.mail) await this.client.mail.autoClaimAndClean();
         if (this.client.sevenGoalService) await this.client.sevenGoalService.claimAllSevenGoals();
         if (this.client.achievementService) await this.client.achievementService.claimAllAchievements();
+        if (this.client.rankService) await this.client.rankService.likeAllRanks();
 
         // Cắn đan dược mới và đọc thư mới nếu có
         if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
