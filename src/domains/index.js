@@ -8,5 +8,6 @@ module.exports = {
   ...require('./welfare'),
   ...require('./combat'),
   ...require('./growth'),
-  ...require('./leisure')
+  ...require('./leisure'),
+  ...require('./activity')
 };

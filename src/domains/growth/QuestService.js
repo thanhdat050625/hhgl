@@ -28,12 +28,13 @@ class QuestService extends BaseService {
 
     const mainClaimed = await this.claimMainQuests();
     const posClaimed = await this.claimPositionQuests();
+    const chestClaimed = await this.claimActiveChestAwards();
 
-    const total = mainClaimed + posClaimed;
+    const total = mainClaimed + posClaimed + chestClaimed;
     if (total === 0) {
-      console.log('[-] [Nhiệm Vụ] Chưa có nhiệm vụ Chính Tuyến hay Tước Vị nào đủ điều kiện nhận.');
+      console.log('[-] [Nhiệm Vụ] Chưa có nhiệm vụ hay rương năng động nào mới đủ điều kiện nhận.');
     } else {
-      console.log(`\n🎉 [Nhiệm Vụ] Đã nhận xong ${total} phần quà (Chính tuyến: ${mainClaimed}, Tước vị: ${posClaimed})!`);
+      console.log(`\n🎉 [Nhiệm Vụ] Đã nhận xong ${total} phần quà (Chính tuyến: ${mainClaimed}, Tước vị: ${posClaimed}, Rương Năng Động: ${chestClaimed})!`);
     }
     console.log('======================================================\n');
     return total;
@@ -146,6 +147,43 @@ class QuestService extends BaseService {
 
     if (claimed === 0) {
       console.log('  [-] [N.V Tước Vị] Chưa có mốc nhiệm vụ tước vị nào mới đủ điều kiện nhận.');
+    }
+
+    return claimed;
+  }
+
+  /**
+   * Tab 3: Rương Năng Động Ngày (Nhận Vàng & Đan Cung Vận)
+   */
+  async claimActiveChestAwards() {
+    this.client.everydayQuestInfo = null;
+    this.send(124103, {});
+    await this.waitFor(() => this.client.everydayQuestInfo !== null, 5000);
+
+    const info = this.client.everydayQuestInfo;
+    if (!info) return 0;
+
+    const activeScore = info.active || 0;
+    const activeList = info.activeList || [];
+    let claimed = 0;
+
+    const canClaimChests = activeList.filter(c => c.state === 1);
+    if (canClaimChests.length > 0) {
+      console.log(`\n👉 [Tab 3: Rương Năng Động] Điểm sôi nổi hiện tại: ${activeScore}. Có ${canClaimChests.length} rương sẵn sàng nhận!`);
+      for (const chest of canClaimChests) {
+        console.log(`  👉 Đang mở Rương Năng Động #${chest.activeId}...`);
+        this.client.lastActiveChestAward = null;
+        this.send(124106, { activeId: chest.activeId });
+        await this.sleepRandom(1.2, 1.8);
+
+        if (this.client.lastActiveChestAward && this.client.lastActiveChestAward.goodsList) {
+          const awards = formatAwards(this.client.lastActiveChestAward.goodsList);
+          console.log(`  🎉 [Rương Năng Động #${chest.activeId}] Nhận THÀNH CÔNG: ${awards}`);
+        } else {
+          console.log(`  🎉 [Rương Năng Động #${chest.activeId}] Nhận THÀNH CÔNG!`);
+        }
+        claimed++;
+      }
     }
 
     return claimed;

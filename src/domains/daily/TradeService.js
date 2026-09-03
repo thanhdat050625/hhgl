@@ -148,9 +148,10 @@ class TradeService extends BaseService {
     if (this.client.palace) await this.client.palace.autoPalaceHi();
     if (this.client.quest) await this.client.quest.autoClaimAll();
     if (this.client.prison) await this.client.prison.autoHitAllPrisoners();
+    if (this.client.wife) await this.client.wife.autoCallAllWives(true);
 
-    // 2. Bồi dưỡng Tùy Tùng, Đan Dược & Học Viện (Menu 3)
     if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
+    if (this.client.chestOpen) await this.client.chestOpen.openGoldAndCungVanChests(true);
     if (this.client.helper) {
       await this.client.helper.readAllHelperLetters();
       await this.client.helper.autoUpgradeAptitudes();
@@ -174,8 +175,14 @@ class TradeService extends BaseService {
       }
     }
 
+    // 5. Sự Kiện Hoa Đăng Chúc Phúc & Tích Điểm Hạn Giờ
+    if (this.client.hoaDang) await this.client.hoaDang.autoPlayHoaDang(true);
+    if (this.client.eventRankPoint) await this.client.eventRankPoint.autoClaimAllEventRewards(true);
+
     let lastOnlineCheck = Date.now();
-    let lastAcademyCheck = Date.now();
+    let lastBagCheck = Date.now();
+    let lastEventCheck = Date.now();
+    let lastMemoryCleanCheck = Date.now();
 
     while (!this.client.isManualClosed) {
       // Luôn sleep 1s trong mỗi vòng lặp đếm ngược để CPU luôn ở mức 0%
@@ -211,9 +218,11 @@ class TradeService extends BaseService {
         if (this.client.palace) await this.client.palace.autoPalaceHi();
         if (this.client.quest) await this.client.quest.autoClaimAll();
         if (this.client.prison) await this.client.prison.autoHitAllPrisoners();
+        if (this.client.wife) await this.client.wife.autoCallAllWives(true);
 
         // Cắn đan dược mới và đọc thư mới nếu có
         if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
+        if (this.client.chestOpen) await this.client.chestOpen.openGoldAndCungVanChests(true);
         if (this.client.helper) {
           await this.client.helper.readAllHelperLetters();
           await this.client.helper.autoUpgradeAptitudes();
@@ -227,6 +236,13 @@ class TradeService extends BaseService {
             await this.client.prison.autoHitAllPrisoners(true);
           }
         }
+
+        // Reset và chạy lại Hoa Đăng Chúc Phúc (mua 20 đèn Bạc ngày mới) & Sự Kiện Tích Điểm
+        if (this.client.hoaDang) {
+          this.client.hoaDang.resetDaily();
+          await this.client.hoaDang.autoPlayHoaDang(true);
+        }
+        if (this.client.eventRankPoint) await this.client.eventRankPoint.autoClaimAllEventRewards(true);
       }
 
       // A. Bắt sự kiện Realtime 7 Ngày Vui Vẻ (Gói 162205 ResSevenGoalTaskComplete)
@@ -256,7 +272,33 @@ class TradeService extends BaseService {
         if (this.client.mail) await this.client.mail.autoClaimAndClean(true);
       }
 
-      // E. Realtime Học Viện (Thư Viện): Canh chính xác đúng giây tốt nghiệp (0 giây delay)!
+      // E. Định kỳ mỗi 15 phút: Quét túi mở các Rương Vàng / Cung Vận / Đan Dược mới rơi
+      if (Date.now() - lastBagCheck >= 900000) {
+        lastBagCheck = Date.now();
+        if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
+        if (this.client.chestOpen) await this.client.chestOpen.openGoldAndCungVanChests(true);
+        if (this.client.level) await this.client.level.autoLevelUp(true);
+      }
+
+      // F. Định kỳ mỗi 30 phút: Kiểm tra Hoa Đăng & Sự Kiện Tích Điểm (nếu có đèn mới hoặc quà mốc mới)
+      if (Date.now() - lastEventCheck >= 1800000) {
+        lastEventCheck = Date.now();
+        if (this.client.hoaDang) await this.client.hoaDang.autoPlayHoaDang(true);
+        if (this.client.eventRankPoint) await this.client.eventRankPoint.autoClaimAllEventRewards(true);
+      }
+
+      // G. Bảo vệ RAM 24/7 (Memory Leak Guard - Dọn dẹp mỗi 1 giờ)
+      if (Date.now() - lastMemoryCleanCheck >= 3600000) {
+        lastMemoryCleanCheck = Date.now();
+        if (Array.isArray(this.client.recentProps) && this.client.recentProps.length > 20) {
+          this.client.recentProps.splice(0, this.client.recentProps.length - 20);
+        }
+        if (global.gc) {
+          try { global.gc(); } catch (_) {}
+        }
+      }
+
+      // H. Realtime Học Viện (Thư Viện): Canh chính xác đúng giây tốt nghiệp (0 giây delay)!
       if (this.client.academy && Date.now() >= (this.client.academyNextReadyTime || 0)) {
         await this.client.academy.autoStudy(true);
       }

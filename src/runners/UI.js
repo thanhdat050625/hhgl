@@ -124,7 +124,9 @@ class UI {
   static printMenu(playerData) {
     console.log('\n----------------------------------------------------------------');
     console.log('MENU TỰ ĐỘNG CHƠI GAME (100% LIVE SERVER SYNC):');
-    console.log(' [1]  [Auto 24/7] Treo Máy Toàn Diện (Phúc Lợi, BXH, Hoàng Cung, Nhiệm Vụ, Vượt Ải, Đại Lý Tự, Nội Vụ & Tùy Tùng)');
+    console.log(' [1]  [Auto 24/7] Treo Máy Toàn Diện (Phúc Lợi, BXH, Hoàng Cung, Nhiệm Vụ, Vượt Ải, Đại Lý Tự,');
+    console.log('                    Nội Vụ, Cung Vụ & Cung Vụ Lệnh, Hậu Cung Tri Kỷ, Mở Rương Vàng & Cung Vận, Hoa Đăng)');
+    console.log(' [2]  [Sự Kiện Hạn Giờ] Tự Động Kiểm Tra & Nhận Quà Sự Kiện Tích Điểm (EventRankPoint)');
     console.log(' [0]  Thoát game');
     console.log('----------------------------------------------------------------');
   }

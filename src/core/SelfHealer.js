@@ -108,6 +108,13 @@ class SelfHealer {
           this.recordSuccess(taskKey);
           return { handled: true, action: 'SPECIAL_STAGE_NOTIFIED' };
 
+        case 129001: // Hoạt động chưa mở hoặc không thuộc phân hệ này
+        case 129003: // Chưa đủ điều kiện nhận quà sự kiện
+        case 164001: // Hết lượt xem video
+        case 164002: // Kênh video chưa mở
+          this.recordSuccess(taskKey);
+          return { handled: true, action: 'ACTIVITY_STATUS_NOTIFIED' };
+
         case 146052: // Tùy tùng hiện tại đã hết lượt xuất chiến Boss
           console.log(`  [-] [Self-Healer] Khắc phục 146052: Tùy tùng đã hết lượt đánh Boss hôm nay.`);
           this.recordSuccess(taskKey);

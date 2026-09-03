@@ -20,7 +20,7 @@ class BagService extends BaseService {
       10011, 10024, // Bao Lương Thực
       10012, // Canh Bổ Khí (Binh Lực)
       12001, 12002, 12003, 12004, 12005, 12006, 12007, 12008, 12009, 12010, 12011, // Đan Dược
-      10001, 10002, 10003, 10004 // Sách Thuộc Tính
+      10001, 10003, 10004 // Sách Thuộc Tính (10002 là Cung Vụ Lệnh do AffairService quản lý)
     ];
   }
 

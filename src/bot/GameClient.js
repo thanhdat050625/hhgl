@@ -57,6 +57,13 @@ class GameClient {
     this.lastMainAward = null;
     this.lastQuestAllAward = null;
     this.lastCallWife = null;
+    this.lastLookAdvertReward = null;
+    this.lookAdvertInfo = null;
+    this.lastLookAdvert = null;
+    this.eventActivityInfo = null;
+    this.eventActivityRankRewardInfo = null;
+    this.lastEventActivityRankReward = null;
+    this.newActivityList = null;
     this.tradeInfoList = [];
     this.workList = [];
     this.workRefreshTime = 0;
@@ -112,6 +119,10 @@ class GameClient {
     this.stage = this.registry.get('stage');
     this.prison = this.registry.get('prison');
     this.academy = this.registry.get('academy');
+    this.wife = this.registry.get('wife');
+    this.eventRankPoint = this.registry.get('eventrankpoint');
+    this.hoaDang = this.registry.get('hoadang');
+    this.chestOpen = this.registry.get('chestopen');
   }
 
   sleep(ms) {
@@ -334,6 +345,8 @@ class GameClient {
             this.mainQuestInfo = pkt.data;
           } else if (pkt.msgId === 124203) {
             this.everydayQuestInfo = pkt.data;
+          } else if (pkt.msgId === 124206) {
+            this.lastActiveChestAward = pkt.data;
           } else if (pkt.msgId === 124207) {
             this.positionQuestInfo = pkt.data;
           } else if (pkt.msgId === 124208) {
@@ -364,6 +377,24 @@ class GameClient {
             this.prisonInfo = pkt.data;
           } else if (pkt.msgId === 110202) {
             this.lastHitPrisoner = pkt.data;
+          } else if (pkt.msgId === 106204) {
+            this.lastCallWife = pkt.data;
+          } else if (pkt.msgId === 106210) {
+            this.lastWifeNearReward = pkt.data;
+          } else if (pkt.msgId === 140201) {
+            this.eventActivityInfo = pkt.data;
+          } else if (pkt.msgId === 140204) {
+            this.lastEventActivityItemUse = pkt.data;
+          } else if (pkt.msgId === 140205) {
+            this.eventActivityExchangeInfo = pkt.data;
+          } else if (pkt.msgId === 140207) {
+            this.eventActivityRankRewardInfo = pkt.data;
+          } else if (pkt.msgId === 140208) {
+            this.lastEventActivityRankReward = pkt.data;
+          } else if (pkt.msgId === 140210) {
+            this.lastBuyEventActivityGoods = pkt.data;
+          } else if (pkt.msgId === 127211) {
+            this.newActivityList = pkt.data.activityList || [];
           } else if (pkt.msgId === 162201) {
             this.sevenGoalDay = pkt.data.day;
             this.sevenDayDay = pkt.data.day;
