@@ -123,14 +123,8 @@ class UI {
 
   static printMenu(playerData) {
     console.log('\n----------------------------------------------------------------');
-    console.log('MENU TỰ ĐỘNG CHƠI GAME TOÀN DIỆN (100% LIVE SERVER SYNC):');
+    console.log('MENU TỰ ĐỘNG CHƠI GAME (100% LIVE SERVER SYNC):');
     console.log(' [1]  [Auto 24/7] Treo Máy Toàn Diện (Phúc Lợi, Nội Vụ, Cung Vụ & Tùy Tùng)');
-    console.log(' [2]  [Vượt Ải] Tự động Vượt ải Cốt truyện (PVE, Trang Phục & Boss)');
-    console.log(' [3]  [Hoàng Cung & BXH] Thỉnh An Hoàng Cung & Bái Kiến 3 BXH (Vàng, Bạc)');
-    console.log(' [4]  [Hậu Cung] Vấn an Hậu Cung / Tri Kỷ & Nâng cấp kỹ năng');
-    console.log(' [5]  [Vườn Hoa] Vườn Hoa & Thêu Hoa (Thu sương, thêu hoa, trộm hoa)');
-    console.log(' [6]  [Trang Viên] Trang Viên Nông Trại (Gieo hạt & Thu hoạch 1-chạm)');
-    console.log(' [7]  [Nhiệm Vụ] Tự Động Giải & Nhận Nhiệm Vụ (Chính tuyến, ngày, tước vị)');
     console.log(' [0]  Thoát game');
     console.log('----------------------------------------------------------------');
   }

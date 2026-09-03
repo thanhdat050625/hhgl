@@ -101,21 +101,12 @@ class GameClient {
     this.work = this.trade;
     this.mail = this.registry.get('mail');
     this.welfare = this.registry.get('welfare');
-    this.stage = this.registry.get('stage');
-    this.harem = this.registry.get('harem');
-    this.quest = this.registry.get('quest');
     this.level = this.registry.get('level');
     this.helper = this.registry.get('helper');
-    this.palace = this.registry.get('palace');
-    this.prison = this.registry.get('prison');
-    this.clothesService = this.registry.get('clothes');
     this.bagService = this.registry.get('bag');
-    this.rankService = this.registry.get('rank');
     this.sevenGoalService = this.registry.get('sevengoal');
     this.achievementService = this.registry.get('achievement');
-    this.garden = this.registry.get('garden');
     this.academy = this.registry.get('academy');
-    this.manor = this.registry.get('manor');
   }
 
   sleep(ms) {
@@ -284,6 +275,16 @@ class GameClient {
             }
           } else if (pkt.msgId === 104202) {
             this.propList = pkt.data.propList || [];
+          } else if (pkt.msgId === 102215) {
+            // ResLvUp (102215): Thăng cấp tước vị thành công từ Server
+            if (pkt.data.isSucc) {
+              const newLv = Number(pkt.data.lvId) || (this.playerData.lv + 1);
+              this.playerData.lv = newLv;
+              if (this.playerData.attrMap) this.playerData.attrMap[106] = newLv;
+              if (global.dashboardServer) {
+                global.dashboardServer.broadcastSSE('player_state', global.dashboardServer.getPlayerState());
+              }
+            }
           } else if (pkt.msgId === 102204 || pkt.msgId === 102205) {
             if (pkt.data.playerAttributeList) {
               if (!this.playerData.attrMap) this.playerData.attrMap = {};

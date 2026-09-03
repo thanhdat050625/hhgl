@@ -140,7 +140,7 @@ async function main() {
       } else {
         UI.printMenu(client.playerData);
         try {
-          const choice = await io.ask('-> Nhập lựa chọn [0..7 | auto]: ');
+          const choice = await io.ask('-> Nhập lựa chọn [1 | 0 | auto]: ');
           opt = choice.trim();
         } catch (e) {
           console.log('\n[-] Luồng nhập liệu kết thúc.');
@@ -155,38 +155,13 @@ async function main() {
         case '3,1':
           await client.trade.autoDailyLoopContinuous();
           break;
-        case '2':
-        case '4':
-          await client.stage.autoBattleContinuous();
-          break;
-        case '3':
-        case '5':
-          await client.palace.autoPalaceHi();
-          await client.rankService.worshipAllRanks();
-          break;
-        case '4':
-        case '6':
-          await client.harem.autoHaremContinuous();
-          break;
-        case '5':
-        case '7':
-          await client.garden.autoGardenAll();
-          break;
-        case '6':
-        case '8':
-          await client.manor.autoFarm();
-          break;
-        case '7':
-        case '9':
-          await client.quest.autoClaimAll(true);
-          break;
         case '0':
           console.log('\n[Thoát] Đang ngắt kết nối và thoát game. Hẹn gặp lại!');
           client.close();
           io.close();
           process.exit(0);
         default:
-          console.log('[!] Lựa chọn không hợp lệ. Vui lòng chọn lại [0..7 | auto].');
+          console.log('[!] Lựa chọn không hợp lệ. Vui lòng chọn lại [1 | 0 | auto].');
           break;
       }
     }
