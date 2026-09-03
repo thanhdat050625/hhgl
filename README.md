@@ -54,5 +54,4 @@ npm install
 | **`5`** | 🌺 **Vườn Hoa & Thêu Hoa** | Thu hoạch bong bóng sương, hoàn thành tranh thêu & hái trộm hoa bạn bè. |
 | **`6`** | 🌾 **Trang Viên Nông Trại** | Gieo hạt giống & thu hoạch nông sản 1-chạm. |
 | **`7`** | 🏆 **Tự Động Giải Nhiệm Vụ** | Tự động hoàn thành & nhận thưởng Chính tuyến, Nhiệm vụ Ngày & Tước vị. |
-| **`8`** | 📊 **Xem Thông Tin** | Xem lại thông tin nhân vật, tài nguyên và bảng cooldown. |
 | **`0`** | 🚪 **Thoát Game** | Ngắt kết nối an toàn và đóng ứng dụng. |

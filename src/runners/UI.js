@@ -131,7 +131,6 @@ class UI {
     console.log(' [5]  [Vườn Hoa] Vườn Hoa & Thêu Hoa (Thu sương, thêu hoa, trộm hoa)');
     console.log(' [6]  [Trang Viên] Trang Viên Nông Trại (Gieo hạt & Thu hoạch 1-chạm)');
     console.log(' [7]  [Nhiệm Vụ] Tự Động Giải & Nhận Nhiệm Vụ (Chính tuyến, ngày, tước vị)');
-    console.log(' [8]  [Thông Tin] Xem lại thông tin nhân vật & tài nguyên');
     console.log(' [0]  Thoát game');
     console.log('----------------------------------------------------------------');
   }

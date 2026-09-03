@@ -159,6 +159,7 @@ class TradeService extends BaseService {
     await this.autoHarvestAll(true);
     if (this.client.affair) {
       await this.client.affair.autoHandleAffairs(true);
+      if (this.client.level) await this.client.level.autoLevelUp(true);
     }
 
     let lastOnlineCheck = Date.now();
@@ -309,6 +310,10 @@ class TradeService extends BaseService {
           process.stdout.write(`\r                                                                                                    \r`);
         }
         await this.client.affair.autoHandleAffairs(true);
+        // Tự động kiểm tra và thăng chức tước vị ngay khi đủ Cung Vận!
+        if (this.client.level) {
+          await this.client.level.autoLevelUp(true);
+        }
       }
 
       // 3. Hiển thị dòng đếm ngược

@@ -140,7 +140,7 @@ async function main() {
       } else {
         UI.printMenu(client.playerData);
         try {
-          const choice = await io.ask('-> Nhập lựa chọn [0..8 | auto]: ');
+          const choice = await io.ask('-> Nhập lựa chọn [0..7 | auto]: ');
           opt = choice.trim();
         } catch (e) {
           console.log('\n[-] Luồng nhập liệu kết thúc.');
@@ -180,17 +180,13 @@ async function main() {
         case '9':
           await client.quest.autoClaimAll(true);
           break;
-        case '8':
-        case '10':
-          UI.printPlayerInfo(client.playerData, client);
-          break;
         case '0':
           console.log('\n[Thoát] Đang ngắt kết nối và thoát game. Hẹn gặp lại!');
           client.close();
           io.close();
           process.exit(0);
         default:
-          console.log('[!] Lựa chọn không hợp lệ. Vui lòng chọn lại [0..8 | auto].');
+          console.log('[!] Lựa chọn không hợp lệ. Vui lòng chọn lại [0..7 | auto].');
           break;
       }
     }
