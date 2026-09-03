@@ -73,6 +73,11 @@ class StageService extends BaseService {
   }
 
   async autoBattleContinuous(maxBattles = 10, isLoop = false) {
+    const initialSoldier = Number(this.playerData.soldier || (this.playerData.attrMap ? this.playerData.attrMap[104] : 0) || 0);
+    if (isLoop && initialSoldier <= 0) {
+      return 0;
+    }
+
     if (!isLoop) {
       console.log('\n======================================================');
       console.log('[TỰ ĐỘNG VƯỢT ẢI CỐT TRUYỆN & KHIÊU CHIẾN BOSS]');

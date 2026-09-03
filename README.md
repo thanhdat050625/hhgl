@@ -42,6 +42,5 @@ npm install
 
 | Phím | Chức năng | Chi tiết hoạt động |
 |:---:|---|---|
-| **`1` / `auto`** | 🔄 **Auto 24/7 Treo Máy Toàn Diện** | **Tự động hóa hoàn toàn:** Nhận 5 Tab Phúc Lợi, Hộp Thư, 7 Ngày Vui Vẻ, Thành Tựu Cung Đình, Thích 6 Bảng Xếp Hạng, Thỉnh An Trường Xuân Cung, Nhận Thưởng Nhiệm Vụ (Chính Tuyến & Tước Vị), cắn Đan Dược, đọc Thư Tùy Tùng, nâng cấp & xếp Học Viện (canh chính xác 0s delay). Vòng lặp 24/7: Canh thu hoạch Nội Vụ & Cung Vụ từng giây, đúc Bạc lên cấp Tùy Tùng, bắt sự kiện Server nhận thưởng tức thì, tự động nhận quà ngày mới lúc 00:00! |
-| **`2`** | ⚔️ **Vượt Ải Cốt Truyện & Boss** | Tự động nhận diện và vượt Ải Thường (tiêu hao Binh lực), Ải Thay Đồ (so tài y phục) & Khiêu chiến Trảm Boss chương bằng Tùy Tùng mạnh nhất. |
+| **`1` / `auto`** | 🔄 **Auto 24/7 Treo Máy Toàn Diện** | **Tự động hóa hoàn toàn 100%:** Nhận 5 Tab Phúc Lợi, Hộp Thư, 7 Ngày Vui Vẻ, Thành Tựu Cung Đình, Thích 6 Bảng Xếp Hạng, Thỉnh An Trường Xuân Cung, Nhận Thưởng Nhiệm Vụ (Chính Tuyến & Tước Vị), Tự Động Vượt Ải Cốt Truyện & Trảm Boss, Đại Lý Tự (Giáo huấn kẻ thù), cắn Đan Dược, đọc Thư Tùy Tùng, nâng cấp & xếp Học Viện (canh chính xác 0s delay). Vòng lặp 24/7: Canh thu hoạch Nội Vụ & Cung Vụ từng giây, đúc Bạc lên cấp Tùy Tùng, bắt sự kiện Server nhận thưởng tức thì, tự động nhận quà ngày mới lúc 00:00! |
 | **`0`** | 🚪 **Thoát Game** | Ngắt kết nối an toàn và đóng ứng dụng. |

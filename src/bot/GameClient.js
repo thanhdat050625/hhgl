@@ -110,6 +110,7 @@ class GameClient {
     this.palace = this.registry.get('palace');
     this.quest = this.registry.get('quest');
     this.stage = this.registry.get('stage');
+    this.prison = this.registry.get('prison');
     this.academy = this.registry.get('academy');
   }
 
@@ -361,6 +362,8 @@ class GameClient {
             this.lastRankWorship = pkt.data;
           } else if (pkt.msgId === 110201) {
             this.prisonInfo = pkt.data;
+          } else if (pkt.msgId === 110202) {
+            this.lastHitPrisoner = pkt.data;
           } else if (pkt.msgId === 162201) {
             this.sevenGoalDay = pkt.data.day;
             this.sevenDayDay = pkt.data.day;

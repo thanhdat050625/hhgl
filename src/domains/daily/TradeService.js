@@ -147,6 +147,7 @@ class TradeService extends BaseService {
     if (this.client.rankService) await this.client.rankService.likeAllRanks();
     if (this.client.palace) await this.client.palace.autoPalaceHi();
     if (this.client.quest) await this.client.quest.autoClaimAll();
+    if (this.client.prison) await this.client.prison.autoHitAllPrisoners();
 
     // 2. Bồi dưỡng Tùy Tùng, Đan Dược & Học Viện (Menu 3)
     if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
@@ -163,6 +164,14 @@ class TradeService extends BaseService {
     if (this.client.affair) {
       await this.client.affair.autoHandleAffairs(true);
       if (this.client.level) await this.client.level.autoLevelUp(true);
+    }
+
+    // 4. Vượt Ải Cốt Truyện & Giáo Huấn Đại Lý Tự đợt đầu
+    if (this.client.stage) {
+      const sWins = await this.client.stage.autoBattleContinuous(10, true);
+      if (sWins > 0 && this.client.prison) {
+        await this.client.prison.autoHitAllPrisoners(true);
+      }
     }
 
     let lastOnlineCheck = Date.now();
@@ -201,12 +210,22 @@ class TradeService extends BaseService {
         if (this.client.rankService) await this.client.rankService.likeAllRanks();
         if (this.client.palace) await this.client.palace.autoPalaceHi();
         if (this.client.quest) await this.client.quest.autoClaimAll();
+        if (this.client.prison) await this.client.prison.autoHitAllPrisoners();
 
         // Cắn đan dược mới và đọc thư mới nếu có
         if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
         if (this.client.helper) {
           await this.client.helper.readAllHelperLetters();
           await this.client.helper.autoUpgradeAptitudes();
+        }
+
+        // Reset lượt Tùy Tùng đánh Boss & Vượt ải ngày mới
+        if (this.client.stage) {
+          this.client.stage.usedBossHelpers.clear();
+          const sWins = await this.client.stage.autoBattleContinuous(10, true);
+          if (sWins > 0 && this.client.prison) {
+            await this.client.prison.autoHitAllPrisoners(true);
+          }
         }
       }
 
@@ -307,6 +326,16 @@ class TradeService extends BaseService {
             if (this.client.achievementService) await this.client.achievementService.claimAllAchievements(true);
             if (this.client.sevenGoalService) await this.client.sevenGoalService.claimAllSevenGoals(true);
             if (this.client.quest) await this.client.quest.autoClaimAll();
+          }
+        }
+
+        // Sau khi thu hoạch Bổ Khí có Binh Lực mới -> Tự động Vượt Ải Cốt Truyện & Giáo Huấn Đại Lý Tự!
+        if (this.client.stage) {
+          const sWins = await this.client.stage.autoBattleContinuous(5, true);
+          if (sWins > 0) {
+            if (this.client.quest) await this.client.quest.autoClaimAll();
+            if (this.client.achievementService) await this.client.achievementService.claimAllAchievements(true);
+            if (this.client.prison) await this.client.prison.autoHitAllPrisoners(true);
           }
         }
       }
