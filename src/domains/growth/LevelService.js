@@ -26,7 +26,7 @@ class LevelService extends BaseService {
 
     if (this.client.lastReturnCode && this.client.lastReturnCode.reqId === 102104) {
       if (this.client.lastReturnCode.code === 0) {
-        console.log(`  [OK] [Thăng Chức] Chúc mừng! Bạn đã thăng chức tước vị thành công lên Lv.${this.playerData.lv + 1}!`);
+        console.log(`  [Thăng Chức] Chúc mừng! Bạn đã thăng chức tước vị thành công lên Lv.${this.playerData.lv + 1}!`);
         this.playerData.lv += 1;
         return true;
       } else if (this.client.lastReturnCode.code === 127002) {

@@ -125,12 +125,26 @@ const updatePlayerState = (data) => {
   }
 };
 
+let currentBuildId = null;
+
 const connectSSE = () => {
   const evtSource = new EventSource('/events');
   
   evtSource.addEventListener('init', (e) => {
-    term.innerHTML = '';
     const data = JSON.parse(e.data);
+
+    // Tự động reload trang nếu Render build bản mới
+    if (data.buildId) {
+      if (currentBuildId === null) {
+        currentBuildId = data.buildId;
+      } else if (currentBuildId !== data.buildId) {
+        console.log('[Auto-Reload] Phát hiện phiên bản mới trên Render! Đang tải lại trang...');
+        window.location.reload();
+        return;
+      }
+    }
+
+    term.innerHTML = '';
     if (data.logs) {
       data.logs.forEach(appendLog);
     }

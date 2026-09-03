@@ -63,21 +63,21 @@ class AchievementService extends BaseService {
       // Hiển thị quà nhận được
       if (this.client.lastAchievementAward && this.client.lastAchievementAward.goodsList && this.client.lastAchievementAward.goodsList.length > 0) {
         const awards = formatAwards(this.client.lastAchievementAward.goodsList);
-        console.log(isLoop ? `[${timeStr}] [Thành Tựu] [${achName}] Nhận THÀNH CÔNG: ${awards}` : `    [OK] [${achName}] Nhận THÀNH CÔNG: ${awards}`);
+        console.log(isLoop ? `[${timeStr}] [Thành Tựu] [${achName}] Nhận THÀNH CÔNG: ${awards}` : `    [${achName}] Nhận THÀNH CÔNG: ${awards}`);
       } else if (this.client.recentProps && this.client.recentProps.length > 0) {
         const propsStr = this.client.recentProps.map(p => `+${p.num || p.propNum || 1} ${formatPropName(p.configId || p.propId)}`).join(', ');
-        console.log(isLoop ? `[${timeStr}] [Thành Tựu] [${achName}] Nhận THÀNH CÔNG: ${propsStr}` : `    [OK] [${achName}] Nhận THÀNH CÔNG: ${propsStr}`);
+        console.log(isLoop ? `[${timeStr}] [Thành Tựu] [${achName}] Nhận THÀNH CÔNG: ${propsStr}` : `    [${achName}] Nhận THÀNH CÔNG: ${propsStr}`);
       } else if (this.client.lastReturnCode && this.client.lastReturnCode.code !== 0) {
         console.log(`    [-] [${achName}] Server phản hồi mã: ${this.client.lastReturnCode.code}`);
       } else {
-        console.log(isLoop ? `[${timeStr}] [Thành Tựu] [${achName}] Nhận thưởng THÀNH CÔNG!` : `    [OK] [${achName}] Nhận thưởng THÀNH CÔNG! Đã cộng vào tài khoản.`);
+        console.log(isLoop ? `[${timeStr}] [Thành Tựu] [${achName}] Nhận thưởng THÀNH CÔNG!` : `    [${achName}] Nhận thưởng THÀNH CÔNG! Đã cộng vào tài khoản.`);
       }
 
       count++;
     }
 
     if (!isLoop) {
-      console.log(`[OK] [Auto Thành Tựu] Đã hoàn tất nhận ${count} mốc thành tựu!`);
+      console.log(`[Auto Thành Tựu] Đã hoàn tất nhận ${count} mốc thành tựu!`);
     }
     return count;
   }

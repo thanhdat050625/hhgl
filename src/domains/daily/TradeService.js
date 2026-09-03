@@ -106,7 +106,7 @@ class TradeService extends BaseService {
         results.forEach(r => {
           if (r.harvested > 0) {
             const countStr = r.harvested > 1 ? ` (x${r.harvested})` : '';
-            console.log(`  - ${r.name}: Đã thu hoạch ${r.amountText}${countStr} [OK] (Hồi sau: ${formatDuration(r.timeSec)})`);
+            console.log(`  - ${r.name}: Đã thu hoạch ${r.amountText}${countStr} (Hồi sau: ${formatDuration(r.timeSec)})`);
           } else {
             console.log(`  - ${r.name}: 0/${maxCap} lượt (Hồi sau: ${formatDuration(r.timeSec)})`);
           }
@@ -120,7 +120,7 @@ class TradeService extends BaseService {
           const countStr = r.harvested > 1 ? ` x${r.harvested}` : '';
           return `${r.short} (${r.amountText}${countStr})`;
         }).join(', ');
-        console.log(`[${timeStr}] [Nội Vụ] Thu hoạch thành công: ${desc} [OK]`);
+        console.log(`[${timeStr}] [Nội Vụ] Thu hoạch thành công: ${desc}`);
       }
     }
 
@@ -175,6 +175,34 @@ class TradeService extends BaseService {
         continue;
       }
 
+      // 0. Tự động nhận diện BƯỚC SANG NGÀY MỚI (00:00:00 hoặc chuyển ngày)
+      const todayStr = new Date().toLocaleDateString('vi-VN');
+      const isDayChanged = (this.client.lastActiveDateStr !== todayStr) || this.client.isNewDay;
+      if (isDayChanged) {
+        this.client.lastActiveDateStr = todayStr;
+        this.client.isNewDay = false;
+        this.client.allOnlineRewardsClaimed = false;
+
+        const timeStr = new Date().toLocaleTimeString('vi-VN');
+        console.log(`\n================================================================`);
+        console.log(`[${timeStr}] 🌅 BƯỚC SANG NGÀY MỚI (${todayStr})!`);
+        console.log('[*] Tự động kích hoạt chu trình Phúc Lợi & Quà tặng ngày mới...');
+        console.log('================================================================\n');
+
+        // Quét sạch Menu 1 ngày mới
+        if (this.client.welfare) await this.client.welfare.autoClaimAll();
+        if (this.client.mail) await this.client.mail.autoClaimAndClean();
+        if (this.client.sevenGoalService) await this.client.sevenGoalService.claimAllSevenGoals();
+        if (this.client.achievementService) await this.client.achievementService.claimAllAchievements();
+
+        // Cắn đan dược mới và đọc thư mới nếu có
+        if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
+        if (this.client.helper) {
+          await this.client.helper.readAllHelperLetters();
+          await this.client.helper.autoUpgradeAptitudes();
+        }
+      }
+
       // A. Bắt sự kiện Realtime 7 Ngày Vui Vẻ (Gói 162205 ResSevenGoalTaskComplete)
       if (this.client.hasNewSevenGoal && this.client.sevenGoalService) {
         this.client.hasNewSevenGoal = false;
@@ -193,17 +221,18 @@ class TradeService extends BaseService {
         await this.client.mail.autoClaimAndClean(true);
       }
 
-      // D. Định kỳ mỗi 5 phút: Check Thưởng Online & Quét Thư
+      // D. Định kỳ mỗi 5 phút: Check Thưởng Online (chỉ check khi chưa nhận đủ 120 phút) & Quét Thư
       if (Date.now() - lastOnlineCheck >= 300000) {
         lastOnlineCheck = Date.now();
-        if (this.client.welfare) await this.client.welfare.checkAndClaimOnlineReward(true);
+        if (!this.client.allOnlineRewardsClaimed && this.client.welfare) {
+          await this.client.welfare.checkAndClaimOnlineReward(true);
+        }
         if (this.client.mail) await this.client.mail.autoClaimAndClean(true);
       }
 
-      // E. Định kỳ mỗi 30 phút: Check Học Viện (Thư Viện)
-      if (Date.now() - lastAcademyCheck >= 1800000) {
-        lastAcademyCheck = Date.now();
-        if (this.client.academy) await this.client.academy.autoStudy(true);
+      // E. Realtime Học Viện (Thư Viện): Canh chính xác đúng giây tốt nghiệp (0 giây delay)!
+      if (this.client.academy && Date.now() >= (this.client.academyNextReadyTime || 0)) {
+        await this.client.academy.autoStudy(true);
       }
 
       const maxCap = Math.min(30, Math.max(3, 2 + this.playerData.lv));

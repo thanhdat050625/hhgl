@@ -99,7 +99,7 @@ class HaremService extends BaseService {
     }
 
     if (calls > 0) {
-      console.log(`[OK] [Auto Hậu Cung] Hoàn tất vấn an hậu cung! (Tổng: ${calls} lần | Thể lực còn lại: ${currentEnergy}/${maxEnergy})`);
+      console.log(`[Auto Hậu Cung] Hoàn tất vấn an hậu cung! (Tổng: ${calls} lần | Thể lực còn lại: ${currentEnergy}/${maxEnergy})`);
     }
   }
 }

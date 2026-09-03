@@ -41,9 +41,9 @@ class WelfareService extends BaseService {
       await this.sleepRandom(1.0, 1.8);
       if (this.client.recentProps.length > 0) {
         const propsStr = this.client.recentProps.map(p => `+${p.propNum} ${formatPropName(p.propId)}`).join(', ');
-        console.log(`  [OK] [Quà Báo Danh] Nhận thành công: ${propsStr}`);
+        console.log(`  [Quà Báo Danh] Nhận thành công: ${propsStr}`);
       } else {
-        console.log('  [OK] [Quà Báo Danh] Đã điểm danh thành công!');
+        console.log('  [Quà Báo Danh] Đã điểm danh thành công!');
       }
       this.playerData.isSigned = 1;
     }
@@ -81,12 +81,12 @@ class WelfareService extends BaseService {
 
         if (this.client.lastOnlineReward && this.client.lastOnlineReward.awardInfo && this.client.lastOnlineReward.awardInfo.awardList) {
           const awards = formatAwards(this.client.lastOnlineReward.awardInfo.awardList);
-          console.log(`  [OK] [Thưởng Online] Đã nhận thành công: ${awards}`);
+          console.log(`  [Thưởng Online] Đã nhận thành công: ${awards}`);
         } else if (this.client.recentProps.length > 0) {
           const propsStr = this.client.recentProps.map(p => `+${p.num || p.propNum || 1} ${formatPropName(p.configId || p.propId)}`).join(', ');
-          console.log(`  [OK] [Thưởng Online] Đã nhận: ${propsStr}`);
+          console.log(`  [Thưởng Online] Đã nhận: ${propsStr}`);
         } else {
-          console.log('  [OK] [Thưởng Online] Nhận quà online thành công!');
+          console.log('  [Thưởng Online] Nhận quà online thành công!');
         }
       }
 
@@ -98,7 +98,7 @@ class WelfareService extends BaseService {
         const waitRemSec = waitSec % 60;
         console.log(`  [-] [Thưởng Online] Mốc tiếp theo [${nextMilestone.name}]: Cần online thêm ${waitMin} phút ${waitRemSec}s (${waitSec}s) để nhận.`);
       } else if (readyMilestones.length === 0) {
-        console.log('  [OK] [Thưởng Online] Bạn đã nhận toàn bộ các mốc thưởng online của ngày hôm nay!');
+        console.log('  [Thưởng Online] Bạn đã nhận toàn bộ các mốc thưởng online của ngày hôm nay!');
       }
     }
 
@@ -125,12 +125,12 @@ class WelfareService extends BaseService {
 
         if (this.client.lastSevenDayReward && this.client.lastSevenDayReward.awardInfo && this.client.lastSevenDayReward.awardInfo.awardList) {
           const awards = formatAwards(this.client.lastSevenDayReward.awardInfo.awardList);
-          console.log(`  [OK] [Đăng Nhập 7 Ngày] Đã nhận quà Ngày ${curDay}: ${awards}`);
+          console.log(`  [Đăng Nhập 7 Ngày] Đã nhận quà Ngày ${curDay}: ${awards}`);
         } else if (this.client.recentProps.length > 0) {
           const propsStr = this.client.recentProps.map(p => `+${p.num || p.propNum || 1} ${formatPropName(p.configId || p.propId)}`).join(', ');
-          console.log(`  [OK] [Đăng Nhập 7 Ngày] Đã nhận: ${propsStr}`);
+          console.log(`  [Đăng Nhập 7 Ngày] Đã nhận: ${propsStr}`);
         } else {
-          console.log(`  [OK] [Đăng Nhập 7 Ngày] Nhận thưởng Ngày ${curDay} hoàn tất!`);
+          console.log(`  [Đăng Nhập 7 Ngày] Nhận thưởng Ngày ${curDay} hoàn tất!`);
         }
       }
     }
@@ -194,9 +194,9 @@ class WelfareService extends BaseService {
           console.log(`  [-] [Phúc Lợi VIP] Hôm nay bạn đã nhận phúc lợi VIP ${vipLv} rồi.`);
         } else if (this.client.recentProps.length > 0) {
           const propsStr = this.client.recentProps.map(p => `+${p.num || p.propNum || 1} ${formatPropName(p.configId || p.propId)}`).join(', ');
-          console.log(`  [OK] [Phúc Lợi VIP] Nhận thành công: ${propsStr}`);
+          console.log(`  [Phúc Lợi VIP] Nhận thành công: ${propsStr}`);
         } else {
-          console.log(`  [OK] [Phúc Lợi VIP] Nhận phúc lợi VIP ${vipLv} thành công!`);
+          console.log(`  [Phúc Lợi VIP] Nhận phúc lợi VIP ${vipLv} thành công!`);
         }
         this.playerData.hasReceivedVip = hasReceivedVip | (1 << (vipLv - 1));
       }
@@ -218,22 +218,33 @@ class WelfareService extends BaseService {
 
         if (this.client.lastLotteryReward && this.client.lastLotteryReward.rewardList && this.client.lastLotteryReward.rewardList.length > 0) {
           const awards = formatAwards(this.client.lastLotteryReward.rewardList);
-          console.log(`  [OK] [Cầu Nguyện] Cầu nguyện thành công: ${awards}`);
+          console.log(`  [Cầu Nguyện] Cầu nguyện thành công: ${awards}`);
         } else {
-          console.log('  [OK] [Cầu Nguyện] Cầu nguyện thành công!');
+          console.log('  [Cầu Nguyện] Cầu nguyện thành công!');
         }
       } else {
         console.log('  [-] [Cầu Nguyện] Hôm nay đã dùng lượt Cầu Nguyện miễn phí.');
       }
     }
 
-    console.log('\n[OK] [Auto Phúc Lợi] Hoàn tất nhận toàn bộ các mục phúc lợi!\n');
+    console.log('\n[Auto Phúc Lợi] Hoàn tất nhận toàn bộ các mục phúc lợi!\n');
   }
 
   /**
    * Kiểm tra và nhận Thưởng Online (Hỗ trợ gọi định kỳ trong vòng lặp 24/7)
    */
   async checkAndClaimOnlineReward(isLoop = false) {
+    const todayStr = new Date().toLocaleDateString('vi-VN');
+    if (this.client.lastActiveDateStr !== todayStr) {
+      this.client.lastActiveDateStr = todayStr;
+      this.client.allOnlineRewardsClaimed = false;
+    }
+
+    // Nếu trong ngày hôm nay đã nhận sạch cả 6 mốc (120 phút) -> Bỏ qua ngay lập tức, không gửi request
+    if (this.client.allOnlineRewardsClaimed) {
+      return 0;
+    }
+
     this.client.onlineInfo = null;
     this.send(151101, {});
     await this.waitFor(() => this.client.onlineInfo !== null);
@@ -269,8 +280,24 @@ class WelfareService extends BaseService {
       } else {
         console.log(`[${timeStr}] [Thưởng Online] Nhận quà online thành công!`);
       }
+
+      // Kiểm tra nếu sau đợt nhận này đã nhận đủ mốc cuối cùng (120 phút - mốc 5)
+      const newClaimed = [...claimedList, ...readyMilestones.map(m => m.idx)];
+      if (newClaimed.length >= 6 || newClaimed.includes(5)) {
+        this.client.allOnlineRewardsClaimed = true;
+        console.log(`[${timeStr}] [Thưởng Online] ĐÃ NHẬN ĐỦ 6/6 MỐC (TỐI ĐA 120 PHÚT)! Tạm dừng kiểm tra cho đến 00:00 ngày mới.`);
+      }
       return readyMilestones.length;
     }
+
+    // Nếu chưa nhận gì nhưng danh sách vốn đã có đủ mốc 5 (120 phút)
+    if (claimedList.length >= 6 || claimedList.includes(5)) {
+      this.client.allOnlineRewardsClaimed = true;
+      if (!isLoop) {
+        console.log('  [Thưởng Online] Bạn đã nhận toàn bộ các mốc thưởng online của ngày hôm nay (120 phút)!');
+      }
+    }
+
     return 0;
   }
 }

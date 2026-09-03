@@ -23,6 +23,7 @@ class DashboardServer {
     this.MAX_LOGS = 200;
     
     this.statusMessage = '';
+    this.BUILD_ID = Date.now().toString();
     
     this.setupLogInterceptor();
   }
@@ -141,6 +142,7 @@ class DashboardServer {
         this.sseClients.add(res);
 
         res.write(`event: init\ndata: ${JSON.stringify({
+          buildId: this.BUILD_ID,
           logs: this.logBuffer,
           statusMsg: this.statusMessage,
           playerState: this.getPlayerState()
@@ -179,7 +181,12 @@ class DashboardServer {
       if (fullPath.startsWith(PUBLIC_DIR) && fs.existsSync(fullPath) && fs.statSync(fullPath).isFile()) {
         const ext = path.extname(fullPath).toLowerCase();
         const contentType = MIME_TYPES[ext] || 'text/plain; charset=utf-8';
-        res.writeHead(200, { 'Content-Type': contentType });
+        res.writeHead(200, {
+          'Content-Type': contentType,
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
+          'Pragma': 'no-cache',
+          'Expires': '0'
+        });
         fs.createReadStream(fullPath).pipe(res);
         return;
       }

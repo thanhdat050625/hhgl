@@ -48,7 +48,7 @@ class FlowerGardenService extends BaseService {
     await this.sleepRandom(0.8, 1.5);
 
     if (this.client.lastReturnCode && this.client.lastReturnCode.reqId === 153103 && this.client.lastReturnCode.code === 0) {
-      console.log('    [OK] Thu hoạch bong bóng hoa THÀNH CÔNG!');
+      console.log('    Thu hoạch bong bóng hoa THÀNH CÔNG!');
     } else {
       console.log('    [-] Hiện tại chưa có bong bóng hoa mới để thu hoạch.');
     }
@@ -59,7 +59,7 @@ class FlowerGardenService extends BaseService {
     await this.sleepRandom(1.0, 1.5);
 
     if (this.client.lastReturnCode && this.client.lastReturnCode.reqId === 153111 && this.client.lastReturnCode.code === 0) {
-      console.log('    [OK] Nhận thưởng hoàn thành Thêu Hoa THÀNH CÔNG!');
+      console.log('    Nhận thưởng hoàn thành Thêu Hoa THÀNH CÔNG!');
     }
 
     // Gửi lệnh thêu hoa
@@ -87,7 +87,7 @@ class FlowerGardenService extends BaseService {
         await this.sleepRandom(0.8, 1.2);
         stolenCount++;
       }
-      console.log(`  [OK] Đã hái trộm hoa THÀNH CÔNG từ ${stolenCount} khu vườn bạn bè!`);
+      console.log(`  Đã hái trộm hoa THÀNH CÔNG từ ${stolenCount} khu vườn bạn bè!`);
     } else {
       console.log('  [-] Hiện tại bạn bè chưa có hoa chín để hái trộm.');
     }
@@ -100,12 +100,12 @@ class FlowerGardenService extends BaseService {
         await this.sleepRandom(0.8, 1.5);
         assistCount++;
       }
-      console.log(`  [OK] Đã chăm sóc giúp ${assistCount} bạn bè!`);
+      console.log(`  Đã chăm sóc giúp ${assistCount} bạn bè!`);
     }
 
     // 5. Rời khỏi Vườn Hoa
     this.send(153112, {});
-    console.log('[OK] [Auto Vườn Hoa] Hoàn tất toàn bộ công việc chăm sóc & thu hoạch hoa!');
+    console.log('[Auto Vườn Hoa] Hoàn tất toàn bộ công việc chăm sóc & thu hoạch hoa!');
   }
 }
 

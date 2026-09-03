@@ -66,9 +66,9 @@ class HelperService extends BaseService {
 
       if (this.client.lastHelperLetterAward && this.client.lastHelperLetterAward.awardBeanList) {
         const awards = formatAwards(this.client.lastHelperLetterAward.awardBeanList);
-        console.log(`    [OK] [Thư #${letId}] Đã hồi âm & Nhận quà: ${awards}`);
+        console.log(`    [Thư #${letId}] Đã hồi âm & Nhận quà: ${awards}`);
       } else {
-        console.log(`    [OK] [Thư #${letId}] Đã hồi âm thành công! (Dấu hoa hồng đã được xóa)`);
+        console.log(`    [Thư #${letId}] Đã hồi âm thành công! (Dấu hoa hồng đã được xóa)`);
       }
     }
   }
@@ -138,7 +138,7 @@ class HelperService extends BaseService {
                 const newLv = (this.client.lastAptitudeUp.apInfo && this.client.lastAptitudeUp.apInfo.lv)
                   ? this.client.lastAptitudeUp.apInfo.lv
                   : ((ap.lv || 1) + 1);
-                console.log(`    [OK] [Nghiên Cứu] Tùy Tùng [${helperName}] Nghiên Cứu thành công [${aptName}] lên Cấp ${newLv}! (+${this.client.lastAptitudeUp.apValue || 1} Tư Chất)`);
+                console.log(`    [Nghiên Cứu] Tùy Tùng [${helperName}] Nghiên Cứu thành công [${aptName}] lên Cấp ${newLv}! (+${this.client.lastAptitudeUp.apValue || 1} Tư Chất)`);
                 ap.lv = newLv;
                 count--;
                 totalUpgrades++;
@@ -152,7 +152,7 @@ class HelperService extends BaseService {
     }
 
     if (totalUpgrades > 0) {
-      console.log(`  [OK] [Nghiên Cứu Tư Chất] Đã hoàn thành ${totalUpgrades} lần Nghiên Cứu Tư Chất cho Tùy Tùng.`);
+      console.log(`  [Nghiên Cứu Tư Chất] Đã hoàn thành ${totalUpgrades} lần Nghiên Cứu Tư Chất cho Tùy Tùng.`);
     }
 
     return totalUpgrades;
@@ -175,9 +175,9 @@ class HelperService extends BaseService {
       if (this.client.lastReturnCode && this.client.lastReturnCode.reqId === 105104 && this.client.lastReturnCode.code === 0) {
         if (isLoop) {
           const timeStr = new Date().toLocaleTimeString('vi-VN');
-          console.log(`[${timeStr}] [Tùy Tùng] [${helperName}] Đề Bạt Tước Vị thành công! [OK]`);
+          console.log(`[${timeStr}] [Tùy Tùng] [${helperName}] Đề Bạt Tước Vị thành công!`);
         } else {
-          console.log(`  [OK] [Đề Bạt] Tùy Tùng [${helperName}] đã được Đề Bạt Tước Vị thành công!`);
+          console.log(`  [Đề Bạt] Tùy Tùng [${helperName}] đã được Đề Bạt Tước Vị thành công!`);
         }
       }
     }
@@ -233,9 +233,9 @@ class HelperService extends BaseService {
           const newLv = Number(this.client.lastHelperUp.lv) || (curLv + (lvType === 2 ? 10 : 1));
           if (isLoop) {
             const timeStr = new Date().toLocaleTimeString('vi-VN');
-            console.log(`[${timeStr}] [Tùy Tùng] [${helperName}] Nâng cấp thành công lên Lv.${newLv}! [OK]`);
+            console.log(`[${timeStr}] [Tùy Tùng] [${helperName}] Nâng cấp thành công lên Lv.${newLv}!`);
           } else {
-            console.log(`  [OK] [${helperName}] Nâng cấp thành công lên Lv.${newLv}!`);
+            console.log(`  [${helperName}] Nâng cấp thành công lên Lv.${newLv}!`);
           }
           curLv = newLv;
           helper.lv = newLv;

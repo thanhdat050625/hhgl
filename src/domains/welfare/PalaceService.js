@@ -38,11 +38,11 @@ class PalaceService extends BaseService {
     await this.sleepRandom(1.0, 1.8);
 
     if (this.client.lastReturnCode && this.client.lastReturnCode.reqId === 114102 && this.client.lastReturnCode.code === 0) {
-      console.log('  [OK] [Hoàng Cung] Thỉnh an THÀNH CÔNG! Đã nhận thưởng +10 Vàng miễn phí.');
+      console.log('  [Hoàng Cung] Thỉnh an THÀNH CÔNG! Đã nhận thưởng +10 Vàng miễn phí.');
     } else if (this.client.lastReturnCode && this.client.lastReturnCode.code !== 0) {
       console.log(`  [-] [Hoàng Cung] Server phản hồi mã: ${this.client.lastReturnCode.code}`);
     } else {
-      console.log('  [OK] [Hoàng Cung] Thỉnh an THÀNH CÔNG! Đã nhận thưởng Vàng từ Hoàng Thượng.');
+      console.log('  [Hoàng Cung] Thỉnh an THÀNH CÔNG! Đã nhận thưởng Vàng từ Hoàng Thượng.');
     }
   }
 }

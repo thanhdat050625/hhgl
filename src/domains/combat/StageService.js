@@ -57,7 +57,7 @@ class StageService extends BaseService {
           const cAwards = this.client.lastClothesFightResult.awardInfo && this.client.lastClothesFightResult.awardInfo.awardList
             ? formatAwards(this.client.lastClothesFightResult.awardInfo.awardList)
             : '';
-          console.log(`  [OK] [Ải Trang Phục] Chiến thắng! ${cAwards}`);
+          console.log(`  [Ải Trang Phục] Chiến thắng! ${cAwards}`);
           wins++;
           continue;
         }
@@ -86,7 +86,7 @@ class StageService extends BaseService {
               const cAwards = this.client.lastClothesFightResult.awardInfo && this.client.lastClothesFightResult.awardInfo.awardList
                 ? formatAwards(this.client.lastClothesFightResult.awardInfo.awardList)
                 : '';
-              console.log(`  [OK] [Ải Trang Phục] Chiến thắng! ${cAwards}`);
+              console.log(`  [Ải Trang Phục] Chiến thắng! ${cAwards}`);
               wins++;
               continue;
             }
@@ -117,7 +117,7 @@ class StageService extends BaseService {
             const bossAwards = this.client.lastBossFightResult.awardInfo && this.client.lastBossFightResult.awardInfo.awardList
               ? formatAwards(this.client.lastBossFightResult.awardInfo.awardList)
               : '';
-            console.log(`  [OK] ĐÁNH TRẢM BOSS THÀNH CÔNG! ${bossAwards}`);
+            console.log(`  ĐÁNH TRẢM BOSS THÀNH CÔNG! ${bossAwards}`);
             wins++;
             bossWon = true;
             break;
@@ -160,7 +160,7 @@ class StageService extends BaseService {
         ? formatAwards(this.client.lastFightResult.awardInfo.awardList)
         : 'Không có quà thêm';
 
-      console.log(`  [OK] [Trận ${wins}] Thắng trận! Binh lực ta còn: ${Number(this.playerData.soldier || 0).toLocaleString()} (Lính địch còn: ${Number(this.client.lastFightResult.npcSoldier || 0).toLocaleString()}) | Quà: ${awardsStr}`);
+      console.log(`  [Trận ${wins}] Thắng trận! Binh lực ta còn: ${Number(this.playerData.soldier || 0).toLocaleString()} (Lính địch còn: ${Number(this.client.lastFightResult.npcSoldier || 0).toLocaleString()}) | Quà: ${awardsStr}`);
 
       // Nếu diệt sạch lính -> Thử đánh Boss chương
       if (this.client.lastFightResult.npcSoldier === '0' || this.client.lastFightResult.npcSoldier === 0) {
@@ -182,7 +182,7 @@ class StageService extends BaseService {
             const bossAwards = this.client.lastBossFightResult.awardInfo && this.client.lastBossFightResult.awardInfo.awardList
               ? formatAwards(this.client.lastBossFightResult.awardInfo.awardList)
               : '';
-            console.log(`  [OK] Diệt Boss thành công! ${bossAwards}`);
+            console.log(`  Diệt Boss thành công! ${bossAwards}`);
           }
         }
       }
@@ -191,7 +191,7 @@ class StageService extends BaseService {
     if (wins === 0) {
       console.log(`[-] [Auto Vượt Ải] Hiện tại chưa thể vượt ải tiếp (Cần thêm Binh lực hoặc chờ hồi lượt Tùy Tùng đánh Boss).`);
     } else {
-      console.log(`[OK] [Auto Vượt Ải] Hoàn tất vượt ải! (Thắng: ${wins} trận | Binh lực còn: ${Number(this.playerData.soldier || 0).toLocaleString()})`);
+      console.log(`[Auto Vượt Ải] Hoàn tất vượt ải! (Thắng: ${wins} trận | Binh lực còn: ${Number(this.playerData.soldier || 0).toLocaleString()})`);
     }
   }
 }

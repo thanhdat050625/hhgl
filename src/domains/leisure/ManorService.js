@@ -40,7 +40,7 @@ class ManorService extends BaseService {
     this.send(142110, { seedIds: [1, 2, 3, 4, 5] });
     await this.sleepRandom(1.0, 1.5);
 
-    console.log('[OK] [Auto Trang Viên] Hoàn tất thu hoạch & gieo hạt nông trại!');
+    console.log('[Auto Trang Viên] Hoàn tất thu hoạch & gieo hạt nông trại!');
   }
 }
 

@@ -83,6 +83,10 @@ class GameClient {
     this.hasNewMail = false;
     this.hasNewSevenGoal = false;
     this.hasNewAchievement = false;
+    this.isNewDay = false;
+    this.academyNextReadyTime = 0;
+    this.allOnlineRewardsClaimed = false;
+    this.lastActiveDateStr = new Date().toLocaleDateString('vi-VN');
 
     // Khởi tạo Self-Healing Engine
     this.healer = new SelfHealer(this);
@@ -378,6 +382,9 @@ class GameClient {
           } else if (pkt.msgId === 125404 || pkt.msgId === 125405) {
             // ResNewAchievementRedPoint / ResAllNewAchievementRedPoint: Server báo có mốc thành tựu mới!
             this.hasNewAchievement = true;
+          } else if (pkt.msgId === 102242) {
+            // ResServerZeroTime: Server thông báo bước sang 00:00:00 ngày mới!
+            this.isNewDay = true;
           } else if (pkt.msgId === 125202) {
             this.achievementList = pkt.data.achievementList || [];
           } else if (pkt.msgId === 125203) {

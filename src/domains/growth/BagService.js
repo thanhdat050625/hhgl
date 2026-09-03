@@ -63,7 +63,7 @@ class BagService extends BaseService {
     }
 
     if (usedCount > 0) {
-      console.log(`[OK] [Auto Túi Đồ] Đã sử dụng thành công ${usedCount} loại vật phẩm tăng trưởng!`);
+      console.log(`[Auto Túi Đồ] Đã sử dụng thành công ${usedCount} loại vật phẩm tăng trưởng!`);
     } else {
       console.log('  [-] [Auto Túi Đồ] Không còn vật phẩm tiêu hao nào cần dùng.');
     }

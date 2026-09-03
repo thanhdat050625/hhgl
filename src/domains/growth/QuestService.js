@@ -63,11 +63,11 @@ class QuestService extends BaseService {
 
         if (this.client.lastMainAward && this.client.lastMainAward.goodsList && this.client.lastMainAward.goodsList.length > 0) {
           const awards = formatAwards(this.client.lastMainAward.goodsList);
-          console.log(`  [OK] Đã nhận thưởng [${taskName}]: ${awards}`);
+          console.log(`  Đã nhận thưởng [${taskName}]: ${awards}`);
           mainClaimed++;
           consecutiveSolves++;
         } else {
-          console.log(`  [OK] Đã nhận thưởng [${taskName}] thành công!`);
+          console.log(`  Đã nhận thưởng [${taskName}] thành công!`);
           mainClaimed++;
           consecutiveSolves++;
         }
@@ -103,7 +103,7 @@ class QuestService extends BaseService {
       const actIds = this.client.lastQuestAllAward.activeIds || [];
       const awards = formatAwards(this.client.lastQuestAllAward.awardBeans);
       everydayClaimed = qIds.length + actIds.length;
-      console.log(`  [OK] [Nhiệm Vụ Ngày] Đã nhận nhanh ${qIds.length} nhiệm vụ & ${actIds.length} rương năng động: ${awards}`);
+      console.log(`  [Nhiệm Vụ Ngày] Đã nhận nhanh ${qIds.length} nhiệm vụ & ${actIds.length} rương năng động: ${awards}`);
     } else {
       console.log('  [-] [Nhiệm Vụ Ngày] Chưa có thêm nhiệm vụ ngày hoặc rương năng động nào đạt điều kiện nhận.');
     }
@@ -113,7 +113,7 @@ class QuestService extends BaseService {
     if (mainClaimed === 0 && everydayClaimed === 0 && posClaimed === 0) {
       console.log('\n[-] [Auto Nhiệm Vụ] Hiện tại không có nhiệm vụ nào đủ điều kiện nhận thưởng.');
     } else {
-      console.log(`\n[OK] [Auto Nhiệm Vụ] Hoàn tất nhận thưởng nhiệm vụ! (Chính tuyến: ${mainClaimed}, Hàng ngày/Rương: ${everydayClaimed}, Tước vị: ${posClaimed})`);
+      console.log(`\n[Auto Nhiệm Vụ] Hoàn tất nhận thưởng nhiệm vụ! (Chính tuyến: ${mainClaimed}, Hàng ngày/Rương: ${everydayClaimed}, Tước vị: ${posClaimed})`);
     }
   }
 
@@ -145,9 +145,9 @@ class QuestService extends BaseService {
 
         if (this.client.lastPositionQuestAward && this.client.lastPositionQuestAward.goodsList) {
           const awards = formatAwards(this.client.lastPositionQuestAward.goodsList);
-          console.log(`    [OK] [N.V Tước Vị #${qId}] Nhận thưởng thành công: ${awards}`);
+          console.log(`    [N.V Tước Vị #${qId}] Nhận thưởng thành công: ${awards}`);
         } else {
-          console.log(`    [OK] [N.V Tước Vị #${qId}] Nhận thưởng thành công!`);
+          console.log(`    [N.V Tước Vị #${qId}] Nhận thưởng thành công!`);
         }
         claimed++;
       }
@@ -160,7 +160,7 @@ class QuestService extends BaseService {
       await this.sleepRandom(1.0, 1.8);
       if (this.client.lastPositionQuestAward && this.client.lastPositionQuestAward.goodsList) {
         const awards = formatAwards(this.client.lastPositionQuestAward.goodsList);
-        console.log(`    [OK] [Thưởng Lớn Tước Vị] Nhận thành công: ${awards}`);
+        console.log(`    [Thưởng Lớn Tước Vị] Nhận thành công: ${awards}`);
       }
       claimed++;
     }

@@ -101,7 +101,7 @@ async function main() {
       process.exit(1);
     }
 
-    console.log(`\n[OK] Kết nối vào Server: ${chosenServer.serverId} - ${chosenServer.serverName || chosenServer.name || ''}`);
+    console.log(`\nKết nối vào Server: ${chosenServer.serverId} - ${chosenServer.serverName || chosenServer.name || ''}`);
 
     const client = new GameClient(chosenServer, rcode, gateId, encryptHelper);
     
@@ -161,7 +161,7 @@ async function main() {
           console.log('======================================================');
           await client.trade.autoHarvestAll(false);
           await client.affair.autoHandleAffairs(false);
-          console.log('\n[OK] Hoàn tất Nội Vụ & Cung Vụ!\n======================================================');
+          console.log('\nHoàn tất Nội Vụ & Cung Vụ!\n======================================================');
           break;
         case '3.1':
         case '3,1':

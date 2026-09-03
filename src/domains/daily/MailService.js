@@ -47,7 +47,7 @@ class MailService extends BaseService {
         console.log('[-] [Auto Thư] Đang dọn dẹp các thư đã đọc/đã nhận...');
         this.send(117103, { mailId: '0', allDel: true });
         await this.sleepRandom(0.8, 1.2);
-        console.log('[OK] [Auto Thư] Hoàn tất dọn dẹp hộp thư!\n');
+        console.log('[Auto Thư] Hoàn tất dọn dẹp hộp thư!\n');
       }
       return;
     }
@@ -69,16 +69,16 @@ class MailService extends BaseService {
     const timeStr = new Date().toLocaleTimeString('vi-VN');
     if (this.client.lastMailAward && this.client.lastMailAward.awardList && this.client.lastMailAward.awardList.length > 0) {
       const awards = formatAwards(this.client.lastMailAward.awardList);
-      console.log(isLoop ? `[${timeStr}] [Hộp Thư] ĐÃ NHẬN THÀNH CÔNG QUÀ THƯ: ${awards}` : `[OK] [Auto Thư] ĐÃ NHẬN THÀNH CÔNG TẤT CẢ QUÀ: ${awards}`);
+      console.log(isLoop ? `[${timeStr}] [Hộp Thư] ĐÃ NHẬN THÀNH CÔNG QUÀ THƯ: ${awards}` : `[Auto Thư] ĐÃ NHẬN THÀNH CÔNG TẤT CẢ QUÀ: ${awards}`);
     } else {
-      console.log(isLoop ? `[${timeStr}] [Hộp Thư] Nhận nhanh quà thư hoàn tất!` : '[OK] [Auto Thư] Nhận nhanh quà thư hoàn tất!');
+      console.log(isLoop ? `[${timeStr}] [Hộp Thư] Nhận nhanh quà thư hoàn tất!` : '[Auto Thư] Nhận nhanh quà thư hoàn tất!');
     }
 
     // Bước 3: Xóa nhanh các thư đã nhận
     this.send(117103, { mailId: '0', allDel: true });
     await this.sleepRandom(0.8, 1.2);
     if (!isLoop) {
-      console.log('[OK] [Auto Thư] Đã xóa dọn dẹp sạch sẽ hộp thư!\n');
+      console.log('[Auto Thư] Đã xóa dọn dẹp sạch sẽ hộp thư!\n');
     }
   }
 }

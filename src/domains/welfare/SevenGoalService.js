@@ -104,20 +104,20 @@ class SevenGoalService extends BaseService {
         // Hiển thị kết quả & chi tiết quà nhận được
         if (this.client.lastSevenGoalReward && this.client.lastSevenGoalReward.reward && this.client.lastSevenGoalReward.reward.length > 0) {
           const awards = formatAwards(this.client.lastSevenGoalReward.reward);
-          console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [${targetName}] Nhận THÀNH CÔNG: ${awards}` : `    [OK] [${targetName}] Nhận THÀNH CÔNG: ${awards}`);
+          console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [${targetName}] Nhận THÀNH CÔNG: ${awards}` : `    [${targetName}] Nhận THÀNH CÔNG: ${awards}`);
         } else if (this.client.recentProps && this.client.recentProps.length > 0) {
           const propsStr = this.client.recentProps.map(p => `+${p.num || p.propNum || 1} ${formatPropName(p.configId || p.propId || p.id)}`).join(', ');
-          console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [${targetName}] Nhận THÀNH CÔNG: ${propsStr}` : `    [OK] [${targetName}] Nhận THÀNH CÔNG: ${propsStr}`);
+          console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [${targetName}] Nhận THÀNH CÔNG: ${propsStr}` : `    [${targetName}] Nhận THÀNH CÔNG: ${propsStr}`);
         } else if (this.client.lastReturnCode && this.client.lastReturnCode.code !== 0) {
           console.log(`    [-] [${targetName}] Server phản hồi mã: ${this.client.lastReturnCode.code}`);
         } else {
-          console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [${targetName}] Nhận thưởng THÀNH CÔNG!` : `    [OK] [${targetName}] Nhận thưởng THÀNH CÔNG!`);
+          console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [${targetName}] Nhận thưởng THÀNH CÔNG!` : `    [${targetName}] Nhận thưởng THÀNH CÔNG!`);
         }
 
         claimedCount++;
       }
       if (!isLoop) {
-        console.log(`[OK] [7 Ngày Vui Vẻ] Đã hoàn thành nhận ${claimedCount} nhiệm vụ!`);
+        console.log(`[7 Ngày Vui Vẻ] Đã hoàn thành nhận ${claimedCount} nhiệm vụ!`);
       }
     }
 
@@ -145,14 +145,14 @@ class SevenGoalService extends BaseService {
           if (this.client.lastSevenGoalStageReward && this.client.lastSevenGoalStageReward.reward) {
             const awards = formatAwards(this.client.lastSevenGoalStageReward.reward);
             const timeStr = new Date().toLocaleTimeString('vi-VN');
-            console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [Mốc ${needScore} Điểm] Nhận THÀNH CÔNG: ${awards}` : `    [OK] [Mốc ${needScore} Điểm] Nhận THÀNH CÔNG: ${awards}`);
+            console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [Mốc ${needScore} Điểm] Nhận THÀNH CÔNG: ${awards}` : `    [Mốc ${needScore} Điểm] Nhận THÀNH CÔNG: ${awards}`);
           }
         }
       }
     }
 
     if (!isLoop) {
-      console.log('[OK] [7 Ngày Vui Vẻ] Hoàn tất toàn bộ hoạt động 7 Ngày Vui Vẻ!\n');
+      console.log('[7 Ngày Vui Vẻ] Hoàn tất toàn bộ hoạt động 7 Ngày Vui Vẻ!\n');
     }
     return true;
   }

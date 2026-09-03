@@ -52,11 +52,11 @@ class RankService extends BaseService {
       if (this.client.lastRankWorship) {
         const val = this.client.lastRankWorship.awardValue || 1;
         const type = this.client.lastRankWorship.awardType === 8 ? 'Vàng' : 'Bạc';
-        console.log(`    [OK] [BXH ${t.name}] Bái kiến THÀNH CÔNG! Nhận: +${Number(val).toLocaleString()} ${type}`);
+        console.log(`    [BXH ${t.name}] Bái kiến THÀNH CÔNG! Nhận: +${Number(val).toLocaleString()} ${type}`);
       } else if (this.client.lastReturnCode && this.client.lastReturnCode.code === 118001) {
         console.log(`    [-] [BXH ${t.name}] Server phản hồi: Hôm nay đã bái kiến rồi.`);
       } else {
-        console.log(`    [OK] [BXH ${t.name}] Bái kiến hoàn tất!`);
+        console.log(`    [BXH ${t.name}] Bái kiến hoàn tất!`);
       }
 
       worshipCount++;
@@ -65,7 +65,7 @@ class RankService extends BaseService {
     if (worshipCount === 0) {
       console.log('  [-] [Bái Kiến BXH] Toàn bộ 3/3 Bảng Xếp Hạng đều đã được bái kiến.');
     } else {
-      console.log(`[OK] [Auto Bái Kiến BXH] Đã thực hiện bái kiến xong ${worshipCount} Bảng Xếp Hạng!`);
+      console.log(`[Auto Bái Kiến BXH] Đã thực hiện bái kiến xong ${worshipCount} Bảng Xếp Hạng!`);
     }
 
     return worshipCount;
