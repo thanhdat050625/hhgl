@@ -109,6 +109,7 @@ class GameClient {
     this.rankService = this.registry.get('rank');
     this.palace = this.registry.get('palace');
     this.quest = this.registry.get('quest');
+    this.stage = this.registry.get('stage');
     this.academy = this.registry.get('academy');
   }
 
