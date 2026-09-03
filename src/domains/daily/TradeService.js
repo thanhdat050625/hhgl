@@ -128,24 +128,41 @@ class TradeService extends BaseService {
   }
 
   /**
-   * Chế độ Auto Vòng Lặp 24/7: Tự động canh hồi lượt Nội Vụ, Cung Vụ & Bồi Dưỡng Tùy Tùng
+   * Chế độ Auto Vòng Lặp 24/7: Tự động canh hồi lượt Nội Vụ, Cung Vụ, Phúc Lợi & Bồi Dưỡng Tùy Tùng
    */
   async autoDailyLoopContinuous() {
     console.log('\n================================================================');
-    console.log('--- BẮT ĐẦU CHẾ ĐỘ AUTO 24/7 NỘI VỤ, CUNG VỤ & BỒI DƯỠNG TÙY TÙNG ---');
-    console.log('[*] Tự động canh hồi lượt, thu hoạch & bồi dưỡng Tùy Tùng liên tục');
+    console.log('--- BẮT ĐẦU CHẾ ĐỘ AUTO 24/7 TOÀN DIỆN (PHÚC LỢI, NỘI VỤ & TÙY TÙNG) ---');
+    console.log('[*] Tự động quét sạch Phúc Lợi 5 Tab, Hộp Thư, 7 Ngày & Thành Tựu');
+    console.log('[*] Tự động cắn Đan Dược, đọc Thư Tùy Tùng, nâng cấp Lực Chiến & Thư Viện');
+    console.log('[*] 100% Realtime Event-Driven canh hồi lượt & nhận thưởng liên tục');
     console.log('[!] Bấm [Ctrl + C] bất cứ lúc nào để dừng vòng lặp');
     console.log('================================================================\n');
 
-    // Chạy thu hoạch & bồi dưỡng đợt đầu tiên ngay khi bật Auto
+    // 1. Quét sạch Phúc Lợi, Thư, 7 Ngày, Thành Tựu (Menu 1)
+    if (this.client.welfare) await this.client.welfare.autoClaimAll();
+    if (this.client.mail) await this.client.mail.autoClaimAndClean();
+    if (this.client.sevenGoalService) await this.client.sevenGoalService.claimAllSevenGoals();
+    if (this.client.achievementService) await this.client.achievementService.claimAllAchievements();
+
+    // 2. Bồi dưỡng Tùy Tùng, Đan Dược & Học Viện (Menu 3)
+    if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
+    if (this.client.helper) {
+      await this.client.helper.readAllHelperLetters();
+      await this.client.helper.autoUpgradeAptitudes();
+      await this.client.helper.autoPromoteHelpers();
+      await this.client.helper.autoLevelUpHelpers();
+    }
+    if (this.client.academy) await this.client.academy.autoStudy();
+
+    // 3. Thu hoạch đợt đầu Nội Vụ & Cung Vụ (Menu 2)
     await this.autoHarvestAll(true);
     if (this.client.affair) {
       await this.client.affair.autoHandleAffairs(true);
     }
-    if (this.client.helper) {
-      await this.client.helper.autoPromoteHelpers(true);
-      await this.client.helper.autoLevelUpHelpers(0, 0, true);
-    }
+
+    let lastOnlineCheck = Date.now();
+    let lastAcademyCheck = Date.now();
 
     while (!this.client.isManualClosed) {
       // Luôn sleep 1s trong mỗi vòng lặp đếm ngược để CPU luôn ở mức 0%
@@ -156,6 +173,37 @@ class TradeService extends BaseService {
       if (!this.client.isReady) {
         process.stdout.write('\r[Treo Máy 24/7] Mất kết nối Game Server, đang chờ tự động kết nối lại...     ');
         continue;
+      }
+
+      // A. Bắt sự kiện Realtime 7 Ngày Vui Vẻ (Gói 162205 ResSevenGoalTaskComplete)
+      if (this.client.hasNewSevenGoal && this.client.sevenGoalService) {
+        this.client.hasNewSevenGoal = false;
+        await this.client.sevenGoalService.claimAllSevenGoals(true);
+      }
+
+      // B. Bắt sự kiện Realtime Thành Tựu (Gói 125404/125405 ResNewAchievementRedPoint)
+      if (this.client.hasNewAchievement && this.client.achievementService) {
+        this.client.hasNewAchievement = false;
+        await this.client.achievementService.claimAllAchievements(true);
+      }
+
+      // C. Bắt sự kiện Realtime Hộp Thư Mới (Gói 117206 ResHasNewMail)
+      if (this.client.hasNewMail && this.client.mail) {
+        this.client.hasNewMail = false;
+        await this.client.mail.autoClaimAndClean(true);
+      }
+
+      // D. Định kỳ mỗi 5 phút: Check Thưởng Online & Quét Thư
+      if (Date.now() - lastOnlineCheck >= 300000) {
+        lastOnlineCheck = Date.now();
+        if (this.client.welfare) await this.client.welfare.checkAndClaimOnlineReward(true);
+        if (this.client.mail) await this.client.mail.autoClaimAndClean(true);
+      }
+
+      // E. Định kỳ mỗi 30 phút: Check Học Viện (Thư Viện)
+      if (Date.now() - lastAcademyCheck >= 1800000) {
+        lastAcademyCheck = Date.now();
+        if (this.client.academy) await this.client.academy.autoStudy(true);
       }
 
       const maxCap = Math.min(30, Math.max(3, 2 + this.playerData.lv));
@@ -217,7 +265,12 @@ class TradeService extends BaseService {
         // Sau khi thu hoạch có Bạc mới -> tự động bồi dưỡng Tùy Tùng
         if (this.client.helper) {
           await this.client.helper.autoPromoteHelpers(true);
-          await this.client.helper.autoLevelUpHelpers(0, 0, true);
+          const lvUps = await this.client.helper.autoLevelUpHelpers(0, 0, true);
+          // Nếu tùy tùng lên cấp -> quét nhanh Thành Tựu & 7 Ngày ngay lập tức!
+          if (lvUps > 0) {
+            if (this.client.achievementService) await this.client.achievementService.claimAllAchievements(true);
+            if (this.client.sevenGoalService) await this.client.sevenGoalService.claimAllSevenGoals(true);
+          }
         }
       }
 

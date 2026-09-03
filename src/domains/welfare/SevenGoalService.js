@@ -52,11 +52,13 @@ class SevenGoalService extends BaseService {
     return this.claimAllSevenGoals();
   }
 
-  async claimAllSevenGoals() {
-    console.log('\n======================================================');
-    console.log('[7 Ngày Vui Vẻ] BẮT ĐẦU QUÉT & NHẬN THƯỞNG 7 NGÀY VUI VẺ');
-    console.log('======================================================');
-    console.log('[*] Kiểm tra tiến độ 7 Ngày Vui Vẻ từ Server...');
+  async claimAllSevenGoals(isLoop = false) {
+    if (!isLoop) {
+      console.log('\n======================================================');
+      console.log('[7 Ngày Vui Vẻ] BẮT ĐẦU QUÉT & NHẬN THƯỞNG 7 NGÀY VUI VẺ');
+      console.log('======================================================');
+      console.log('[*] Kiểm tra tiến độ 7 Ngày Vui Vẻ từ Server...');
+    }
     this.client.sevenGoalTargets = null;
     this.send(162101, {});
     await this.waitFor(() => this.client.sevenGoalTargets !== null);
@@ -75,9 +77,13 @@ class SevenGoalService extends BaseService {
     const futureTargets = allFinishedTargets.filter(t => getTargetUnlockedDay(t.id) > curDay);
 
     if (readyTargets.length === 0) {
-      console.log(`  [-] [7 Ngày Vui Vẻ] Không có nhiệm vụ nào thuộc Ngày 1..${curDay} còn quà chưa nhận.`);
+      if (!isLoop) {
+        console.log(`  [-] [7 Ngày Vui Vẻ] Không có nhiệm vụ nào thuộc Ngày 1..${curDay} còn quà chưa nhận.`);
+      }
     } else {
-      console.log(`  [+] [7 Ngày Vui Vẻ] Tìm thấy ${readyTargets.length} nhiệm vụ đã hoàn thành (Ngày 1..${curDay})! Bắt đầu nhận quà...`);
+      if (!isLoop) {
+        console.log(`  [+] [7 Ngày Vui Vẻ] Tìm thấy ${readyTargets.length} nhiệm vụ đã hoàn thành (Ngày 1..${curDay})! Bắt đầu nhận quà...`);
+      }
       let claimedCount = 0;
 
       for (const t of readyTargets) {
@@ -87,36 +93,43 @@ class SevenGoalService extends BaseService {
         this.client.lastReturnCode = null;
 
         const targetName = getSevenGoalTargetName(t.id);
-        console.log(`  -> Đang nhận: [${targetName}]...`);
+        if (!isLoop) {
+          console.log(`  -> Đang nhận: [${targetName}]...`);
+        }
         // Lệnh nhận nhiệm vụ 7 Ngày là 162104 (ReqGetSevenGoalScore)
         this.send(162104, { id: t.id });
         await this.sleepRandom(1.2, 2.0);
 
+        const timeStr = new Date().toLocaleTimeString('vi-VN');
         // Hiển thị kết quả & chi tiết quà nhận được
         if (this.client.lastSevenGoalReward && this.client.lastSevenGoalReward.reward && this.client.lastSevenGoalReward.reward.length > 0) {
           const awards = formatAwards(this.client.lastSevenGoalReward.reward);
-          console.log(`    [OK] [${targetName}] Nhận THÀNH CÔNG: ${awards}`);
+          console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [${targetName}] Nhận THÀNH CÔNG: ${awards}` : `    [OK] [${targetName}] Nhận THÀNH CÔNG: ${awards}`);
         } else if (this.client.recentProps && this.client.recentProps.length > 0) {
           const propsStr = this.client.recentProps.map(p => `+${p.num || p.propNum || 1} ${formatPropName(p.configId || p.propId || p.id)}`).join(', ');
-          console.log(`    [OK] [${targetName}] Nhận THÀNH CÔNG: ${propsStr}`);
+          console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [${targetName}] Nhận THÀNH CÔNG: ${propsStr}` : `    [OK] [${targetName}] Nhận THÀNH CÔNG: ${propsStr}`);
         } else if (this.client.lastReturnCode && this.client.lastReturnCode.code !== 0) {
           console.log(`    [-] [${targetName}] Server phản hồi mã: ${this.client.lastReturnCode.code}`);
         } else {
-          console.log(`    [OK] [${targetName}] Nhận thưởng THÀNH CÔNG!`);
+          console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [${targetName}] Nhận thưởng THÀNH CÔNG!` : `    [OK] [${targetName}] Nhận thưởng THÀNH CÔNG!`);
         }
 
         claimedCount++;
       }
-      console.log(`[OK] [7 Ngày Vui Vẻ] Đã hoàn thành nhận ${claimedCount} nhiệm vụ!`);
+      if (!isLoop) {
+        console.log(`[OK] [7 Ngày Vui Vẻ] Đã hoàn thành nhận ${claimedCount} nhiệm vụ!`);
+      }
     }
 
-    if (futureTargets.length > 0) {
+    if (futureTargets.length > 0 && !isLoop) {
       console.log(`  [-] [Nhiệm vụ các ngày tiếp theo]: Có ${futureTargets.length} nhiệm vụ đã đạt điều kiện trước (thuộc Ngày ${curDay + 1}..7) và sẽ tự động mở nhận quà khi tới ngày tương ứng.`);
     }
 
     // Kiểm tra và nhận các mốc rương tích điểm (Stage Score Rewards)
     const currentScore = this.client.sevenGoalScore || 0;
-    console.log(`\n[-] Điểm tích lũy 7 Ngày hiện tại: ${currentScore} điểm.`);
+    if (!isLoop) {
+      console.log(`\n[-] Điểm tích lũy 7 Ngày hiện tại: ${currentScore} điểm.`);
+    }
     
     const cfg = this.getScoreRewardsConfig();
     if (cfg && cfg.list) {
@@ -124,20 +137,23 @@ class SevenGoalService extends BaseService {
         const stageId = Number(stageIdStr);
         const needScore = stageData[1];
         if (currentScore >= needScore && !serverClaimedSet.has(stageId)) {
-          console.log(`  [+] Đạt mốc ${needScore} điểm! Đang nhận quà Mốc Tích Điểm...`);
+          if (!isLoop) console.log(`  [+] Đạt mốc ${needScore} điểm! Đang nhận quà Mốc Tích Điểm...`);
           this.client.lastSevenGoalStageReward = null;
           this.send(162102, { id: stageId });
           await this.sleepRandom(1.2, 2.0);
 
           if (this.client.lastSevenGoalStageReward && this.client.lastSevenGoalStageReward.reward) {
             const awards = formatAwards(this.client.lastSevenGoalStageReward.reward);
-            console.log(`    [OK] [Mốc ${needScore} Điểm] Nhận THÀNH CÔNG: ${awards}`);
+            const timeStr = new Date().toLocaleTimeString('vi-VN');
+            console.log(isLoop ? `[${timeStr}] [7 Ngày Vui Vẻ] [Mốc ${needScore} Điểm] Nhận THÀNH CÔNG: ${awards}` : `    [OK] [Mốc ${needScore} Điểm] Nhận THÀNH CÔNG: ${awards}`);
           }
         }
       }
     }
 
-    console.log('[OK] [7 Ngày Vui Vẻ] Hoàn tất toàn bộ hoạt động 7 Ngày Vui Vẻ!\n');
+    if (!isLoop) {
+      console.log('[OK] [7 Ngày Vui Vẻ] Hoàn tất toàn bộ hoạt động 7 Ngày Vui Vẻ!\n');
+    }
     return true;
   }
 }

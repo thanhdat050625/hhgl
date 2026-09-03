@@ -229,6 +229,50 @@ class WelfareService extends BaseService {
 
     console.log('\n[OK] [Auto Phúc Lợi] Hoàn tất nhận toàn bộ các mục phúc lợi!\n');
   }
+
+  /**
+   * Kiểm tra và nhận Thưởng Online (Hỗ trợ gọi định kỳ trong vòng lặp 24/7)
+   */
+  async checkAndClaimOnlineReward(isLoop = false) {
+    this.client.onlineInfo = null;
+    this.send(151101, {});
+    await this.waitFor(() => this.client.onlineInfo !== null);
+
+    if (!this.client.onlineInfo) return 0;
+
+    const onlineSec = Number(this.client.onlineInfo.sec) || 0;
+    const claimedList = this.client.onlineInfo.rewardList || [];
+    const ONLINE_MILESTONES = [
+      { idx: 0, time: 300, name: '5 phút' },
+      { idx: 1, time: 600, name: '10 phút' },
+      { idx: 2, time: 1800, name: '30 phút' },
+      { idx: 3, time: 3600, name: '60 phút' },
+      { idx: 4, time: 5400, name: '90 phút' },
+      { idx: 5, time: 7200, name: '120 phút' }
+    ];
+
+    const readyMilestones = ONLINE_MILESTONES.filter(m => onlineSec >= m.time && !claimedList.includes(m.idx));
+
+    if (readyMilestones.length > 0) {
+      this.client.recentProps = [];
+      this.client.lastOnlineReward = null;
+      this.send(151102, { id: -1 });
+      await this.sleepRandom(1.0, 1.8);
+
+      const timeStr = new Date().toLocaleTimeString('vi-VN');
+      if (this.client.lastOnlineReward && this.client.lastOnlineReward.awardInfo && this.client.lastOnlineReward.awardInfo.awardList) {
+        const awards = formatAwards(this.client.lastOnlineReward.awardInfo.awardList);
+        console.log(`[${timeStr}] [Thưởng Online] Nhận THÀNH CÔNG: ${awards}`);
+      } else if (this.client.recentProps.length > 0) {
+        const propsStr = this.client.recentProps.map(p => `+${p.num || p.propNum || 1} ${formatPropName(p.configId || p.propId)}`).join(', ');
+        console.log(`[${timeStr}] [Thưởng Online] Nhận THÀNH CÔNG: ${propsStr}`);
+      } else {
+        console.log(`[${timeStr}] [Thưởng Online] Nhận quà online thành công!`);
+      }
+      return readyMilestones.length;
+    }
+    return 0;
+  }
 }
 
 module.exports = WelfareService;

@@ -80,6 +80,9 @@ class GameClient {
     this.lastLotteryReward = null;
     this.lastRankWorship = null;
     this.rankLocalInfo = [];
+    this.hasNewMail = false;
+    this.hasNewSevenGoal = false;
+    this.hasNewAchievement = false;
 
     // Khởi tạo Self-Healing Engine
     this.healer = new SelfHealer(this);
@@ -366,6 +369,15 @@ class GameClient {
             if (pkt.data && pkt.data.score) {
               this.sevenGoalScore = pkt.data.score;
             }
+          } else if (pkt.msgId === 162205) {
+            // ResSevenGoalTaskComplete: Server bắn về ngay khi có nhiệm vụ 7 ngày hoàn thành!
+            this.hasNewSevenGoal = true;
+          } else if (pkt.msgId === 117206) {
+            // ResHasNewMail: Server thông báo có thư mới đính kèm quà!
+            this.hasNewMail = true;
+          } else if (pkt.msgId === 125404 || pkt.msgId === 125405) {
+            // ResNewAchievementRedPoint / ResAllNewAchievementRedPoint: Server báo có mốc thành tựu mới!
+            this.hasNewAchievement = true;
           } else if (pkt.msgId === 125202) {
             this.achievementList = pkt.data.achievementList || [];
           } else if (pkt.msgId === 125203) {

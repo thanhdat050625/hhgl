@@ -23,8 +23,10 @@ class AchievementService extends BaseService {
     return this.claimAllAchievements();
   }
 
-  async claimAllAchievements() {
-    console.log('\n[Auto Thành Tựu] Kiểm tra danh mục Thành Tựu Cung Đình...');
+  async claimAllAchievements(isLoop = false) {
+    if (!isLoop) {
+      console.log('\n[Auto Thành Tựu] Kiểm tra danh mục Thành Tựu Cung Đình...');
+    }
     this.client.achievementList = null;
     this.send(125102, {});
     await this.waitFor(() => this.client.achievementList !== null);
@@ -33,11 +35,15 @@ class AchievementService extends BaseService {
     const readyAchievements = list.filter(a => a.state === 1 && !this.claimedAchievements.has(a.achievementId));
 
     if (readyAchievements.length === 0) {
-      console.log('  [-] [Thành Tựu] Server xác nhận: Chưa có mốc thành tựu mới nào đạt điều kiện.\n');
+      if (!isLoop) {
+        console.log('  [-] [Thành Tựu] Server xác nhận: Chưa có mốc thành tựu mới nào đạt điều kiện.\n');
+      }
       return 0;
     }
 
-    console.log(`  [+] [Thành Tựu] Tìm thấy ${readyAchievements.length} mốc thành tựu đủ điều kiện nhận! Bắt đầu nhận thưởng...`);
+    if (!isLoop) {
+      console.log(`  [+] [Thành Tựu] Tìm thấy ${readyAchievements.length} mốc thành tựu đủ điều kiện nhận! Bắt đầu nhận thưởng...`);
+    }
     let count = 0;
 
     for (const a of readyAchievements) {
@@ -47,27 +53,32 @@ class AchievementService extends BaseService {
       this.client.lastReturnCode = null;
 
       const achName = getAchievementName(a.achievementId, a.targetId);
-      console.log(`  -> Đang nhận: [${achName}]...`);
+      if (!isLoop) {
+        console.log(`  -> Đang nhận: [${achName}]...`);
+      }
       this.send(125103, { achievement: a.achievementId });
       await this.sleepRandom(1.0, 1.8);
 
+      const timeStr = new Date().toLocaleTimeString('vi-VN');
       // Hiển thị quà nhận được
       if (this.client.lastAchievementAward && this.client.lastAchievementAward.goodsList && this.client.lastAchievementAward.goodsList.length > 0) {
         const awards = formatAwards(this.client.lastAchievementAward.goodsList);
-        console.log(`    [OK] [${achName}] Nhận THÀNH CÔNG: ${awards}`);
+        console.log(isLoop ? `[${timeStr}] [Thành Tựu] [${achName}] Nhận THÀNH CÔNG: ${awards}` : `    [OK] [${achName}] Nhận THÀNH CÔNG: ${awards}`);
       } else if (this.client.recentProps && this.client.recentProps.length > 0) {
         const propsStr = this.client.recentProps.map(p => `+${p.num || p.propNum || 1} ${formatPropName(p.configId || p.propId)}`).join(', ');
-        console.log(`    [OK] [${achName}] Nhận THÀNH CÔNG: ${propsStr}`);
+        console.log(isLoop ? `[${timeStr}] [Thành Tựu] [${achName}] Nhận THÀNH CÔNG: ${propsStr}` : `    [OK] [${achName}] Nhận THÀNH CÔNG: ${propsStr}`);
       } else if (this.client.lastReturnCode && this.client.lastReturnCode.code !== 0) {
         console.log(`    [-] [${achName}] Server phản hồi mã: ${this.client.lastReturnCode.code}`);
       } else {
-        console.log(`    [OK] [${achName}] Nhận thưởng THÀNH CÔNG! Đã cộng vào tài khoản.`);
+        console.log(isLoop ? `[${timeStr}] [Thành Tựu] [${achName}] Nhận thưởng THÀNH CÔNG!` : `    [OK] [${achName}] Nhận thưởng THÀNH CÔNG! Đã cộng vào tài khoản.`);
       }
 
       count++;
     }
 
-    console.log(`[OK] [Auto Thành Tựu] Đã hoàn tất nhận ${count} mốc thành tựu!`);
+    if (!isLoop) {
+      console.log(`[OK] [Auto Thành Tựu] Đã hoàn tất nhận ${count} mốc thành tựu!`);
+    }
     return count;
   }
 }

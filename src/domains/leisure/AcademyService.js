@@ -21,8 +21,10 @@ class AcademyService extends BaseService {
     return this.autoStudy();
   }
 
-  async autoStudy() {
-    console.log('\n[Auto Thư Viện / Học Viện] Đang kiểm tra Phòng Học Tùy Tùng...');
+  async autoStudy(isLoop = false) {
+    if (!isLoop) {
+      console.log('\n[Auto Thư Viện / Học Viện] Đang kiểm tra Phòng Học Tùy Tùng...');
+    }
 
     // 1. Vào Học Viện & quét thông tin
     this.send(217107, { flag: 1 });
@@ -36,11 +38,15 @@ class AcademyService extends BaseService {
 
     // 3. Cho Tùy Tùng mạnh nhất vào học
     const helperName = getHelperName(10001);
-    console.log(`  [+] Đang sắp xếp Tùy Tùng ${helperName} vào học tập đọc sách...`);
+    if (!isLoop) {
+      console.log(`  [+] Đang sắp xếp Tùy Tùng ${helperName} vào học tập đọc sách...`);
+    }
     this.send(217104, { studyType: 1, playerId: 10001 });
     await this.sleepRandom(0.8, 1.2);
 
-    console.log('[OK] [Auto Học Viện] Đã sắp xếp Tùy Tùng học tập xong!\n');
+    if (!isLoop) {
+      console.log('[OK] [Auto Học Viện] Đã sắp xếp Tùy Tùng học tập xong!\n');
+    }
   }
 }
 
