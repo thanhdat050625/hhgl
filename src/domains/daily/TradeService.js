@@ -156,6 +156,7 @@ class TradeService extends BaseService {
       await this.client.helper.readAllHelperLetters();
       await this.client.helper.autoUpgradeAptitudes();
       await this.client.helper.autoPromoteHelpers();
+      await this.client.helper.autoCultivateHelpers();
       await this.client.helper.autoLevelUpHelpers();
     }
     if (this.client.academy) await this.client.academy.autoStudy();
@@ -226,11 +227,13 @@ class TradeService extends BaseService {
         if (this.client.helper) {
           await this.client.helper.readAllHelperLetters();
           await this.client.helper.autoUpgradeAptitudes();
+          await this.client.helper.autoPromoteHelpers(true);
+          await this.client.helper.autoCultivateHelpers(true);
         }
 
         // Reset lượt Tùy Tùng đánh Boss & Vượt ải ngày mới
         if (this.client.stage) {
-          this.client.stage.usedBossHelpers.clear();
+          this.client.stage.resetDaily();
           const sWins = await this.client.stage.autoBattleContinuous(10, true);
           if (sWins > 0 && this.client.prison) {
             await this.client.prison.autoHitAllPrisoners(true);
@@ -362,6 +365,7 @@ class TradeService extends BaseService {
         // Sau khi thu hoạch có Bạc mới -> tự động bồi dưỡng Tùy Tùng
         if (this.client.helper) {
           await this.client.helper.autoPromoteHelpers(true);
+          await this.client.helper.autoCultivateHelpers(true);
           const lvUps = await this.client.helper.autoLevelUpHelpers(0, 0, true);
           // Nếu tùy tùng lên cấp -> quét nhanh Thành Tựu, 7 Ngày & Nhiệm vụ ngay lập tức!
           if (lvUps > 0) {
@@ -371,8 +375,8 @@ class TradeService extends BaseService {
           }
         }
 
-        // Sau khi thu hoạch Bổ Khí có Binh Lực mới -> Tự động Vượt Ải Cốt Truyện & Giáo Huấn Đại Lý Tự!
-        if (this.client.stage) {
+        // Sau khi thu hoạch Bổ Khí có Binh Lực mới -> Tự động Vượt Ải Cốt Truyện & Giáo Huấn Đại Lý Tự (nếu chưa bị chặn hôm nay)
+        if (this.client.stage && !this.client.stage.stageBlockedToday) {
           const sWins = await this.client.stage.autoBattleContinuous(5, true);
           if (sWins > 0) {
             if (this.client.quest) await this.client.quest.autoClaimAll();

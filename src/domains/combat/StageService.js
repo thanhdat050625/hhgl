@@ -59,6 +59,14 @@ class StageService extends BaseService {
       listenedMsgIds: [112201, 112202, 112203, 112205, 112209]
     });
     this.usedBossHelpers = new Set();
+    this.stageBlockedToday = false;
+    this.lastBlockedDate = '';
+  }
+
+  resetDaily() {
+    this.stageBlockedToday = false;
+    this.lastBlockedDate = '';
+    this.usedBossHelpers.clear();
   }
 
   async execute() {
@@ -73,6 +81,19 @@ class StageService extends BaseService {
   }
 
   async autoBattleContinuous(maxBattles = 10, isLoop = false) {
+    const todayStr = new Date().toLocaleDateString('vi-VN');
+    if (this.lastBlockedDate === todayStr && this.stageBlockedToday) {
+      if (!isLoop) {
+        console.log('\n======================================================');
+        console.log('[TỰ ĐỘNG VƯỢT ẢI CỐT TRUYỆN & KHIÊU CHIẾN BOSS]');
+        console.log('======================================================');
+        console.log('ℹ️ Hôm nay đã vượt ải không qua (chưa đủ Binh Lực hoặc Lực Chiến Tùy Tùng).');
+        console.log('👉 Đã tạm dừng vượt ải hôm nay, để mai (00:00) vượt tiếp (không cố chấp)!');
+        console.log('======================================================\n');
+      }
+      return 0;
+    }
+
     const initialSoldier = Number(this.playerData.soldier || (this.playerData.attrMap ? this.playerData.attrMap[104] : 0) || 0);
     if (isLoop && initialSoldier <= 0) {
       return 0;
@@ -255,12 +276,23 @@ class StageService extends BaseService {
       }
     }
 
-    if (!isLoop) {
-      if (wins === 0) {
-        console.log('\n[-] [Vượt Ải] Tạm dừng: Cần hồi thêm Binh Lực hoặc nâng cấp Tùy Tùng để vượt ải tiếp.');
+    if (wins === 0) {
+      // Đánh không qua bất kỳ ải nào -> Đánh dấu dừng hôm nay, để mai vượt tiếp
+      this.stageBlockedToday = true;
+      this.lastBlockedDate = todayStr;
+      if (isLoop) {
+        const timeStr = new Date().toLocaleTimeString('vi-VN');
+        console.log(`[${timeStr}] ⚔️ [Vượt Ải] Vượt ải chưa thành công -> Tạm dừng hôm nay, để mai (00:00) vượt tiếp (không cố chấp)!`);
       } else {
+        console.log('\nℹ️ [Vượt Ải] Vượt ải chưa thành công -> Đã dừng vượt ải hôm nay, để mai (00:00) vượt tiếp!');
+      }
+    } else {
+      if (!isLoop) {
         console.log(`\n🎉 [Vượt Ải] Hoàn tất đợt xuất chiến! Đã vượt qua thành công ${wins} ải.`);
       }
+    }
+
+    if (!isLoop) {
       console.log('======================================================\n');
     }
 

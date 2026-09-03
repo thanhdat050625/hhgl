@@ -40,6 +40,7 @@ class HelperService extends BaseService {
     await this.readAllHelperLetters();
     await this.autoUpgradeAptitudes();
     await this.autoPromoteHelpers();
+    await this.autoCultivateHelpers();
     return this.autoLevelUpHelpers();
   }
 
@@ -254,6 +255,121 @@ class HelperService extends BaseService {
     }
 
     return upgrades;
+  }
+
+  /**
+   * Tự Động Bồi Dưỡng Thuộc Tính Tối Ưu Cho Tùy Tùng (Đan, Tán, Hoàn, Quả, Sách)
+   * Chiến thuật tối ưu chuẩn:
+   * - Tâm Kế -> Dồn cho Tùy Tùng chuyên Tâm Kế (Tiểu Lộ Tử / Tùy tùng có Tâm Kế cao nhất)
+   * - Tài Hoa -> Dồn cho Tùy Tùng chuyên Tài Hoa (Nhiếp Tiểu Thiện / Tùy tùng có Tài Hoa cao nhất)
+   * - Giao Tiếp -> Dồn cho Tùy Tùng chuyên Giao Tiếp (Đồng Giai / Tùy tùng có Giao Tiếp cao nhất)
+   * - Dung Nhan -> Dồn cho Tùy Tùng chuyên Dung Nhan (Sóc Vũ / Tùy tùng có Dung Nhan cao nhất)
+   * - Toàn Diện / Ngẫu Nhiên -> Dồn 100% cho Tùy Tùng Chủ Lực mạnh nhất (Fight Value cao nhất)
+   */
+  async autoCultivateHelpers(isLoop = false) {
+    const helpers = (this.client.helperInfoList || []).slice();
+    if (helpers.length === 0) return 0;
+
+    const propList = this.client.propList || [];
+    if (propList.length === 0) return 0;
+
+    // 1. Phân tích tìm Tùy Tùng tối ưu nhất cho từng hệ thuộc tính
+    const getHelperAttr = (h, typeId) => {
+      if (!h.attInfo) return 0;
+      const att = h.attInfo.find(a => a.type === typeId);
+      return att ? (Number(att.zz || 0) + Number(att.dw || 0)) : 0;
+    };
+
+    // Chủ lực mạnh nhất (Fight Value hoặc Lv cao nhất)
+    const sortedByPower = helpers.slice().sort((a, b) => Number(b.fightValue || 0) - Number(a.fightValue || 0));
+    const mainCarry = sortedByPower[0] || helpers[0];
+
+    // Chuyên Tâm Kế (type 101)
+    const sortedByTamKe = helpers.slice().sort((a, b) => getHelperAttr(b, 101) - getHelperAttr(a, 101));
+    const bestTamKe = sortedByTamKe[0] || mainCarry;
+
+    // Chuyên Tài Hoa (type 102)
+    const sortedByTaiHoa = helpers.slice().sort((a, b) => getHelperAttr(b, 102) - getHelperAttr(a, 102));
+    const bestTaiHoa = sortedByTaiHoa[0] || mainCarry;
+
+    // Chuyên Giao Tiếp (type 103)
+    const sortedByGiaoTiep = helpers.slice().sort((a, b) => getHelperAttr(b, 103) - getHelperAttr(a, 103));
+    const bestGiaoTiep = sortedByGiaoTiep[0] || mainCarry;
+
+    // Chuyên Dung Nhan (type 104)
+    const sortedByDungNhan = helpers.slice().sort((a, b) => getHelperAttr(b, 104) - getHelperAttr(a, 104));
+    const bestDungNhan = sortedByDungNhan[0] || mainCarry;
+
+    const itemCategoryMap = {
+      // Tâm Kế (101)
+      12002: { target: bestTamKe, typeName: 'Tâm Kế', addPerItem: 100 },
+      12007: { target: bestTamKe, typeName: 'Tâm Kế', addPerItem: 500 },
+      12012: { target: bestTamKe, typeName: 'Tâm Kế', addPerItem: 1000 },
+      12017: { target: bestTamKe, typeName: 'Tâm Kế', addPerItem: 5000 },
+      12022: { target: bestTamKe, typeName: 'Tâm Kế', addPerItem: 10000 },
+
+      // Tài Hoa (102)
+      12003: { target: bestTaiHoa, typeName: 'Tài Hoa', addPerItem: 100 },
+      12008: { target: bestTaiHoa, typeName: 'Tài Hoa', addPerItem: 500 },
+      12013: { target: bestTaiHoa, typeName: 'Tài Hoa', addPerItem: 1000 },
+      12018: { target: bestTaiHoa, typeName: 'Tài Hoa', addPerItem: 5000 },
+      12023: { target: bestTaiHoa, typeName: 'Tài Hoa', addPerItem: 10000 },
+
+      // Giao Tiếp (103)
+      12004: { target: bestGiaoTiep, typeName: 'Giao Tiếp', addPerItem: 100 },
+      12009: { target: bestGiaoTiep, typeName: 'Giao Tiếp', addPerItem: 500 },
+      12014: { target: bestGiaoTiep, typeName: 'Giao Tiếp', addPerItem: 1000 },
+      12019: { target: bestGiaoTiep, typeName: 'Giao Tiếp', addPerItem: 5000 },
+      12024: { target: bestGiaoTiep, typeName: 'Giao Tiếp', addPerItem: 10000 },
+
+      // Dung Nhan (104)
+      12005: { target: bestDungNhan, typeName: 'Dung Nhan', addPerItem: 100 },
+      12010: { target: bestDungNhan, typeName: 'Dung Nhan', addPerItem: 500 },
+      12015: { target: bestDungNhan, typeName: 'Dung Nhan', addPerItem: 1000 },
+      12020: { target: bestDungNhan, typeName: 'Dung Nhan', addPerItem: 5000 },
+      12025: { target: bestDungNhan, typeName: 'Dung Nhan', addPerItem: 10000 },
+
+      // Toàn Diện / Ngẫu Nhiên (Dồn Chủ Lực)
+      12001: { target: mainCarry, typeName: 'Ngẫu Nhiên', addPerItem: 100 },
+      12006: { target: mainCarry, typeName: 'Ngẫu Nhiên', addPerItem: 500 },
+      12011: { target: mainCarry, typeName: 'Ngẫu Nhiên', addPerItem: 1000 },
+      12016: { target: mainCarry, typeName: 'Ngẫu Nhiên', addPerItem: 5000 },
+      12021: { target: mainCarry, typeName: 'Ngẫu Nhiên', addPerItem: 10000 }
+    };
+
+    let totalUsed = 0;
+
+    for (const item of propList) {
+      const cat = itemCategoryMap[item.configId];
+      if (cat && item.num > 0 && cat.target) {
+        const count = item.num;
+        const targetId = cat.target.helpId;
+        const targetName = getHelperName(targetId);
+        const propName = getItemName(item.configId) || `Đạo cụ #${item.configId}`;
+        const totalBonus = (count * cat.addPerItem).toLocaleString();
+
+        this.client.lastReturnCode = null;
+        this.send(104101, {
+          propId: item.propId,
+          num: count,
+          args: String(targetId)
+        });
+        item.num = 0; // Đánh dấu đã dùng
+
+        await this.sleepRandom(1.0, 1.6);
+
+        totalUsed += count;
+
+        if (isLoop) {
+          const timeStr = new Date().toLocaleTimeString('vi-VN');
+          console.log(`[${timeStr}] 💊 [Bồi Dưỡng] x${count} [${propName}] -> [${targetName}] (+${totalBonus} ${cat.typeName})`);
+        } else {
+          console.log(`  💊 [Bồi Dưỡng ${cat.typeName}] Đã dùng x${count} [${propName}] cho [${targetName}] (+${totalBonus} ${cat.typeName})`);
+        }
+      }
+    }
+
+    return totalUsed;
   }
 }
 
