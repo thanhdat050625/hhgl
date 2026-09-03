@@ -107,6 +107,8 @@ class GameClient {
     this.sevenGoalService = this.registry.get('sevengoal');
     this.achievementService = this.registry.get('achievement');
     this.rankService = this.registry.get('rank');
+    this.palace = this.registry.get('palace');
+    this.quest = this.registry.get('quest');
     this.academy = this.registry.get('academy');
   }
 

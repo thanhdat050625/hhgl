@@ -42,6 +42,5 @@ npm install
 
 | Phím | Chức năng | Chi tiết hoạt động |
 |:---:|---|---|
-| **`1` / `auto`** | 🔄 **Auto 24/7 Treo Máy Toàn Diện** | **Tự động hóa hoàn toàn:** Nhận 5 Tab Phúc Lợi, Hộp Thư, 7 Ngày Vui Vẻ, Thành Tựu, Thích 6 BXH, cắn Đan Dược, đọc Thư Tùy Tùng, nâng cấp & xếp Học Viện (canh chính xác 0s delay). Vòng lặp 24/7: Canh thu hoạch Nội Vụ & Cung Vụ từng giây, đúc Bạc lên cấp Tùy Tùng, bắt sự kiện Server nhận thưởng tức thì, tự động nhận quà ngày mới lúc 00:00! |
-| **`2`** | 👑 **Thích 6 Bảng Xếp Hạng** | Tự động thích 6 Tab BXH mỗi ngày 1 lần (Thế Lực, Cốt Truyện, Tùy Tùng, Thân Mật, Trang Phục, Mị Lực) nhận Vàng & Bạc miễn phí. |
+| **`1` / `auto`** | 🔄 **Auto 24/7 Treo Máy Toàn Diện** | **Tự động hóa hoàn toàn:** Nhận 5 Tab Phúc Lợi, Hộp Thư, 7 Ngày Vui Vẻ, Thành Tựu Cung Đình, Thích 6 Bảng Xếp Hạng, Thỉnh An Trường Xuân Cung, Nhận Thưởng Nhiệm Vụ (Chính Tuyến & Tước Vị), cắn Đan Dược, đọc Thư Tùy Tùng, nâng cấp & xếp Học Viện (canh chính xác 0s delay). Vòng lặp 24/7: Canh thu hoạch Nội Vụ & Cung Vụ từng giây, đúc Bạc lên cấp Tùy Tùng, bắt sự kiện Server nhận thưởng tức thì, tự động nhận quà ngày mới lúc 00:00! |
 | **`0`** | 🚪 **Thoát Game** | Ngắt kết nối an toàn và đóng ứng dụng. |

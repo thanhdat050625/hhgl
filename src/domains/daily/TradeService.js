@@ -145,6 +145,8 @@ class TradeService extends BaseService {
     if (this.client.sevenGoalService) await this.client.sevenGoalService.claimAllSevenGoals();
     if (this.client.achievementService) await this.client.achievementService.claimAllAchievements();
     if (this.client.rankService) await this.client.rankService.likeAllRanks();
+    if (this.client.palace) await this.client.palace.autoPalaceHi();
+    if (this.client.quest) await this.client.quest.autoClaimAll();
 
     // 2. Bồi dưỡng Tùy Tùng, Đan Dược & Học Viện (Menu 3)
     if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
@@ -197,6 +199,8 @@ class TradeService extends BaseService {
         if (this.client.sevenGoalService) await this.client.sevenGoalService.claimAllSevenGoals();
         if (this.client.achievementService) await this.client.achievementService.claimAllAchievements();
         if (this.client.rankService) await this.client.rankService.likeAllRanks();
+        if (this.client.palace) await this.client.palace.autoPalaceHi();
+        if (this.client.quest) await this.client.quest.autoClaimAll();
 
         // Cắn đan dược mới và đọc thư mới nếu có
         if (this.client.bagService) await this.client.bagService.useAllGrowthItems();
@@ -298,10 +302,11 @@ class TradeService extends BaseService {
         if (this.client.helper) {
           await this.client.helper.autoPromoteHelpers(true);
           const lvUps = await this.client.helper.autoLevelUpHelpers(0, 0, true);
-          // Nếu tùy tùng lên cấp -> quét nhanh Thành Tựu & 7 Ngày ngay lập tức!
+          // Nếu tùy tùng lên cấp -> quét nhanh Thành Tựu, 7 Ngày & Nhiệm vụ ngay lập tức!
           if (lvUps > 0) {
             if (this.client.achievementService) await this.client.achievementService.claimAllAchievements(true);
             if (this.client.sevenGoalService) await this.client.sevenGoalService.claimAllSevenGoals(true);
+            if (this.client.quest) await this.client.quest.autoClaimAll();
           }
         }
       }
@@ -315,6 +320,10 @@ class TradeService extends BaseService {
         // Tự động kiểm tra và thăng chức tước vị ngay khi đủ Cung Vận!
         if (this.client.level) {
           await this.client.level.autoLevelUp(true);
+        }
+        // Kiểm tra nhận nhiệm vụ nếu có mốc hoàn thành
+        if (this.client.quest) {
+          await this.client.quest.autoClaimAll();
         }
       }
 

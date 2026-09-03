@@ -140,7 +140,7 @@ async function main() {
       } else {
         UI.printMenu(client.playerData);
         try {
-          const choice = await io.ask('-> Nhập lựa chọn [1 | 2 | 0 | auto]: ');
+          const choice = await io.ask('-> Nhập lựa chọn [1 | 0 | auto]: ');
           opt = choice.trim();
         } catch (e) {
           console.log('\n[-] Luồng nhập liệu kết thúc.');
@@ -155,18 +155,13 @@ async function main() {
         case '3,1':
           await client.trade.autoDailyLoopContinuous();
           break;
-        case '2':
-          if (client.rankService) {
-            await client.rankService.likeAllRanks();
-          }
-          break;
         case '0':
           console.log('\n[Thoát] Đang ngắt kết nối và thoát game. Hẹn gặp lại!');
           client.close();
           io.close();
           process.exit(0);
         default:
-          console.log('[!] Lựa chọn không hợp lệ. Vui lòng chọn lại [1 | 2 | 0 | auto].');
+          console.log('[!] Lựa chọn không hợp lệ. Vui lòng chọn lại [1 | 0 | auto].');
           break;
       }
     }

@@ -1,5 +1,6 @@
 module.exports = {
   LevelService: require('./LevelService'),
   HelperService: require('./HelperService'),
-  BagService: require('./BagService')
+  BagService: require('./BagService'),
+  QuestService: require('./QuestService')
 };
