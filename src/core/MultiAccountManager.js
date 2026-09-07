@@ -10,6 +10,7 @@ class MultiAccountManager {
   constructor(options = {}) {
     this.noteManager = new NoteManager(options);
     this.workers = new Map(); // Map<email.toLowerCase(), AccountWorker>
+    this.accountOrder = []; // Thứ tự tài khoản trong Web Note
     this.pollIntervalMs = options.pollIntervalMs || (process.env.NOTE_POLL_INTERVAL_MS ? parseInt(process.env.NOTE_POLL_INTERVAL_MS, 10) : 10000);
     this.pollTimer = null;
     this.isSyncing = false;
@@ -28,6 +29,7 @@ class MultiAccountManager {
       const accounts = await this.noteManager.getAccounts();
       this.lastSyncTime = Date.now();
       this.lastSyncStatus = `Thành công (${accounts.length} tài khoản)`;
+      this.accountOrder = accounts.map(a => a.email.toLowerCase());
 
       const noteEmails = new Set(accounts.map(a => a.email.toLowerCase()));
 
@@ -105,7 +107,10 @@ class MultiAccountManager {
     console.log(`[User Action] Yêu cầu chuyển trạng thái tài khoản: ${email} -> ${explicitStatus || 'Toggle'}`);
     
     // 1. Cập nhật lên Web Note trên Render
-    const { account } = await this.noteManager.toggleAccount(email, explicitStatus);
+    const { account, allAccounts } = await this.noteManager.toggleAccount(email, explicitStatus);
+    if (allAccounts) {
+      this.accountOrder = allAccounts.map(a => a.email.toLowerCase());
+    }
 
     // 2. Áp dụng ngay lập tức vào Worker
     const key = email.toLowerCase();
@@ -157,7 +162,10 @@ class MultiAccountManager {
       this.workers.delete(key);
     }
 
-    await this.noteManager.deleteAccount(email);
+    const remaining = await this.noteManager.deleteAccount(email);
+    if (remaining) {
+      this.accountOrder = remaining.map(a => a.email.toLowerCase());
+    }
     if (global.dashboardServer) {
       global.dashboardServer.broadcastAccountsUpdate();
     }
@@ -202,13 +210,66 @@ class MultiAccountManager {
   }
 
   /**
-   * Lấy danh sách tóm tắt toàn bộ tài khoản
+   * Lấy danh sách tóm tắt toàn bộ tài khoản, sắp xếp theo đúng thứ tự trong Web Note
    */
   getAllAccountsSummary() {
     const list = [];
+    const orderMap = new Map();
+    const orderedEmails = (this.accountOrder && this.accountOrder.length > 0)
+      ? this.accountOrder
+      : (this.noteManager?.lastFetchedAccounts || []).map(a => a.email.toLowerCase());
+
+    orderedEmails.forEach((email, idx) => {
+      orderMap.set(email.toLowerCase(), idx);
+    });
+
     for (const worker of this.workers.values()) {
-      list.push(worker.getSummary());
+      const summary = worker.getSummary ? worker.getSummary() : (worker.toStatusDTO ? worker.toStatusDTO() : {});
+      list.push(summary);
     }
+
+    // Đảm bảo tài khoản trong Note chưa khởi tạo worker cũng hiển thị đầy đủ
+    const existingEmails = new Set(list.map(a => (a.email || '').toLowerCase()));
+    if (this.noteManager?.lastFetchedAccounts) {
+      for (const acc of this.noteManager.lastFetchedAccounts) {
+        const key = (acc.email || '').toLowerCase();
+        if (!existingEmails.has(key)) {
+          list.push({
+            email: acc.email,
+            status: acc.status || 'off',
+            enabled: acc.enabled || false,
+            state: 'STOPPED',
+            isReady: false,
+            serverName: '--',
+            serverId: acc.serverId || 1105,
+            playerName: '--',
+            playerLv: 0,
+            power: 0,
+            gold: 0,
+            silver: 0,
+            food: 0,
+            soldier: 0,
+            exp: 0
+          });
+          existingEmails.add(key);
+        }
+      }
+    }
+
+    // Sắp xếp danh sách tài khoản theo đúng thứ tự xuất hiện trong Web Note
+    list.sort((a, b) => {
+      const emailA = (a.email || '').toLowerCase();
+      const emailB = (b.email || '').toLowerCase();
+      const idxA = orderMap.has(emailA) ? orderMap.get(emailA) : 999999;
+      const idxB = orderMap.has(emailB) ? orderMap.get(emailB) : 999999;
+      return idxA - idxB;
+    });
+
+    // Đánh số noteIndex chuẩn
+    list.forEach((acc, idx) => {
+      acc.noteIndex = idx;
+    });
+
     return list;
   }
 }

@@ -61,7 +61,13 @@ btnClear.addEventListener('click', () => {
 
 // Render Danh Sách Tài Khoản và Nút Toggle Bật/Tắt
 const renderAccounts = (accounts, selectedEmail) => {
-  currentAccounts = accounts || [];
+  currentAccounts = (accounts || []).slice();
+  currentAccounts.sort((a, b) => {
+    if (a.noteIndex !== undefined && b.noteIndex !== undefined) {
+      return a.noteIndex - b.noteIndex;
+    }
+    return 0;
+  });
   if (selectedEmail) currentSelectedEmail = selectedEmail;
 
   // Cập nhật thống kê

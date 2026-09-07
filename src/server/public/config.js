@@ -128,7 +128,13 @@ const renderFilteredAccounts = () => {
 };
 
 const updateStats = (accounts) => {
-  currentAccounts = accounts || [];
+  currentAccounts = (accounts || []).slice();
+  currentAccounts.sort((a, b) => {
+    if (a.noteIndex !== undefined && b.noteIndex !== undefined) {
+      return a.noteIndex - b.noteIndex;
+    }
+    return 0;
+  });
   const total = currentAccounts.length;
   const countOnVal = currentAccounts.filter(a => a.enabled).length;
   const countOffVal = total - countOnVal;
