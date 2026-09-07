@@ -415,7 +415,7 @@ class TradeService extends BaseService {
         
         // Cập nhật trạng thái lên Web Dashboard
         if (global.dashboardServer) {
-          global.dashboardServer.updateStatus(statusMsg);
+          global.dashboardServer.updateStatus(statusMsg, this.client?.accountEmail);
         }
 
         // Chỉ in ra console nếu đang chạy ở local (TTY) và KHÔNG trên Cloud (PORT)

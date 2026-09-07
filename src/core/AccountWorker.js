@@ -7,6 +7,7 @@ const { EncryptHelper } = require('./crypto');
 const { loginGame, authenticateSdk, getGatewayAuth } = require('./auth');
 const { GameClient } = require('../bot');
 const { CONFIG } = require('../config/constants');
+const { runWithAccount } = require('./accountContext');
 
 class AccountWorker {
   constructor(account, multiManager) {
@@ -47,7 +48,12 @@ class AccountWorker {
     if (this.state === 'RUNNING' || this.state === 'STARTING') {
       return;
     }
+    return runWithAccount(this.email, async () => {
+      await this._executeStart();
+    });
+  }
 
+  async _executeStart() {
     this.isStopping = false;
     this.state = 'STARTING';
     this.lastError = null;
@@ -158,51 +164,55 @@ class AccountWorker {
    * Vòng lặp Auto 24/7 của tài khoản
    */
   async runAutoLoop() {
-    try {
-      if (this.client && this.client.trade) {
-        await this.client.trade.autoDailyLoopContinuous();
+    return runWithAccount(this.email, async () => {
+      try {
+        if (this.client && this.client.trade) {
+          await this.client.trade.autoDailyLoopContinuous();
+        }
+      } catch (err) {
+        if (!this.isStopping && !this.client?.isManualClosed) {
+          console.error(`[X] [${this.email}] Lỗi trong vòng lặp auto:`, err.message);
+        }
+      } finally {
+        if (this.state === 'RUNNING') {
+          this.state = 'STOPPED';
+        }
+        if (global.dashboardServer) {
+          global.dashboardServer.broadcastAccountsUpdate();
+        }
       }
-    } catch (err) {
-      if (!this.isStopping && !this.client?.isManualClosed) {
-        console.error(`[X] [${this.email}] Lỗi trong vòng lặp auto:`, err.message);
-      }
-    } finally {
-      if (this.state === 'RUNNING') {
-        this.state = 'STOPPED';
-      }
-      if (global.dashboardServer) {
-        global.dashboardServer.broadcastAccountsUpdate();
-      }
-    }
+    });
   }
 
   /**
    * Dừng an toàn tài khoản
    */
   stop() {
-    if (this.state === 'STOPPED' && !this.client) {
-      return;
-    }
-
-    this.isStopping = true;
-    this.state = 'STOPPED';
-
-    console.log(`[-] [${this.email}] Đang ngắt kết nối an toàn...`);
-
-    if (this.client) {
-      try {
-        this.client.close();
-      } catch (e) {
-        console.error(`[!] [${this.email}] Lỗi khi đóng client:`, e.message);
+    return runWithAccount(this.email, () => {
+      if (this.state === 'STOPPED' && !this.client) {
+        return;
       }
-      this.client = null;
-    }
 
-    console.log(`[-] [${this.email}] Đã dừng hoạt động thành công.`);
+      this.isStopping = true;
+      this.state = 'STOPPED';
 
-    if (global.dashboardServer) {
-      global.dashboardServer.broadcastAccountsUpdate();
-    }
+      console.log(`[-] [${this.email}] Đang ngắt kết nối an toàn...`);
+
+      if (this.client) {
+        try {
+          this.client.close();
+        } catch (e) {
+          console.error(`[!] [${this.email}] Lỗi khi đóng client:`, e.message);
+        }
+        this.client = null;
+      }
+
+      console.log(`[-] [${this.email}] Đã dừng hoạt động thành công.`);
+
+      if (global.dashboardServer) {
+        global.dashboardServer.broadcastAccountsUpdate();
+      }
+    });
   }
 
   /**

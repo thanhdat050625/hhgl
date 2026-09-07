@@ -24,5 +24,6 @@ module.exports = {
   SelfHealer,
   NoteManager,
   AccountWorker,
-  MultiAccountManager
+  MultiAccountManager,
+  ...require('./accountContext')
 };

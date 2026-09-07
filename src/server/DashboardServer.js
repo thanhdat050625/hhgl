@@ -1,6 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const { getActiveAccountEmail } = require('../core/accountContext');
 
 const PUBLIC_DIR = path.join(__dirname, 'public');
 const MIME_TYPES = {
@@ -38,9 +39,13 @@ class DashboardServer {
     this.sseClients = new Set();
     
     this.logBuffer = [];
+    this.accountLogs = new Map(); // email.toLowerCase() -> Array<LogEntry>
+    this.globalLogs = []; // Array<LogEntry>
+    this.MAX_LOGS_PER_ACCOUNT = 300;
     this.MAX_LOGS = 300;
     
     this.statusMessage = '';
+    this.statusMessageMap = new Map(); // email.toLowerCase() -> statusMessage
     this.BUILD_ID = Date.now().toString();
     
     this.setupLogInterceptor();
@@ -66,18 +71,32 @@ class DashboardServer {
       originalLog.apply(console, args);
       const msg = args.map(a => (typeof a === 'object' ? JSON.stringify(a) : String(a))).join(' ');
       if (!msg || msg.trim() === '') return;
-      this.addLogEntry(msg, 'info');
+
+      let email = getActiveAccountEmail();
+      if (!email) {
+        const m = msg.match(/\[([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})\]/);
+        if (m) email = m[1].toLowerCase();
+      }
+
+      this.addLogEntry(msg, 'info', email);
     };
 
     console.error = (...args) => {
       originalError.apply(console, args);
       const msg = args.map(a => (typeof a === 'object' ? JSON.stringify(a) : String(a))).join(' ');
       if (!msg || msg.trim() === '') return;
-      this.addLogEntry(msg, 'error');
+
+      let email = getActiveAccountEmail();
+      if (!email) {
+        const m = msg.match(/\[([a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,})\]/);
+        if (m) email = m[1].toLowerCase();
+      }
+
+      this.addLogEntry(msg, 'error', email);
     };
   }
 
-  addLogEntry(text, type = 'info') {
+  addLogEntry(text, type = 'info', email = null) {
     let timestamp = '';
     const timeMatch = text.match(/^\[(\d{2}:\d{2}:\d{2})\]/);
     if (timeMatch) {
@@ -90,12 +109,28 @@ class DashboardServer {
 
     text = text.replace(/\r/g, '');
 
+    const emailKey = email ? email.toLowerCase() : null;
+
     const logEntry = {
       id: Date.now() + Math.random().toString(36).substr(2, 5),
       time: timestamp,
       text: text,
-      type: type
+      type: type,
+      email: emailKey
     };
+
+    if (emailKey) {
+      let buf = this.accountLogs.get(emailKey);
+      if (!buf) {
+        buf = [];
+        this.accountLogs.set(emailKey, buf);
+      }
+      buf.push(logEntry);
+      if (buf.length > this.MAX_LOGS_PER_ACCOUNT) buf.shift();
+    } else {
+      this.globalLogs.push(logEntry);
+      if (this.globalLogs.length > 100) this.globalLogs.shift();
+    }
 
     this.logBuffer.push(logEntry);
     while (this.logBuffer.length > this.MAX_LOGS) {
@@ -105,9 +140,35 @@ class DashboardServer {
     this.broadcastSSE('log', logEntry);
   }
 
-  updateStatus(statusStr) {
+  updateStatus(statusStr, explicitEmail = null) {
+    let email = explicitEmail || getActiveAccountEmail();
+    if (!email && this.selectedEmail) {
+      email = this.selectedEmail;
+    }
+    const emailKey = email ? email.toLowerCase() : null;
+
+    if (emailKey) {
+      this.statusMessageMap.set(emailKey, statusStr);
+    }
     this.statusMessage = statusStr;
-    this.broadcastSSE('status_msg', { text: statusStr });
+
+    this.broadcastSSE('status_msg', {
+      email: emailKey,
+      text: statusStr
+    });
+  }
+
+  getStatusForAccount(email) {
+    if (!email) return this.statusMessage || 'Hệ thống Multi-Account đang sẵn sàng...';
+    return this.statusMessageMap.get(email.toLowerCase()) || this.statusMessage || `Đang theo dõi tài khoản ${email}...`;
+  }
+
+  getLogsForAccount(email) {
+    const accLogs = email ? (this.accountLogs.get(email.toLowerCase()) || []) : [];
+    if (accLogs.length > 0) {
+      return accLogs.slice(-200);
+    }
+    return this.globalLogs.slice(-100);
   }
 
   setClient(client) {
@@ -266,8 +327,8 @@ class DashboardServer {
 
         res.write(`event: init\ndata: ${JSON.stringify({
           buildId: this.BUILD_ID,
-          logs: this.logBuffer,
-          statusMsg: this.statusMessage,
+          logs: this.getLogsForAccount(this.selectedEmail),
+          statusMsg: this.getStatusForAccount(this.selectedEmail),
           accounts: this.getAllAccounts(),
           selectedEmail: this.selectedEmail,
           playerState: this.getPlayerState(this.selectedEmail),
@@ -350,8 +411,17 @@ class DashboardServer {
             this.selectedEmail = body.email;
             this.broadcastSSE('player_state', this.getPlayerState(body.email));
           }
+          const curStatus = this.getStatusForAccount(this.selectedEmail);
+          const curLogs = this.getLogsForAccount(this.selectedEmail);
+
           res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-          res.end(JSON.stringify({ success: true, playerState: this.getPlayerState(this.selectedEmail) }));
+          res.end(JSON.stringify({
+            success: true,
+            selectedEmail: this.selectedEmail,
+            playerState: this.getPlayerState(this.selectedEmail),
+            statusMsg: curStatus,
+            logs: curLogs
+          }));
         } catch (err) {
           res.writeHead(500, { 'Content-Type': 'application/json' });
           res.end(JSON.stringify({ success: false, error: err.message }));

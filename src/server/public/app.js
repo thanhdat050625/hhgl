@@ -22,6 +22,7 @@ const formAddAcc = document.getElementById('form-add-acc');
 let currentAccounts = [];
 let currentSelectedEmail = null;
 let togglingEmails = new Set();
+const accountLogsCache = new Map(); // email.toLowerCase() -> Array<LogEntry>
 let currentBuildId = null;
 
 const formatNumber = (num) => {
@@ -57,6 +58,10 @@ const appendLog = (log) => {
 
 btnClear.addEventListener('click', () => {
   term.innerHTML = '';
+  const curEmail = (currentSelectedEmail || '').toLowerCase();
+  if (curEmail) {
+    accountLogsCache.set(curEmail, []);
+  }
 });
 
 // Render Danh Sách Tài Khoản và Nút Toggle Bật/Tắt
@@ -224,8 +229,25 @@ window.handleToggle = async (email, isChecked) => {
 
 // Xử lý Chọn tài khoản để xem
 window.handleSelectAcc = async (email) => {
+  if (!email) return;
   currentSelectedEmail = email;
   renderAccounts(currentAccounts, email);
+
+  // Hiển thị trạng thái đang chuyển đổi
+  elLiveStatus.innerHTML = colorizeText(`Đang tải dữ liệu tài khoản [${email}]...`);
+
+  // Render ngay log từ cache nếu có
+  term.innerHTML = '';
+  const emailKey = email.toLowerCase();
+  const cached = accountLogsCache.get(emailKey);
+  if (cached && cached.length > 0) {
+    cached.forEach(appendLog);
+  } else {
+    const div = document.createElement('div');
+    div.className = 'log-line text-muted py-2';
+    div.textContent = `[${new Date().toLocaleTimeString('vi-VN')}] Đang tải lịch sử logs của tài khoản ${email}...`;
+    term.appendChild(div);
+  }
 
   try {
     const res = await fetch('/api/accounts/select', {
@@ -234,8 +256,18 @@ window.handleSelectAcc = async (email) => {
       body: JSON.stringify({ email: email })
     });
     const json = await res.json();
-    if (json.success && json.playerState) {
-      updatePlayerState(json.playerState);
+    if (json.success) {
+      if (json.playerState) {
+        updatePlayerState(json.playerState);
+      }
+      if (json.statusMsg) {
+        elLiveStatus.innerHTML = colorizeText(json.statusMsg.replace(/</g, '&lt;').replace(/>/g, '&gt;'));
+      }
+      if (Array.isArray(json.logs)) {
+        term.innerHTML = '';
+        accountLogsCache.set(emailKey, json.logs.slice());
+        json.logs.forEach(appendLog);
+      }
     }
   } catch (err) {
     console.error('Lỗi khi chọn tài khoản:', err);
@@ -421,7 +453,11 @@ const connectSSE = () => {
     }
 
     term.innerHTML = '';
+    const curEmail = (effectiveEmail || '').toLowerCase();
     if (data.logs) {
+      if (curEmail) {
+        accountLogsCache.set(curEmail, data.logs.slice());
+      }
       data.logs.forEach(appendLog);
     }
     if (data.statusMsg) {
@@ -456,12 +492,35 @@ const connectSSE = () => {
   });
 
   evtSource.addEventListener('log', (e) => {
-    appendLog(JSON.parse(e.data));
+    const log = JSON.parse(e.data);
+    const curEmail = (currentSelectedEmail || '').toLowerCase();
+    const logEmail = (log.email || '').toLowerCase();
+
+    // Lưu log vào cache của tài khoản tương ứng
+    if (logEmail) {
+      if (!accountLogsCache.has(logEmail)) {
+        accountLogsCache.set(logEmail, []);
+      }
+      const buf = accountLogsCache.get(logEmail);
+      buf.push(log);
+      if (buf.length > 300) buf.shift();
+    }
+
+    // Chỉ hiển thị lên terminal nếu log thuộc về tài khoản đang chọn HOẶC là log hệ thống chung
+    if (!logEmail || logEmail === curEmail) {
+      appendLog(log);
+    }
   });
 
   evtSource.addEventListener('status_msg', (e) => {
     const data = JSON.parse(e.data);
-    elLiveStatus.innerHTML = colorizeText(data.text.replace(/</g, '&lt;').replace(/>/g, '&gt;'));
+    const curEmail = (currentSelectedEmail || '').toLowerCase();
+    const msgEmail = (data.email || '').toLowerCase();
+
+    // Chỉ cập nhật dòng đếm ngược nếu thông điệp này thuộc về tài khoản đang xem
+    if (!msgEmail || msgEmail === curEmail) {
+      elLiveStatus.innerHTML = colorizeText((data.text || '').replace(/</g, '&lt;').replace(/>/g, '&gt;'));
+    }
   });
 
   evtSource.addEventListener('accounts_update', (e) => {
