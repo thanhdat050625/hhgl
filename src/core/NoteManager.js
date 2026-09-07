@@ -314,7 +314,7 @@ class NoteManager {
     });
 
     // Mỗi tài khoản 1 dòng gọn gàng, dễ nhìn
-    const rows = data.map(row => '  ' + JSON.stringify(row));
+    const rows = data.map(row => '  [' + row.map(v => JSON.stringify(v)).join(', ') + ']');
     const jsonStr = '[\n' + rows.join(',\n') + '\n]';
     await this.saveRawContent(jsonStr);
     this.lastFetchedAccounts = accountsList;
