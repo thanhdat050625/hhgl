@@ -430,6 +430,7 @@ class DashboardServer {
       // 9. Static Files (HTML, CSS, JS)
       let staticPath = reqPath;
       if (staticPath === '/' || staticPath === '') staticPath = '/index.html';
+      if (staticPath === '/config' || staticPath === '/config/') staticPath = '/config.html';
 
       const safePath = path.normalize(staticPath).replace(/^(\.\.[\/\\])+/, '');
       const fullPath = path.join(PUBLIC_DIR, safePath);

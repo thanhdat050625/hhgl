@@ -69,24 +69,51 @@ const renderAccounts = (accounts, selectedEmail) => {
   const countOn = currentAccounts.filter(a => a.enabled).length;
   const countOff = total - countOn;
 
-  statTotal.textContent = total;
-  statOn.textContent = countOn;
-  statOff.textContent = countOff;
+  if (statTotal) statTotal.textContent = total;
+  if (statOn) statOn.textContent = countOn;
+  if (statOff) statOff.textContent = countOff;
+
+  const statTotalBadge = document.getElementById('stat-total-badge');
+  if (statTotalBadge) statTotalBadge.textContent = total;
 
   // Cập nhật dropdown chọn tài khoản xem chi tiết
-  const prevVal = selectActiveAcc.value;
-  selectActiveAcc.innerHTML = '<option value="">-- Chọn tài khoản xem --</option>';
-  currentAccounts.forEach(acc => {
-    const opt = document.createElement('option');
-    opt.value = acc.email;
-    opt.textContent = `${acc.email} (${acc.playerName || 'Bot'})`;
-    if (acc.email === currentSelectedEmail) {
-      opt.selected = true;
-    }
-    selectActiveAcc.appendChild(opt);
-  });
+  if (selectActiveAcc) {
+    selectActiveAcc.innerHTML = '<option value="">-- Chọn tài khoản xem --</option>';
+    currentAccounts.forEach(acc => {
+      const opt = document.createElement('option');
+      opt.value = acc.email;
+      opt.textContent = `${acc.email} (${acc.playerName || 'Bot'})`;
+      if (acc.email === currentSelectedEmail) {
+        opt.selected = true;
+      }
+      selectActiveAcc.appendChild(opt);
+    });
+  }
 
-  // Render Table Rows
+  // Cập nhật huy hiệu trạng thái của tài khoản đang chọn
+  const activeAccStatusBadge = document.getElementById('active-acc-status-badge');
+  if (activeAccStatusBadge) {
+    const curAcc = currentAccounts.find(a => a.email === currentSelectedEmail);
+    if (curAcc) {
+      if (curAcc.state === 'RUNNING') {
+        activeAccStatusBadge.className = 'badge badge-running';
+        activeAccStatusBadge.innerHTML = '<span class="dot dot-green"></span> Đang chạy 24/7';
+      } else if (curAcc.state === 'STARTING') {
+        activeAccStatusBadge.className = 'badge badge-starting';
+        activeAccStatusBadge.innerHTML = '<span class="dot dot-yellow"></span> Đang kết nối...';
+      } else if (curAcc.state === 'ERROR') {
+        activeAccStatusBadge.className = 'badge badge-error';
+        activeAccStatusBadge.innerHTML = '<span class="dot dot-red"></span> Lỗi login';
+      } else {
+        activeAccStatusBadge.className = 'badge badge-stopped';
+        activeAccStatusBadge.innerHTML = '<span class="dot dot-gray"></span> Tạm dừng';
+      }
+    }
+  }
+
+  // Render Table Rows nếu trang có bảng accountsTbody
+  if (!accountsTbody) return;
+
   if (currentAccounts.length === 0) {
     accountsTbody.innerHTML = `
       <tr>
@@ -256,53 +283,57 @@ btnSyncNow.addEventListener('click', async () => {
   }
 });
 
-// Modal Thêm Tài Khoản
-btnOpenAddModal.addEventListener('click', () => {
-  modalAddAcc.style.display = 'flex';
-  document.getElementById('input-add-email').focus();
-});
+// Modal Thêm Tài Khoản (nếu có trên trang)
+if (btnOpenAddModal && modalAddAcc) {
+  btnOpenAddModal.addEventListener('click', () => {
+    modalAddAcc.style.display = 'flex';
+    document.getElementById('input-add-email').focus();
+  });
 
-const closeModal = () => {
-  modalAddAcc.style.display = 'none';
-  formAddAcc.reset();
-};
-btnCloseModal.addEventListener('click', closeModal);
-btnCancelAdd.addEventListener('click', closeModal);
+  const closeModal = () => {
+    modalAddAcc.style.display = 'none';
+    if (formAddAcc) formAddAcc.reset();
+  };
+  if (btnCloseModal) btnCloseModal.addEventListener('click', closeModal);
+  if (btnCancelAdd) btnCancelAdd.addEventListener('click', closeModal);
 
-modalAddAcc.addEventListener('click', (e) => {
-  if (e.target === modalAddAcc) closeModal();
-});
+  modalAddAcc.addEventListener('click', (e) => {
+    if (e.target === modalAddAcc) closeModal();
+  });
+}
 
-formAddAcc.addEventListener('submit', async (e) => {
-  e.preventDefault();
-  const email = document.getElementById('input-add-email').value.trim();
-  const password = document.getElementById('input-add-pass').value.trim();
-  const status = document.getElementById('input-add-status').value;
-  const server = document.getElementById('input-add-server').value.trim();
+if (formAddAcc) {
+  formAddAcc.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const email = document.getElementById('input-add-email').value.trim();
+    const password = document.getElementById('input-add-pass').value.trim();
+    const status = document.getElementById('input-add-status').value;
+    const server = document.getElementById('input-add-server').value.trim();
 
-  if (!email || !password) return;
+    if (!email || !password) return;
 
-  try {
-    const res = await fetch('/api/accounts/add', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        email: email,
-        password: password,
-        status: status,
-        serverId: server ? parseInt(server) : null
-      })
-    });
-    const json = await res.json();
-    if (json.success) {
-      closeModal();
-    } else {
-      alert('Lỗi thêm tài khoản: ' + (json.error || 'Lỗi không xác định'));
+    try {
+      const res = await fetch('/api/accounts/add', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          email: email,
+          password: password,
+          status: status,
+          serverId: server ? parseInt(server) : null
+        })
+      });
+      const json = await res.json();
+      if (json.success) {
+        if (typeof closeModal === 'function') closeModal();
+      } else {
+        alert('Lỗi thêm tài khoản: ' + (json.error || 'Lỗi không xác định'));
+      }
+    } catch (err) {
+      alert('Lỗi gửi yêu cầu: ' + err.message);
     }
-  } catch (err) {
-    alert('Lỗi gửi yêu cầu: ' + err.message);
-  }
-});
+  });
+}
 
 // Cập nhật giá trị tài nguyên với hiệu ứng nháy
 const updateResourceValue = (elId, value) => {
@@ -390,8 +421,15 @@ const connectSSE = () => {
     if (data.statusMsg) {
       elLiveStatus.innerHTML = colorizeText(data.statusMsg.replace(/</g, '&lt;').replace(/>/g, '&gt;'));
     }
+    const urlParams = new URLSearchParams(window.location.search);
+    const targetEmail = urlParams.get('email');
+    const effectiveEmail = targetEmail || data.selectedEmail;
+
     if (data.accounts) {
-      renderAccounts(data.accounts, data.selectedEmail);
+      renderAccounts(data.accounts, effectiveEmail);
+      if (targetEmail && targetEmail !== data.selectedEmail) {
+        window.handleSelectAcc(targetEmail);
+      }
     }
     if (data.playerState) {
       updatePlayerState(data.playerState);
