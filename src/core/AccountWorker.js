@@ -6,6 +6,7 @@
 const { EncryptHelper } = require('./crypto');
 const { loginGame, authenticateSdk, getGatewayAuth } = require('./auth');
 const { GameClient } = require('../bot');
+const { CONFIG } = require('../config/constants');
 
 class AccountWorker {
   constructor(account, multiManager) {
@@ -84,11 +85,9 @@ class AccountWorker {
       if (!chosenServer) {
         if (myServerList && myServerList.length > 0) {
           chosenServer = myServerList[0]; // Server đã chơi gần nhất
-        } else if (process.env.GAME_SERVER_ID) {
-          const envSId = parseInt(process.env.GAME_SERVER_ID);
-          chosenServer = serverList.find(s => s.serverId === envSId) || serverList[0];
         } else {
-          chosenServer = serverList.find(s => s.serverId === 1105) || serverList[0];
+          const targetSId = CONFIG.DEFAULT_SERVER_ID;
+          chosenServer = serverList.find(s => s.serverId === targetSId) || serverList[0];
         }
       }
 

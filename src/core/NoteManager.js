@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 /**
  * Core Service: NoteManager
  * Quản lý đọc/ghi và đồng bộ danh sách tài khoản qua Web Note (Render)
@@ -8,9 +10,10 @@ class NoteManager {
     this.noteUrl = options.noteUrl || process.env.NOTE_URL || 'https://van900379.onrender.com/notes/hhgl-dat';
     this.loginUrl = options.loginUrl || process.env.NOTE_LOGIN_URL || 'https://van900379.onrender.com/auth/login';
     this.saveUrl = options.saveUrl || process.env.NOTE_SAVE_URL || 'https://van900379.onrender.com/notes/admin/manager/action/save';
-    this.notePassword = options.notePassword || process.env.NOTE_PASSWORD || 'tad0025';
-    this.noteId = options.noteId || process.env.NOTE_ID || 'hhgl-dat';
-    this.noteTitle = options.noteTitle || process.env.NOTE_TITLE || 'hhgl-dat';
+    this.notePassword = options.notePassword || process.env.NOTE_PASSWORD || '';
+    const fallbackId = this.noteUrl ? (this.noteUrl.split('/').pop() || 'hhgl-dat') : 'hhgl-dat';
+    this.noteId = options.noteId || process.env.NOTE_ID || fallbackId;
+    this.noteTitle = options.noteTitle || process.env.NOTE_TITLE || fallbackId;
 
     this.sessionCookie = null;
     this.sessionCookieExpiresAt = 0; // Timestamp hết hạn (ms)
@@ -62,6 +65,9 @@ class NoteManager {
 
     this.loginPromise = (async () => {
       try {
+        if (!this.notePassword) {
+          throw new Error('Chưa cấu hình mật khẩu Web Note (NOTE_PASSWORD) trong tệp .env!');
+        }
         console.log('[NoteManager] Đang xác thực phiên quản trị Web Note...');
         const res = await fetch(this.loginUrl, {
           method: 'POST',

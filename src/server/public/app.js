@@ -399,6 +399,16 @@ const connectSSE = () => {
     if (data.syncStatus) {
       statSync.textContent = data.syncStatus.length > 25 ? '10s/lần' : data.syncStatus;
     }
+    if (data.noteUrl) {
+      const headerNoteLink = document.getElementById('header-note-link');
+      const cardNoteLink = document.getElementById('card-note-link');
+      if (headerNoteLink) headerNoteLink.href = data.noteUrl;
+      if (cardNoteLink) {
+        cardNoteLink.href = data.noteUrl;
+        const noteName = data.noteTitle || data.noteUrl.split('/').pop() || 'Web Note';
+        cardNoteLink.textContent = noteName;
+      }
+    }
   });
 
   evtSource.addEventListener('log', (e) => {

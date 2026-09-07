@@ -271,7 +271,9 @@ class DashboardServer {
           accounts: this.getAllAccounts(),
           selectedEmail: this.selectedEmail,
           playerState: this.getPlayerState(this.selectedEmail),
-          syncStatus: this.multiManager?.lastSyncStatus || 'Hoạt động'
+          syncStatus: this.multiManager?.lastSyncStatus || 'Hoạt động',
+          noteUrl: this.multiManager?.noteManager?.noteUrl || process.env.NOTE_URL || '',
+          noteTitle: this.multiManager?.noteManager?.noteTitle || process.env.NOTE_TITLE || ''
         })}\n\n`);
 
         const pingInterval = setInterval(() => {
@@ -297,7 +299,9 @@ class DashboardServer {
           accounts: this.getAllAccounts(),
           selectedEmail: this.selectedEmail,
           playerState: this.getPlayerState(this.selectedEmail),
-          syncStatus: this.multiManager?.lastSyncStatus
+          syncStatus: this.multiManager?.lastSyncStatus,
+          noteUrl: this.multiManager?.noteManager?.noteUrl || process.env.NOTE_URL || '',
+          noteTitle: this.multiManager?.noteManager?.noteTitle || process.env.NOTE_TITLE || ''
         }));
         return;
       }

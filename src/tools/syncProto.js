@@ -46,7 +46,7 @@ function extractZipEntry(zipBuffer) {
 
 // Chiến lược 1: Tải & Giải mã từ init.cfg (Chuẩn sản xuất của Game)
 async function fetchFromInitCfg(version) {
-  const cdnUrl = `https://yxgl-cdn.52look.com/yxgl/h5/${version}/resource/zip/init.cfg`;
+  const cdnUrl = `${CONFIG.ORIGIN_CDN}/yxgl/h5/${version}/resource/zip/init.cfg`;
   console.log(`  [Strategy 1] 📦 Tải tệp cấu hình đóng gói: ${cdnUrl}`);
 
   const res = await fetch(cdnUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } });
@@ -78,8 +78,8 @@ async function fetchFromInitCfg(version) {
 // Chiến lược 2: Fallback tải trực tiếp file JSON rời
 async function fetchFromDirectJson(version) {
   console.log(`  [Strategy 2] 🌐 Thử tải qua liên kết JSON rời rạc...`);
-  const protoUrl = `https://yxgl-cdn.52look.com/yxgl/h5/${version}/resource/proto/proto.json`;
-  const protoIdUrl = `https://yxgl-cdn.52look.com/yxgl/h5/${version}/resource/proto/protoId.json`;
+  const protoUrl = `${CONFIG.ORIGIN_CDN}/yxgl/h5/${version}/resource/proto/proto.json`;
+  const protoIdUrl = `${CONFIG.ORIGIN_CDN}/yxgl/h5/${version}/resource/proto/protoId.json`;
 
   const [pRes, idRes] = await Promise.all([
     fetch(protoUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } }),

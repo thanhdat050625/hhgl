@@ -1,3 +1,5 @@
+require('dotenv').config();
+
 /**
  * Bảng tra cứu tên vật phẩm tiếng Việt và hằng số game
  */
@@ -38,12 +40,13 @@ const CONFIG = {
   GATEWAY_WS_URL: process.env.GAME_GATEWAY_WS_URL || 'wss://yxgl-login.52look.com:6868',
   ORIGIN_CDN: process.env.GAME_ORIGIN_CDN || 'https://yxgl-cdn.52look.com',
   GAME_ID: process.env.GAME_ID || '15',
-  GAME_SIMPLE_NAME: 'hhjxA1',
-  SDK_SIMPLE_NAME: 'muyou_h5',
-  SDK_VERSION_CODE: 'V3_0',
-  CHANNEL: 'MYnew_h501',
-  CLIENT_VERSION: 58404,
-  DEVICE_OS: 'Win32'
+  GAME_SIMPLE_NAME: process.env.GAME_SIMPLE_NAME || 'hhjxA1',
+  SDK_SIMPLE_NAME: process.env.GAME_SDK_SIMPLE_NAME || 'muyou_h5',
+  SDK_VERSION_CODE: process.env.GAME_SDK_VERSION_CODE || 'V3_0',
+  CHANNEL: process.env.GAME_CHANNEL || 'MYnew_h501',
+  CLIENT_VERSION: process.env.GAME_CLIENT_VERSION ? parseInt(process.env.GAME_CLIENT_VERSION, 10) : 58404,
+  DEVICE_OS: process.env.GAME_DEVICE_OS || 'Win32',
+  DEFAULT_SERVER_ID: process.env.GAME_SERVER_ID ? parseInt(process.env.GAME_SERVER_ID, 10) : 1105
 };
 
 module.exports = {

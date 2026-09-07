@@ -10,7 +10,7 @@ class MultiAccountManager {
   constructor(options = {}) {
     this.noteManager = new NoteManager(options);
     this.workers = new Map(); // Map<email.toLowerCase(), AccountWorker>
-    this.pollIntervalMs = options.pollIntervalMs || 10000; // 10 giây
+    this.pollIntervalMs = options.pollIntervalMs || (process.env.NOTE_POLL_INTERVAL_MS ? parseInt(process.env.NOTE_POLL_INTERVAL_MS, 10) : 10000);
     this.pollTimer = null;
     this.isSyncing = false;
     this.lastSyncTime = 0;

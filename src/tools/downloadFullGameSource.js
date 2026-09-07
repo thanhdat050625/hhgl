@@ -91,7 +91,7 @@ async function downloadFullGame(version = CONFIG.CLIENT_VERSION) {
   // 1. Tải index.html
   try {
     console.log(`\n[1/4] 🌐 Đang tải H5 Portal index.html...`);
-    const h5Res = await fetch('https://yxgl-cdn.52look.com/yxgl/h5/index.html');
+    const h5Res = await fetch(`${CONFIG.ORIGIN_CDN}/yxgl/h5/index.html`);
     const h5Html = await h5Res.text();
     fs.writeFileSync(path.join(TARGET_DIR, 'index.html'), h5Html, 'utf8');
     console.log(`  ✅ Đã lưu: _source_game/index.html`);
@@ -102,7 +102,7 @@ async function downloadFullGame(version = CONFIG.CLIENT_VERSION) {
   // 2. Tải js.zip (Tất cả mã nguồn JavaScript & Engine)
   try {
     console.log(`\n[2/4] 🗜️ Đang tải js.zip (Mã nguồn JS & Egret Engine)...`);
-    const jsZipUrl = `https://yxgl-cdn.52look.com/yxgl/h5/${version}/resource/zip/js.zip`;
+    const jsZipUrl = `${CONFIG.ORIGIN_CDN}/yxgl/h5/${version}/resource/zip/js.zip`;
     const res = await fetch(jsZipUrl);
     const buf = Buffer.from(await res.arrayBuffer());
     console.log(`  📥 Đã tải: ${(buf.length / 1024 / 1024).toFixed(2)} MB. Bắt đầu giải nén...`);
@@ -115,7 +115,7 @@ async function downloadFullGame(version = CONFIG.CLIENT_VERSION) {
   // 3. Tải init.cfg (Protobuf & Cấu hình khởi tạo)
   try {
     console.log(`\n[3/4] 📦 Đang tải và giải mã init.cfg (Protobuf & Schemas)...`);
-    const initUrl = `https://yxgl-cdn.52look.com/yxgl/h5/${version}/resource/zip/init.cfg`;
+    const initUrl = `${CONFIG.ORIGIN_CDN}/yxgl/h5/${version}/resource/zip/init.cfg`;
     const res = await fetch(initUrl);
     const buf = Buffer.from(await res.arrayBuffer());
     const initData = decryptCfg(buf);
@@ -135,7 +135,7 @@ async function downloadFullGame(version = CONFIG.CLIENT_VERSION) {
   // 4. Tải config.cfg (Toàn bộ dữ liệu bảng Game: Ải, Tùy Tùng, Hậu Cung, Nhiệm Vụ...)
   try {
     console.log(`\n[4/4] 📊 Đang tải và giải mã config.cfg (Toàn bộ database game)...`);
-    const configUrl = `https://yxgl-cdn.52look.com/yxgl/h5/${version}/resource/zip/config.cfg`;
+    const configUrl = `${CONFIG.ORIGIN_CDN}/yxgl/h5/${version}/resource/zip/config.cfg`;
     const res = await fetch(configUrl);
     const buf = Buffer.from(await res.arrayBuffer());
     const configData = decryptCfg(buf);
