@@ -1,20 +1,43 @@
 require('dotenv').config();
-const http = require('http');
 
-const { EncryptHelper, loginGame, authenticateSdk, getGatewayAuth } = require('./core');
+const { MultiAccountManager, EncryptHelper, loginGame, authenticateSdk, getGatewayAuth } = require('./core');
 const { GameClient } = require('./bot');
 const { UI } = require('./runners');
-
 const DashboardServer = require('./server/DashboardServer');
 
-// Khởi động Web Dashboard Server
-if (process.env.PORT || process.argv.includes('--dashboard')) {
-  DashboardServer.start(process.env.PORT || 10000);
+async function runMultiAccountMode() {
+  // 1. Khởi động Web Dashboard Server
+  const port = process.env.PORT || 10000;
+  DashboardServer.start(port);
+
+  // 2. Khởi tạo MultiAccountManager
+  const manager = new MultiAccountManager({
+    pollIntervalMs: 10000 // 10 giây/lần
+  });
+
+  DashboardServer.setMultiManager(manager);
+
+  // 3. Xử lý ngắt tiến trình an toàn (Ctrl + C)
+  const handleExit = async () => {
+    console.log('\n[-] Nhận tín hiệu dừng, đang ngắt an toàn toàn bộ tài khoản...');
+    await manager.stopAll();
+    process.exit(0);
+  };
+  process.once('SIGINT', handleExit);
+  process.once('SIGTERM', handleExit);
+
+  // 4. Bắt đầu vòng lặp đồng bộ Note 10s/lần
+  await manager.start();
 }
 
-async function main() {
+async function runSingleAccountLegacy() {
   const io = UI.createPrompt();
   const encryptHelper = new EncryptHelper();
+
+  // Khởi động Dashboard nếu có PORT hoặc cờ --dashboard
+  if (process.env.PORT || process.argv.includes('--dashboard')) {
+    DashboardServer.start(process.env.PORT || 10000);
+  }
 
   try {
     UI.printBanner();
@@ -104,13 +127,12 @@ async function main() {
     console.log(`\nKết nối vào Server: ${chosenServer.serverId} - ${chosenServer.serverName || chosenServer.name || ''}`);
 
     const client = new GameClient(chosenServer, rcode, gateId, encryptHelper);
-    
-    // Gắn client vào Dashboard (Nếu Dashboard đang chạy)
+    client.accountEmail = email;
+
     if (global.dashboardServer) {
       global.dashboardServer.setClient(client);
     }
 
-    // Xử lý ngắt tiến trình an toàn (Ctrl + C)
     const handleExit = () => {
       console.log('\n[-] Đang ngắt kết nối an toàn...');
       client.close();
@@ -122,20 +144,18 @@ async function main() {
 
     await client.connect();
 
-    // Chờ nhận đủ dữ liệu ban đầu
     while (!client.isReady) {
       await new Promise(r => setTimeout(r, 200));
     }
 
     UI.printPlayerInfo(client.playerData, client);
 
-    // Vòng lặp Menu Tương Tác
     while (true) {
       let opt = '';
       if (actionParam) {
         opt = actionParam.trim();
         if (opt.toLowerCase() !== 'auto' && opt !== '1') {
-          actionParam = null; // Chỉ giữ actionParam liên tục nếu là chế độ auto/1
+          actionParam = null;
         }
       } else {
         UI.printMenu(client.playerData);
@@ -175,6 +195,16 @@ async function main() {
     console.error('\n[X] Đã xảy ra lỗi:', err.message || err);
     io.close();
     process.exit(1);
+  }
+}
+
+async function main() {
+  // Nếu có cờ --single thì chạy chế độ 1 tài khoản cũ
+  if (process.argv.includes('--single')) {
+    await runSingleAccountLegacy();
+  } else {
+    // Mặc định chạy chế độ Multi-Account đồng bộ Web Note 10s/lần
+    await runMultiAccountMode();
   }
 }
 

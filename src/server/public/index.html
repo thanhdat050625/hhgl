@@ -3,17 +3,95 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hoàng Hậu Cát Tường - Auto Bot 24/7</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <title>Hoàng Hậu Cát Tường - Quản Lý Multi-Account 24/7</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="/style.css">
 </head>
 <body>
   <div class="container">
+    <!-- Header Thông Tin Hệ Thống -->
+    <header class="app-header">
+      <div class="app-title-group">
+        <h1 class="app-title">👑 HOÀNG HẬU CÁT TƯỜNG</h1>
+        <div class="app-badge">MULTI-ACCOUNT AUTO 24/7</div>
+      </div>
+      <div class="header-actions">
+        <button id="btn-sync-now" class="btn btn-secondary">
+          <span class="icon">🔄</span> Đồng Bộ Note Ngay
+        </button>
+        <button id="btn-open-add-modal" class="btn btn-primary">
+          <span class="icon">➕</span> Thêm Tài Khoản
+        </button>
+        <a href="https://van900379.onrender.com/notes/hhgl-dat" target="_blank" class="btn btn-outline">
+          <span class="icon">🔗</span> Mở Web Note
+        </a>
+      </div>
+    </header>
+
+    <!-- Thanh Thống Kê Nhanh -->
+    <div class="stats-bar">
+      <div class="stat-card">
+        <div class="stat-label">Tổng Tài Khoản</div>
+        <div class="stat-val" id="stat-total">0</div>
+      </div>
+      <div class="stat-card stat-success">
+        <div class="stat-label">Đang Bật (ON)</div>
+        <div class="stat-val" id="stat-on">0</div>
+      </div>
+      <div class="stat-card stat-muted">
+        <div class="stat-label">Đã Tắt (OFF)</div>
+        <div class="stat-val" id="stat-off">0</div>
+      </div>
+      <div class="stat-card stat-info">
+        <div class="stat-label">Đồng Bộ Web Note</div>
+        <div class="stat-val text-sm" id="stat-sync">10s/lần</div>
+      </div>
+    </div>
+
+    <!-- Bảng Quản Lý Danh Sách Tài Khoản -->
+    <div class="card accounts-card">
+      <div class="card-header flex-between">
+        <div class="card-title-group">
+          <span class="icon">👥</span>
+          <span>Danh Sách Tài Khoản Game (Đồng Bộ Web Note)</span>
+        </div>
+        <div class="note-link-hint">
+          Đồng bộ 2 chiều với <a href="https://van900379.onrender.com/notes/hhgl-dat" target="_blank">hhgl-dat</a>
+        </div>
+      </div>
+      <div class="table-responsive">
+        <table class="accounts-table">
+          <thead>
+            <tr>
+              <th>Trạng Thái (ON/OFF)</th>
+              <th>Email</th>
+              <th>Server</th>
+              <th>Nhân Vật</th>
+              <th>Cấp / Lực Chiến</th>
+              <th>Tiến Trình Bot</th>
+              <th>Hành Động</th>
+            </tr>
+          </thead>
+          <tbody id="accounts-tbody">
+            <tr>
+              <td colspan="7" class="text-center py-4 text-muted">Đang tải danh sách tài khoản...</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+
+    <!-- Grid Chi Tiết Nhân Vật & Terminal Logs -->
     <div class="grid-container">
-      <!-- Cột Trái: Thông tin nhân vật & Tài nguyên -->
+      <!-- Cột Trái: Thông tin nhân vật đang chọn & Tài nguyên -->
       <div class="sidebar">
         <div class="card">
-          <div class="card-header">👤 Thẻ Nhân Vật</div>
+          <div class="card-header flex-between">
+            <div>👤 Thẻ Nhân Vật Đang Xem</div>
+            <select id="select-active-acc" class="select-acc-dropdown">
+              <option value="">Chọn tài khoản...</option>
+            </select>
+          </div>
           <div id="player-info" style="display: none;">
             <div class="player-name" id="p-name">Loading...</div>
             <div class="player-server" id="p-server">Server: Loading...</div>
@@ -29,33 +107,33 @@
               <div id="p-exp-text" class="exp-text">0 / 0 EXP</div>
             </div>
           </div>
-          <div id="player-loading" style="color: var(--text-muted); text-align: center; padding: 2rem 0;">
-            Đang tải dữ liệu trò chơi...
+          <div id="player-loading" class="text-center py-4 text-muted">
+            Chọn một tài khoản đang chạy để xem chi tiết...
           </div>
         </div>
 
         <div class="card">
           <div class="card-header">💰 Tài Nguyên Quốc Gia</div>
           <div class="resource-grid">
-            <div class="resource-item" style="grid-column: 1 / -1; display: flex; justify-content: space-between; align-items: center;">
-              <div class="resource-label" style="margin: 0;">👑 Cung Vận (EXP)</div>
-              <div class="resource-value" style="color: #FBCFE8;" id="r-cungvan">-- / --</div>
+            <div class="resource-item full-width flex-between">
+              <div class="resource-label">👑 Cung Vận (EXP)</div>
+              <div class="resource-value text-pink" id="r-cungvan">-- / --</div>
             </div>
             <div class="resource-item">
               <div class="resource-label">🟡 Vàng (KNB)</div>
-              <div class="resource-value" style="color: #FCD34D;" id="r-gold">--</div>
+              <div class="resource-value text-gold" id="r-gold">--</div>
             </div>
             <div class="resource-item">
               <div class="resource-label">⚪ Bạc</div>
-              <div class="resource-value" style="color: #E5E7EB;" id="r-silver">--</div>
+              <div class="resource-value text-silver" id="r-silver">--</div>
             </div>
             <div class="resource-item">
               <div class="resource-label">🌾 Lương Thực</div>
-              <div class="resource-value" style="color: #FCA5A5;" id="r-food">--</div>
+              <div class="resource-value text-salmon" id="r-food">--</div>
             </div>
             <div class="resource-item">
               <div class="resource-label">⚔️ Binh Lực</div>
-              <div class="resource-value" style="color: #93C5FD;" id="r-soldier">--</div>
+              <div class="resource-value text-blue" id="r-soldier">--</div>
             </div>
           </div>
         </div>
@@ -66,25 +144,65 @@
         <div class="status-banner">
           <div style="font-size: 1.5rem;">⏱️</div>
           <div id="live-status" class="status-text">
-            Chờ dữ liệu trạng thái từ Bot...
+            Hệ thống Multi-Account đang sẵn sàng...
           </div>
         </div>
 
-        <div class="card terminal" style="padding: 0; overflow: hidden;">
+        <div class="card terminal">
           <div class="terminal-header">
-            <div>System Terminal Logs</div>
+            <div class="terminal-title">
+              <span>🖥️ System Terminal Logs</span>
+              <span class="live-dot"></span>
+            </div>
             <div class="terminal-actions">
-              <label style="display: flex; align-items: center; gap: 0.25rem; cursor: pointer;">
+              <label class="auto-scroll-label">
                 <input type="checkbox" id="auto-scroll" checked> Auto-scroll
               </label>
-              <button class="terminal-action-btn" id="btn-clear">Clear</button>
+              <button class="terminal-action-btn" id="btn-clear">Xóa Log</button>
             </div>
           </div>
           <div class="terminal-content" id="terminal-content">
-            <!-- Logs will be appended here -->
+            <!-- Logs stream here -->
           </div>
         </div>
       </div>
+    </div>
+  </div>
+
+  <!-- Modal Thêm Tài Khoản Mới -->
+  <div id="modal-add-acc" class="modal-overlay" style="display: none;">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h3>➕ Thêm Tài Khoản Mới Vào Web Note</h3>
+        <button id="btn-close-modal" class="modal-close">&times;</button>
+      </div>
+      <form id="form-add-acc" class="modal-body">
+        <div class="form-group">
+          <label>Email Đăng Nhập Game <span class="text-danger">*</span></label>
+          <input type="email" id="input-add-email" class="form-input" placeholder="ví dụ: user@gmail.com" required>
+        </div>
+        <div class="form-group">
+          <label>Mật Khẩu Game <span class="text-danger">*</span></label>
+          <input type="text" id="input-add-pass" class="form-input" placeholder="Mật khẩu game" required>
+        </div>
+        <div class="form-row">
+          <div class="form-group half">
+            <label>Trạng Thái Khởi Đầu</label>
+            <select id="input-add-status" class="form-input">
+              <option value="on" selected>🟢 BẬT (Chạy ngay)</option>
+              <option value="off">⚪ TẮT (Tạm dừng)</option>
+            </select>
+          </div>
+          <div class="form-group half">
+            <label>Server ID (Tùy chọn)</label>
+            <input type="number" id="input-add-server" class="form-input" placeholder="Mặc định: 1105">
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button type="button" id="btn-cancel-add" class="btn btn-secondary">Hủy Bỏ</button>
+          <button type="submit" class="btn btn-primary">Lưu & Đồng Bộ Note</button>
+        </div>
+      </form>
     </div>
   </div>
 
