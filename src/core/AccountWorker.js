@@ -3,7 +3,8 @@
  * Quản lý vòng đời hoạt động độc lập của một tài khoản Game
  */
 
-const { EncryptHelper, loginGame, authenticateSdk, getGatewayAuth } = require('./auth');
+const { EncryptHelper } = require('./crypto');
+const { loginGame, authenticateSdk, getGatewayAuth } = require('./auth');
 const { GameClient } = require('../bot');
 
 class AccountWorker {
