@@ -452,8 +452,13 @@ const connectSSE = () => {
       }
     }
 
-    term.innerHTML = '';
+    const urlParams = new URLSearchParams(window.location.search);
+    const targetEmail = urlParams.get('email');
+    const effectiveEmail = targetEmail || data.selectedEmail;
+    if (effectiveEmail) currentSelectedEmail = effectiveEmail;
     const curEmail = (effectiveEmail || '').toLowerCase();
+
+    term.innerHTML = '';
     if (data.logs) {
       if (curEmail) {
         accountLogsCache.set(curEmail, data.logs.slice());
@@ -463,9 +468,6 @@ const connectSSE = () => {
     if (data.statusMsg) {
       elLiveStatus.innerHTML = colorizeText(data.statusMsg.replace(/</g, '&lt;').replace(/>/g, '&gt;'));
     }
-    const urlParams = new URLSearchParams(window.location.search);
-    const targetEmail = urlParams.get('email');
-    const effectiveEmail = targetEmail || data.selectedEmail;
 
     if (data.accounts) {
       renderAccounts(data.accounts, effectiveEmail);
