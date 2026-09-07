@@ -96,6 +96,9 @@ class GameClient {
     this.allOnlineRewardsClaimed = false;
     this.lastActiveDateStr = new Date().toLocaleDateString('vi-VN');
 
+    this.serverTime = 0;
+    this.serverTimeUpdated = 0;
+
     // Khởi tạo Self-Healing Engine
     this.healer = new SelfHealer(this);
 
@@ -124,6 +127,13 @@ class GameClient {
     this.eventRankPoint = this.registry.get('eventrankpoint');
     this.hoaDang = this.registry.get('hoadang');
     this.chestOpen = this.registry.get('chestopen');
+  }
+
+  getServerTime() {
+    if (this.serverTime && this.serverTimeUpdated) {
+      return this.serverTime + Math.floor((Date.now() - this.serverTimeUpdated) / 1000);
+    }
+    return Math.floor(Date.now() / 1000);
   }
 
   sleep(ms) {
@@ -190,6 +200,10 @@ class GameClient {
                 param: JSON.stringify({ deviceOS: CONFIG.DEVICE_OS, step: 0 })
               });
             } else if (pkt.msgId === 101201) {
+              if (pkt.data && pkt.data.time) {
+                this.serverTime = Number(pkt.data.time);
+                this.serverTimeUpdated = Date.now();
+              }
               if (pkt.data.code === 5) {
                 console.log('\n⚠️ Server này bạn chưa tạo nhân vật!');
               }
