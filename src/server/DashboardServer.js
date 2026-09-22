@@ -1,6 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 const path = require('path');
+const zlib = require('zlib');
 const { getActiveAccountEmail } = require('../core/accountContext');
 
 const PUBLIC_DIR = path.join(__dirname, 'public');
@@ -11,6 +12,37 @@ const MIME_TYPES = {
   '.json': 'application/json; charset=utf-8',
   '.png': 'image/png',
   '.ico': 'image/x-icon'
+};
+
+const sendCompressedResponse = (req, res, statusCode, headers = {}, body = '') => {
+  const acceptEncoding = req.headers['accept-encoding'] || '';
+  let payload = body;
+  if (typeof payload === 'string') {
+    payload = Buffer.from(payload, 'utf8');
+  } else if (!Buffer.isBuffer(payload) && typeof payload === 'object') {
+    payload = Buffer.from(JSON.stringify(payload), 'utf8');
+    headers['Content-Type'] = headers['Content-Type'] || 'application/json; charset=utf-8';
+  }
+
+  const shouldGzip = /\bgzip\b/.test(acceptEncoding) && payload && payload.length > 256;
+  if (shouldGzip) {
+    zlib.gzip(payload, (err, gzipped) => {
+      if (!err && gzipped.length < payload.length) {
+        headers['Content-Encoding'] = 'gzip';
+        headers['Content-Length'] = gzipped.length;
+        res.writeHead(statusCode, headers);
+        res.end(gzipped);
+      } else {
+        if (payload) headers['Content-Length'] = payload.length;
+        res.writeHead(statusCode, headers);
+        res.end(payload);
+      }
+    });
+  } else {
+    if (payload) headers['Content-Length'] = payload.length;
+    res.writeHead(statusCode, headers);
+    res.end(payload);
+  }
 };
 
 const readJsonBody = (req) => {
@@ -137,7 +169,9 @@ class DashboardServer {
       this.logBuffer.shift();
     }
 
-    this.broadcastSSE('log', logEntry);
+    if (this.sseClients && this.sseClients.size > 0) {
+      this.broadcastSSE('log', logEntry);
+    }
   }
 
   updateStatus(statusStr, explicitEmail = null) {
@@ -152,10 +186,12 @@ class DashboardServer {
     }
     this.statusMessage = statusStr;
 
-    this.broadcastSSE('status_msg', {
-      email: emailKey,
-      text: statusStr
-    });
+    if (this.sseClients && this.sseClients.size > 0) {
+      this.broadcastSSE('status_msg', {
+        email: emailKey,
+        text: statusStr
+      });
+    }
   }
 
   getStatusForAccount(email) {
@@ -173,7 +209,9 @@ class DashboardServer {
 
   setClient(client) {
     this.client = client;
-    this.broadcastSSE('player_state', this.getPlayerState());
+    if (this.sseClients && this.sseClients.size > 0) {
+      this.broadcastSSE('player_state', this.getPlayerState());
+    }
   }
 
   getAllAccounts() {
@@ -277,6 +315,7 @@ class DashboardServer {
   }
 
   broadcastAccountsUpdate() {
+    if (!this.sseClients || this.sseClients.size === 0) return;
     this.broadcastSSE('accounts_update', {
       accounts: this.getAllAccounts(),
       selectedEmail: this.selectedEmail,
@@ -286,12 +325,13 @@ class DashboardServer {
   }
 
   broadcastSSE(type, data) {
+    if (!this.sseClients || this.sseClients.size === 0) return;
     const message = `event: ${type}\ndata: ${JSON.stringify(data)}\n\n`;
-    for (const res of this.sseClients) {
+    for (const client of this.sseClients) {
       try {
-        res.write(message);
+        client.write(message);
       } catch (err) {
-        this.sseClients.delete(res);
+        this.sseClients.delete(client);
       }
     }
   }
@@ -313,19 +353,32 @@ class DashboardServer {
       const urlParts = req.url.split('?');
       const reqPath = urlParts[0];
 
-      // 1. SSE Realtime Stream
+      // 1. SSE Realtime Stream với Gzip
       if (req.method === 'GET' && reqPath === '/events') {
-        res.writeHead(200, {
+        const canGzip = /\bgzip\b/.test(req.headers['accept-encoding'] || '');
+        const sseHeaders = {
           'Content-Type': 'text/event-stream; charset=utf-8',
-          'Cache-Control': 'no-cache',
+          'Cache-Control': 'no-cache, no-transform',
           'Connection': 'keep-alive',
           'X-Accel-Buffering': 'no'
-        });
-        res.write('\n');
+        };
 
-        this.sseClients.add(res);
+        let streamTarget = res;
+        let gzipStream = null;
+        if (canGzip) {
+          sseHeaders['Content-Encoding'] = 'gzip';
+          res.writeHead(200, sseHeaders);
+          gzipStream = zlib.createGzip({ flush: zlib.constants.Z_SYNC_FLUSH });
+          gzipStream.pipe(res);
+          streamTarget = gzipStream;
+        } else {
+          res.writeHead(200, sseHeaders);
+        }
 
-        res.write(`event: init\ndata: ${JSON.stringify({
+        streamTarget.write('\n');
+        this.sseClients.add(streamTarget);
+
+        streamTarget.write(`event: init\ndata: ${JSON.stringify({
           buildId: this.BUILD_ID,
           logs: this.getLogsForAccount(this.selectedEmail),
           statusMsg: this.getStatusForAccount(this.selectedEmail),
@@ -339,42 +392,42 @@ class DashboardServer {
 
         const pingInterval = setInterval(() => {
           try {
-            res.write(':\n\n'); 
-            res.write(`event: player_state\ndata: ${JSON.stringify(this.getPlayerState(this.selectedEmail))}\n\n`);
+            streamTarget.write(':\n\n');
           } catch(err) {
             clearInterval(pingInterval);
           }
-        }, 15000);
+        }, 25000);
 
         req.on('close', () => {
           clearInterval(pingInterval);
-          this.sseClients.delete(res);
+          this.sseClients.delete(streamTarget);
+          if (gzipStream) {
+            try { gzipStream.end(); } catch (e) {}
+          }
         });
         return;
       }
 
       // 2. API: Lấy trạng thái tóm tắt
       if (req.method === 'GET' && reqPath === '/api/status') {
-        res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-        res.end(JSON.stringify({
+        sendCompressedResponse(req, res, 200, {}, {
           accounts: this.getAllAccounts(),
           selectedEmail: this.selectedEmail,
           playerState: this.getPlayerState(this.selectedEmail),
           syncStatus: this.multiManager?.lastSyncStatus,
           noteUrl: this.multiManager?.noteManager?.noteUrl || process.env.NOTE_URL || '',
           noteTitle: this.multiManager?.noteManager?.noteTitle || process.env.NOTE_TITLE || ''
-        }));
+        });
         return;
       }
 
       // 3. API: Danh sách tài khoản
       if (req.method === 'GET' && reqPath === '/api/accounts') {
-        res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-        res.end(JSON.stringify({
+        sendCompressedResponse(req, res, 200, {}, {
           accounts: this.getAllAccounts(),
           selectedEmail: this.selectedEmail,
           syncStatus: this.multiManager?.lastSyncStatus
-        }));
+        });
         return;
       }
 
@@ -383,22 +436,18 @@ class DashboardServer {
         try {
           const body = await readJsonBody(req);
           if (!body.email) {
-            res.writeHead(400, { 'Content-Type': 'application/json' });
-            res.end(JSON.stringify({ success: false, error: 'Thiếu email tài khoản' }));
+            sendCompressedResponse(req, res, 400, {}, { success: false, error: 'Thiếu email tài khoản' });
             return;
           }
 
           if (this.multiManager) {
             const accounts = await this.multiManager.manualToggle(body.email, body.status);
-            res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-            res.end(JSON.stringify({ success: true, accounts: accounts }));
+            sendCompressedResponse(req, res, 200, {}, { success: true, accounts: accounts });
           } else {
-            res.writeHead(500, { 'Content-Type': 'application/json' });
-            res.end(JSON.stringify({ success: false, error: 'MultiAccountManager chưa sẵn sàng' }));
+            sendCompressedResponse(req, res, 500, {}, { success: false, error: 'MultiAccountManager chưa sẵn sàng' });
           }
         } catch (err) {
-          res.writeHead(500, { 'Content-Type': 'application/json; charset=utf-8' });
-          res.end(JSON.stringify({ success: false, error: err.message }));
+          sendCompressedResponse(req, res, 500, {}, { success: false, error: err.message });
         }
         return;
       }
@@ -409,22 +458,22 @@ class DashboardServer {
           const body = await readJsonBody(req);
           if (body.email) {
             this.selectedEmail = body.email;
-            this.broadcastSSE('player_state', this.getPlayerState(body.email));
+            if (this.sseClients && this.sseClients.size > 0) {
+              this.broadcastSSE('player_state', this.getPlayerState(body.email));
+            }
           }
           const curStatus = this.getStatusForAccount(this.selectedEmail);
           const curLogs = this.getLogsForAccount(this.selectedEmail);
 
-          res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-          res.end(JSON.stringify({
+          sendCompressedResponse(req, res, 200, {}, {
             success: true,
             selectedEmail: this.selectedEmail,
             playerState: this.getPlayerState(this.selectedEmail),
             statusMsg: curStatus,
             logs: curLogs
-          }));
+          });
         } catch (err) {
-          res.writeHead(500, { 'Content-Type': 'application/json' });
-          res.end(JSON.stringify({ success: false, error: err.message }));
+          sendCompressedResponse(req, res, 500, {}, { success: false, error: err.message });
         }
         return;
       }
@@ -434,22 +483,18 @@ class DashboardServer {
         try {
           const body = await readJsonBody(req);
           if (!body.email || !body.password) {
-            res.writeHead(400, { 'Content-Type': 'application/json' });
-            res.end(JSON.stringify({ success: false, error: 'Thiếu email hoặc mật khẩu' }));
+            sendCompressedResponse(req, res, 400, {}, { success: false, error: 'Thiếu email hoặc mật khẩu' });
             return;
           }
 
           if (this.multiManager) {
             const accounts = await this.multiManager.manualAdd(body.email, body.password, body.status || 'on', body.serverId);
-            res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-            res.end(JSON.stringify({ success: true, accounts: accounts }));
+            sendCompressedResponse(req, res, 200, {}, { success: true, accounts: accounts });
           } else {
-            res.writeHead(500, { 'Content-Type': 'application/json' });
-            res.end(JSON.stringify({ success: false, error: 'MultiAccountManager chưa sẵn sàng' }));
+            sendCompressedResponse(req, res, 500, {}, { success: false, error: 'MultiAccountManager chưa sẵn sàng' });
           }
         } catch (err) {
-          res.writeHead(500, { 'Content-Type': 'application/json; charset=utf-8' });
-          res.end(JSON.stringify({ success: false, error: err.message }));
+          sendCompressedResponse(req, res, 500, {}, { success: false, error: err.message });
         }
         return;
       }
@@ -459,22 +504,18 @@ class DashboardServer {
         try {
           const body = await readJsonBody(req);
           if (!body.email) {
-            res.writeHead(400, { 'Content-Type': 'application/json' });
-            res.end(JSON.stringify({ success: false, error: 'Thiếu email' }));
+            sendCompressedResponse(req, res, 400, {}, { success: false, error: 'Thiếu email' });
             return;
           }
 
           if (this.multiManager) {
             const accounts = await this.multiManager.manualDelete(body.email);
-            res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-            res.end(JSON.stringify({ success: true, accounts: accounts }));
+            sendCompressedResponse(req, res, 200, {}, { success: true, accounts: accounts });
           } else {
-            res.writeHead(500, { 'Content-Type': 'application/json' });
-            res.end(JSON.stringify({ success: false, error: 'MultiAccountManager chưa sẵn sàng' }));
+            sendCompressedResponse(req, res, 500, {}, { success: false, error: 'MultiAccountManager chưa sẵn sàng' });
           }
         } catch (err) {
-          res.writeHead(500, { 'Content-Type': 'application/json; charset=utf-8' });
-          res.end(JSON.stringify({ success: false, error: err.message }));
+          sendCompressedResponse(req, res, 500, {}, { success: false, error: err.message });
         }
         return;
       }
@@ -484,20 +525,17 @@ class DashboardServer {
         try {
           if (this.multiManager) {
             await this.multiManager.syncWithNote();
-            res.writeHead(200, { 'Content-Type': 'application/json; charset=utf-8' });
-            res.end(JSON.stringify({ success: true, accounts: this.getAllAccounts() }));
+            sendCompressedResponse(req, res, 200, {}, { success: true, accounts: this.getAllAccounts() });
           } else {
-            res.writeHead(500, { 'Content-Type': 'application/json' });
-            res.end(JSON.stringify({ success: false, error: 'MultiAccountManager chưa sẵn sàng' }));
+            sendCompressedResponse(req, res, 500, {}, { success: false, error: 'MultiAccountManager chưa sẵn sàng' });
           }
         } catch (err) {
-          res.writeHead(500, { 'Content-Type': 'application/json; charset=utf-8' });
-          res.end(JSON.stringify({ success: false, error: err.message }));
+          sendCompressedResponse(req, res, 500, {}, { success: false, error: err.message });
         }
         return;
       }
 
-      // 9. Static Files (HTML, CSS, JS)
+      // 9. Static Files (HTML, CSS, JS) với Gzip
       let staticPath = reqPath;
       if (staticPath === '/' || staticPath === '') staticPath = '/index.html';
       if (staticPath === '/config' || staticPath === '/config/') staticPath = '/config.html';
@@ -508,18 +546,17 @@ class DashboardServer {
       if (fullPath.startsWith(PUBLIC_DIR) && fs.existsSync(fullPath) && fs.statSync(fullPath).isFile()) {
         const ext = path.extname(fullPath).toLowerCase();
         const contentType = MIME_TYPES[ext] || 'text/plain; charset=utf-8';
-        res.writeHead(200, {
+        const fileContent = fs.readFileSync(fullPath);
+        sendCompressedResponse(req, res, 200, {
           'Content-Type': contentType,
           'Cache-Control': 'no-cache, no-store, must-revalidate',
           'Pragma': 'no-cache',
           'Expires': '0'
-        });
-        fs.createReadStream(fullPath).pipe(res);
+        }, fileContent);
         return;
       }
 
-      res.writeHead(404, { 'Content-Type': 'text/plain; charset=utf-8' });
-      res.end('404 Not Found');
+      sendCompressedResponse(req, res, 404, { 'Content-Type': 'text/plain; charset=utf-8' }, '404 Not Found');
     });
 
     this.server.listen(this.port, () => {
