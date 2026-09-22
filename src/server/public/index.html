@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Giám Sát Multi-Account 24/7</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/style.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header Thông Tin Hệ Thống -->
+    <header class="app-header">
+      <div class="app-title-group">
+        <h1 class="app-title">👑 AUTO BOT</h1>
+        <div class="app-badge">MULTI-ACCOUNT AUTO 24/7</div>
+      </div>
+      <div class="header-actions">
+        <a href="/config" class="btn btn-primary">
+          <span class="icon">⚙️</span> Quản Lý Tài Khoản (<span id="stat-total-badge">0</span>)
+        </a>
+        <button id="btn-sync-now" class="btn btn-secondary">
+          <span class="icon">🔄</span> Đồng Bộ Note
+        </button>
+        <a id="header-note-link" href="#" target="_blank" class="btn btn-outline">
+          <span class="icon">🔗</span> Mở Web Note
+        </a>
+      </div>
+    </header>
+
+    <!-- Thanh Thống Kê Nhanh -->
+    <div class="stats-bar">
+      <div class="stat-card">
+        <div class="stat-label">Tổng Tài Khoản</div>
+        <div class="stat-val" id="stat-total">0</div>
+      </div>
+      <div class="stat-card stat-success">
+        <div class="stat-label">Đang Bật (ON)</div>
+        <div class="stat-val" id="stat-on">0</div>
+      </div>
+      <div class="stat-card stat-muted">
+        <div class="stat-label">Đã Tắt (OFF)</div>
+        <div class="stat-val" id="stat-off">0</div>
+      </div>
+      <div class="stat-card stat-info">
+        <div class="stat-label">Đồng Bộ Web Note</div>
+        <div class="stat-val text-sm" id="stat-sync">10s/lần</div>
+      </div>
+    </div>
+
+    <!-- Thanh Chuyển Nhanh Tài Khoản Giám Sát (Thay thế bảng to để gọn gàng trang chủ) -->
+    <div class="quick-selector-card">
+      <div class="quick-selector-content">
+        <div class="quick-selector-left">
+          <span class="icon">👤</span>
+          <span class="quick-label">Đang Giám Sát:</span>
+          <select id="select-active-acc" class="main-dropdown">
+            <option value="">Đang tải danh sách tài khoản...</option>
+          </select>
+          <span id="active-acc-status-badge" class="badge badge-running">
+            <span class="dot dot-green"></span> Đang chạy 24/7
+          </span>
+        </div>
+        <div class="quick-selector-right">
+          <a href="/config" class="btn btn-outline btn-sm">
+            <span class="icon">⚙️</span> Quản Lý Toàn Bộ Tài Khoản (/config) ➔
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- Grid Chi Tiết Nhân Vật & Terminal Logs (Hiển thị ngay trên đầu không cần cuộn) -->
+    <div class="grid-container">
+      <!-- Cột Trái: Thông tin nhân vật đang chọn & Tài nguyên -->
+      <div class="sidebar">
+        <div class="card">
+          <div class="card-header flex-between">
+            <div>👤 Thẻ Nhân Vật Đang Xem</div>
+            <a href="/config" style="font-size: 0.8rem; color: var(--accent-blue); text-decoration: none;">Cấu hình ⚙️</a>
+          </div>
+          <div id="player-info" style="display: none;">
+            <div class="player-name" id="p-name">Loading...</div>
+            <div class="player-server" id="p-server">Server: Loading...</div>
+            
+            <div style="margin-top: 1rem;">
+              <div style="display: flex; justify-content: space-between; font-size: 0.875rem;">
+                <span style="color: var(--text-muted)">Cung Vận (Tước Vị)</span>
+                <span id="p-level" style="color: var(--accent-purple); font-weight: 600;">Lv. ?</span>
+              </div>
+              <div class="exp-bar-container">
+                <div id="p-exp-bar" class="exp-bar"></div>
+              </div>
+              <div id="p-exp-text" class="exp-text">0 / 0 EXP</div>
+            </div>
+          </div>
+          <div id="player-loading" class="text-center py-4 text-muted">
+            Chọn một tài khoản đang chạy để xem chi tiết...
+          </div>
+        </div>
+
+        <div class="card">
+          <div class="card-header">💰 Tài Nguyên Quốc Gia</div>
+          <div class="resource-grid">
+            <div class="resource-item full-width flex-between">
+              <div class="resource-label">👑 Cung Vận (EXP)</div>
+              <div class="resource-value text-pink" id="r-cungvan">-- / --</div>
+            </div>
+            <div class="resource-item">
+              <div class="resource-label">🟡 Vàng (KNB)</div>
+              <div class="resource-value text-gold" id="r-gold">--</div>
+            </div>
+            <div class="resource-item">
+              <div class="resource-label">⚪ Bạc</div>
+              <div class="resource-value text-silver" id="r-silver">--</div>
+            </div>
+            <div class="resource-item">
+              <div class="resource-label">🌾 Lương Thực</div>
+              <div class="resource-value text-salmon" id="r-food">--</div>
+            </div>
+            <div class="resource-item">
+              <div class="resource-label">⚔️ Binh Lực</div>
+              <div class="resource-value text-blue" id="r-soldier">--</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Cột Phải: Logs và Status -->
+      <div class="main-content">
+        <div class="status-banner">
+          <div style="font-size: 1.5rem;">⏱️</div>
+          <div id="live-status" class="status-text">
+            Hệ thống Multi-Account đang sẵn sàng...
+          </div>
+        </div>
+
+        <div class="card terminal">
+          <div class="terminal-header">
+            <div class="terminal-title">
+              <span>🖥️ System Terminal Logs</span>
+              <span class="live-dot"></span>
+            </div>
+            <div class="terminal-actions">
+              <label class="auto-scroll-label">
+                <input type="checkbox" id="auto-scroll" checked> Auto-scroll
+              </label>
+              <button class="terminal-action-btn" id="btn-clear">Xóa Log</button>
+            </div>
+          </div>
+          <div class="terminal-content" id="terminal-content">
+            <!-- Logs stream here -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="/app.js"></script>
+</body>
+</html>

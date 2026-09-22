@@ -1,0 +1,4818 @@
+{
+  "1000001": {
+    "name": "Vượt ải Cốt Truyện ",
+    "target": "Hoàn thành Tiết 1-Kết Giao Bằng Hữu",
+    "targetType": 43,
+    "targetValue": 1010101,
+    "description": "Xuyên không sai thời điểm, mơ mơ màng màng tham dự vào cuộc tuyển tú nữ và kết giao bằng hữu."
+  },
+  "1000002": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tùy Tùng tăng đến cấp 10",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000003": {
+    "name": "Vượt ải Cốt Truyện ",
+    "target": "Hoàn thành Tiết 2-Thâm Cung Nghi Sự",
+    "targetType": 43,
+    "targetValue": 1010201,
+    "description": "Tình cờ gặp thái giám xử lý tú nữ rơi xuống nước, thái giám nhìn ngươi kinh ngạc cùng sự buồn tủi về thân phận khiến ngươi bất an. "
+  },
+  "1000004": {
+    "name": "Bán từ thiện",
+    "target": "Hoàn thành bán từ thiện trân phẩm 1 lần",
+    "targetType": 1,
+    "targetValue": 1,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000005": {
+    "name": "Vượt ải Cốt Truyện ",
+    "target": "Hoàn thành Tiết 4-Lần Đầu Tuyển Tú",
+    "targetType": 43,
+    "targetValue": 1010401,
+    "description": "Trên đường tuyển tú gặp hãm hại, ngươi tài tình ứng đối giải quyết. Dù tuyển tú thành công, trong lòng vẫn luôn có ngờ vực."
+  },
+  "1000006": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Cầu Nguyện 1 lần",
+    "targetType": 80,
+    "targetValue": 1,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000007": {
+    "name": "Vượt ải Cốt Truyện ",
+    "target": "Hoàn thành Tiết 6-Dẫn Quỷ Hiện Thân",
+    "targetType": 43,
+    "targetValue": 1010601,
+    "description": "Có người giả thần giả quỷ hù dọa các tú nữ, ý đồ gây rối cuộc tuyển tú nữ, may bị ngươi tóm được."
+  },
+  "1000008": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ 1 lần",
+    "targetType": 4,
+    "targetValue": 1,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000009": {
+    "name": "Vượt ải Cốt Truyện ",
+    "target": "Hoàn thành Tiết 7-Điện Tuyển Bị Hại",
+    "targetType": 43,
+    "targetValue": 1010701,
+    "description": "Nạp Tháp Thanh Liên sai người giở trò đằng sau, hãm hại ngươi sử dụng Yếm Thắng Chi Thuật với Hoàng Thượng, ngươi phát hiện ra thì quyết định tương kế tựu kế. "
+  },
+  "1000010": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Hoàn thành 1 lần Tặng Quà Lam Nhan",
+    "targetType": 58,
+    "targetValue": 1,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000011": {
+    "name": "Giấy ngắn tình dài",
+    "target": "Hoàn thành 1 lần Vân Trung Cẩm Thư",
+    "targetType": 90,
+    "targetValue": 1,
+    "description": "Vân trung thuỳ kí cẩm thư lai, nhạn tự hồi thời...thiếu chủ, con chim béo đó gửi thư tới cho Lam Nhan rồi. "
+  },
+  "1000012": {
+    "name": "Vượt ải Cốt Truyện ",
+    "target": "Hoàn thành Tiết 8-Quân Phản Tướng",
+    "targetType": 43,
+    "targetValue": 1010801,
+    "description": "Trên điện tuyển chọn, Nạp Tháp Thanh Liên khoe khoang nên bị hủy tư cách tuyển tú nữ. Thái độ gặp chuyện không hoảng sợ của ngươi được Hoàng Hậu tán thưởng."
+  },
+  "1000013": {
+    "name": "Bồi dưỡng Tùy Tùng",
+    "target": "Hoàn thành 1 lần bồi dưỡng Tùy Tùng",
+    "targetType": 98,
+    "targetValue": 1,
+    "description": "Trong hậu cung không thể thiếu trợ thủ đắc lực, thiếu chủ chớ xem nhẹ việc bồi dưỡng tùy tùng."
+  },
+  "1000014": {
+    "name": "Vượt ải Cốt Truyện ",
+    "target": "Hoàn thành Tiết 9-Nhập Tuyển Thành Công",
+    "targetType": 43,
+    "targetValue": 1010901,
+    "description": "Tuyển tú thành công không hề xóa tan sự bất an của ngươi, từ ngày mạo nhận danh tính, con đường Bạch Sơn Tú Quyển sẽ không dễ dàng gì."
+  },
+  "1000015": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Hoàn thành 1 lần Dạy Dỗ Kẻ Thù",
+    "targetType": 7,
+    "targetValue": 1,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000016": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 4 lần",
+    "targetType": 1,
+    "targetValue": 4,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000017": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 4 lần",
+    "targetType": 2,
+    "targetValue": 4,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000018": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 4 lần",
+    "targetType": 3,
+    "targetValue": 4,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000019": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 20",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000020": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 7 lần",
+    "targetType": 9,
+    "targetValue": 7,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000021": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 3000",
+    "targetType": 24,
+    "targetValue": 3000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000022": {
+    "name": "Cần cù",
+    "target": "Dùng 1 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 1,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000023": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 20",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000024": {
+    "name": "Tấn tuyển Đáp Ứng",
+    "target": "Tước vị tăng thành Đáp Ứng",
+    "targetType": 23,
+    "targetValue": 2,
+    "description": "Nữ Tú không thể tính là thực sự vào cung, thiếu chủ phải cố gắng để được bầu chọn."
+  },
+  "1000025": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Hoàn thành 1 lần Lam Nhan Du Ngoạn",
+    "targetType": 87,
+    "targetValue": 1,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000026": {
+    "name": "Mạch Thượng Hoa Nở",
+    "target": "Gặp Gỡ Lam Nhan 1 lần",
+    "targetType": 34,
+    "targetValue": 1,
+    "description": "Mạch thượng nhân như ngọc, công tử thế vô song, niểu niểu đình đình song song hoàn. Thiếu chủ làm mọi người ngưỡng mộ quá!"
+  },
+  "1000027": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 20",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000028": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 10 lần",
+    "targetType": 7,
+    "targetValue": 10,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000029": {
+    "name": "Điểm danh nhập cung",
+    "target": "Tích lũy điểm danh 1 ngày",
+    "targetType": 35,
+    "targetValue": 1,
+    "description": "Vào cung được phải hiểu rõ mọi việc trong cung, nhớ điểm danh mỗi ngày, có tặng phúc lợi nhé."
+  },
+  "1000030": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 10 lần",
+    "targetType": 1,
+    "targetValue": 10,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000031": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 10 lần",
+    "targetType": 2,
+    "targetValue": 10,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000032": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 10 lần",
+    "targetType": 3,
+    "targetValue": 10,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000033": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 5 lần",
+    "targetType": 4,
+    "targetValue": 5,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000034": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Chuyện Vui Nhàn Nhã đạt 1 lần",
+    "targetType": 14,
+    "targetValue": 1,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000035": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 6 Tùy Tùng đạt cấp 20",
+    "targetType": 32,
+    "targetValue": 6,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000036": {
+    "name": "Giấy ngắn tình dài",
+    "target": "Hoàn thành chủ đề Vân Trung Cẩm Thư 2 lần",
+    "targetType": 90,
+    "targetValue": 2,
+    "description": "Vân trung thuỳ kí cẩm thư lai, nhạn tự hồi thời...thiếu chủ, con chim béo đó gửi thư tới cho Lam Nhan rồi. "
+  },
+  "1000037": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng Thư Tịch cường hóa tư chất Tùy Tùng 1 lần",
+    "targetType": 55,
+    "targetValue": 1,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000038": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 10000",
+    "targetType": 24,
+    "targetValue": 10000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000039": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 20 lần",
+    "targetType": 9,
+    "targetValue": 20,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000040": {
+    "name": "Thăng đến Thường Tại",
+    "target": "Tước vị tăng thành Thường Tại",
+    "targetType": 23,
+    "targetValue": 3,
+    "description": "Hậu cũng đầy rẫy nguy hiểm, chỉ có tước vị cao mới có tiếng nói, thiếu chủ cố gắng thành Thường Tại đi. "
+  },
+  "1000041": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 1 lần",
+    "targetType": 74,
+    "targetValue": 1,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000042": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 1 lần",
+    "targetType": 10,
+    "targetValue": 1,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000043": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 30",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000044": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 1 lần",
+    "targetType": 99,
+    "targetValue": 1,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000045": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 15 lần",
+    "targetType": 1,
+    "targetValue": 15,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000046": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 15 lần",
+    "targetType": 2,
+    "targetValue": 15,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000047": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 15 lần",
+    "targetType": 3,
+    "targetValue": 15,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000048": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 30",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000049": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 2 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 2,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000050": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 5 lần",
+    "targetType": 14,
+    "targetValue": 5,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000051": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 30",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000052": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Rút thưởng Cây Cầu Nguyện đạt 2 lần",
+    "targetType": 80,
+    "targetValue": 2,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000053": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 6 Tùy Tùng đạt cấp 30",
+    "targetType": 32,
+    "targetValue": 6,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000054": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 20000",
+    "targetType": 24,
+    "targetValue": 20000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000055": {
+    "name": "Giấy ngắn tình dài",
+    "target": "Hoàn thành chủ đề Vân Trung Cẩm Thư 3 lần",
+    "targetType": 90,
+    "targetValue": 3,
+    "description": "Vân trung thuỳ kí cẩm thư lai, nhạn tự hồi thời...thiếu chủ, con chim béo đó gửi thư tới cho Lam Nhan rồi. "
+  },
+  "1000056": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 20 lần",
+    "targetType": 7,
+    "targetValue": 20,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000057": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 8 lần",
+    "targetType": 4,
+    "targetValue": 8,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000058": {
+    "name": "Điểm danh nhập cung",
+    "target": "Tích lũy điểm danh 2 ngày",
+    "targetType": 35,
+    "targetValue": 2,
+    "description": "Vào cung được phải hiểu rõ mọi việc trong cung, nhớ điểm danh mỗi ngày, có tặng phúc lợi nhé."
+  },
+  "1000059": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 1 lần",
+    "targetType": 11,
+    "targetValue": 1,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000060": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 1 lần",
+    "targetType": 100,
+    "targetValue": 1,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000061": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 25 lần",
+    "targetType": 1,
+    "targetValue": 25,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000062": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 25 lần",
+    "targetType": 2,
+    "targetValue": 25,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000063": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 25 lần",
+    "targetType": 3,
+    "targetValue": 25,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000064": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 35",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000065": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 15 lần",
+    "targetType": 14,
+    "targetValue": 15,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000066": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 10 lần",
+    "targetType": 4,
+    "targetValue": 10,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000067": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 2 lần",
+    "targetType": 58,
+    "targetValue": 2,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000068": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 5 lần",
+    "targetType": 45,
+    "targetValue": 5,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000069": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt đến 30000",
+    "targetType": 24,
+    "targetValue": 30000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000070": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 25 lần",
+    "targetType": 9,
+    "targetValue": 25,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000071": {
+    "name": "Tăng cấp Quý Nhân",
+    "target": "Tước vị tăng thành Quý Nhân",
+    "targetType": 23,
+    "targetValue": 4,
+    "description": "Hậu cung tràn ngập nguy hiểm, chỉ có tước vị cao thì lời nói mới có giá trị, thiếu chủ hãy cố gắng thành Trắc Tần"
+  },
+  "1000072": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 5 lần",
+    "targetType": 87,
+    "targetValue": 5,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000073": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 35",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000074": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 5 lần",
+    "targetType": 99,
+    "targetValue": 5,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000075": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 30 lần",
+    "targetType": 1,
+    "targetValue": 30,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000076": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 30 lần",
+    "targetType": 2,
+    "targetValue": 30,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000077": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 30 lần",
+    "targetType": 3,
+    "targetValue": 30,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000078": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 30 lần",
+    "targetType": 7,
+    "targetValue": 30,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000079": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 15 lần",
+    "targetType": 4,
+    "targetValue": 15,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000080": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 35",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000081": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Rút thưởng Cây Cầu Nguyện đạt 3 lần",
+    "targetType": 80,
+    "targetValue": 3,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000082": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 1 Sủng",
+    "targetType": 102,
+    "targetValue": 1,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000083": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 1 lần",
+    "targetType": 101,
+    "targetValue": 1,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000084": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 30 lần",
+    "targetType": 9,
+    "targetValue": 30,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000085": {
+    "name": "Quản lý Thế lực",
+    "target": " Thế lực đạt đến 40000",
+    "targetType": 24,
+    "targetValue": 40000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000086": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 2 lần",
+    "targetType": 10,
+    "targetValue": 2,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000087": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 3 lần",
+    "targetType": 58,
+    "targetValue": 3,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000088": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 40",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000089": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 40",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000090": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 40",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000091": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 40",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000092": {
+    "name": "Điểm danh nhập cung",
+    "target": "Tích lũy điểm danh 3 ngày",
+    "targetType": 35,
+    "targetValue": 3,
+    "description": "Vào cung được phải hiểu rõ mọi việc trong cung, nhớ điểm danh mỗi ngày, có tặng phúc lợi nhé."
+  },
+  "1000093": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 3 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 3,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000094": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 20 lần",
+    "targetType": 4,
+    "targetValue": 20,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000095": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 4 lần",
+    "targetType": 58,
+    "targetValue": 4,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000096": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 35 lần",
+    "targetType": 9,
+    "targetValue": 35,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000097": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 10 lần",
+    "targetType": 100,
+    "targetValue": 10,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000098": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 35 lần",
+    "targetType": 1,
+    "targetValue": 35,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000099": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 35 lần",
+    "targetType": 2,
+    "targetValue": 35,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000100": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 35 lần",
+    "targetType": 3,
+    "targetValue": 35,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000101": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 10 lần",
+    "targetType": 45,
+    "targetValue": 10,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000102": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 45",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000103": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 50000",
+    "targetType": 24,
+    "targetValue": 50000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000104": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 25 lần",
+    "targetType": 4,
+    "targetValue": 25,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000105": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 30 lần",
+    "targetType": 14,
+    "targetValue": 30,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000106": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 40 lần",
+    "targetType": 9,
+    "targetValue": 40,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000107": {
+    "name": "Tăng thành Thứ Tần",
+    "target": "Tước vị tăng thành Thứ Tần",
+    "targetType": 23,
+    "targetValue": 5,
+    "description": "Hậu cung vô vàn hiểm nguy, chỉ có tước vị cao mới có đất dụng võ, thiếu chủ hãy cố gắng thành Thứ Tần."
+  },
+  "1000108": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Rút thưởng Cây Cầu Nguyện đạt 4 lần",
+    "targetType": 80,
+    "targetValue": 4,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000109": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 2 lần",
+    "targetType": 11,
+    "targetValue": 2,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000110": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 45",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000111": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 10 lần",
+    "targetType": 87,
+    "targetValue": 10,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000112": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 20 lần",
+    "targetType": 99,
+    "targetValue": 20,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000113": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 40 lần",
+    "targetType": 1,
+    "targetValue": 40,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000114": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 40 lần",
+    "targetType": 2,
+    "targetValue": 40,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000115": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 40 lần",
+    "targetType": 3,
+    "targetValue": 40,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000116": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 45",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000117": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 15 lần",
+    "targetType": 87,
+    "targetValue": 15,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000118": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 50 lần",
+    "targetType": 9,
+    "targetValue": 50,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000119": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 4 lần",
+    "targetType": 10,
+    "targetValue": 4,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000120": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 50",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000121": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 2 Sủng",
+    "targetType": 102,
+    "targetValue": 2,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000122": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 10 lần",
+    "targetType": 101,
+    "targetValue": 10,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000123": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 50",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000124": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 60000",
+    "targetType": 24,
+    "targetValue": 60000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000125": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 1 lần",
+    "targetType": 16,
+    "targetValue": 1,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000126": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 30 lần",
+    "targetType": 4,
+    "targetValue": 30,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000127": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 50",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000128": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 50 lần",
+    "targetType": 7,
+    "targetValue": 50,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000129": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 60 lần",
+    "targetType": 14,
+    "targetValue": 60,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000130": {
+    "name": "Điểm danh nhập cung",
+    "target": "Tích lũy điểm danh 4 ngày",
+    "targetType": 35,
+    "targetValue": 4,
+    "description": "Vào cung được phải hiểu rõ mọi việc trong cung, nhớ điểm danh mỗi ngày, có tặng phúc lợi nhé."
+  },
+  "1000131": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 5 lần",
+    "targetType": 74,
+    "targetValue": 5,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000132": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 60",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000133": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 8 lần",
+    "targetType": 58,
+    "targetValue": 8,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000134": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 45 lần",
+    "targetType": 1,
+    "targetValue": 45,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000135": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 45 lần",
+    "targetType": 2,
+    "targetValue": 45,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000136": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 45 lần",
+    "targetType": 3,
+    "targetValue": 45,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000137": {
+    "name": "Giấy ngắn tình dài",
+    "target": "Hoàn thành chủ đề Vân Trung Cẩm Thư 5 lần",
+    "targetType": 90,
+    "targetValue": 5,
+    "description": "Vân trung thuỳ kí cẩm thư lai, nhạn tự hồi thời...thiếu chủ, con chim béo đó gửi thư tới cho Lam Nhan rồi. "
+  },
+  "1000138": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 60",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000139": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 60",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000140": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng sách cường hóa tư chất Tùy Tùng 2 lần",
+    "targetType": 55,
+    "targetValue": 2,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000141": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 70000",
+    "targetType": 24,
+    "targetValue": 70000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000142": {
+    "name": "Chiêu Tài Meo",
+    "target": "Mua đạo cụ bất kỳ ở Thương Thành 1 lần",
+    "targetType": 49,
+    "targetValue": 1,
+    "description": "Thiếu chủ, có thể mua trong Shop, để họ biết Thiếu chủ không dễ bắt nạt."
+  },
+  "1000143": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 15 lần",
+    "targetType": 45,
+    "targetValue": 15,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000144": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 5 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 5,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000145": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 2 lần",
+    "targetType": 63,
+    "targetValue": 2,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000146": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 60",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000147": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 30 lần",
+    "targetType": 100,
+    "targetValue": 30,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000148": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 50 lần",
+    "targetType": 1,
+    "targetValue": 50,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000149": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 50 lần",
+    "targetType": 2,
+    "targetValue": 50,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000150": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 50 lần",
+    "targetType": 3,
+    "targetValue": 50,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000151": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 1 lần",
+    "targetType": 103,
+    "targetValue": 1,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000152": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 55 lần",
+    "targetType": 9,
+    "targetValue": 55,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000153": {
+    "name": "Trăắc Phi Tiến Bộ",
+    "target": "Tước vị tăng thành Trắc Tần",
+    "targetType": 23,
+    "targetValue": 6,
+    "description": "Hậu cung tràn ngập nguy hiểm, chỉ có tước vị cao thì lời nói mới có giá trị, thiếu chủ hãy cố gắng thành Trắc Tần."
+  },
+  "1000154": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 3 lần",
+    "targetType": 11,
+    "targetValue": 3,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000155": {
+    "name": "Điểm danh nhập cung",
+    "target": "Tích lũy điểm danh 5 ngày",
+    "targetType": 35,
+    "targetValue": 5,
+    "description": "Vào cung được phải hiểu rõ mọi việc trong cung, nhớ điểm danh mỗi ngày, có tặng phúc lợi nhé."
+  },
+  "1000156": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 70",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000157": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 40 lần",
+    "targetType": 99,
+    "targetValue": 40,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000158": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 55 lần",
+    "targetType": 1,
+    "targetValue": 55,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000159": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 55 lần",
+    "targetType": 2,
+    "targetValue": 55,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000160": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 55 lần",
+    "targetType": 3,
+    "targetValue": 55,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000161": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 60 lần",
+    "targetType": 9,
+    "targetValue": 60,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000162": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 80000",
+    "targetType": 24,
+    "targetValue": 80000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000163": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 8 lần",
+    "targetType": 10,
+    "targetValue": 8,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000164": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 35 lần",
+    "targetType": 4,
+    "targetValue": 35,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000165": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 70",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000166": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 10 lần",
+    "targetType": 16,
+    "targetValue": 10,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000167": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 10 lần",
+    "targetType": 74,
+    "targetValue": 10,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000168": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 12 lần",
+    "targetType": 58,
+    "targetValue": 12,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000169": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 70",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000170": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 3 Sủng",
+    "targetType": 102,
+    "targetValue": 3,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000171": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 30 lần",
+    "targetType": 101,
+    "targetValue": 30,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000172": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 70",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000173": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 90 lần",
+    "targetType": 14,
+    "targetValue": 90,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000174": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 80 lần",
+    "targetType": 7,
+    "targetValue": 80,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000175": {
+    "name": "Giấy ngắn tình dài",
+    "target": "Hoàn thành chủ đề Vân Trung Cẩm Thư 10 lần ",
+    "targetType": 90,
+    "targetValue": 10,
+    "description": "Vân trung thuỳ kí cẩm thư lai, nhạn tự hồi thời...thiếu chủ, con chim béo đó gửi thư tới cho Lam Nhan rồi. "
+  },
+  "1000176": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 90000",
+    "targetType": 24,
+    "targetValue": 90000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000177": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 60 lần",
+    "targetType": 1,
+    "targetValue": 60,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000178": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 60 lần",
+    "targetType": 2,
+    "targetValue": 60,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000179": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 60 lần",
+    "targetType": 3,
+    "targetValue": 60,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000180": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 10 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 10,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000181": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng sách cường hóa tư chất Tùy Tùng 3 lần",
+    "targetType": 55,
+    "targetValue": 3,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000182": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 5 lần ",
+    "targetType": 63,
+    "targetValue": 5,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000183": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 1 lần",
+    "targetType": 82,
+    "targetValue": 1,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000184": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 20 lần",
+    "targetType": 87,
+    "targetValue": 20,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000185": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 40 lần",
+    "targetType": 4,
+    "targetValue": 40,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000186": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 20 lần",
+    "targetType": 74,
+    "targetValue": 20,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000187": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 70 lần",
+    "targetType": 9,
+    "targetValue": 70,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000188": {
+    "name": "Điểm danh nhập cung",
+    "target": "Tích lũy điểm danh 6 ngày",
+    "targetType": 35,
+    "targetValue": 6,
+    "description": "Vào cung được phải hiểu rõ mọi việc trong cung, nhớ điểm danh mỗi ngày, có tặng phúc lợi nhé."
+  },
+  "1000189": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 60 lần",
+    "targetType": 100,
+    "targetValue": 60,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000190": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 65 lần",
+    "targetType": 1,
+    "targetValue": 65,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000191": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 65 lần",
+    "targetType": 2,
+    "targetValue": 65,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000192": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 65 lần",
+    "targetType": 3,
+    "targetValue": 65,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000193": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 25 lần",
+    "targetType": 87,
+    "targetValue": 25,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000194": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 130 lần",
+    "targetType": 14,
+    "targetValue": 130,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000195": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 7 lần",
+    "targetType": 63,
+    "targetValue": 7,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000196": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 50 lần",
+    "targetType": 4,
+    "targetValue": 50,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000197": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 2 lần",
+    "targetType": 103,
+    "targetValue": 2,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000198": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 100000",
+    "targetType": 24,
+    "targetValue": 100000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000199": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 80",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000200": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng thư tịch cường hóa tư chất tùy tùng 5 lần",
+    "targetType": 55,
+    "targetValue": 5,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000201": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 15 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 15,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000202": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 80 lần",
+    "targetType": 9,
+    "targetValue": 80,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000203": {
+    "name": "Thăng lên tước vị Chủ Tần ",
+    "target": "Tước vị tăng thành Chủ Tần",
+    "targetType": 23,
+    "targetValue": 7,
+    "description": "Hậu cung đầy nguy cơ, chỉ có vị trí cao mới có tiếng nói, thiếu chủ cố gắng thăng làm Chủ Tần nhé."
+  },
+  "1000204": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 70 lần",
+    "targetType": 99,
+    "targetValue": 70,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000205": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 70 lần",
+    "targetType": 1,
+    "targetValue": 70,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000206": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 70 lần",
+    "targetType": 2,
+    "targetValue": 70,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000207": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 70 lần",
+    "targetType": 3,
+    "targetValue": 70,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000208": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 4 lần",
+    "targetType": 11,
+    "targetValue": 4,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000209": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 4 Sủng",
+    "targetType": 102,
+    "targetValue": 4,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000210": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 50 lần",
+    "targetType": 101,
+    "targetValue": 50,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000211": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 80",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000212": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 85 lần",
+    "targetType": 9,
+    "targetValue": 85,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000213": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 110000",
+    "targetType": 24,
+    "targetValue": 110000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000214": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 12 lần",
+    "targetType": 10,
+    "targetValue": 12,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000215": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 60 lần",
+    "targetType": 4,
+    "targetValue": 60,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000216": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 80",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000217": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 20 lần",
+    "targetType": 16,
+    "targetValue": 20,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000218": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 40 lần",
+    "targetType": 74,
+    "targetValue": 40,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000219": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 20 lần",
+    "targetType": 58,
+    "targetValue": 20,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000220": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 80",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000221": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 160 lần",
+    "targetType": 14,
+    "targetValue": 160,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000222": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 100 lần",
+    "targetType": 7,
+    "targetValue": 100,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000223": {
+    "name": "Giấy ngắn tình dài",
+    "target": "Hoàn thành chủ đề Vân Trung Cẩm Thư 20 lần",
+    "targetType": 90,
+    "targetValue": 20,
+    "description": "Vân trung thuỳ kí cẩm thư lai, nhạn tự hồi thời...thiếu chủ, con chim béo đó gửi thư tới cho Lam Nhan rồi. "
+  },
+  "1000224": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng Thư Tịch cường hóa tư chất Tùy Tùng 7 lần",
+    "targetType": 55,
+    "targetValue": 7,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000225": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 120000",
+    "targetType": 24,
+    "targetValue": 120000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000226": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 75 lần",
+    "targetType": 1,
+    "targetValue": 75,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000227": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 75 lần",
+    "targetType": 2,
+    "targetValue": 75,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000228": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 75 lần",
+    "targetType": 3,
+    "targetValue": 75,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000229": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 20 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 20,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000230": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 9 lần",
+    "targetType": 63,
+    "targetValue": 9,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000231": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 3 lần",
+    "targetType": 82,
+    "targetValue": 3,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000232": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 35 lần",
+    "targetType": 87,
+    "targetValue": 35,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000233": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 70 lần",
+    "targetType": 4,
+    "targetValue": 70,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000234": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 60 lần",
+    "targetType": 74,
+    "targetValue": 60,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000235": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 90 lần",
+    "targetType": 9,
+    "targetValue": 90,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000236": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 90",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000237": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 80 lần",
+    "targetType": 1,
+    "targetValue": 80,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000238": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 80 lần",
+    "targetType": 2,
+    "targetValue": 80,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000239": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 80 lần",
+    "targetType": 3,
+    "targetValue": 80,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000240": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 40 lần",
+    "targetType": 87,
+    "targetValue": 40,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000241": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 18 lần",
+    "targetType": 10,
+    "targetValue": 18,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000242": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 200 lần",
+    "targetType": 14,
+    "targetValue": 200,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000243": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 40 lần",
+    "targetType": 16,
+    "targetValue": 40,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000244": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 90",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000245": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 90",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000246": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 90",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000247": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 80 lần",
+    "targetType": 4,
+    "targetValue": 80,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000248": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 95 lần",
+    "targetType": 9,
+    "targetValue": 95,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000249": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 130000",
+    "targetType": 24,
+    "targetValue": 130000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000250": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": " Sử dụng sách cường hóa tư chất Tùy Tùng 9 lần ",
+    "targetType": 55,
+    "targetValue": 9,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000251": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 25 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 25,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000252": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 120 lần",
+    "targetType": 100,
+    "targetValue": 120,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000253": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 85 lần",
+    "targetType": 1,
+    "targetValue": 85,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000254": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 85 lần",
+    "targetType": 2,
+    "targetValue": 85,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000255": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 85 lần",
+    "targetType": 3,
+    "targetValue": 85,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000256": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 100",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000257": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 100",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000258": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 100",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000259": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 90 lần",
+    "targetType": 4,
+    "targetValue": 90,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000260": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 240 lần",
+    "targetType": 14,
+    "targetValue": 240,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000261": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 30 lần",
+    "targetType": 58,
+    "targetValue": 30,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000262": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 50 lần",
+    "targetType": 87,
+    "targetValue": 50,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000263": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 3 lần",
+    "targetType": 103,
+    "targetValue": 3,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000264": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 140000",
+    "targetType": 24,
+    "targetValue": 140000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000265": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 90 lần",
+    "targetType": 1,
+    "targetValue": 90,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000266": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 90 lần",
+    "targetType": 2,
+    "targetValue": 90,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000267": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 90 lần",
+    "targetType": 3,
+    "targetValue": 90,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000268": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 110",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000269": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 110",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000270": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 110",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000271": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 100 lần",
+    "targetType": 9,
+    "targetValue": 100,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000272": {
+    "name": "Tăng thành Thứ Quý Tần",
+    "target": "Tước vị tăng thành Thứ Quý Phi",
+    "targetType": 23,
+    "targetValue": 8,
+    "description": "Hậu cung đầy nguy cơ, chỉ có danh phận cao mới có chỗ nói chuyện, thiếu chủ cố gắng thành Gia Quý Tần đi. "
+  },
+  "1000273": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 25 lần",
+    "targetType": 10,
+    "targetValue": 25,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000274": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 80 lần",
+    "targetType": 16,
+    "targetValue": 80,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000275": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 100 lần",
+    "targetType": 99,
+    "targetValue": 100,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000276": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 100 lần",
+    "targetType": 1,
+    "targetValue": 100,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000277": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 100 lần",
+    "targetType": 2,
+    "targetValue": 100,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000278": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 100 lần",
+    "targetType": 3,
+    "targetValue": 100,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000279": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 6 lần",
+    "targetType": 11,
+    "targetValue": 6,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000280": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 120",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000281": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 40 lần",
+    "targetType": 58,
+    "targetValue": 40,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000282": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 105 lần",
+    "targetType": 9,
+    "targetValue": 105,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000283": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt tới 160000",
+    "targetType": 24,
+    "targetValue": 160000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000284": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 100 lần",
+    "targetType": 4,
+    "targetValue": 100,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000285": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 2 Tùy Tùng đạt cấp 120",
+    "targetType": 32,
+    "targetValue": 2,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000286": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 6 Sủng",
+    "targetType": 102,
+    "targetValue": 6,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000287": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 100 lần",
+    "targetType": 101,
+    "targetValue": 100,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000288": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 120",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000289": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 80 lần",
+    "targetType": 74,
+    "targetValue": 80,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000290": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 4 Tùy Tùng đạt cấp 120",
+    "targetType": 32,
+    "targetValue": 4,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000291": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 280 lần",
+    "targetType": 14,
+    "targetValue": 280,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000292": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 150 lần",
+    "targetType": 7,
+    "targetValue": 150,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000293": {
+    "name": "Giấy ngắn tình dài",
+    "target": "Hoàn thành chủ đề Vân Trung cẩm Thư 25 lần",
+    "targetType": 90,
+    "targetValue": 25,
+    "description": "Vân trung thuỳ kí cẩm thư lai, nhạn tự hồi thời...thiếu chủ, con chim béo đó gửi thư tới cho Lam Nhan rồi. "
+  },
+  "1000294": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng Thư Tịch cường hóa tư chất tùy tùng 12 lần",
+    "targetType": 55,
+    "targetValue": 12,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000295": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 180000",
+    "targetType": 24,
+    "targetValue": 180000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000296": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 120 lần",
+    "targetType": 1,
+    "targetValue": 120,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000297": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 120 lần",
+    "targetType": 2,
+    "targetValue": 120,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000298": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 120 lần",
+    "targetType": 3,
+    "targetValue": 120,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000299": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 30 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 30,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000300": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 15 lần",
+    "targetType": 63,
+    "targetValue": 15,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000301": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 5 lần",
+    "targetType": 82,
+    "targetValue": 5,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000302": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 60 lần",
+    "targetType": 87,
+    "targetValue": 60,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000303": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 110 lần",
+    "targetType": 4,
+    "targetValue": 110,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000304": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 120 lần",
+    "targetType": 74,
+    "targetValue": 120,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000305": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 110 lần",
+    "targetType": 9,
+    "targetValue": 110,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000306": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 130",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000307": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 130",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000308": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 130",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000309": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 130",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000310": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 140 lần",
+    "targetType": 74,
+    "targetValue": 140,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000311": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 140 lần",
+    "targetType": 1,
+    "targetValue": 140,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000312": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 140 lần",
+    "targetType": 2,
+    "targetValue": 140,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000313": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 140 lần",
+    "targetType": 3,
+    "targetValue": 140,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000314": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 70 lần",
+    "targetType": 87,
+    "targetValue": 70,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000315": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 30 lần",
+    "targetType": 10,
+    "targetValue": 30,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000316": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 320 lần",
+    "targetType": 14,
+    "targetValue": 320,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000317": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 20 lần",
+    "targetType": 63,
+    "targetValue": 20,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000318": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 130 lần",
+    "targetType": 4,
+    "targetValue": 130,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000319": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt đến 200000",
+    "targetType": 24,
+    "targetValue": 200000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000320": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng Thư Tịch cường hóa tư chất tùy tùng 14 lần",
+    "targetType": 55,
+    "targetValue": 14,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000321": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 35 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 35,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000322": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 250 lần",
+    "targetType": 100,
+    "targetValue": 250,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000323": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 160 lần",
+    "targetType": 1,
+    "targetValue": 160,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000324": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 160 lần",
+    "targetType": 2,
+    "targetValue": 160,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000325": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 160 lần",
+    "targetType": 3,
+    "targetValue": 160,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000326": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 140",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000327": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 140",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000328": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 140",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000329": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 140",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000330": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 115 lần",
+    "targetType": 9,
+    "targetValue": 115,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000331": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 160 lần",
+    "targetType": 4,
+    "targetValue": 160,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000332": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 360 lần",
+    "targetType": 14,
+    "targetValue": 360,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000333": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 50 lần",
+    "targetType": 58,
+    "targetValue": 50,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000334": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 145",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000335": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 145",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000336": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 145",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000337": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 145",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000338": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 400 lần",
+    "targetType": 14,
+    "targetValue": 400,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000339": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 200 lần",
+    "targetType": 7,
+    "targetValue": 200,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000340": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 80 lần",
+    "targetType": 87,
+    "targetValue": 80,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000341": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 4 lần",
+    "targetType": 103,
+    "targetValue": 4,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000342": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 220000",
+    "targetType": 24,
+    "targetValue": 220000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000343": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 180 lần",
+    "targetType": 1,
+    "targetValue": 180,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000344": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 180 lần",
+    "targetType": 2,
+    "targetValue": 180,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000345": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 180 lần",
+    "targetType": 3,
+    "targetValue": 180,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000346": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 150",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000347": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 150",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000348": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 150",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000349": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 420 lần",
+    "targetType": 14,
+    "targetValue": 420,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000350": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 120 lần",
+    "targetType": 9,
+    "targetValue": 120,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000351": {
+    "name": "Tiến bộ trắc quý tần",
+    "target": "Tước vị tăng thành Trắc Quý Tần",
+    "targetType": 23,
+    "targetValue": 9,
+    "description": "Hậu cung rất nguy hiểm, chí có chức vị cao mới được nói chuyện, thiếu chủ hãy cố gắng trở thành Trắc Quý Tần."
+  },
+  "1000352": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 60 lần",
+    "targetType": 58,
+    "targetValue": 60,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000353": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 10 lần",
+    "targetType": 11,
+    "targetValue": 10,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000354": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 150 lần",
+    "targetType": 99,
+    "targetValue": 150,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000355": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 200 lần",
+    "targetType": 1,
+    "targetValue": 200,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000356": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 200 lần",
+    "targetType": 2,
+    "targetValue": 200,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000357": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 200 lần",
+    "targetType": 3,
+    "targetValue": 200,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000358": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 160",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000359": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 160",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000360": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 125 lần",
+    "targetType": 9,
+    "targetValue": 125,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000361": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt đến 240000",
+    "targetType": 24,
+    "targetValue": 240000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000362": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 40 lần",
+    "targetType": 10,
+    "targetValue": 40,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000363": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 130 lần",
+    "targetType": 16,
+    "targetValue": 130,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000364": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 200 lần",
+    "targetType": 4,
+    "targetValue": 200,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000365": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 180 lần",
+    "targetType": 74,
+    "targetValue": 180,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000366": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 170",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000367": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 7 Sủng",
+    "targetType": 102,
+    "targetValue": 7,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000368": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 170 lần",
+    "targetType": 101,
+    "targetValue": 170,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000369": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 170",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000370": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 440 lần",
+    "targetType": 14,
+    "targetValue": 440,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000371": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 300 lần",
+    "targetType": 7,
+    "targetValue": 300,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000372": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 200 lần",
+    "targetType": 45,
+    "targetValue": 200,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000373": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng Thư Tịch cường hóa tư chất tùy tùng 16 lần",
+    "targetType": 55,
+    "targetValue": 16,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000374": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 260000",
+    "targetType": 24,
+    "targetValue": 260000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000375": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 220 lần",
+    "targetType": 1,
+    "targetValue": 220,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000376": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 220 lần",
+    "targetType": 2,
+    "targetValue": 220,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000377": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 220 lần",
+    "targetType": 3,
+    "targetValue": 220,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000378": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 40 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 40,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000379": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 30 lần",
+    "targetType": 63,
+    "targetValue": 30,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000380": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 7 lần",
+    "targetType": 82,
+    "targetValue": 7,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000381": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 100 lần",
+    "targetType": 87,
+    "targetValue": 100,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000382": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 250 lần",
+    "targetType": 4,
+    "targetValue": 250,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000383": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 250 lần",
+    "targetType": 74,
+    "targetValue": 250,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000384": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 130 lần",
+    "targetType": 9,
+    "targetValue": 130,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000385": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 180",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000386": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 180",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000387": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 240 lần",
+    "targetType": 1,
+    "targetValue": 240,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000388": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 240 lần",
+    "targetType": 2,
+    "targetValue": 240,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000389": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 240 lần",
+    "targetType": 3,
+    "targetValue": 240,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000390": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 120 lần",
+    "targetType": 87,
+    "targetValue": 120,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000391": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 60 lần",
+    "targetType": 10,
+    "targetValue": 60,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000392": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 500 lần",
+    "targetType": 14,
+    "targetValue": 500,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000393": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 40 lần",
+    "targetType": 63,
+    "targetValue": 40,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000394": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 300 lần",
+    "targetType": 4,
+    "targetValue": 300,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000395": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 280000",
+    "targetType": 24,
+    "targetValue": 280000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000396": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng Thư Tịch cường hóa tư chất Tùy Tùng 20 lần",
+    "targetType": 55,
+    "targetValue": 20,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000397": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 45 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 45,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000398": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 400 lần",
+    "targetType": 100,
+    "targetValue": 400,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000399": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 260 lần",
+    "targetType": 1,
+    "targetValue": 260,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000400": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 260 lần",
+    "targetType": 2,
+    "targetValue": 260,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000401": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 260 lần",
+    "targetType": 3,
+    "targetValue": 260,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000402": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 190",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000403": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 190",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000404": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 135 lần",
+    "targetType": 9,
+    "targetValue": 135,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000405": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 400 lần",
+    "targetType": 4,
+    "targetValue": 400,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000406": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 600 lần",
+    "targetType": 14,
+    "targetValue": 600,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000407": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 70 lần",
+    "targetType": 58,
+    "targetValue": 70,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000408": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 200",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000409": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 200",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000410": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 700 lần",
+    "targetType": 14,
+    "targetValue": 700,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000411": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 400 lần",
+    "targetType": 7,
+    "targetValue": 400,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000412": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 140 lần",
+    "targetType": 87,
+    "targetValue": 140,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000413": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 5 lần",
+    "targetType": 103,
+    "targetValue": 5,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000414": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt tới 300000",
+    "targetType": 24,
+    "targetValue": 300000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000415": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 280 lần",
+    "targetType": 1,
+    "targetValue": 280,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000416": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 280 lần",
+    "targetType": 2,
+    "targetValue": 280,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000417": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 280 lần",
+    "targetType": 3,
+    "targetValue": 280,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000418": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 200",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000419": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 140 lần",
+    "targetType": 9,
+    "targetValue": 140,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000420": {
+    "name": "Thăng Chưởng Chủ Quý Tần",
+    "target": "Tước vị tăng thành Chủ Quý Tần",
+    "targetType": 23,
+    "targetValue": 10,
+    "description": "Hậu cung nhiều nguy hiểm, chỉ có chức vị cao mới được nói chuyện, thiếu chủ cố gắng tăng lên Chủ Quý Tần nhé."
+  },
+  "1000421": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 220 lần",
+    "targetType": 16,
+    "targetValue": 220,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000422": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 200 lần",
+    "targetType": 99,
+    "targetValue": 200,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000423": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 300 lần",
+    "targetType": 1,
+    "targetValue": 300,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000424": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 300 lần",
+    "targetType": 2,
+    "targetValue": 300,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000425": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 300 lần",
+    "targetType": 3,
+    "targetValue": 300,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000426": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 210",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000427": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 210",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000428": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 8 Sủng",
+    "targetType": 102,
+    "targetValue": 8,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000429": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 250 lần",
+    "targetType": 101,
+    "targetValue": 250,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000430": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 210",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000431": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 145 lần",
+    "targetType": 9,
+    "targetValue": 145,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000432": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 320000",
+    "targetType": 24,
+    "targetValue": 320000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000433": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 80 lần",
+    "targetType": 58,
+    "targetValue": 80,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000434": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 40 lần",
+    "targetType": 11,
+    "targetValue": 40,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000435": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 80 lần",
+    "targetType": 10,
+    "targetValue": 80,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000436": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 500 lần",
+    "targetType": 4,
+    "targetValue": 500,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000437": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 300 lần",
+    "targetType": 74,
+    "targetValue": 300,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000438": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 220",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000439": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 220",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000440": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 220",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000441": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 220",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000442": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 800 lần",
+    "targetType": 14,
+    "targetValue": 800,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000443": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 600 lần",
+    "targetType": 7,
+    "targetValue": 600,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000444": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 250 lần",
+    "targetType": 45,
+    "targetValue": 250,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000445": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng thư tịch cường hoá tư chất Tuỳ Tùng 24 lần",
+    "targetType": 55,
+    "targetValue": 24,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000446": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 340000",
+    "targetType": 24,
+    "targetValue": 340000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000447": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 340 lần",
+    "targetType": 1,
+    "targetValue": 340,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000448": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 340 lần",
+    "targetType": 2,
+    "targetValue": 340,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000449": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 340 lần",
+    "targetType": 3,
+    "targetValue": 340,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000450": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 50 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 50,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000451": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 60 lần",
+    "targetType": 63,
+    "targetValue": 60,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000452": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 10 lần",
+    "targetType": 82,
+    "targetValue": 10,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000453": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 160 lần",
+    "targetType": 87,
+    "targetValue": 160,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000454": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 600 lần",
+    "targetType": 4,
+    "targetValue": 600,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000455": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 400 lần",
+    "targetType": 74,
+    "targetValue": 400,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000456": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 150 lần",
+    "targetType": 9,
+    "targetValue": 150,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000457": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 230",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000458": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 230",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000459": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 230",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000460": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 230",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000461": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 380 lần",
+    "targetType": 1,
+    "targetValue": 380,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000462": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 380 lần",
+    "targetType": 2,
+    "targetValue": 380,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000463": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 380 lần",
+    "targetType": 3,
+    "targetValue": 380,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000464": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 200 lần",
+    "targetType": 87,
+    "targetValue": 200,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000465": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 110 lần",
+    "targetType": 10,
+    "targetValue": 110,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000466": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 900 lần",
+    "targetType": 14,
+    "targetValue": 900,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000467": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 80 lần",
+    "targetType": 63,
+    "targetValue": 80,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000468": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 700 lần",
+    "targetType": 4,
+    "targetValue": 700,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000469": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 155 lần",
+    "targetType": 9,
+    "targetValue": 155,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000470": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 360000",
+    "targetType": 24,
+    "targetValue": 360000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000471": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng Thư Tịch cường hóa tư chất tùy tùng 28 lần",
+    "targetType": 55,
+    "targetValue": 28,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000472": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 55 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 55,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000473": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 600 lần",
+    "targetType": 100,
+    "targetValue": 600,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000474": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 420 lần",
+    "targetType": 1,
+    "targetValue": 420,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000475": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 420 lần",
+    "targetType": 2,
+    "targetValue": 420,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000476": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 420 lần",
+    "targetType": 3,
+    "targetValue": 420,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000477": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 800 lần",
+    "targetType": 4,
+    "targetValue": 800,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000478": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 1000 lần",
+    "targetType": 14,
+    "targetValue": 1000,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000479": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 90 lần",
+    "targetType": 58,
+    "targetValue": 90,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000480": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 1200 lần",
+    "targetType": 14,
+    "targetValue": 1200,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000481": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 800 lần",
+    "targetType": 7,
+    "targetValue": 800,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000482": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 240 lần",
+    "targetType": 87,
+    "targetValue": 240,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000483": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 6 lần",
+    "targetType": 103,
+    "targetValue": 6,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000484": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt đến 400000",
+    "targetType": 24,
+    "targetValue": 400000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000485": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 460 lần",
+    "targetType": 1,
+    "targetValue": 460,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000486": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 460 lần",
+    "targetType": 2,
+    "targetValue": 460,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000487": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 460 lần",
+    "targetType": 3,
+    "targetValue": 460,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000488": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 240",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000489": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 240",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000490": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 240",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000491": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 240",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000492": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 160 lần",
+    "targetType": 9,
+    "targetValue": 160,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000493": {
+    "name": "Quý làm Thứ Phi",
+    "target": "Tước vị tăng thành Thứ Phi",
+    "targetType": 23,
+    "targetValue": 11,
+    "description": "Trong hậu cung, phi vị mới có thể tự chủ vận mệnh, thiếu chủ phải cố lên, cố gắng thành Thứ Phi."
+  },
+  "1000494": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 300 lần",
+    "targetType": 99,
+    "targetValue": 300,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000495": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 600 lần",
+    "targetType": 1,
+    "targetValue": 600,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000496": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 600 lần",
+    "targetType": 2,
+    "targetValue": 600,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000497": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 600 lần",
+    "targetType": 3,
+    "targetValue": 600,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000498": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Rút thưởng Cây Cầu Nguyện đạt 100 lần",
+    "targetType": 80,
+    "targetValue": 100,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000499": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 550 lần",
+    "targetType": 74,
+    "targetValue": 550,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000500": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 350 lần",
+    "targetType": 16,
+    "targetValue": 350,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000501": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 60 lần",
+    "targetType": 11,
+    "targetValue": 60,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000502": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 150 lần",
+    "targetType": 10,
+    "targetValue": 150,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000503": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 10 Sủng",
+    "targetType": 102,
+    "targetValue": 10,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000504": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 300 lần",
+    "targetType": 101,
+    "targetValue": 300,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000505": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 1500 lần",
+    "targetType": 14,
+    "targetValue": 1500,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000506": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 150 lần",
+    "targetType": 63,
+    "targetValue": 150,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000507": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 120 lần",
+    "targetType": 58,
+    "targetValue": 120,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000508": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 300 lần",
+    "targetType": 45,
+    "targetValue": 300,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000509": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 1200 lần",
+    "targetType": 7,
+    "targetValue": 1200,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000510": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 1000 lần",
+    "targetType": 4,
+    "targetValue": 1000,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000511": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 60 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 60,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000512": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 280 lần",
+    "targetType": 87,
+    "targetValue": 280,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000513": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 13 lần",
+    "targetType": 82,
+    "targetValue": 13,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000514": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 250",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000515": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 800 lần",
+    "targetType": 100,
+    "targetValue": 800,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000516": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 250",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000517": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng thư tịch cường hoá tư chất Tuỳ Tùng 35 lần",
+    "targetType": 55,
+    "targetValue": 35,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000518": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 165 lần",
+    "targetType": 9,
+    "targetValue": 165,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000519": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 7 lần",
+    "targetType": 103,
+    "targetValue": 7,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000520": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt tới 500000",
+    "targetType": 24,
+    "targetValue": 500000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000521": {
+    "name": "Vinh dự thăng chức Trắc Phi",
+    "target": "Tước vị tăng thành Trắc Phi",
+    "targetType": 23,
+    "targetValue": 12,
+    "description": "Trong hậu cung, Phi mới tự chủ được vận mệnh, thiếu chủ cố lên, phải cố gắng thành Trắc Phi. "
+  },
+  "1000522": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 400 lần",
+    "targetType": 99,
+    "targetValue": 400,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000523": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 800 lần",
+    "targetType": 1,
+    "targetValue": 800,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000524": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 800 lần",
+    "targetType": 2,
+    "targetValue": 800,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000525": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 800 lần",
+    "targetType": 3,
+    "targetValue": 800,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000526": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Rút thưởng Cây Cầu Nguyện đạt 150 lần",
+    "targetType": 80,
+    "targetValue": 150,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000527": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 700 lần",
+    "targetType": 74,
+    "targetValue": 700,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000528": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 500 lần",
+    "targetType": 16,
+    "targetValue": 500,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000529": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 100 lần",
+    "targetType": 11,
+    "targetValue": 100,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000530": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 200 lần",
+    "targetType": 10,
+    "targetValue": 200,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000531": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 15 Sủng",
+    "targetType": 102,
+    "targetValue": 15,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000532": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 450 lần",
+    "targetType": 101,
+    "targetValue": 450,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000533": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 2000 lần",
+    "targetType": 14,
+    "targetValue": 2000,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000534": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 220 lần",
+    "targetType": 63,
+    "targetValue": 220,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000535": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 160 lần",
+    "targetType": 58,
+    "targetValue": 160,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000536": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 400 lần",
+    "targetType": 45,
+    "targetValue": 400,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000537": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 3000 lần",
+    "targetType": 7,
+    "targetValue": 3000,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000538": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 2000 lần",
+    "targetType": 4,
+    "targetValue": 2000,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000539": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 65 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 65,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000540": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 350 lần",
+    "targetType": 87,
+    "targetValue": 350,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000541": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 16 lần",
+    "targetType": 82,
+    "targetValue": 16,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000542": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 250",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000543": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 1000 lần",
+    "targetType": 100,
+    "targetValue": 1000,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000544": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 250",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000545": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng Bí Tịch cường hóa tư chất Tùy Tùng 50 lần",
+    "targetType": 55,
+    "targetValue": 50,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000546": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 170 lần",
+    "targetType": 9,
+    "targetValue": 170,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000547": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 8 lần",
+    "targetType": 103,
+    "targetValue": 8,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000548": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 700000",
+    "targetType": 24,
+    "targetValue": 700000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000549": {
+    "name": "Tôn Chưởng Chủ Phi",
+    "target": "Tước vị tăng thành Chủ Phi",
+    "targetType": 23,
+    "targetValue": 13,
+    "description": "Trong hậu cung, tước vị phi chính có tư cách cai trị hậu cung, ta tin rằng thiếu chủ nhất định sẽ được đảm nhiệm vị trí này."
+  },
+  "1000550": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 700 lần",
+    "targetType": 99,
+    "targetValue": 700,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000551": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 1000 lần",
+    "targetType": 1,
+    "targetValue": 1000,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000552": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 1000 lần",
+    "targetType": 2,
+    "targetValue": 1000,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000553": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 1000 lần",
+    "targetType": 3,
+    "targetValue": 1000,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000554": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Rút thưởng Cây Cầu Nguyện đạt 300 lần",
+    "targetType": 80,
+    "targetValue": 300,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000555": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 900 lần",
+    "targetType": 74,
+    "targetValue": 900,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000556": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 800 lần",
+    "targetType": 16,
+    "targetValue": 800,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000557": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 200 lần",
+    "targetType": 11,
+    "targetValue": 200,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000558": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 300 lần",
+    "targetType": 10,
+    "targetValue": 300,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000559": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 20 Sủng",
+    "targetType": 102,
+    "targetValue": 20,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000560": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 600 lần",
+    "targetType": 101,
+    "targetValue": 600,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000561": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 3000 lần",
+    "targetType": 14,
+    "targetValue": 3000,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000562": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 400 lần",
+    "targetType": 63,
+    "targetValue": 400,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000563": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 220 lần",
+    "targetType": 58,
+    "targetValue": 220,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000564": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 500 lần",
+    "targetType": 45,
+    "targetValue": 500,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000565": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 5000 lần",
+    "targetType": 7,
+    "targetValue": 5000,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000566": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 4000 lần",
+    "targetType": 4,
+    "targetValue": 4000,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000567": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 70 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 70,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000568": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 450 lần",
+    "targetType": 87,
+    "targetValue": 450,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000569": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 20 lần",
+    "targetType": 82,
+    "targetValue": 20,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000570": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 270",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000571": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 270",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000572": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 270",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000573": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 1400 lần",
+    "targetType": 100,
+    "targetValue": 1400,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000574": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 270",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000575": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng thư tịch cường hóa tư chất tùy tùng 70 lần",
+    "targetType": 55,
+    "targetValue": 70,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000576": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 175 lần",
+    "targetType": 9,
+    "targetValue": 175,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000577": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 9 lần",
+    "targetType": 103,
+    "targetValue": 9,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000578": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế lực đạt 900000",
+    "targetType": 24,
+    "targetValue": 900000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000579": {
+    "name": "Đế phong Thứ Quý Phi",
+    "target": "Tước vị tăng thành Thứ Quý Phi",
+    "targetType": 23,
+    "targetValue": 14,
+    "description": "Thứ Quý Phi do hoàng đế phong cho mới được tôn trọng nuông chiều, vị trí này thiếu chủ sắp đạt được rồi"
+  },
+  "1000580": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 1200 lần",
+    "targetType": 99,
+    "targetValue": 1200,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000581": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 2000 lần",
+    "targetType": 1,
+    "targetValue": 2000,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000582": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 2000 lần",
+    "targetType": 2,
+    "targetValue": 2000,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000583": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 2000 lần",
+    "targetType": 3,
+    "targetValue": 2000,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000584": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Rút thưởng Cây Cầu Nguyện đạt 500 lần",
+    "targetType": 80,
+    "targetValue": 500,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000585": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 1200 lần",
+    "targetType": 74,
+    "targetValue": 1200,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000586": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 1200 lần",
+    "targetType": 16,
+    "targetValue": 1200,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000587": {
+    "name": "Lễ tiết phụng dưỡng cha mẹ",
+    "target": "Trong cung thỉnh an 350 lần",
+    "targetType": 11,
+    "targetValue": 350,
+    "description": "Hậu cung này sợ nhất là thị phi, thiếu chủ nên tuân thủ nghiêm ngặt quy tắc thỉnh an, đừng để người khác bắt thóp."
+  },
+  "1000588": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 400 lần",
+    "targetType": 10,
+    "targetValue": 400,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000589": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 25 Sủng",
+    "targetType": 102,
+    "targetValue": 25,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000590": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 900 lần",
+    "targetType": 101,
+    "targetValue": 900,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000591": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 5000 lần",
+    "targetType": 14,
+    "targetValue": 5000,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000592": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 600 lần",
+    "targetType": 63,
+    "targetValue": 600,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000593": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 400 lần",
+    "targetType": 58,
+    "targetValue": 400,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000594": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 600 lần",
+    "targetType": 45,
+    "targetValue": 600,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000595": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 8000 lần",
+    "targetType": 7,
+    "targetValue": 8000,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000596": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 6000 lần",
+    "targetType": 4,
+    "targetValue": 6000,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000597": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 75 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 75,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000598": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 800 lần",
+    "targetType": 87,
+    "targetValue": 800,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000599": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 25 lần",
+    "targetType": 82,
+    "targetValue": 25,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000600": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 1 Tùy Tùng đạt cấp 300",
+    "targetType": 32,
+    "targetValue": 1,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000601": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 3 Tùy Tùng đạt cấp 300",
+    "targetType": 32,
+    "targetValue": 3,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000602": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 5 Tùy Tùng đạt cấp 300",
+    "targetType": 32,
+    "targetValue": 5,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000603": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 2000 lần",
+    "targetType": 100,
+    "targetValue": 2000,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000604": {
+    "name": "Tăng cấp Tùy Tùng",
+    "target": "Tối thiểu 7 Tùy Tùng đạt cấp 300",
+    "targetType": 32,
+    "targetValue": 7,
+    "description": "Tùy tùng trung thành với thiếu chủ, thiếu chủ nhất định phải bồi dưỡng tăng cấp, tăng thực lực."
+  },
+  "1000605": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng Thư Tịch cường hóa tư chất tùy tùng 100 lần",
+    "targetType": 55,
+    "targetValue": 100,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000606": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 180 lần",
+    "targetType": 9,
+    "targetValue": 180,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000607": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 10 lần",
+    "targetType": 103,
+    "targetValue": 10,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000608": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 5000000",
+    "targetType": 24,
+    "targetValue": 5000000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000609": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 2000 lần",
+    "targetType": 99,
+    "targetValue": 2000,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000610": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 4000 lần",
+    "targetType": 1,
+    "targetValue": 4000,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000611": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 4000 lần",
+    "targetType": 2,
+    "targetValue": 4000,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000612": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 4000 lần",
+    "targetType": 3,
+    "targetValue": 4000,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000613": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Rút thưởng Cây Cầu Nguyện đạt 800 lần",
+    "targetType": 80,
+    "targetValue": 800,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000614": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 1500 lần",
+    "targetType": 74,
+    "targetValue": 1500,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000615": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 1400 lần",
+    "targetType": 16,
+    "targetValue": 1400,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000616": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 600 lần",
+    "targetType": 10,
+    "targetValue": 600,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000617": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 40 Sủng",
+    "targetType": 102,
+    "targetValue": 40,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000618": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 1300 lần",
+    "targetType": 101,
+    "targetValue": 1300,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000619": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 8000 lần",
+    "targetType": 14,
+    "targetValue": 8000,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000620": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 800 lần",
+    "targetType": 63,
+    "targetValue": 800,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000621": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 800 lần",
+    "targetType": 58,
+    "targetValue": 800,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000622": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 700 lần",
+    "targetType": 45,
+    "targetValue": 700,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000623": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 11000 lần",
+    "targetType": 7,
+    "targetValue": 11000,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000624": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 8000 lần",
+    "targetType": 4,
+    "targetValue": 8000,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000625": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 80 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 80,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000626": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 3000 lần",
+    "targetType": 100,
+    "targetValue": 3000,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000627": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 1300 lần",
+    "targetType": 87,
+    "targetValue": 1300,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000628": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 30 lần",
+    "targetType": 82,
+    "targetValue": 30,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000629": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng Thư Tịch cường hóa tư chất tùy tùng 150 lần",
+    "targetType": 55,
+    "targetValue": 150,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000630": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 220 lần",
+    "targetType": 9,
+    "targetValue": 220,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000631": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 12 lần",
+    "targetType": 103,
+    "targetValue": 12,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000632": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 12000000",
+    "targetType": 24,
+    "targetValue": 12000000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000633": {
+    "name": "Hoàng đế ban Trắc Quý Phi",
+    "target": "Tước vị tăng thành Trắc Quý Phi",
+    "targetType": 23,
+    "targetValue": 15,
+    "description": "Nếu Quý Phi được Hoàng Thượng thân phong, sẽ được tôn sủng vô cùng, lúc này địa vị không phải lo lắng nữa, thiếu chủ hãy chú ý nắm bắt. "
+  },
+  "1000634": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 4000 lần",
+    "targetType": 99,
+    "targetValue": 4000,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000635": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 7000 lần",
+    "targetType": 1,
+    "targetValue": 7000,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000636": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 7000 lần",
+    "targetType": 2,
+    "targetValue": 7000,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000637": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 7000 lần",
+    "targetType": 3,
+    "targetValue": 7000,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000638": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Rút thưởng Cây Cầu Nguyện đạt 1200 lần",
+    "targetType": 80,
+    "targetValue": 1200,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000639": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 2000 lần",
+    "targetType": 74,
+    "targetValue": 2000,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000640": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 1600 lần",
+    "targetType": 16,
+    "targetValue": 1600,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000641": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 800 lần",
+    "targetType": 10,
+    "targetValue": 800,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000642": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 60 Sủng",
+    "targetType": 102,
+    "targetValue": 60,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000643": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 1800 lần",
+    "targetType": 101,
+    "targetValue": 1800,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000644": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 12000 lần",
+    "targetType": 14,
+    "targetValue": 12000,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000645": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 1000 lần",
+    "targetType": 63,
+    "targetValue": 1000,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000646": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 1600 lần",
+    "targetType": 58,
+    "targetValue": 1600,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000647": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 800 lần",
+    "targetType": 45,
+    "targetValue": 800,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000648": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 15000 lần",
+    "targetType": 7,
+    "targetValue": 15000,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000649": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 10000 lần",
+    "targetType": 4,
+    "targetValue": 10000,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000650": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 90 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 90,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000651": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 5000 lần",
+    "targetType": 100,
+    "targetValue": 5000,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000652": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 1900 lần",
+    "targetType": 87,
+    "targetValue": 1900,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000653": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 40 lần",
+    "targetType": 82,
+    "targetValue": 40,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000654": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng thư tịch cường hoá tư chất Tuỳ Tùng 250 lần",
+    "targetType": 55,
+    "targetValue": 250,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000655": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 260 lần",
+    "targetType": 9,
+    "targetValue": 260,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000656": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 14 lần",
+    "targetType": 103,
+    "targetValue": 14,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000657": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 25000000",
+    "targetType": 24,
+    "targetValue": 25000000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000658": {
+    "name": "Cày Cuốc Sớm Tối",
+    "target": "Trồng cây đạt 8000 lần",
+    "targetType": 99,
+    "targetValue": 8000,
+    "description": "Thực phẩm luôn cần thiết, đừng bắt nạt mồ hôi công sức của nghề nông!"
+  },
+  "1000659": {
+    "name": "Bán từ thiện",
+    "target": "Bán từ thiện đạt 11000 lần",
+    "targetType": 1,
+    "targetValue": 11000,
+    "description": "Bách tính chịu khổ, kho nước trống rỗng, thiếu chủ hãy lấy báu vật hậu cung làm từ thiện, hỗ trợ triều đình."
+  },
+  "1000660": {
+    "name": "Vườn Thuốc Phong Phú",
+    "target": "Chăm sóc Vườn Thuốc đạt 11000 lần",
+    "targetType": 2,
+    "targetValue": 11000,
+    "description": "Thiếu chủ đừng quên chăm sóc vườn thuốc, vừa thư giản vừa có thuốc bổ."
+  },
+  "1000661": {
+    "name": "Nguyên khí tràn trề",
+    "target": "Huyết Yến Bổ Khí đạt 11000 lần",
+    "targetType": 3,
+    "targetValue": 11000,
+    "description": "Hậu cung nguy hiểm, khó trách thân thể suy nhược, huyết yến là món bổ hiếm có, thiếu chủ phải ăn thường xuyên. "
+  },
+  "1000662": {
+    "name": "Chúc phúc cầu nguyện ",
+    "target": "Rút thưởng Cây Cầu Nguyện đạt 1500 lần",
+    "targetType": 80,
+    "targetValue": 1500,
+    "description": "Nghe nói thái hậu gần đây mê Cầu Nguyện-Cây Cầu Nguyện, nghe nói rất linh, thiếu chủ thử xem."
+  },
+  "1000663": {
+    "name": "Lựa chọn và trọng dụng người tài",
+    "target": "Ủy phái đạt 3000 lần",
+    "targetType": 74,
+    "targetValue": 3000,
+    "description": "Gần đây các nương nương ở hậu cung đã phái rất nhiều nhiệm vụ, thiếu chủ có thể nhờ Tùy Tùng giúp đỡ để kiếm thêm đó."
+  },
+  "1000664": {
+    "name": "Miệng lưỡi sắc sảo",
+    "target": "Trong Cung Luận Chiến đạt 1800 lần",
+    "targetType": 16,
+    "targetValue": 1800,
+    "description": "Thỉnh an dễ gây rắc rối nhất, thiếu chủ đừng vì nhịn mà mất đi cơ hội, tranh giành được thì phải tranh giành."
+  },
+  "1000665": {
+    "name": "Người Đạt Làm Thầy",
+    "target": "Số lần thích đạt 1200 lần",
+    "targetType": 10,
+    "targetValue": 1200,
+    "description": "Giai lệ trong hậu câu, mặc dù có nhiều người là địch, nhưng cũng có số ít mà Tiểu Chủ có thể học tập."
+  },
+  "1000666": {
+    "name": "Chiêu mộ Sủng ",
+    "target": "Tích lũy nhận được 90 Sủng",
+    "targetType": 102,
+    "targetValue": 90,
+    "description": "Hay là thiếu chủ hãy ra ngoài chút để có thể thả lỏng, còn có thể đưa Sủng đáng yêu về đó!"
+  },
+  "1000667": {
+    "name": "Nuôi Sủng",
+    "target": "Tích lũy cho Sủng ăn 2400 lần",
+    "targetType": 101,
+    "targetValue": 2400,
+    "description": "Sủng vật đang đói. Thiếu chủ mau đến Nhà Mèo cho ăn!"
+  },
+  "1000668": {
+    "name": "Việc Vui Nhàn Nhã ",
+    "target": "Tích lũy Chuyện Vui Nhàn Nhã 15000 lần",
+    "targetType": 14,
+    "targetValue": 15000,
+    "description": "Tiểu Chủ xinh đẹp truyệt trần, nhiều người theo đuổi, thịnh tình khó chối, chi bằng tùy duyên hẹn hò."
+  },
+  "1000669": {
+    "name": "Dưỡng Tinh Súc Nhuệ",
+    "target": "Dùng Tinh Lực Đan 1200 lần",
+    "targetType": 63,
+    "targetValue": 1200,
+    "description": "Đi nhiều dễ mệt mỏi, thiếu chủ nên chuẩn bị thêm Tinh Lực Đan, để nghỉ ngơi dưỡng sức, rồi tiếp tục thiên duyên."
+  },
+  "1000670": {
+    "name": "Lễ nhẹ tình trọng",
+    "target": "Tặng Quà Lam Nhan đạt 2400 lần",
+    "targetType": 58,
+    "targetValue": 2400,
+    "description": "Các Lam Nhan của thiếu chủ có nhiều sở thích lắm, tặng quà cũng phải tặng những món hợp với sở thích của họ nhé."
+  },
+  "1000671": {
+    "name": "Bồi dưỡng Lam Nhan",
+    "target": "Tăng cấp kỹ năng Lam Nhan 900 lần",
+    "targetType": 45,
+    "targetValue": 900,
+    "description": "Lam Nhan là cánh tay đắc lực trong hậu cung của thiếu chủ, thiếu chủ phải nhớ giúp Lam Nhan tăng kỹ năng nhé. "
+  },
+  "1000672": {
+    "name": "Nở Mày Nở Mặt",
+    "target": "Tích lũy Giáo Huấn Kẻ Thù 20000 lần",
+    "targetType": 7,
+    "targetValue": 20000,
+    "description": "thiếu chủ nhập cung không lâu đã bị làm khó đủ điều, giờ đã tới lúc nở mày nở mặt."
+  },
+  "1000673": {
+    "name": "Ngay ngắn rõ ràng",
+    "target": "Xử lý cung vụ đạt 12000 lần",
+    "targetType": 4,
+    "targetValue": 12000,
+    "description": "Công việc trong và ngoài Cảnh Nhân Cung không ít, việc này vẫn mong thiếu chủ cho ý kiến."
+  },
+  "1000674": {
+    "name": "Cần cù",
+    "target": "Tích lũy dùng 100 lần Cung Vụ Lệnh",
+    "targetType": 54,
+    "targetValue": 100,
+    "description": "Hoàng Thượng trăm công ngàn việc, thiếu chủ cần vụ miễn chính."
+  },
+  "1000675": {
+    "name": "Nem công chả phượng",
+    "target": "Nấu nướng đạt 8000 lần",
+    "targetType": 100,
+    "targetValue": 8000,
+    "description": "Mèo cưng thích thức ăn cho mèo của Ngự Thiện Phòng hay thiếu chủ cũng đi thể hiện khả năng."
+  },
+  "1000676": {
+    "name": "Cuộc gặp ngọt ngào",
+    "target": "Vượt ải Du Ngoạn 2600 lần",
+    "targetType": 87,
+    "targetValue": 2600,
+    "description": "Lang thang một mình thật chán, thiếu chủ có thể tìm Lam Nhan cùng đi."
+  },
+  "1000677": {
+    "name": "Đề bạt Tùy Tùng",
+    "target": "Đề bạt Tùy Tùng đạt 60 lần",
+    "targetType": 82,
+    "targetValue": 60,
+    "description": "Thiếu chủ, cấp các Tuỳ Tùng đạt giới hạn phải đề bạt mới có thể tiếp tục trưởng thành, đừng quên đó. "
+  },
+  "1000678": {
+    "name": "Nuôi dưỡng tùy tùng",
+    "target": "Dùng thư tịch cường hoá tư chất Tuỳ Tùng 400 lần",
+    "targetType": 55,
+    "targetValue": 400,
+    "description": "Thiếu chủ, tư chất Tuỳ Tùng là cơ sở của trưởng thành, đừng quên bồi dưỡng họ đó. "
+  },
+  "1000679": {
+    "name": "Tiệm Thú Cưng",
+    "target": "Kết duyên Sủng đạt 18 lần",
+    "targetType": 103,
+    "targetValue": 18,
+    "description": "Mèo con vẫn khát khao tình yêu, thiếu chủ hãy làm mai, giúp mèo tìm giai ngẫu."
+  },
+  "1000680": {
+    "name": "Bộ Bộ Kinh Tâm",
+    "target": "Tích lũy chiến đấu cốt truyện thắng 300 lần",
+    "targetType": 9,
+    "targetValue": 300,
+    "description": "Tranh đấu ở hậu cung này quả thật là kinh hãi, thiếu chủ đừng đánh mất quyết tâm dũng cảm tiến tới nhé. "
+  },
+  "1000681": {
+    "name": "Quản lý Thế lực",
+    "target": "Thế Lực đạt 40000000",
+    "targetType": 24,
+    "targetValue": 40000000,
+    "description": "Hậu cung tranh đấu, lực đơn thế mỏng há có thể thành sự, thiếu chủ nhất định phải mở rộng thế lực, lớn mạnh bản thân. "
+  },
+  "1000682": {
+    "name": "Đế Sách Chủ Quý Phi",
+    "target": "Tước vị tăng thành Chủ Quý Phi",
+    "targetType": 23,
+    "targetValue": 16,
+    "description": "Chủ Quý Phi đích thân Hoàng Thượng phong, vô thượng sủng ái, thiếu chủ phải cố gắng giữ lấy."
+  },
+  "1000683": {
+    "name": "Dưới một người",
+    "target": "Tước vị tăng thành Hoàng Quý Phi",
+    "targetType": 23,
+    "targetValue": 17,
+    "description": "Hoàng Quý Phi đã tương đương với phó hậu rồi, dưới một người trên vạn người, thiếu chủ chỉ còn kém một chút."
+  },
+  "1000684": {
+    "name": "Mẫu Nghi Thiên Hạ",
+    "target": "Tước vị tăng thành Hoàng Hậu",
+    "targetType": 23,
+    "targetValue": 18,
+    "description": "Hoàng Hậu là quốc mẫu, nghi nhụng thiên hạ, là chủ hậu cung, được sử sách lưu danh."
+  },
+  "1000685": {
+    "name": "Ngàn Năm Hiền Hậu",
+    "target": "Tước vị tăng đến Hiền Hoàng Hậu",
+    "targetType": 23,
+    "targetValue": 19,
+    "description": "Hiền Hoàng Hậu vang danh hiền đức, được chúng sinh trong thiên hạ yêu thích. Tiểu Chủ nếu có thể đạt được, ắt sẽ lưu danh thiên cổ."
+  },
+  "1000686": {
+    "name": "Vạn Tụng Tôn Hậu",
+    "target": "Tước vị thăng đến Tôn Hoàng Hậu",
+    "targetType": 23,
+    "targetValue": 20,
+    "description": "Tôn Hoàng Hậu đức hạnh rõ ràng, lễ dung phù hợp, được vạn người ca tụng. Tiểu Chủ nếu có thể thăng lên vị trí này, nhất định lưu danh thiên cổ."
+  },
+  "1000687": {
+    "name": "Thánh Hậu Giá Đáo",
+    "target": "Tước vị thăng đến Thánh Hậu",
+    "targetType": 23,
+    "targetValue": 21,
+    "description": "Thánh Hậu minh đức chí thành, phượng nghi vô song. Tiểu Chủ nếu có thể thăng lên vị trí này, chắc chắn tiếng tốt lưu truyền nghìn năm."
+  },
+  "1000688": {
+    "name": "Thiên Hậu Hạ Phàm",
+    "target": "Thăng cấp lên tước vị Thiên Hậu",
+    "targetType": 23,
+    "targetValue": 22,
+    "description": "Thiên Hậu sống cùng năm tháng. Nếu tiểu chủ gánh vác được vị trí này, có thể xưng vương một nghìn năm."
+  }
+}
