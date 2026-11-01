@@ -1,5 +1,13 @@
 require('dotenv').config();
 
+// Ngăn ngừa crash tiến trình khi gặp lỗi mạng/socket đột xuất
+process.on('uncaughtException', (err) => {
+  console.error('[System] Bắt lỗi ngoại lệ (uncaughtException):', err.message);
+});
+process.on('unhandledRejection', (reason) => {
+  console.error('[System] Bắt lỗi promise (unhandledRejection):', reason?.message || reason);
+});
+
 const { MultiAccountManager } = require('./core');
 const DashboardServer = require('./server/DashboardServer');
 

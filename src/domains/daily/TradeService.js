@@ -175,6 +175,7 @@ class TradeService extends BaseService {
     let lastBagCheck = Date.now();
     let lastEventCheck = Date.now();
     let lastMemoryCleanCheck = Date.now();
+    let wasDisconnectedLogged = false;
 
     while (!this.client.isManualClosed) {
       // Luôn sleep 1s trong mỗi vòng lặp đếm ngược để CPU luôn ở mức 0%
@@ -183,9 +184,16 @@ class TradeService extends BaseService {
 
       // Nếu đang mất kết nối mạng hoặc đang tự động kết nối lại
       if (!this.client.isReady) {
-        process.stdout.write('\r[Treo Máy 24/7] Mất kết nối Game Server, đang chờ tự động kết nối lại...     ');
+        if (!wasDisconnectedLogged) {
+          wasDisconnectedLogged = true;
+          if (global.dashboardServer) {
+            global.dashboardServer.updateStatus('Mất kết nối Game Server, đang chờ kết nối lại...', this.client?.accountEmail);
+          }
+        }
+        await new Promise(r => setTimeout(r, 2000));
         continue;
       }
+      wasDisconnectedLogged = false;
 
       // Xử lý sang ngày mới (00:00:00)
       const todayStr = new Date().toLocaleDateString('vi-VN');

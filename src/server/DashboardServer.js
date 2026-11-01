@@ -73,12 +73,12 @@ class DashboardServer {
     this.logBuffer = [];
     this.accountLogs = new Map(); // email.toLowerCase() -> Array<LogEntry>
     this.globalLogs = []; // Array<LogEntry>
-    this.MAX_LOGS_PER_ACCOUNT = 300;
-    this.MAX_LOGS = 300;
-    
+    this.MAX_LOGS_PER_ACCOUNT = 50;
+    this.MAX_LOGS = 50;
+
     this.statusMessage = '';
     this.statusMessageMap = new Map(); // email.toLowerCase() -> statusMessage
-    this.BUILD_ID = Date.now().toString();
+    this.BUILD_ID = '1.0.0';
     
     this.setupLogInterceptor();
   }
@@ -202,9 +202,9 @@ class DashboardServer {
   getLogsForAccount(email) {
     const accLogs = email ? (this.accountLogs.get(email.toLowerCase()) || []) : [];
     if (accLogs.length > 0) {
-      return accLogs.slice(-200);
+      return accLogs.slice(-50);
     }
-    return this.globalLogs.slice(-100);
+    return this.globalLogs.slice(-30);
   }
 
   setClient(client) {
@@ -353,9 +353,8 @@ class DashboardServer {
       const urlParts = req.url.split('?');
       const reqPath = urlParts[0];
 
-      // 1. SSE Realtime Stream với Gzip
+      // 1. SSE Realtime Stream
       if (req.method === 'GET' && reqPath === '/events') {
-        const canGzip = /\bgzip\b/.test(req.headers['accept-encoding'] || '');
         const sseHeaders = {
           'Content-Type': 'text/event-stream; charset=utf-8',
           'Cache-Control': 'no-cache, no-transform',
@@ -363,22 +362,11 @@ class DashboardServer {
           'X-Accel-Buffering': 'no'
         };
 
-        let streamTarget = res;
-        let gzipStream = null;
-        if (canGzip) {
-          sseHeaders['Content-Encoding'] = 'gzip';
-          res.writeHead(200, sseHeaders);
-          gzipStream = zlib.createGzip({ flush: zlib.constants.Z_SYNC_FLUSH });
-          gzipStream.pipe(res);
-          streamTarget = gzipStream;
-        } else {
-          res.writeHead(200, sseHeaders);
-        }
+        res.writeHead(200, sseHeaders);
+        res.write('\n');
+        this.sseClients.add(res);
 
-        streamTarget.write('\n');
-        this.sseClients.add(streamTarget);
-
-        streamTarget.write(`event: init\ndata: ${JSON.stringify({
+        res.write(`event: init\ndata: ${JSON.stringify({
           buildId: this.BUILD_ID,
           logs: this.getLogsForAccount(this.selectedEmail),
           statusMsg: this.getStatusForAccount(this.selectedEmail),
@@ -392,19 +380,20 @@ class DashboardServer {
 
         const pingInterval = setInterval(() => {
           try {
-            streamTarget.write(':\n\n');
-          } catch(err) {
+            res.write(':\n\n');
+          } catch (_) {
             clearInterval(pingInterval);
           }
         }, 25000);
 
-        req.on('close', () => {
+        const cleanUp = () => {
           clearInterval(pingInterval);
-          this.sseClients.delete(streamTarget);
-          if (gzipStream) {
-            try { gzipStream.end(); } catch (e) {}
-          }
-        });
+          this.sseClients.delete(res);
+        };
+
+        req.on('close', cleanUp);
+        res.on('close', cleanUp);
+        res.on('error', cleanUp);
         return;
       }
 

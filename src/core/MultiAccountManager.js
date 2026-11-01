@@ -50,6 +50,7 @@ class MultiAccountManager {
             worker.start().catch(err => {
               console.error(`[Sync] [${acc.email}] Lỗi khởi chạy:`, err.message);
             });
+            await new Promise(r => setTimeout(r, 1500));
           } else if (worker.state === 'ERROR') {
             // Nếu bị lỗi, thử lại sau ít nhất 60s
             const now = Date.now();

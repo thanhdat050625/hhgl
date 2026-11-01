@@ -53,7 +53,7 @@ jobs:
             cat << 'RUN_EOF' > $HOME/apps/gateway/run.sh
             #!/bin/bash
             cd /home/datt32285/hhgl
-            exec /usr/bin/node src/index.js
+            exec /usr/bin/node --max-old-space-size=160 src/index.js
             RUN_EOF
             chmod +x $HOME/apps/gateway/run.sh
 
