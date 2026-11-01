@@ -87,6 +87,13 @@ const renderAccounts = (accounts, selectedEmail) => {
   const statTotalBadge = document.getElementById('stat-total-badge');
   if (statTotalBadge) statTotalBadge.textContent = total;
 
+  // Cập nhật tổng vàng realtime của toàn bộ tài khoản
+  const statTotalGold = document.getElementById('stat-total-gold');
+  if (statTotalGold) {
+    const totalGold = currentAccounts.reduce((sum, acc) => sum + (Number(acc.gold) || 0), 0);
+    statTotalGold.textContent = formatNumber(totalGold);
+  }
+
   // Cập nhật dropdown chọn tài khoản xem chi tiết
   if (selectActiveAcc) {
     selectActiveAcc.innerHTML = '<option value="">-- Chọn tài khoản xem --</option>';
@@ -414,6 +421,20 @@ const updatePlayerState = (data) => {
     updateResourceValue('r-silver', data.resources?.silver);
     updateResourceValue('r-food', data.resources?.food);
     updateResourceValue('r-soldier', data.resources?.soldier);
+
+    // Đồng bộ vàng của tài khoản này vào currentAccounts để cập nhật tổng vàng realtime
+    if (data.email && data.resources?.gold !== undefined) {
+      const targetEmail = data.email.toLowerCase();
+      const acc = currentAccounts.find(a => (a.email || '').toLowerCase() === targetEmail);
+      if (acc) {
+        acc.gold = Number(data.resources.gold);
+        const statTotalGold = document.getElementById('stat-total-gold');
+        if (statTotalGold) {
+          const totalGold = currentAccounts.reduce((sum, a) => sum + (Number(a.gold) || 0), 0);
+          statTotalGold.textContent = formatNumber(totalGold);
+        }
+      }
+    }
     
     const exp = data.resources?.exp || 0;
     const nexp = data.resources?.nexp || 0;

@@ -756,3 +756,26 @@ input:checked + .slider:before {
   box-shadow: 0 0 0 2px rgba(59, 130, 246, 0.2);
 }
 
+.total-gold-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.35rem 0.75rem;
+  background: rgba(245, 158, 11, 0.12);
+  border: 1px solid rgba(245, 158, 11, 0.35);
+  border-radius: 0.5rem;
+  font-size: 0.875rem;
+}
+.total-gold-label {
+  color: #94A3B8;
+  font-weight: 600;
+}
+.total-gold-val {
+  color: var(--accent-gold);
+  font-weight: 800;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.95rem;
+  letter-spacing: 0.02em;
+}
+
+
