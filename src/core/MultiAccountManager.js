@@ -211,7 +211,7 @@ class MultiAccountManager {
             state: 'STOPPED',
             isReady: false,
             serverName: '--',
-            serverId: acc.serverId || CONFIG.DEFAULT_SERVER_ID,
+            serverId: acc.serverId || '--',
             playerName: '--',
             playerLv: 0,
             power: 0,

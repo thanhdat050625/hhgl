@@ -60,8 +60,7 @@ const CONFIG = {
   SDK_VERSION_CODE: getRequiredEnv('GAME_SDK_VERSION_CODE'),
   CHANNEL: getRequiredEnv('GAME_CHANNEL'),
   CLIENT_VERSION: getRequiredIntEnv('GAME_CLIENT_VERSION'),
-  DEVICE_OS: getRequiredEnv('GAME_DEVICE_OS'),
-  DEFAULT_SERVER_ID: getRequiredIntEnv('GAME_SERVER_ID')
+  DEVICE_OS: getRequiredEnv('GAME_DEVICE_OS')
 };
 
 module.exports = {

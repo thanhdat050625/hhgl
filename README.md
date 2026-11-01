@@ -10,11 +10,17 @@ npm install
 ### Chạy Bot trên máy tính:
 1. Tạo file `.env` từ cấu hình mẫu:
    ```ini
-   GAME_EMAIL=your_email@gmail.com
-   GAME_PASSWORD=your_password
-   GAME_SERVER_ID=1105
-   GAME_ACTION=auto
+   PORT=10000
+   NOTE_URL=https://your-notes-server.com/notes/your-note-id
+   NOTE_LOGIN_URL=https://your-notes-server.com/auth/login
+   NOTE_SAVE_URL=https://your-notes-server.com/notes/admin/manager/action/save
+   NOTE_PASSWORD=your_password
+   NOTE_ID=your_note_id
+   NOTE_TITLE=your_note_title
+   NOTE_POLL_INTERVAL_MS=10000
+   ...
    ```
+   *(Cấu hình serverId trực tiếp trong Web Note cho từng tài khoản, ví dụ: `["user@example.com", "pass", "on", 1105]`)*
 2. Chạy bot:
    ```bash
    npm start
@@ -29,11 +35,8 @@ npm install
 3. Cấu hình:
    - **Build Command:** `npm install`
    - **Start Command:** `npm start`
-4. Cài đặt các **Environment Variables**:
-   - `GAME_EMAIL`: Email tài khoản game
-   - `GAME_PASSWORD`: Mật khẩu tài khoản game
-   - `GAME_SERVER_ID`: `1105` (hoặc ID Server của bạn)
-   - `GAME_ACTION`: `auto` (chạy chế độ Treo máy 24/7)
+4. Cài đặt các **Environment Variables** từ file `.env.prod`.
+   *(Lưu ý: Server ID được cấu hình trực tiếp trên Web Note cho từng tài khoản).*
 5. Mở URL Render trên trình duyệt để theo dõi **Web Dashboard Realtime** (tự động reload khi có bản build mới).
 
 ---

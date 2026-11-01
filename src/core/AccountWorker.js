@@ -69,23 +69,16 @@ class AccountWorker {
 
       if (this.isStopping) return;
 
-      let chosenServer = null;
-      if (this.account.serverId) {
-        chosenServer = serverList.find(s => s.serverId === this.account.serverId) ||
-                       myServerList.find(s => s.serverId === this.account.serverId);
+      if (!this.account.serverId) {
+        throw new Error(`Tài khoản ${this.email} chưa cấu hình serverId trên Web Note!`);
       }
 
-      if (!chosenServer) {
-        if (myServerList && myServerList.length > 0) {
-          chosenServer = myServerList[0];
-        } else {
-          const targetSId = CONFIG.DEFAULT_SERVER_ID;
-          chosenServer = serverList.find(s => s.serverId === targetSId) || serverList[0];
-        }
-      }
+      const targetSId = Number(this.account.serverId);
+      const chosenServer = serverList.find(s => s.serverId === targetSId) ||
+                           myServerList.find(s => s.serverId === targetSId);
 
       if (!chosenServer) {
-        throw new Error(`Không tìm thấy thông tin Server phù hợp cho tài khoản ${this.email}`);
+        throw new Error(`Không tìm thấy Server ID ${targetSId} cho tài khoản ${this.email}`);
       }
 
       console.log(`[${this.email}] [4/4] Chọn Server: ${chosenServer.serverId} - ${chosenServer.serverName || chosenServer.name || ''}`);
