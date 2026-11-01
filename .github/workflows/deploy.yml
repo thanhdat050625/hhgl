@@ -1,0 +1,80 @@
+name: Deploy to Alwaysdata
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    name: Deploy to Alwaysdata Server
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@v1.2.0
+        env:
+          ENV_CONTENT: ${{ secrets.ENV_PROD }}
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USER }}
+          password: ${{ secrets.SSH_PASSWORD }}
+          envs: ENV_CONTENT
+          script: |
+            set -e
+            DEPLOY_DIR="$HOME/hhgl"
+
+            echo "[1/4] Kéo mã nguồn mới nhất..."
+            if [ ! -d "$DEPLOY_DIR/.git" ]; then
+              git clone https://github.com/${{ github.repository }}.git "$DEPLOY_DIR"
+            else
+              cd "$DEPLOY_DIR"
+              git fetch origin main
+              git reset --hard origin/main
+            fi
+
+            cd "$DEPLOY_DIR"
+
+            echo "[2/4] Cập nhật file .env từ GitHub Secret..."
+            if [ -n "$ENV_CONTENT" ]; then
+              echo "$ENV_CONTENT" > .env
+              chmod 600 .env
+              echo "File .env đã được cập nhật thành công."
+            else
+              echo "Cảnh báo: Secret ENV_PROD đang trống!"
+            fi
+
+            echo "[3/4] Cài đặt dependencies..."
+            npm install --omit=dev
+
+            echo "[4/4] Cập nhật cấu hình khởi chạy Alwaysdata..."
+            mkdir -p $HOME/apps/gateway
+            cat << 'RUN_EOF' > $HOME/apps/gateway/run.sh
+            #!/bin/bash
+            cd /home/datt32285/hhgl
+            exec /usr/bin/node src/index.js
+            RUN_EOF
+            chmod +x $HOME/apps/gateway/run.sh
+
+            touch $HOME/admin/tmp/restart.txt
+            echo "Triển khai mã nguồn lên Alwaysdata hoàn tất!"
+
+      - name: Restart Alwaysdata Web Site via API
+        run: |
+          echo "Đang gọi Alwaysdata API để restart Web Site..."
+          SITE_LIST=$(curl -s -u "${{ secrets.ALWAYSDATA_API_KEY }} ${{ secrets.SSH_USER }}:" https://api.alwaysdata.com/v1/site/)
+          SITE_ID=$(echo "$SITE_LIST" | jq -r '.[0].id // empty')
+
+          if [ -n "$SITE_ID" ]; then
+            echo "Tìm thấy Site ID: $SITE_ID. Đang gửi lệnh restart..."
+            HTTP_CODE=$(curl -s -o /dev/null -w "%{http_code}" -X POST -u "${{ secrets.ALWAYSDATA_API_KEY }} ${{ secrets.SSH_USER }}:" "https://api.alwaysdata.com/v1/site/${SITE_ID}/restart/")
+            echo "Kết quả API Restart (HTTP Code): $HTTP_CODE"
+            if [ "$HTTP_CODE" -ge 200 ] && [ "$HTTP_CODE" -lt 300 ]; then
+              echo "Web Site đã được khởi động lại thành công với code mới nhất!"
+            else
+              echo "Cảnh báo: Lệnh restart trả về HTTP $HTTP_CODE"
+            fi
+          else
+            echo "Không tìm thấy Site ID từ Alwaysdata API, bỏ qua bước gọi API."
+          fi
