@@ -502,6 +502,13 @@ const connectSSE = () => {
     if (data.syncStatus) {
       statSync.textContent = data.syncStatus.length > 25 ? '10s/lần' : data.syncStatus;
     }
+    if (data.ramMb) {
+      const elRam = document.getElementById('stat-ram');
+      if (elRam) {
+        elRam.textContent = `${data.ramMb} MB / 256MB`;
+        elRam.style.color = data.ramMb > 200 ? 'var(--accent-red)' : (data.ramMb > 160 ? 'var(--accent-gold)' : 'inherit');
+      }
+    }
     if (data.noteUrl) {
       const headerNoteLink = document.getElementById('header-note-link');
       const cardNoteLink = document.getElementById('card-note-link');
@@ -556,6 +563,13 @@ const connectSSE = () => {
     }
     if (data.syncStatus) {
       statSync.textContent = data.syncStatus.length > 25 ? '10s/lần' : data.syncStatus;
+    }
+    if (data.ramMb) {
+      const elRam = document.getElementById('stat-ram');
+      if (elRam) {
+        elRam.textContent = `${data.ramMb} MB / 256MB`;
+        elRam.style.color = data.ramMb > 200 ? 'var(--accent-red)' : (data.ramMb > 160 ? 'var(--accent-gold)' : 'inherit');
+      }
     }
   });
 

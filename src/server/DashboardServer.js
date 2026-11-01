@@ -317,6 +317,7 @@ class DashboardServer {
   broadcastAccountsUpdate() {
     if (!this.sseClients || this.sseClients.size === 0) return;
     this.broadcastSSE('accounts_update', {
+      ramMb: +(process.memoryUsage().rss / 1024 / 1024).toFixed(1),
       accounts: this.getAllAccounts(),
       selectedEmail: this.selectedEmail,
       playerState: this.getPlayerState(this.selectedEmail),
@@ -368,6 +369,7 @@ class DashboardServer {
 
         res.write(`event: init\ndata: ${JSON.stringify({
           buildId: this.BUILD_ID,
+          ramMb: +(process.memoryUsage().rss / 1024 / 1024).toFixed(1),
           logs: this.getLogsForAccount(this.selectedEmail),
           statusMsg: this.getStatusForAccount(this.selectedEmail),
           accounts: this.getAllAccounts(),
@@ -399,13 +401,28 @@ class DashboardServer {
 
       // 2. API: Lấy trạng thái tóm tắt
       if (req.method === 'GET' && reqPath === '/api/status') {
+        const mem = process.memoryUsage();
         sendCompressedResponse(req, res, 200, {}, {
+          ramMb: +(mem.rss / 1024 / 1024).toFixed(1),
           accounts: this.getAllAccounts(),
           selectedEmail: this.selectedEmail,
           playerState: this.getPlayerState(this.selectedEmail),
           syncStatus: this.multiManager?.lastSyncStatus,
           noteUrl: this.multiManager?.noteManager?.noteUrl || process.env.NOTE_URL || '',
           noteTitle: this.multiManager?.noteManager?.noteTitle || process.env.NOTE_TITLE || ''
+        });
+        return;
+      }
+
+      // 2.5 API: Giám sát RAM & Hệ thống
+      if (req.method === 'GET' && reqPath === '/api/system') {
+        const mem = process.memoryUsage();
+        sendCompressedResponse(req, res, 200, {}, {
+          rssMb: +(mem.rss / 1024 / 1024).toFixed(1),
+          heapUsedMb: +(mem.heapUsed / 1024 / 1024).toFixed(1),
+          heapTotalMb: +(mem.heapTotal / 1024 / 1024).toFixed(1),
+          uptimeSec: Math.floor(process.uptime()),
+          activeWorkers: this.workers.size
         });
         return;
       }
