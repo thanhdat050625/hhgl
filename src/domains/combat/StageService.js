@@ -70,11 +70,141 @@ class StageService extends BaseService {
     return this.autoBattleContinuous(10);
   }
 
-  getBestOutfit() {
-    const wearing = (this.client.wardrobe && this.client.wardrobe.wearingIds && this.client.wardrobe.wearingIds.length > 0)
-      ? this.client.wardrobe.wearingIds
-      : [60010008, 30310008, 10010008];
-    return wearing;
+  // Phối đồ tối ưu theo thông tin ải từ Server
+  calculateBestOutfit(fightInfo, wardrobe) {
+    const hintList = (fightInfo && Array.isArray(fightInfo.hintList)) ? fightInfo.hintList : [];
+    const styleNeed = (fightInfo && Array.isArray(fightInfo.styleNeed)) ? fightInfo.styleNeed : [];
+    const tagId = (fightInfo && fightInfo.tagId) ? Number(fightInfo.tagId) : 0;
+    const haveClothesList = (wardrobe && Array.isArray(wardrobe.haveClothesList)) ? wardrobe.haveClothesList : [];
+    const wearingIds = (wardrobe && Array.isArray(wardrobe.wearingIds)) ? wardrobe.wearingIds : [];
+
+    const ownedIds = new Set();
+    const clothesByPart = new Map();
+
+    for (const item of haveClothesList) {
+      const uId = item.simClothesInfo?.unitId;
+      if (!uId) continue;
+      ownedIds.add(Number(uId));
+
+      const part = item.partId ? Math.floor(Number(item.partId) / 100) * 100 : 100;
+      if (!clothesByPart.has(part)) {
+        clothesByPart.set(part, []);
+      }
+      clothesByPart.get(part).push(item);
+    }
+
+    const chosenOutfit = new Set();
+    const chosenParts = new Set();
+
+    // 1. Ưu tiên 1: Đồ trong danh sách hintList của Server mà người chơi sở hữu
+    for (const hint of hintList) {
+      const hId = Number(hint.clothesId);
+      if (ownedIds.has(hId)) {
+        chosenOutfit.add(hId);
+        for (const [part, items] of clothesByPart.entries()) {
+          if (items.some(it => Number(it.simClothesInfo?.unitId) === hId)) {
+            chosenParts.add(part);
+            break;
+          }
+        }
+      }
+    }
+
+    // 2. Ưu tiên 2: Phối thêm các vị trí còn thiếu khớp tag, styleNeed và sao cao nhất
+    for (const [part, items] of clothesByPart.entries()) {
+      if (chosenParts.has(part)) continue;
+
+      let bestItem = null;
+      let bestScore = -1;
+
+      for (const it of items) {
+        const uId = Number(it.simClothesInfo?.unitId);
+        if (chosenOutfit.has(uId)) continue;
+
+        let score = (it.simClothesInfo?.star || 1) * 10;
+        const tags = (it.simClothesInfo?.tag || []).map(Number);
+        if (tagId > 0 && tags.includes(tagId)) {
+          score += 2000;
+        }
+
+        const styles = (it.simClothesInfo?.style || []).map(Number);
+        for (const s of styleNeed) {
+          if (styles.includes(Number(s))) {
+            score += 1000;
+          }
+        }
+
+        if (score > bestScore) {
+          bestScore = score;
+          bestItem = uId;
+        }
+      }
+
+      if (bestItem) {
+        chosenOutfit.add(bestItem);
+        chosenParts.add(part);
+      }
+    }
+
+    // 3. Fallback: Nếu không có đồ tính được, dùng đồ đang mặc
+    if (chosenOutfit.size === 0) {
+      for (const wId of wearingIds) {
+        chosenOutfit.add(Number(wId));
+      }
+    }
+
+    if (chosenOutfit.size === 0) {
+      chosenOutfit.add(60010008);
+      chosenOutfit.add(30310008);
+      chosenOutfit.add(10010008);
+    }
+
+    return Array.from(chosenOutfit);
+  }
+
+  // Thực thi Ải So Tài Y Phục
+  async tryClothesFight(chTitle, roundTitle) {
+    this.client.fightInfo = null;
+    this.client.lastClothesFightResult = null;
+    this.client.lastReturnCode = null;
+
+    if (!this.client.wardrobe || !this.client.wardrobe.haveClothesList || this.client.wardrobe.haveClothesList.length === 0) {
+      this.send(129101, { scenes: 0 });
+      await this.sleepRandom(0.8, 1.2);
+    }
+
+    // Gửi 112102 để kích hoạt 112208 ResFightInfo của ải thay đồ
+    this.send(112102, {});
+    await this.waitFor(() => this.client.fightInfo !== null || this.client.lastReturnCode !== null, 3000);
+
+    const outfit = this.calculateBestOutfit(this.client.fightInfo, this.client.wardrobe);
+    console.log(`  👗 [${chTitle} - ${roundTitle}] Đang phối ${outfit.length} món trang phục tối ưu xuất chiến...`);
+
+    this.client.lastClothesFightResult = null;
+    this.send(112109, { wearing: outfit });
+    await this.waitFor(() => this.client.lastClothesFightResult !== null || this.client.lastReturnCode !== null, 5000);
+
+    const res = this.client.lastClothesFightResult;
+    if (res) {
+      const isWin = (res.awardInfo && res.awardInfo.awardList && res.awardInfo.awardList.length > 0) ||
+                    (res.level !== undefined && res.level !== 4) ||
+                    (res.sceneInfo && (res.sceneInfo.roundId !== this.client.sceneInfo?.roundId || res.sceneInfo.chapterId !== this.client.sceneInfo?.chapterId));
+
+      if (isWin) {
+        if (res.sceneInfo) {
+          this.client.sceneInfo = res.sceneInfo;
+        }
+        const awards = res.awardInfo && res.awardInfo.awardList ? formatAwards(res.awardInfo.awardList) : '';
+        console.log(`  🎉 [Ải Thay Đồ] So tài y phục CHIẾN THẮNG! Quà: ${awards}`);
+        return true;
+      }
+
+      const styles = (this.client.fightInfo?.styleNeed || []).join(', ');
+      console.log(`  [-] [Ải Thay Đồ] Điểm số y phục chưa đạt yêu cầu qua ải (Yêu cầu phong cách: [${styles}]).`);
+      return false;
+    }
+
+    return false;
   }
 
   async autoBattleContinuous(maxBattles = 10, isLoop = false) {
@@ -125,23 +255,16 @@ class StageService extends BaseService {
       this.client.lastClothesFightResult = null;
       this.client.lastBossFightResult = null;
 
-      // Nếu máu quái = 0 hoặc là ải thay đồ
-      if (scene.life === 0 || scene.life === '0') {
-        const outfit = this.getBestOutfit();
-        console.log(`  👗 [${chTitle} - ${roundTitle}] Phát hiện Ải Thay Đồ! Đang phối trang phục xuất chiến...`);
-        this.send(112109, { wearing: outfit });
-        await this.sleepRandom(1.5, 2.5);
-
-        if (this.client.lastClothesFightResult) {
-          if (this.client.lastClothesFightResult.sceneInfo) {
-            this.client.sceneInfo = this.client.lastClothesFightResult.sceneInfo;
-          }
-          const awards = this.client.lastClothesFightResult.awardInfo && this.client.lastClothesFightResult.awardInfo.awardList
-            ? formatAwards(this.client.lastClothesFightResult.awardInfo.awardList)
-            : '';
-          console.log(`  🎉 [Ải Thay Đồ] So tài y phục CHIẾN THẮNG! Quà: ${awards}`);
+      // Nếu là ải thay đồ (sceneType = 3 hoặc máu quái = 0)
+      if (scene.sceneType === 3 || scene.life === 0 || scene.life === '0') {
+        const clothesWon = await this.tryClothesFight(chTitle, roundTitle);
+        if (clothesWon) {
           wins++;
           continue;
+        } else {
+          this.stageBlockedToday = true;
+          this.lastBlockedDate = todayStr;
+          break;
         }
       }
 
@@ -189,14 +312,8 @@ class StageService extends BaseService {
         if (bossFought) continue;
 
         // Thử Ải Thay Đồ
-        const outfit = this.getBestOutfit();
-        console.log(`  👗 Thử xuất chiến Ải So Tài Y Phục...`);
-        this.send(112109, { wearing: outfit });
-        await this.sleepRandom(1.5, 2.5);
-        if (this.client.lastClothesFightResult) {
-          if (this.client.lastClothesFightResult.sceneInfo) {
-            this.client.sceneInfo = this.client.lastClothesFightResult.sceneInfo;
-          }
+        const clothesWon = await this.tryClothesFight(chTitle, roundTitle);
+        if (clothesWon) {
           wins++;
           continue;
         }

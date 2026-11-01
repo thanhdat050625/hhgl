@@ -71,6 +71,7 @@ class GameClient {
     this.palaceInfo = null;
     this.prisonInfo = null;
     this.wardrobe = { wearingIds: [], haveClothesList: [] };
+    this.fightInfo = null;
     this.sevenGoalTargets = [];
     this.sevenGoalRewardList = [];
     this.lastSevenGoalReward = null;
@@ -370,9 +371,17 @@ class GameClient {
               this.lastFightResult = pkt.data;
             } else if (pkt.msgId === 112203) {
               this.lastBossFightResult = pkt.data;
+            } else if (pkt.msgId === 112208) {
+              this.fightInfo = pkt.data;
+              if (pkt.data.clothesInfo && pkt.data.clothesInfo.clothesFuncDataInfo) {
+                this.wardrobe = pkt.data.clothesInfo.clothesFuncDataInfo;
+              }
             } else if (pkt.msgId === 112209) {
               this.lastClothesFightResult = pkt.data;
             } else if (pkt.msgId === 129201) {
+              if (pkt.data && pkt.data.clothesFuncDataInfo) {
+                this.wardrobe = pkt.data.clothesFuncDataInfo;
+              }
               if (this.clothesService) this.clothesService.handleClothesInfo(pkt.data);
             } else if (pkt.msgId === 124202) {
               this.lastMainAward = pkt.data;
