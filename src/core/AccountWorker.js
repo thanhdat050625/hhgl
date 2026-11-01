@@ -18,6 +18,7 @@ class AccountWorker {
     this.retryCount = 0;
     this.lastRetryTime = 0;
     this.isStopping = false;
+    this.isLoopRunning = false;
   }
 
   get email() {
@@ -83,6 +84,11 @@ class AccountWorker {
 
       console.log(`[${this.email}] [4/4] Chọn Server: ${chosenServer.serverId} - ${chosenServer.serverName || chosenServer.name || ''}`);
 
+      if (this.client) {
+        try { this.client.close(); } catch (_) {}
+        this.client = null;
+      }
+
       this.client = new GameClient(chosenServer, rcode, gateId, this.encryptHelper);
       this.client.accountEmail = this.email;
 
@@ -127,6 +133,7 @@ class AccountWorker {
 
       if (this.client) {
         try { this.client.close(); } catch (_) {}
+        this.client = null;
       }
 
       if (global.dashboardServer) {
@@ -137,6 +144,9 @@ class AccountWorker {
 
   // Vòng lặp Auto 24/7 của tài khoản
   async runAutoLoop() {
+    if (this.isLoopRunning) return;
+    this.isLoopRunning = true;
+
     return runWithAccount(this.email, async () => {
       try {
         if (this.client && this.client.trade) {
@@ -147,6 +157,7 @@ class AccountWorker {
           console.error(`[X] [${this.email}] Lỗi trong vòng lặp auto:`, err.message);
         }
       } finally {
+        this.isLoopRunning = false;
         if (this.state === 'RUNNING') {
           this.state = 'STOPPED';
         }

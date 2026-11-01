@@ -127,8 +127,12 @@ class TradeService extends BaseService {
 
   // Chế độ Auto Vòng Lặp 24/7
   async autoDailyLoopContinuous() {
-    console.log('\n[BẮT ĐẦU CHẾ ĐỘ AUTO 24/7 TOÀN DIỆN]');
-    console.log('[!] Bấm Ctrl + C để dừng vòng lặp\n');
+    if (this.isLoopActive) return;
+    this.isLoopActive = true;
+
+    try {
+      console.log('\n[BẮT ĐẦU CHẾ ĐỘ AUTO 24/7 TOÀN DIỆN]');
+      console.log('[!] Bấm Ctrl + C để dừng vòng lặp\n');
 
     // Quét phúc lợi và hoạt động
     if (this.client.welfare) await this.client.welfare.autoClaimAll();
@@ -171,9 +175,13 @@ class TradeService extends BaseService {
     if (this.client.hoaDang) await this.client.hoaDang.autoPlayHoaDang(true);
     if (this.client.eventRankPoint) await this.client.eventRankPoint.autoClaimAllEventRewards(true);
 
-    let lastOnlineCheck = Date.now();
-    let lastBagCheck = Date.now();
-    let lastEventCheck = Date.now();
+    // Phân tán thời điểm quét giữa các tài khoản tránh dồn tải cùng giây
+    const emailHash = (this.client?.accountEmail || '').split('').reduce((acc, c) => acc + c.charCodeAt(0), 0);
+    const staggerOffsetMs = (emailHash % 120) * 1000;
+
+    let lastOnlineCheck = Date.now() + staggerOffsetMs;
+    let lastBagCheck = Date.now() + staggerOffsetMs;
+    let lastEventCheck = Date.now() + staggerOffsetMs;
     let lastMemoryCleanCheck = Date.now();
     let wasDisconnectedLogged = false;
 
@@ -243,6 +251,10 @@ class TradeService extends BaseService {
           await this.client.hoaDang.autoPlayHoaDang(true);
         }
         if (this.client.eventRankPoint) await this.client.eventRankPoint.autoClaimAllEventRewards(true);
+
+        if (global.gc) {
+          try { global.gc(); } catch (_) {}
+        }
       }
 
       // Nhận thưởng 7 Ngày
@@ -285,10 +297,13 @@ class TradeService extends BaseService {
         lastEventCheck = Date.now();
         if (this.client.hoaDang) await this.client.hoaDang.autoPlayHoaDang(true);
         if (this.client.eventRankPoint) await this.client.eventRankPoint.autoClaimAllEventRewards(true);
+        if (global.gc) {
+          try { global.gc(); } catch (_) {}
+        }
       }
 
-      // Dọn dẹp RAM mỗi giờ
-      if (Date.now() - lastMemoryCleanCheck >= 3600000) {
+      // Dọn dẹp RAM định kỳ mỗi 5 phút
+      if (Date.now() - lastMemoryCleanCheck >= 300000) {
         lastMemoryCleanCheck = Date.now();
         if (Array.isArray(this.client.recentProps) && this.client.recentProps.length > 20) {
           this.client.recentProps.splice(0, this.client.recentProps.length - 20);
@@ -421,7 +436,10 @@ class TradeService extends BaseService {
         }
       }
     }
+  } finally {
+    this.isLoopActive = false;
   }
+}
 }
 
 module.exports = TradeService;

@@ -2,7 +2,7 @@
   "name": "hhgl-bot",
   "version": "1.0.0",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node --expose-gc --max-old-space-size=160 src/index.js"
   },
   "dependencies": {
     "dotenv": "^17.4.2",
