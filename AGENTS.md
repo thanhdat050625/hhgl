@@ -1,3 +1,12 @@
+# Rules
+Tool fail: ghi lỗi + cách sửa ngắn gọn vào `SYNTAX.md` trước khi tiếp tục.
+Commit/PR: cấm chèn thêm thông tin/attribution Claude (Co-Authored-By, Generated with Claude, v.v.).
+Comment code: cấm chú thích kiểu AI (dài dòng, giải thích điều hiển nhiên). Chú thích gọn sạch, chỉ nêu lý do ("why") khi thực sự cần như dev con người chuyên nghiệp (trong code có comment code nào chưa chuẩn thì sửa lại luôn cho chuẩn).
+Clean code: xóa bỏ code thừa, biến/hàm/import không dùng tới, tránh để code rác.
+Code style: tuân thủ ESLint (không Prettier); file <= 1000 dòng; đặt tên nhất quán (PascalCase cho Component/Class, camelCase cho hàm/biến); FE dùng Modal/ConfirmModal chuẩn (cấm alert/confirm); BE bọc transaction khi ghi nhiều bảng.
+Review: luôn chạy `git diff` rà soát trước khi báo; kiểm tra chặt type safety (hạn chế tối đa `any`); cấm tự ý commit/push khi chưa có lệnh; đảm bảo lint/build sạch.
+Multi-agent: phân ranh giới rõ ràng giữa FE và BE; cấm 2 agent cùng chỉnh sửa 1 file gây xung đột; agent con chỉ xử lý đúng phạm vi được giao và tóm tắt kết quả cốt lõi.
+
 # 👑 QUY CHUẨN KIẾN TRÚC BOT (100% SERVER-AUTHORITATIVE STATE SYNC)
 
 Tài liệu này là **QUY TẮC BẮT BUỘC VÀ BẤT KHẢ XÂM PHẠM** (Always-On Workspace Rule) áp dụng cho mọi lượt tương tác, lập trình, bảo trì và mở rộng hệ thống Bot Game (`hhgl`, `hhgl-dau-tai-nghe`, `hhgl-ngan`, `hhgl-dk`, `hhgl-source`).
